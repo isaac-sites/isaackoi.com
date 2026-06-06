@@ -1,0 +1,58 @@
+---
+layout: "default"
+title: "AFU Magazine Search"
+description: "Search the AFU-hosted United States magazine index prepared by Isaac Koi."
+permalink: "/archive-search/"
+suppress_page_tools: true
+display_title_short: "AFU Magazine Search"
+---
+
+<section class="home-level-group">
+  <div class="home-hierarchy-band-head">
+    <p class="home-hierarchy-kicker">Archive Search</p>
+    <h2>AFU Magazine Search</h2>
+    <p>
+      Search the United States magazine PDFs in the AFU online archive. The files are hosted by
+      Archives for the Unexplained; this search interface and index were prepared by Isaac Koi.
+    </p>
+    <p>
+      This test page currently embeds the working AFU-hosted search interface while cross-origin
+      access for a fully native isaackoi.com interface is being checked.
+    </p>
+  </div>
+</section>
+
+<section class="archive-search-frame-section" aria-label="AFU magazine search">
+  <iframe
+    class="archive-search-frame"
+    title="AFU magazine search interface"
+    src="https://files.afu.se/Downloads/search/index.html"
+    loading="eager"
+  ></iframe>
+  <p class="archive-search-note">
+    If the embedded search does not load, open it directly at
+    <a href="https://files.afu.se/Downloads/search/index.html">files.afu.se/Downloads/search/</a>.
+  </p>
+</section>
+
+<style>
+  .archive-search-frame-section {
+    margin-top: 1.5rem;
+  }
+
+  .archive-search-frame {
+    background: #fbfaf6;
+    border: 1px solid rgba(148, 163, 184, .45);
+    border-radius: 16px;
+    box-shadow: 0 20px 45px rgba(15, 23, 42, .18);
+    display: block;
+    min-height: 78vh;
+    width: 100%;
+  }
+
+  .archive-search-note {
+    color: var(--muted-foreground, #64748b);
+    font-size: .95rem;
+    margin-top: .8rem;
+  }
+</style>
