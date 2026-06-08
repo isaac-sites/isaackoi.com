@@ -10,103 +10,14 @@ display_title_short: "AFU Search CORS Test"
 <section class="home-level-group">
   <div class="home-hierarchy-band-head">
     <p class="home-hierarchy-kicker">Diagnostic</p>
-    <h2>AFU Search CORS Test</h2>
+    <h2>CORS test has moved</h2>
     <p>
-      This page tests whether JavaScript running on isaackoi.com can read the public AFU-hosted
-      search index files. If CORS is working, the checks below should show successful JSON and
-      gzip fetches.
+      The archive search CORS diagnostic now lives at
+      <a href="{{ '/search-archive/cors-test/' | relative_url }}">isaackoi.com/search-archive/cors-test/</a>.
     </p>
   </div>
 </section>
 
-<section class="cors-test-panel" aria-label="CORS diagnostic results">
-  <button id="run-cors-test" type="button">Run CORS Test</button>
-  <pre id="cors-test-output">Ready.</pre>
-</section>
-
 <script>
-  (function () {
-    var output = document.getElementById("cors-test-output");
-    var button = document.getElementById("run-cors-test");
-    var checks = [
-      {
-        label: "collection.json",
-        url: "https://files.afu.se/Downloads/search/collections/magazines/united-states/collection.json",
-        type: "json"
-      },
-      {
-        label: "issues.json",
-        url: "https://files.afu.se/Downloads/search/collections/magazines/united-states/issues.json",
-        type: "json"
-      },
-      {
-        label: "APRO Bulletin index.json.gz",
-        url: "https://files.afu.se/Downloads/search/collections/magazines/united-states/apro-bulletin/index.json.gz",
-        type: "gzip"
-      }
-    ];
-
-    function write(line) {
-      output.textContent += line + "\n";
-    }
-
-    async function readGzipJson(url) {
-      var response = await fetch(url, { mode: "cors" });
-      if (!response.ok) throw new Error("HTTP " + response.status);
-      if (!("DecompressionStream" in window)) {
-        throw new Error("This browser does not support DecompressionStream.");
-      }
-      var decompressed = response.body.pipeThrough(new DecompressionStream("gzip"));
-      return JSON.parse(await new Response(decompressed).text());
-    }
-
-    async function run() {
-      output.textContent = "";
-      write("Origin: " + window.location.origin);
-      for (var i = 0; i < checks.length; i += 1) {
-        var check = checks[i];
-        try {
-          if (check.type === "gzip") {
-            var gzipData = await readGzipJson(check.url);
-            write("OK  " + check.label + " terms=" + Object.keys(gzipData.postings || {}).length);
-          } else {
-            var response = await fetch(check.url, { mode: "cors" });
-            if (!response.ok) throw new Error("HTTP " + response.status);
-            var data = await response.json();
-            write("OK  " + check.label + " loaded");
-            if (data.issue_count) write("    issues=" + data.issue_count);
-            if (Array.isArray(data)) write("    records=" + data.length);
-          }
-        } catch (error) {
-          write("BAD " + check.label + " - " + error.message);
-        }
-      }
-    }
-
-    button.addEventListener("click", function () {
-      run().catch(function (error) {
-        write("Unexpected failure: " + error.message);
-      });
-    });
-  }());
+  window.location.replace("{{ '/search-archive/cors-test/' | relative_url }}");
 </script>
-
-<style>
-  .cors-test-panel {
-    background: rgba(15, 23, 42, .04);
-    border: 1px solid rgba(148, 163, 184, .45);
-    border-radius: 14px;
-    padding: 1rem;
-  }
-
-  #cors-test-output {
-    background: #0f172a;
-    border-radius: 10px;
-    color: #e2e8f0;
-    margin-top: 1rem;
-    min-height: 12rem;
-    overflow: auto;
-    padding: 1rem;
-    white-space: pre-wrap;
-  }
-</style>

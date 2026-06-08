@@ -1,0 +1,78 @@
+---
+layout: "default"
+title: "Archive Search"
+description: "Search the public Isaac Koi online archive, with source files currently hosted by Archives for the Unexplained."
+permalink: "/search-archive/"
+suppress_page_tools: true
+display_title_short: "Archive Search"
+---
+
+<section class="home-level-group">
+  <div class="home-hierarchy-band-head">
+    <p class="home-hierarchy-kicker">Archive Search</p>
+    <h2>Find material across the Isaac Koi archive</h2>
+    <p>
+      Search magazine titles, document metadata, and indexed page text. The archive and search
+      index are Isaac Koi's; the online files are hosted by Archives for the Unexplained.
+    </p>
+    <p>
+      Until AFU CORS headers are enabled for <code>https://isaackoi.com</code>, this page embeds
+      the working AFU-hosted search interface. Once CORS is active, this page can become the
+      native search app at this same URL.
+    </p>
+  </div>
+</section>
+
+<section class="archive-search-frame-section" aria-label="Isaac Koi archive search">
+  <div class="archive-search-note">
+    <p>
+      The embedded search below is served from <code>files.afu.se</code>, so it can read the
+      AFU-hosted static index files without cross-origin browser restrictions.
+    </p>
+    <p>
+      <a href="https://files.afu.se/Downloads/search/index.html">Open the AFU-hosted search directly</a>
+      or <a href="{{ '/search-archive/cors-test/' | relative_url }}">run the CORS diagnostic</a>.
+    </p>
+  </div>
+  <iframe
+    class="archive-search-frame"
+    title="Isaac Koi archive search interface"
+    src="https://files.afu.se/Downloads/search/index.html"
+    loading="eager"
+  ></iframe>
+</section>
+
+<style>
+  .archive-search-frame-section {
+    margin-top: 1.5rem;
+  }
+
+  .archive-search-note {
+    background: var(--surface, #fffdf8);
+    border: 1px solid var(--card-border, rgba(24, 35, 26, .12));
+    border-radius: 16px;
+    box-shadow: var(--card-shadow, 0 10px 26px rgba(24, 35, 26, .08));
+    color: var(--muted, #5b665a);
+    font-size: .95rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+  }
+
+  .archive-search-note p {
+    margin: 0;
+  }
+
+  .archive-search-note p + p {
+    margin-top: .55rem;
+  }
+
+  .archive-search-frame {
+    background: var(--surface, #fffdf8);
+    border: 1px solid var(--card-border, rgba(24, 35, 26, .12));
+    border-radius: 16px;
+    box-shadow: var(--card-shadow, 0 10px 26px rgba(24, 35, 26, .08));
+    display: block;
+    min-height: 82vh;
+    width: 100%;
+  }
+</style>
