@@ -42,7 +42,6 @@ const popupContent = document.getElementById("popupContent");
 const popupClose = document.getElementById("popupClose");
 const fold3LayerToggle = document.getElementById("fold3LayerToggle");
 const aproLayerToggle = document.getElementById("aproLayerToggle");
-const themeToggle = document.querySelector("[data-theme-toggle]");
 
 let rawFeatures = [];
 let aproFeatures = [];
@@ -66,19 +65,6 @@ const monthNames = [
   "November",
   "December",
 ];
-
-if (themeToggle) {
-  themeToggle.addEventListener("click", () => {
-    const root = document.documentElement;
-    const next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
-    root.setAttribute("data-theme", next);
-    try {
-      window.localStorage.setItem("phoenix-color-mode", next);
-    } catch (error) {
-      // Ignore storage write failures.
-    }
-  });
-}
 
 const FOLD3_ARCHIVE_FOLDER = "Documents / Project Blue Book / Fold3";
 const sourceArchiveFolders = {
