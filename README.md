@@ -1,5 +1,18 @@
 # Isaac Koi Archive
 
+The homepage remains archive-led. A marker-bounded network section can list
+explicitly approved UFO sites from the shared Phoenix registry without
+replacing the archive navigation:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\build_branchoria_hub_directory.py `
+  --registry config\network_sites.json --network isaackoi `
+  --index isaackoi.com-temp\index.html
+```
+
+The compatibility-named builder renders only `network=isaackoi` entries at
+`[site].isaackoi.com`. It does not publish the homepage or alter DNS.
+
 This Jekyll site is the generated public-repo source for the Isaac Koi archive.
 
 Key paths:

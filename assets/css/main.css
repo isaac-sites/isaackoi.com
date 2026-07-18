@@ -45,6 +45,97 @@
   --measure-media: var(--measure-media-standard);
 }
 
+/* Shared registry-driven directory of approved Isaac Koi research sites. */
+.network-directory {
+  margin: clamp(2rem, 5vw, 4rem) 0;
+  padding: clamp(1.5rem, 4vw, 2.5rem);
+  border: 1px solid var(--border);
+  border-radius: 1.25rem;
+  background: var(--surface-alt);
+}
+
+.network-directory .section-intro {
+  max-width: 68ch;
+  color: var(--muted);
+}
+
+.network-directory .network-site-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.network-site-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  padding: 1.15rem;
+  border: 1px solid var(--card-border);
+  border-radius: 1rem;
+  background: var(--card-bg);
+  box-shadow: var(--card-shadow);
+}
+
+.network-site-card .eyebrow {
+  margin-bottom: 0.4rem;
+}
+
+.network-site-card h3,
+.network-site-card h4 {
+  margin-top: 0;
+}
+
+.network-site-card h3 a,
+.network-site-card h4 a {
+  color: inherit;
+}
+
+.network-site-card h4 {
+  font-size: 1.1rem;
+}
+
+.network-category-index {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1.2rem 0 2rem;
+}
+
+.network-category-link {
+  padding: 0.42rem 0.72rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: inherit;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.network-category + .network-category {
+  margin-top: 2.25rem;
+}
+
+.network-site-link {
+  margin-top: auto;
+  padding-top: 1rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.network-site-media {
+  display: block;
+  margin: -0.25rem -0.25rem 1rem;
+  overflow: hidden;
+  border-radius: 0.85rem;
+  aspect-ratio: 16 / 9;
+}
+
+.network-site-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 :root[data-theme="dark"] {
   --page-bg: #101725;
   --surface: #111a2b;
