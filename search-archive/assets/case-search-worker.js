@@ -124,6 +124,59 @@ function searchCases(payload) {
   };
 }
 
+function lookupCase(payload) {
+  const recordId = String(payload.recordId || "").trim();
+  const collection = String(payload.collection || "").trim();
+  const record = records.find(candidate =>
+    field(candidate, "id") === recordId
+    && (!collection || field(candidate, "collection") === collection)
+  );
+  return {
+    record: record ? {record, score: 0} : null,
+    recordCount: records.length,
+  };
+}
+
+async function readCompressedJson(compressedBuffer) {
+  const stream = new Blob([compressedBuffer]).stream().pipeThrough(new DecompressionStream("gzip"));
+  return JSON.parse(await new Response(stream).text());
+}
+
+function sourceRecordId(source) {
+  return String(source?.ufocat_prn || source?.record_id || source?.geipan_case_id || "").trim();
+}
+
+async function loadCaseDetail(payload) {
+  const [evidence, incidents] = await Promise.all([
+    readCompressedJson(payload.compressedEvidenceBuffer),
+    readCompressedJson(payload.compressedIncidentBuffer),
+  ]);
+  if (evidence?.schema_version !== 1 || evidence?.package_kind !== "search-map-evidence") {
+    throw new Error("The mapped evidence bundle has an unsupported schema.");
+  }
+  const recordId = String(payload.recordId || "").trim();
+  const collection = String(payload.collection || "").trim();
+  const sources = [
+    ...(Array.isArray(evidence.records) ? evidence.records : []),
+    ...(Array.isArray(evidence.geipan_records) ? evidence.geipan_records : []),
+    ...(Array.isArray(evidence.lac_ufo_records) ? evidence.lac_ufo_records : []),
+  ].filter(source => sourceRecordId(source) === recordId);
+  const recordKey = `${collection}:${recordId}`;
+  const membership = (incidents?.records || []).find(row => String(row.record_key || "") === recordKey) || null;
+  const cluster = membership
+    ? (incidents?.clusters || []).find(row => String(row.cluster_id || "") === String(membership.cluster_id || "")) || null
+    : null;
+  return {
+    sources,
+    related: membership ? {
+      ...membership,
+      member_count: Number(cluster?.member_count || 0),
+      collection_count: Number(cluster?.collection_count || 0),
+      status: String(cluster?.status || "provisional"),
+    } : null,
+  };
+}
+
 async function initialize(compressedBuffer) {
   if (!("DecompressionStream" in self)) {
     throw new Error("This browser cannot decompress the mapped case index in a worker.");
@@ -153,6 +206,10 @@ self.addEventListener("message", async event => {
       ? await initialize(payload.compressedBuffer)
       : type === "search"
         ? searchCases(payload)
+        : type === "lookup"
+          ? lookupCase(payload)
+          : type === "detail"
+            ? await loadCaseDetail(payload)
         : (() => { throw new Error(`Unknown case-search worker request: ${type}`); })();
     self.postMessage({id, ok: true, result});
   } catch (error) {

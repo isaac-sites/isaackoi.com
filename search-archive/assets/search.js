@@ -53,7 +53,7 @@ const MAP_EVIDENCE_CACHE_PREFIX = "isaac-koi-map-data-v1-";
 const MAP_EVIDENCE_CACHE_MAX_ENTRIES = 24;
 const MAP_EVIDENCE_BUNDLE_PATH = "data/search_map_evidence_public.json";
 const CASE_DISCOVERY_BUNDLE_PATH = "data/case_discovery_public.json";
-const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=1";
+const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=2";
 const CASE_DISCOVERY_FIELDS = [
   "id", "collection", "title", "date", "year", "location", "region",
   "country", "type", "classification", "source_count", "source_labels", "evidence_url",
@@ -77,6 +77,9 @@ function configuredInterfaceBase(metaName, fallback) {
 
 const SEARCH_UI_BASE_URL = configuredInterfaceBase("afu-search-ui-base", "./");
 const MAP_UI_BASE_URL = configuredInterfaceBase("afu-map-ui-base", "../mapview/");
+const SEARCH_ASSET_BASE_URL = document.currentScript?.src
+  ? new URL("../", document.currentScript.src)
+  : new URL("./", window.location.href);
 document.documentElement.dataset.archiveUiOrigin = SEARCH_UI_BASE_URL.origin;
 
 function interfaceUrl(value, legacyPrefix, baseUrl) {
@@ -1184,7 +1187,7 @@ async function initializeCaseSearchEngine() {
         const response = await fetchMapEvidenceResponse(compressedUrl);
         if (!response.ok) throw new Error(`${compressedUrl} returned HTTP ${response.status}`);
         const compressedBuffer = await response.arrayBuffer();
-        caseSearchWorker = new Worker(new URL(CASE_SEARCH_WORKER_PATH, SEARCH_UI_BASE_URL));
+        caseSearchWorker = new Worker(new URL(CASE_SEARCH_WORKER_PATH, SEARCH_ASSET_BASE_URL));
         caseSearchWorker.addEventListener("message", event => {
           const request = caseSearchWorkerRequests.get(event.data?.id);
           if (!request) return;
@@ -3057,27 +3060,43 @@ function caseMapUrl(recordIds) {
   return url.href;
 }
 
+function caseDetailUrl(row) {
+  const url = new URL("case/", SEARCH_UI_BASE_URL);
+  const recordId = caseField(row, "id");
+  const collection = caseField(row, "collection");
+  if (recordId) url.searchParams.set("id", recordId);
+  if (collection) url.searchParams.set("collection", collection);
+  if (isLocalArchivePreview()
+    && url.origin === window.location.origin
+    && new URLSearchParams(window.location.search).get("publicData") === "1") {
+    url.searchParams.set("publicData", "1");
+  }
+  return url.href;
+}
+
 function caseCitation(row) {
   const parts = [
     caseField(row, "title"),
     caseField(row, "date") ? `date ${caseField(row, "date")}` : "",
     caseField(row, "location") ? `location ${caseField(row, "location")}` : "",
     `${CASE_COLLECTION_LABELS[caseField(row, "collection")] || caseField(row, "collection")} record ${caseField(row, "id")}`,
-    caseMapUrl([caseField(row, "id")]),
+    caseDetailUrl(row),
   ].filter(Boolean);
   return parts.join(". ");
 }
 
-function caseResearchButton(row, mapUrl) {
+function caseResearchButton(row) {
   const recordId = caseField(row, "id");
+  const detailUrl = caseDetailUrl(row);
   return `<button class="citation-action research-save-button" type="button" data-research-add
     data-research-id="${escapeHtml(`case:${recordId}`)}"
     data-research-type="mapped-case"
     data-research-title="${escapeHtml(caseField(row, "title") || recordId)}"
     data-research-subtitle="${escapeHtml(CASE_COLLECTION_LABELS[caseField(row, "collection")] || caseField(row, "collection"))}"
-    data-research-url="${escapeHtml(mapUrl)}"
+    data-research-url="${escapeHtml(detailUrl)}"
     data-research-citation="${escapeHtml(caseCitation(row))}"
     data-research-date="${escapeHtml(caseField(row, "date"))}"
+    data-research-location="${escapeHtml(caseField(row, "location"))}"
     data-research-collection="${escapeHtml(caseField(row, "collection"))}"
     data-research-record-id="${escapeHtml(recordId)}"
     data-research-source-families="${escapeHtml(caseField(row, "source_labels"))}"
@@ -3589,6 +3608,7 @@ function renderCaseResults() {
     const collection = caseField(row, "collection");
     const collectionLabel = CASE_COLLECTION_LABELS[collection] || collection;
     const mapUrl = caseMapUrl([recordId]);
+    const detailUrl = caseDetailUrl(row);
     const evidenceUrl = caseEvidenceUrl(row);
     const evidenceTrail = caseEvidenceTrailMarkup(row);
     const sourceCount = caseNumberField(row, "source_count");
@@ -3617,11 +3637,12 @@ function renderCaseResults() {
           ${evidenceTrail}
           <div class="result-actions">
             ${evidenceUrl ? `<a class="evidence-action" href="${escapeHtml(evidenceUrl)}" target="_blank" rel="noopener">Open representative evidence <span aria-hidden="true">&nearr;</span></a>` : ""}
+            <a class="secondary-action" href="${escapeHtml(detailUrl)}">Open case page</a>
             <button class="secondary-action" type="button" data-preview-case-map="${escapeHtml(recordId)}">Locate here</button>
             <a class="secondary-action map-evidence-action" href="${escapeHtml(mapUrl)}">Open case on full map</a>
             ${dossier ? `<a class="secondary-action" href="${escapeHtml(searchUiUrl(dossier.stable_url || ("cases/" + dossier.slug + "/")))}">Open reviewed dossier</a>` : ""}
             <button class="citation-action" type="button" data-copy-case-citation="${escapeHtml(recordId)}">Copy citation</button>
-            ${caseResearchButton(row, mapUrl)}
+            ${caseResearchButton(row)}
           </div>
         </div>
       </article>`;

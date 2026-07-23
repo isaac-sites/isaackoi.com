@@ -619,9 +619,29 @@ function canonicalMapCaseUrl(properties) {
   return canonical.href;
 }
 
+function caseCollectionId(properties) {
+  return isLacUfoFeature(properties) ? "lac"
+    : isGeipanFeature(properties) ? "geipan"
+    : isSourceFirstFeature(properties) ? "source-first"
+    : isUfocatFeature(properties) ? "ufocat"
+    : "blue-book";
+}
+
+function caseDetailUrl(properties) {
+  const recordId = String(properties.RecordId || properties.Fold3ImageNumber || "").trim();
+  if (!recordId) return "";
+  const url = new URL("case/", SEARCH_UI_BASE_URL);
+  url.searchParams.set("id", recordId);
+  url.searchParams.set("collection", caseCollectionId(properties));
+  if (isLocalMapPreview() && url.origin === window.location.origin && urlParams.get("publicData") === "1") {
+    url.searchParams.set("publicData", "1");
+  }
+  return url.href;
+}
+
 function researchCaseButton(properties) {
   const recordId = String(properties.RecordId || properties.Fold3ImageNumber || "").trim();
-  const url = canonicalMapCaseUrl(properties);
+  const url = caseDetailUrl(properties) || canonicalMapCaseUrl(properties);
   if (!recordId || !url) return "";
   const title = properties.Location || properties.Title || properties.MapLabel || `Mapped record ${recordId}`;
   const date = formatCaseDate(properties);
@@ -649,10 +669,10 @@ function researchCaseButton(properties) {
 }
 
 function casePermalinkMarkup(properties) {
-  const url = casePermalink(properties);
+  const url = caseDetailUrl(properties);
   const recordId = String(properties.RecordId || properties.Fold3ImageNumber || "").trim();
   const dossier = caseDossierByRecordId.get(recordId);
-  const permalink = url ? `<a class="popup-link" href="${escapeHtml(url)}">Open shareable case page</a>` : "";
+  const permalink = url ? `<a class="popup-link" href="${escapeHtml(url)}">Open full case page</a>` : "";
   const dossierLink = dossier
     ? `<a class="popup-link dossier-case-link" href="${escapeHtml(searchUiUrl(dossier.stable_url || `cases/${dossier.slug}/`))}">Open evidence dossier</a>`
     : "";
@@ -671,26 +691,21 @@ function mapCaseCitation(properties, explicitUrl = "") {
   const dossier = caseDossierByRecordId.get(recordId);
   const url = explicitUrl || (dossier?.stable_url
     ? searchUiUrl(dossier.stable_url)
-    : canonicalMapCaseUrl(properties));
+    : caseDetailUrl(properties) || canonicalMapCaseUrl(properties));
   const catalogue = isUfocatFeature(properties) ? `UFOCAT record ${recordId}` : `mapped record ${recordId}`;
   return `Isaac Koi Archive. "${title}, ${date}." ${catalogue}. ${url}`;
 }
 
-function relatedCaseUrl(recordId) {
-  const url = new URL(window.location.href);
-  url.search = "";
-  url.hash = "";
-  url.searchParams.set("prn", recordId);
-  url.searchParams.set("evidence", "1");
+function relatedCaseUrl(recordId, collectionId = "") {
+  const url = new URL("case/", SEARCH_UI_BASE_URL);
+  url.searchParams.set("id", recordId);
+  if (collectionId) url.searchParams.set("collection", collectionId);
   return url.href;
 }
 
 function relatedCasesMarkup(properties) {
   const recordId = String(properties.RecordId || properties.Fold3ImageNumber || "").trim();
-  const collectionId = isLacUfoFeature(properties) ? "lac"
-    : isGeipanFeature(properties) ? "geipan"
-    : isUfocatFeature(properties) ? "ufocat"
-    : "blue-book";
+  const collectionId = caseCollectionId(properties);
   const membership = incidentClusterByRecordId.get(`${collectionId}:${recordId}`);
   if (!membership) return "";
   const matches = membership.matches || [];
@@ -701,7 +716,7 @@ function relatedCasesMarkup(properties) {
         <summary>View all ${Number(membership.member_count).toLocaleString()} preserved records</summary>
         <div class="related-case-list">
           ${otherMembers.map(member => `
-            <a href="${escapeHtml(relatedCaseUrl(member.record_id))}">
+            <a href="${escapeHtml(relatedCaseUrl(member.record_id, member.collection_id))}">
               <strong>${escapeHtml(member.location || member.title || member.record_id)}</strong>
               <span>${escapeHtml(member.collection)} &middot; ${escapeHtml(member.date)}</span>
               <small>${escapeHtml(member.record_id)}</small>
@@ -717,7 +732,7 @@ function relatedCasesMarkup(properties) {
       <p class="source-detail">${Number(membership.member_count).toLocaleString()} preserved source records across ${Number(membership.collection_count).toLocaleString()} collections. Automated research aid; records are not merged.</p>
       <div class="related-case-list">
         ${matches.slice(0, 4).map(match => `
-          <a href="${escapeHtml(relatedCaseUrl(match.record_id))}">
+          <a href="${escapeHtml(relatedCaseUrl(match.record_id, match.collection_id))}">
             <strong>${escapeHtml(match.location || match.title || match.record_id)}</strong>
             <span>${escapeHtml(match.collection)} · ${escapeHtml(match.date)} · ${Number(match.distance_km).toLocaleString()} km</span>
             <small>${escapeHtml(match.confidence)} · ${escapeHtml((match.reasons || []).join(", "))}</small>

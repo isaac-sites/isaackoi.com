@@ -19823,6 +19823,9 @@ PDFPrintServiceFactory.initGlobals(PDFViewerApplication);
     if (!["127.0.0.1", "localhost", "::1"].includes(viewerURL.hostname)) {
       return file;
     }
+    if (new URLSearchParams(viewerURL.search).get("publicData") === "1") {
+      return file;
+    }
     if (fileURL.origin !== "https://files.afu.se") {
       return file;
     }

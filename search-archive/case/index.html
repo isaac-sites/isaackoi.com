@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A stable mapped-case record with public archive evidence, related records, map context, and citation tools.">
+  <meta name="afu-search-ui-base" content="https://isaackoi.com/search-archive/">
+  <meta name="afu-map-ui-base" content="https://isaackoi.com/mapview/">
+  <meta name="afu-map-data-base" content="https://files.afu.se/Downloads/mapview/">
+  <title>Mapped Case | Isaac Koi Archive</title>
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <script>(function(){var s=null;try{s=localStorage.getItem("phoenix-color-mode")}catch(e){}var t=s==="dark"||s==="light"?s:(matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t)}());</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/search.css?v=22">
+</head>
+<body>
+  <header class="site-header"><div class="header-inner">
+    <a class="brand-lockup" href="../"><span class="brand-copy"><span class="brand-name">Isaac Koi Archive</span><span class="site-title">Mapped Case</span><span class="site-tagline">Public metadata, provenance, and evidence links</span></span></a>
+    <div class="header-actions">
+      <a class="surface-link" href="../">Archive search</a>
+      <a class="surface-link" href="/mapview/">Research map</a>
+      <a class="surface-link" href="../research.html">Research set</a>
+      <a class="surface-link" href="../methodology.html">About the data</a>
+    </div>
+  </div></header>
+
+  <main class="case-detail-page">
+    <nav class="dossier-breadcrumb" aria-label="Breadcrumb"><a href="../">Archive search</a><span>/</span><span>Mapped case</span></nav>
+
+    <section class="case-detail-hero" aria-labelledby="case-title">
+      <p class="eyebrow">Stable mapped-case record</p>
+      <h1 id="case-title">Loading mapped case…</h1>
+      <p id="case-summary">Resolving the current AFU MapView release and public case index.</p>
+      <div id="case-badges" class="dossier-badges"></div>
+      <div id="case-actions" class="dossier-actions" hidden>
+        <a id="case-map-link" class="primary-button" href="/mapview/">Open focused map</a>
+        <a id="case-search-link" href="../">Find related archive material</a>
+        <button id="copy-case-citation" type="button">Copy citation</button>
+        <button id="case-research-add" class="research-save-button" type="button" data-research-add>Add to research set</button>
+      </div>
+      <p id="case-status" class="case-detail-status" aria-live="polite">Loading public case metadata…</p>
+    </section>
+
+    <div id="case-detail-content" class="case-detail-layout" hidden>
+      <div class="case-detail-primary">
+        <section class="case-detail-panel" aria-labelledby="record-heading">
+          <p class="eyebrow">Preserved catalogue fields</p>
+          <h2 id="record-heading">Case record</h2>
+          <dl id="case-fields" class="dossier-fields"></dl>
+        </section>
+
+        <section class="case-detail-panel case-detail-evidence" aria-labelledby="evidence-heading">
+          <div class="case-detail-section-heading">
+            <div><p class="eyebrow">Public source trail</p><h2 id="evidence-heading">Evidence and archive links</h2></div>
+            <span id="evidence-count">Loading…</span>
+          </div>
+          <p class="case-detail-intro">These links identify public source material and link precision. Link counts are not a credibility score.</p>
+          <div id="case-evidence-list" class="case-detail-evidence-list"></div>
+        </section>
+
+        <section class="case-detail-panel" aria-labelledby="related-heading">
+          <div class="case-detail-section-heading">
+            <div><p class="eyebrow">Cross-collection research aid</p><h2 id="related-heading">Possibly related records</h2></div>
+            <span id="related-count">Checking…</span>
+          </div>
+          <p class="case-detail-intro">Relationships are provisional suggestions based on date, location agreement, and distance. Original catalogue records remain separate.</p>
+          <div id="related-case-list" class="related-case-list"></div>
+        </section>
+      </div>
+
+      <aside class="case-detail-secondary">
+        <section class="case-detail-panel case-detail-map-panel">
+          <p class="eyebrow">Geographic context</p>
+          <h2>Focused research map</h2>
+          <p>The map remains unloaded until requested.</p>
+          <button id="load-case-map" type="button">Load map here</button>
+          <iframe id="case-map-frame" title="Focused map for this case" loading="lazy"></iframe>
+          <button id="unload-case-map" type="button" hidden>Unload map</button>
+        </section>
+
+        <section class="case-detail-panel case-detail-note">
+          <p class="eyebrow">Interpretation boundary</p>
+          <h2>What this page means</h2>
+          <p>Catalogue values are preserved as published. Coordinates, relationships, OCR hits, and issue-to-page mappings can have different confidence levels. Missing information is not replaced with generated guesses.</p>
+          <a href="../methodology.html">Read the methodology</a>
+        </section>
+      </aside>
+    </div>
+
+    <section id="case-detail-error" class="case-detail-error" hidden>
+      <h2>Case record unavailable</h2>
+      <p id="case-detail-error-message"></p>
+      <a id="case-error-search-link" href="../?intent=cases">Search all mapped cases</a>
+    </section>
+  </main>
+
+  <aside id="case-evidence-preview" class="case-evidence-preview" hidden aria-label="Evidence preview">
+    <div class="case-evidence-preview-header">
+      <div><p class="eyebrow">AFU source preview</p><h2 id="case-preview-title">Evidence</h2><p id="case-preview-meta"></p></div>
+      <div>
+        <a id="case-preview-external" href="#" target="_blank" rel="noopener">Open in new tab</a>
+        <button id="close-case-preview" type="button" aria-label="Close evidence preview">Close</button>
+      </div>
+    </div>
+    <iframe id="case-preview-frame" title="Archive evidence preview"></iframe>
+  </aside>
+
+  <script src="../assets/research-tray.js?v=2"></script>
+  <script src="../assets/case-detail.js?v=3"></script>
+</body>
+</html>
