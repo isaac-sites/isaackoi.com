@@ -3779,11 +3779,13 @@ async function runSearch() {
       pinned.metadataScore = 1000;
     }
   }
-  for (const issue of scopedIssues) {
-    if (!metadataMatches(issue, criteria)) continue;
-    const candidate = ensureCandidate(candidates, issue);
-    candidate.sources.add("metadata");
-    candidate.metadataScore = issueMetadataScore(issue, terms, criteria.phrase);
+  if (hasPositiveCriteria(criteria)) {
+    for (const issue of scopedIssues) {
+      if (!metadataMatches(issue, criteria)) continue;
+      const candidate = ensureCandidate(candidates, issue);
+      candidate.sources.add("metadata");
+      candidate.metadataScore = issueMetadataScore(issue, terms, criteria.phrase);
+    }
   }
   const metadataSeconds = elapsedSeconds(metadataStartedAt);
 
