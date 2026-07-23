@@ -53,6 +53,7 @@ const MAP_EVIDENCE_CACHE_PREFIX = "isaac-koi-map-data-v1-";
 const MAP_EVIDENCE_CACHE_MAX_ENTRIES = 24;
 const MAP_EVIDENCE_BUNDLE_PATH = "data/search_map_evidence_public.json";
 const CASE_DISCOVERY_BUNDLE_PATH = "data/case_discovery_public.json";
+const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=1";
 const CASE_DISCOVERY_FIELDS = [
   "id", "collection", "title", "date", "year", "location", "region",
   "country", "type", "classification", "source_count", "source_labels", "evidence_url",
@@ -406,8 +407,23 @@ let mapEvidenceLoadPromise = null;
 let mapEvidenceLoadState = "idle";
 let caseDiscoveryLoadPromise = null;
 let caseDiscoveryRecords = [];
+let caseDiscoveryRecordCount = 0;
 let caseDiscoveryCollectionCount = 0;
 let caseUniverse = [];
+let caseSearchWorker = null;
+let caseSearchWorkerReadyPromise = null;
+let caseSearchWorkerRequestId = 0;
+let caseSearchRefreshId = 0;
+const caseSearchWorkerRequests = new Map();
+let caseSearchEngine = "uninitialized";
+let currentCaseCriteria = null;
+let caseSearchSummary = {
+  totalMatches: 0,
+  filteredCount: 0,
+  collectionCounts: [],
+  countryCounts: [],
+  durationMs: 0,
+};
 let currentResultMode = "documents";
 let pendingCaseFilters = {collection: "", country: "", evidence: false};
 let resultsMapOpen = false;
@@ -695,7 +711,9 @@ function resultCountNote() {
   const shown = Math.min(visibleCount, currentResults.length);
   const prefix = currentSearchTruncated ? "Found at least" : "Found";
   if (currentResultMode === "cases") {
-    return `${prefix} ${caseUniverse.length.toLocaleString()} matching mapped case${caseUniverse.length === 1 ? "" : "s"}; ${currentResults.length.toLocaleString()} ${currentResults.length === 1 ? "remains" : "remain"} after case filters; showing ${shown.toLocaleString()}.`;
+    const total = Number(caseSearchSummary.totalMatches || 0);
+    const filtered = Number(caseSearchSummary.filteredCount || 0);
+    return `${prefix} ${total.toLocaleString()} matching mapped case${total === 1 ? "" : "s"}; ${filtered.toLocaleString()} ${filtered === 1 ? "remains" : "remain"} after case filters; showing ${shown.toLocaleString()}.`;
   }
   if (activeResultFacetCount()) {
     return `${prefix} ${facetUniverse.length.toLocaleString()} matching record${facetUniverse.length === 1 ? "" : "s"}; ${currentResults.length.toLocaleString()} remain after refinements; showing ${shown.toLocaleString()}.`;
@@ -752,8 +770,8 @@ function updateResultModePresentation() {
     }
   }
   if (caseMode && scopeStatusElement) {
-    scopeStatusElement.textContent = caseDiscoveryRecords.length
-      ? `${caseDiscoveryRecords.length.toLocaleString()} mapped cases are ready to search. PDF collection and page-text filters do not apply in this mode.`
+    scopeStatusElement.textContent = caseDiscoveryRecordCount
+      ? `${caseDiscoveryRecordCount.toLocaleString()} mapped cases are ready to search. PDF collection and page-text filters do not apply in this mode.`
       : "The compact mapped-case index loads only when you search. PDF collection and page-text filters do not apply in this mode.";
   }
 }
@@ -1140,6 +1158,74 @@ function validateCaseDiscoveryPayload(payload) {
   return payload.records;
 }
 
+function caseSearchWorkerCall(type, payload, transfer = []) {
+  if (!caseSearchWorker) return Promise.reject(new Error("The case-search worker is not available."));
+  const id = caseSearchWorkerRequestId + 1;
+  caseSearchWorkerRequestId = id;
+  return new Promise((resolve, reject) => {
+    caseSearchWorkerRequests.set(id, {resolve, reject});
+    caseSearchWorker.postMessage({id, type, payload}, transfer);
+  });
+}
+
+function rejectCaseSearchWorkerRequests(error) {
+  for (const request of caseSearchWorkerRequests.values()) request.reject(error);
+  caseSearchWorkerRequests.clear();
+}
+
+async function initializeCaseSearchEngine() {
+  if (caseSearchEngine !== "uninitialized") return caseSearchEngine;
+  if (caseSearchWorkerReadyPromise) return caseSearchWorkerReadyPromise;
+  caseSearchWorkerReadyPromise = (async () => {
+    if ("Worker" in window && "DecompressionStream" in window) {
+      try {
+        await initializeMapEvidenceDataRelease();
+        const compressedUrl = `${mapEvidenceDataUrl(CASE_DISCOVERY_BUNDLE_PATH)}.gz`;
+        const response = await fetchMapEvidenceResponse(compressedUrl);
+        if (!response.ok) throw new Error(`${compressedUrl} returned HTTP ${response.status}`);
+        const compressedBuffer = await response.arrayBuffer();
+        caseSearchWorker = new Worker(new URL(CASE_SEARCH_WORKER_PATH, SEARCH_UI_BASE_URL));
+        caseSearchWorker.addEventListener("message", event => {
+          const request = caseSearchWorkerRequests.get(event.data?.id);
+          if (!request) return;
+          caseSearchWorkerRequests.delete(event.data.id);
+          if (event.data.ok) request.resolve(event.data.result);
+          else request.reject(new Error(event.data.error || "The case-search worker failed."));
+        });
+        caseSearchWorker.addEventListener("error", event => {
+          rejectCaseSearchWorkerRequests(new Error(event.message || "The case-search worker stopped unexpectedly."));
+        });
+        const summary = await caseSearchWorkerCall(
+          "init",
+          {compressedBuffer},
+          [compressedBuffer]
+        );
+        caseDiscoveryRecordCount = Number(summary.recordCount || 0);
+        caseDiscoveryCollectionCount = Number(summary.collectionCount || 0);
+        caseSearchEngine = "worker";
+        document.documentElement.dataset.caseDiscoveryLoadMode = "worker-gzip";
+        document.documentElement.dataset.caseSearchEngine = "worker";
+        document.documentElement.dataset.caseDiscoveryRecords = String(caseDiscoveryRecordCount);
+        return caseSearchEngine;
+      } catch (error) {
+        caseSearchWorker?.terminate();
+        caseSearchWorker = null;
+        rejectCaseSearchWorkerRequests(error);
+        console.warn("Worker-backed case search unavailable; using the compatible main-thread path.", error);
+      }
+    }
+    await loadCaseDiscoveryRecords();
+    caseSearchEngine = "main-thread";
+    document.documentElement.dataset.caseSearchEngine = "main-thread";
+    return caseSearchEngine;
+  })().catch(error => {
+    caseSearchWorkerReadyPromise = null;
+    caseSearchEngine = "uninitialized";
+    throw error;
+  });
+  return caseSearchWorkerReadyPromise;
+}
+
 async function loadCaseDiscoveryRecords() {
   if (caseDiscoveryRecords.length) return caseDiscoveryRecords;
   if (caseDiscoveryLoadPromise) return caseDiscoveryLoadPromise;
@@ -1150,9 +1236,10 @@ async function loadCaseDiscoveryRecords() {
     await initializeMapEvidenceDataRelease();
     const payload = await readMapEvidenceJson(CASE_DISCOVERY_BUNDLE_PATH);
     caseDiscoveryRecords = validateCaseDiscoveryPayload(payload);
+    caseDiscoveryRecordCount = caseDiscoveryRecords.length;
     caseDiscoveryCollectionCount = Object.keys(payload?.counts?.collections || {}).length;
     document.documentElement.dataset.caseDiscoveryLoadMode = "compact-gzip";
-    document.documentElement.dataset.caseDiscoveryRecords = String(caseDiscoveryRecords.length);
+    document.documentElement.dataset.caseDiscoveryRecords = String(caseDiscoveryRecordCount);
     return caseDiscoveryRecords;
   })().catch(error => {
     caseDiscoveryLoadPromise = null;
@@ -1756,8 +1843,8 @@ function updateShareUrl() {
 function updateScopeStatus() {
   if (!scopeStatusElement) return;
   if (selectedSearchIntent() === "cases") {
-    scopeStatusElement.textContent = caseDiscoveryRecords.length
-      ? `${caseDiscoveryRecords.length.toLocaleString()} public mapped cases loaded from ${caseDiscoveryCollectionCount.toLocaleString()} active collections. The case index and map data come from the active MapView release.`
+    scopeStatusElement.textContent = caseDiscoveryRecordCount
+      ? `${caseDiscoveryRecordCount.toLocaleString()} public mapped cases loaded from ${caseDiscoveryCollectionCount.toLocaleString()} active collections. The case index and map data come from the active MapView release.`
       : "Mapped case mode uses a compact cross-origin index that loads on the first case search; the interactive map stays unloaded until opened.";
     return;
   }
@@ -3002,19 +3089,26 @@ function renderCaseFilterOptions() {
   if (!caseCollectionFilter || !caseCountryFilter) return;
   const selectedCollection = pendingCaseFilters.collection || caseCollectionFilter.value;
   const selectedCountry = pendingCaseFilters.country || caseCountryFilter.value;
-  const collectionCounts = new Map();
-  const countryCounts = new Map();
-  for (const row of caseUniverse) {
-    const collection = caseField(row, "collection");
-    const country = caseField(row, "country");
-    if (collection) collectionCounts.set(collection, (collectionCounts.get(collection) || 0) + 1);
-    if (country) countryCounts.set(country, (countryCounts.get(country) || 0) + 1);
+  const collectionCounts = new Map(caseSearchSummary.collectionCounts || []);
+  const countryCounts = new Map(caseSearchSummary.countryCounts || []);
+  if (caseSearchEngine !== "worker") {
+    collectionCounts.clear();
+    countryCounts.clear();
+    for (const row of caseUniverse) {
+      const collection = caseField(row, "collection");
+      const country = caseField(row, "country");
+      if (collection) collectionCounts.set(collection, (collectionCounts.get(collection) || 0) + 1);
+      if (country) countryCounts.set(country, (countryCounts.get(country) || 0) + 1);
+    }
   }
-  caseCollectionFilter.innerHTML = `<option value="">All mapped collections (${caseUniverse.length.toLocaleString()})</option>${[...collectionCounts]
+  const totalMatches = caseSearchEngine === "worker"
+    ? Number(caseSearchSummary.totalMatches || 0)
+    : caseUniverse.length;
+  caseCollectionFilter.innerHTML = `<option value="">All mapped collections (${totalMatches.toLocaleString()})</option>${[...collectionCounts]
     .sort((left, right) => (CASE_COLLECTION_LABELS[left[0]] || left[0]).localeCompare(CASE_COLLECTION_LABELS[right[0]] || right[0]))
     .map(([value, count]) => `<option value="${escapeHtml(value)}">${escapeHtml(CASE_COLLECTION_LABELS[value] || value)} (${count.toLocaleString()})</option>`)
     .join("")}`;
-  caseCountryFilter.innerHTML = `<option value="">All countries (${caseUniverse.length.toLocaleString()})</option>${[...countryCounts]
+  caseCountryFilter.innerHTML = `<option value="">All countries (${totalMatches.toLocaleString()})</option>${[...countryCounts]
     .sort((left, right) => left[0].localeCompare(right[0]))
     .map(([value, count]) => `<option value="${escapeHtml(value)}">${escapeHtml(value)} (${count.toLocaleString()})</option>`)
     .join("")}`;
@@ -3024,17 +3118,63 @@ function renderCaseFilterOptions() {
   pendingCaseFilters = {collection: "", country: "", evidence: false};
 }
 
-function applyCaseFilters({updateUrl = true} = {}) {
-  const collection = caseCollectionFilter?.value || "";
-  const country = caseCountryFilter?.value || "";
-  const evidenceOnly = Boolean(caseEvidenceFilter?.checked);
+function activeCaseFilters() {
+  return {
+    collection: pendingCaseFilters.collection || caseCollectionFilter?.value || "",
+    country: pendingCaseFilters.country || caseCountryFilter?.value || "",
+    evidence: pendingCaseFilters.evidence || Boolean(caseEvidenceFilter?.checked),
+  };
+}
+
+async function refreshWorkerCaseResults({updateUrl = true, announce = true} = {}) {
+  const refreshId = caseSearchRefreshId + 1;
+  caseSearchRefreshId = refreshId;
+  const summary = await caseSearchWorkerCall("search", {
+    criteria: currentCaseCriteria,
+    filters: activeCaseFilters(),
+    sort: resultSortInput?.value || "relevance",
+    limit: visibleCount,
+  });
+  if (refreshId !== caseSearchRefreshId) return false;
+  caseSearchSummary = summary;
+  currentResults = summary.rows;
+  caseUniverse = [];
+  document.documentElement.dataset.caseWorkerVisibleRows = String(currentResults.length);
+  document.documentElement.dataset.caseWorkerTotalMatches = String(summary.totalMatches);
+  document.documentElement.dataset.caseWorkerDurationMs = String(summary.durationMs);
+  renderCaseFilterOptions();
+  renderResults();
+  renderResultFacetStatus();
+  currentResultNote = resultCountNote();
+  if (caseFilterStatus) caseFilterStatus.textContent = currentResultNote;
+  if (announce) {
+    updateStatus(`${currentResultNote} Case filtering took ${Number(summary.durationMs || 0).toLocaleString()} ms off the page's main thread.`);
+  }
+  if (updateUrl) updateShareUrl();
+  return true;
+}
+
+async function applyCaseFilters({updateUrl = true} = {}) {
+  visibleCount = pageSize;
+  if (caseSearchEngine === "worker") {
+    await refreshWorkerCaseResults({updateUrl});
+    return;
+  }
+  const filters = activeCaseFilters();
   currentResults = caseUniverse.filter(row =>
-    (!collection || caseField(row, "collection") === collection)
-    && (!country || caseField(row, "country") === country)
-    && (!evidenceOnly || Boolean(caseEvidenceUrl(row)))
+    (!filters.collection || caseField(row, "collection") === filters.collection)
+    && (!filters.country || caseField(row, "country") === filters.country)
+    && (!filters.evidence || Boolean(caseEvidenceUrl(row)))
   );
   sortCurrentResults();
-  visibleCount = pageSize;
+  caseSearchSummary = {
+    totalMatches: caseUniverse.length,
+    filteredCount: currentResults.length,
+    collectionCounts: [],
+    countryCounts: [],
+    durationMs: 0,
+  };
+  renderCaseFilterOptions();
   renderResults();
   renderResultFacetStatus();
   currentResultNote = resultCountNote();
@@ -3051,6 +3191,14 @@ async function runCaseSearch(criteria, searchStartedAt) {
   if (!hasPositiveCriteria(criteria) && !criteria.yearMin && !criteria.yearMax) {
     caseUniverse = [];
     currentResults = [];
+    currentCaseCriteria = null;
+    caseSearchSummary = {
+      totalMatches: 0,
+      filteredCount: 0,
+      collectionCounts: [],
+      countryCounts: [],
+      durationMs: 0,
+    };
     visibleCount = pageSize;
     renderResults();
     renderResultFacetStatus();
@@ -3059,9 +3207,8 @@ async function runCaseSearch(criteria, searchStartedAt) {
     return;
   }
   updateStatus("Loading the compact mapped-case index...");
-  let records;
   try {
-    records = await loadCaseDiscoveryRecords();
+    await initializeCaseSearchEngine();
   } catch (error) {
     caseUniverse = [];
     currentResults = [];
@@ -3070,16 +3217,32 @@ async function runCaseSearch(criteria, searchStartedAt) {
     updateStatus(`Mapped case search is unavailable: ${error.message}`);
     return;
   }
-  const normalized = normalizedCaseCriteria(criteria);
-  caseUniverse = records
-    .filter(record => caseMatchesCriteria(record, normalized))
-    .map(record => ({record, score: caseMatchScore(record, normalized)}));
-  renderCaseFilterOptions();
-  applyCaseFilters({updateUrl: false});
+  currentCaseCriteria = normalizedCaseCriteria(criteria);
+  visibleCount = pageSize;
+  if (caseSearchEngine === "worker") {
+    try {
+      await refreshWorkerCaseResults({updateUrl: false, announce: false});
+    } catch (error) {
+      caseUniverse = [];
+      currentResults = [];
+      renderResults();
+      resultsElement.innerHTML = `<p class="empty-state load-error">Mapped case search is temporarily unavailable. ${escapeHtml(error.message)}</p>`;
+      updateStatus(`Mapped case search is unavailable: ${error.message}`);
+      return;
+    }
+  } else {
+    caseUniverse = caseDiscoveryRecords
+      .filter(record => caseMatchesCriteria(record, currentCaseCriteria))
+      .map(record => ({record, score: caseMatchScore(record, currentCaseCriteria)}));
+    await applyCaseFilters({updateUrl: false});
+  }
   focusResultsIfRequested();
   const seconds = elapsedSeconds(searchStartedAt);
   currentResultNote = resultCountNote();
-  updateStatus(`${currentResultNote} Case index search completed in ${seconds}s; the map remains unloaded until requested.`);
+  const workerNote = caseSearchEngine === "worker"
+    ? ` Worker matching and filtering took ${Number(caseSearchSummary.durationMs || 0).toLocaleString()} ms off the page's main thread.`
+    : "";
+  updateStatus(`${currentResultNote} Case index search completed in ${seconds}s.${workerNote} The map remains unloaded until requested.`);
   updateShareUrl();
   updateScopeStatus();
 }
@@ -3463,7 +3626,7 @@ function renderCaseResults() {
         </div>
       </article>`;
   }).join("");
-  const moreMarkup = currentResults.length > visibleCount
+  const moreMarkup = Number(caseSearchSummary.filteredCount || 0) > rows.length
     ? `<button id="load-more-results" class="load-more" type="button">Load 25 more cases</button>`
     : "";
   resultsElement.innerHTML = `${markup}${moreMarkup}`;
@@ -4038,12 +4201,22 @@ resultsElement.addEventListener("click", async event => {
   visibleCount += pageSize;
   const terms = currentTerms;
   const runId = currentSearchRunId;
-  renderResults();
   if (currentResultMode === "cases") {
+    if (caseSearchEngine === "worker") {
+      try {
+        await refreshWorkerCaseResults({updateUrl: false, announce: false});
+      } catch (error) {
+        updateStatus(`Could not load more mapped cases: ${error.message}`);
+        return;
+      }
+    } else {
+      renderResults();
+    }
     const shown = Math.min(visibleCount, currentResults.length);
     updateStatus(`${currentResultNote} Showing ${shown.toLocaleString()} now.`);
     return;
   }
+  renderResults();
   hydrateVisibleSnippets(terms, runId)
     .then(() => {
       if (runId !== currentSearchRunId) return;
@@ -4135,6 +4308,10 @@ searchIntentInput?.addEventListener("change", () => {
   rerunIfUseful();
 });
 resultSortInput?.addEventListener("change", () => {
+  if (currentResultMode === "cases") {
+    applyCaseFilters().catch(error => updateStatus(`Could not sort mapped cases: ${error.message}`));
+    return;
+  }
   sortCurrentResults();
   visibleCount = pageSize;
   renderResults();
@@ -4145,14 +4322,18 @@ resultSortInput?.addEventListener("change", () => {
 });
 [caseCollectionFilter, caseCountryFilter, caseEvidenceFilter].forEach(input => {
   input?.addEventListener("change", () => {
-    if (currentResultMode === "cases" && caseUniverse.length) applyCaseFilters();
+    if (currentResultMode === "cases" && (caseSearchSummary.totalMatches || caseUniverse.length)) {
+      applyCaseFilters().catch(error => updateStatus(`Could not filter mapped cases: ${error.message}`));
+    }
   });
 });
 clearCaseFiltersButton?.addEventListener("click", () => {
   if (caseCollectionFilter) caseCollectionFilter.value = "";
   if (caseCountryFilter) caseCountryFilter.value = "";
   if (caseEvidenceFilter) caseEvidenceFilter.checked = false;
-  if (currentResultMode === "cases") applyCaseFilters();
+  if (currentResultMode === "cases") {
+    applyCaseFilters().catch(error => updateStatus(`Could not clear mapped-case filters: ${error.message}`));
+  }
 });
 toggleResultsMapButton?.addEventListener("click", () => openResultsMapPreview());
 closeResultsMapButton?.addEventListener("click", closeResultsMapPreview);
