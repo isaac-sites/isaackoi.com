@@ -18,6 +18,7 @@ let catalogueLoadMode = "per-collection";
 let unavailableCatalogueEntries = [];
 
 const AFU_PUBLIC_SEARCH_DATA_BASE = "https://files.afu.se/Downloads/search/";
+const AFU_PUBLIC_MAP_DATA_BASE = "https://files.afu.se/Downloads/mapview/";
 
 function isLocalArchivePreview() {
   return window.location.protocol === "file:"
@@ -31,13 +32,28 @@ function configuredSearchDataBase() {
   return new URL(configured || AFU_PUBLIC_SEARCH_DATA_BASE, window.location.href);
 }
 
+function configuredMapEvidenceDataBase() {
+  const publicDataPreview = new URLSearchParams(window.location.search).get("publicData") === "1";
+  if (isLocalArchivePreview() && !publicDataPreview) return new URL("../mapview/", window.location.href);
+  const configured = document.querySelector('meta[name="afu-map-data-base"]')?.content.trim();
+  return new URL(configured || AFU_PUBLIC_MAP_DATA_BASE, window.location.href);
+}
+
 const SEARCH_DATA_ROOT_URL = configuredSearchDataBase();
 let SEARCH_DATA_BASE_URL = SEARCH_DATA_ROOT_URL;
 let activeDataRelease = "";
 const SEARCH_RUNTIME_CACHE_PREFIX = "isaac-koi-search-data-v1-";
 const SEARCH_RUNTIME_CACHE_MAX_ENTRIES = 96;
 let searchRuntimeCacheName = "";
+const MAP_EVIDENCE_DATA_ROOT_URL = configuredMapEvidenceDataBase();
+let MAP_EVIDENCE_DATA_BASE_URL = MAP_EVIDENCE_DATA_ROOT_URL;
+let activeMapEvidenceRelease = "";
+const MAP_EVIDENCE_CACHE_PREFIX = "isaac-koi-map-data-v1-";
+const MAP_EVIDENCE_CACHE_MAX_ENTRIES = 24;
+const MAP_EVIDENCE_BUNDLE_PATH = "data/search_map_evidence_public.json";
+let mapEvidenceCacheName = "";
 document.documentElement.dataset.archiveDataOrigin = SEARCH_DATA_ROOT_URL.origin;
+document.documentElement.dataset.mapEvidenceDataOrigin = MAP_EVIDENCE_DATA_ROOT_URL.origin;
 
 function configuredInterfaceBase(metaName, fallback) {
   const configured = document.querySelector(`meta[name="${metaName}"]`)?.content.trim();
@@ -79,6 +95,10 @@ function mapUiUrl(value = "") {
 
 function archiveDataUrl(value) {
   return new URL(value, SEARCH_DATA_BASE_URL).href;
+}
+
+function mapEvidenceDataUrl(value) {
+  return new URL(value, MAP_EVIDENCE_DATA_BASE_URL).href;
 }
 
 function runtimeCacheReleaseKey() {
@@ -155,6 +175,77 @@ async function fetchArchiveResponse(resolvedUrl) {
   return response;
 }
 
+function mapEvidenceCacheReleaseKey() {
+  return String(activeMapEvidenceRelease || "").toLocaleLowerCase().replace(/[^a-z0-9._-]+/g, "-").slice(0, 80);
+}
+
+async function trimMapEvidenceCache(cache) {
+  const keys = await cache.keys();
+  const overflow = keys.length - MAP_EVIDENCE_CACHE_MAX_ENTRIES;
+  if (overflow > 0) {
+    await Promise.all(keys.slice(0, overflow).map(request => cache.delete(request)));
+  }
+  document.documentElement.dataset.mapEvidenceCacheEntries = String(
+    Math.min(keys.length, MAP_EVIDENCE_CACHE_MAX_ENTRIES)
+  );
+}
+
+async function activateMapEvidenceCache() {
+  if (!activeMapEvidenceRelease || !("caches" in window)) return;
+  mapEvidenceCacheName = `${MAP_EVIDENCE_CACHE_PREFIX}${mapEvidenceCacheReleaseKey()}`;
+  document.documentElement.dataset.mapEvidenceCache = "enabled";
+  try {
+    const names = await caches.keys();
+    await Promise.all(
+      names
+        .filter(name => name.startsWith(MAP_EVIDENCE_CACHE_PREFIX) && name !== mapEvidenceCacheName)
+        .map(name => caches.delete(name))
+    );
+    const cache = await caches.open(mapEvidenceCacheName);
+    document.documentElement.dataset.mapEvidenceCacheEntries = String((await cache.keys()).length);
+  } catch (error) {
+    document.documentElement.dataset.mapEvidenceCache = "unavailable";
+    console.warn("Persistent map-evidence cache cleanup was unavailable.", error);
+  }
+}
+
+async function fetchMapEvidenceResponse(resolvedUrl) {
+  const request = new Request(resolvedUrl, {mode: "cors", credentials: "omit"});
+  const url = new URL(resolvedUrl);
+  const cacheable = mapEvidenceCacheName
+    && activeMapEvidenceRelease
+    && "caches" in window
+    && url.origin === MAP_EVIDENCE_DATA_BASE_URL.origin
+    && url.href.startsWith(MAP_EVIDENCE_DATA_BASE_URL.href)
+    && url.pathname.endsWith(".json.gz");
+  if (!cacheable) {
+    return fetch(request);
+  }
+  let cache;
+  try {
+    cache = await caches.open(mapEvidenceCacheName);
+    const cached = await cache.match(request);
+    if (cached) {
+      document.documentElement.dataset.mapEvidenceCache = "hit";
+      return cached;
+    }
+  } catch (error) {
+    document.documentElement.dataset.mapEvidenceCache = "unavailable";
+    console.warn("Persistent map-evidence cache read was unavailable.", error);
+    return fetch(request);
+  }
+  const response = await fetch(request);
+  if (response.ok) {
+    void cache.put(request, response.clone())
+      .then(() => trimMapEvidenceCache(cache))
+      .catch(error => {
+        document.documentElement.dataset.mapEvidenceCache = "unavailable";
+        console.warn("Persistent map-evidence cache write was unavailable.", error);
+      });
+  }
+  return response;
+}
+
 function validatedReleaseDataUrl(pointer, expectedKind, rootUrl) {
   if (pointer?.schema_version !== 1 || pointer?.package_kind !== expectedKind || !pointer?.release_id) return null;
   const dataPath = String(pointer.data_path || "");
@@ -180,9 +271,31 @@ async function initializeSearchDataRelease() {
     SEARCH_DATA_BASE_URL = releaseUrl;
     activeDataRelease = String(pointer.release_id);
     document.documentElement.dataset.archiveDataRelease = activeDataRelease;
-    void activateSearchRuntimeCache();
+    await activateSearchRuntimeCache();
   } catch (error) {
     console.warn("Versioned search release unavailable; using the compatible data root.", error);
+  }
+}
+
+async function initializeMapEvidenceDataRelease() {
+  const previewParams = new URLSearchParams(window.location.search);
+  const publicDataPreview = previewParams.get("publicData") === "1";
+  const releaseDataPreview = previewParams.get("releaseData") === "1";
+  if (isLocalArchivePreview() && !publicDataPreview && !releaseDataPreview) return;
+  try {
+    const pointerUrl = new URL("release.json", MAP_EVIDENCE_DATA_ROOT_URL);
+    const response = await fetch(pointerUrl, {mode: "cors", credentials: "omit", cache: "no-cache"});
+    if (response.status === 404) return;
+    if (!response.ok) throw new Error(`Map release pointer returned HTTP ${response.status}`);
+    const pointer = await response.json();
+    const releaseUrl = validatedReleaseDataUrl(pointer, "map", MAP_EVIDENCE_DATA_ROOT_URL);
+    if (!releaseUrl) throw new Error("Map release pointer is malformed or unsafe.");
+    MAP_EVIDENCE_DATA_BASE_URL = releaseUrl;
+    activeMapEvidenceRelease = String(pointer.release_id);
+    document.documentElement.dataset.mapEvidenceDataRelease = activeMapEvidenceRelease;
+    await activateMapEvidenceCache();
+  } catch (error) {
+    console.warn("Versioned map evidence unavailable; using the compatible map data root.", error);
   }
 }
 
@@ -261,6 +374,8 @@ let globalTermRouter = null;
 let focusResultsOnNextSearch = false;
 let currentSearchTruncated = false;
 let pendingResultFacets = {decade: "", evidence: "", source: "", pageLink: ""};
+let mapEvidenceLoadPromise = null;
+let mapEvidenceLoadState = "idle";
 
 function requestResultFocus() {
   focusResultsOnNextSearch = true;
@@ -565,6 +680,13 @@ function selectedLanguageMode() {
 
 function selectedSearchIntent() {
   return searchIntentInput?.value || "general";
+}
+
+function currentSearchRequiresMapEvidence() {
+  const facets = activeResultFacets();
+  return selectedSearchIntent() === "mapped"
+    || requestedMapRecordIds.size > 0
+    || Boolean(facets.evidence || facets.source || facets.pageLink);
 }
 
 function rerunIfUseful() {
@@ -904,63 +1026,71 @@ async function loadOptionalLocalLinks() {
   }
 }
 
+async function readMapEvidenceJson(path) {
+  const resolvedUrl = mapEvidenceDataUrl(path);
+  if ("DecompressionStream" in window) {
+    const compressedUrl = `${resolvedUrl}.gz`;
+    const compressedResponse = await fetchMapEvidenceResponse(compressedUrl);
+    if (compressedResponse.ok) {
+      const decompressed = compressedResponse.body.pipeThrough(new DecompressionStream("gzip"));
+      document.documentElement.dataset.mapEvidenceEncoding = "gzip";
+      return JSON.parse(await new Response(decompressed).text());
+    }
+    if (compressedResponse.status !== 404) {
+      throw new Error(`${compressedUrl} returned HTTP ${compressedResponse.status}`);
+    }
+  }
+  const response = await fetchMapEvidenceResponse(resolvedUrl);
+  if (!response.ok) throw new Error(`${resolvedUrl} returned HTTP ${response.status}`);
+  document.documentElement.dataset.mapEvidenceEncoding = "json-fallback";
+  return response.json();
+}
+
+function recordsFromPayload(payload) {
+  return Array.isArray(payload) ? payload : payload?.records || [];
+}
+
 async function loadOptionalMapSources() {
-  const candidateUrls = [
-    "../mapview/data/ufocat_sources_public.json",
-    "../public-map/data/ufocat_sources_public.json",
-    "../data/ufocat_sources_public.json",
-    "data/ufocat_sources_public.json",
-  ];
-  const geipanCandidateUrls = [
-    "../mapview/data/geipan_sources_public.json",
-    "../public-map/data/geipan_sources_public.json",
-    "../data/geipan_sources_public.json",
-    "data/geipan_sources_public.json",
-  ];
-  const lacUfoCandidateUrls = [
-    "../mapview/data/lac_ufo_sources_public.json",
-    "../public-map/data/lac_ufo_sources_public.json",
-    "../data/lac_ufo_sources_public.json",
-    "data/lac_ufo_sources_public.json",
-  ];
+  await initializeMapEvidenceDataRelease();
   mapSourcesByDocumentId.clear();
-  for (const url of candidateUrls) {
-    try {
-      const payload = await readJson(url);
-      const records = Array.isArray(payload) ? payload : payload.records || [];
-      if (!Array.isArray(records)) continue;
-      for (const source of records) {
-        const documentId = String(source.afu_document_id || source.online_source_document_id || "");
-        const prn = String(source.ufocat_prn || "");
-        if (!documentId || !prn) continue;
-        if (!mapSourcesByDocumentId.has(documentId)) mapSourcesByDocumentId.set(documentId, []);
-        mapSourcesByDocumentId.get(documentId).push(source);
-      }
-      break;
-    } catch (error) {
-      mapSourcesByDocumentId.clear();
+  geipanSourceRecords = [];
+  lacUfoSourceRecords = [];
+
+  let records = [];
+  try {
+    const payload = await readMapEvidenceJson(MAP_EVIDENCE_BUNDLE_PATH);
+    if (payload?.schema_version !== 1 || payload?.package_kind !== "search-map-evidence") {
+      throw new Error("Map evidence bundle has an unsupported schema.");
     }
+    records = Array.isArray(payload.records) ? payload.records : [];
+    geipanSourceRecords = Array.isArray(payload.geipan_records) ? payload.geipan_records : [];
+    lacUfoSourceRecords = Array.isArray(payload.lac_ufo_records) ? payload.lac_ufo_records : [];
+    document.documentElement.dataset.mapEvidenceLoadMode = "compact-bundle";
+  } catch (bundleError) {
+    const [ufocatPayload, sourceFirstPayload, geipanPayload, lacUfoPayload] = await Promise.all([
+      readMapEvidenceJson("data/ufocat_sources_public.json"),
+      readMapEvidenceJson("data/source_first_sources_public.json"),
+      readMapEvidenceJson("data/geipan_sources_public.json"),
+      readMapEvidenceJson("data/lac_ufo_sources_public.json"),
+    ]);
+    records = [...recordsFromPayload(ufocatPayload), ...recordsFromPayload(sourceFirstPayload)];
+    geipanSourceRecords = recordsFromPayload(geipanPayload);
+    lacUfoSourceRecords = recordsFromPayload(lacUfoPayload);
+    document.documentElement.dataset.mapEvidenceLoadMode = "legacy-sidecars";
   }
-  for (const url of geipanCandidateUrls) {
-    try {
-      const payload = await readJson(url);
-      const records = Array.isArray(payload) ? payload : payload.records || [];
-      geipanSourceRecords = Array.isArray(records) ? records : [];
-      break;
-    } catch (error) {
-      geipanSourceRecords = [];
-    }
+
+  for (const source of records) {
+    const documentId = String(source.afu_document_id || source.online_source_document_id || "");
+    const recordId = String(source.ufocat_prn || source.record_id || "");
+    if (!documentId || !recordId) continue;
+    if (!mapSourcesByDocumentId.has(documentId)) mapSourcesByDocumentId.set(documentId, []);
+    mapSourcesByDocumentId.get(documentId).push(source);
   }
-  for (const url of lacUfoCandidateUrls) {
-    try {
-      const payload = await readJson(url);
-      const records = Array.isArray(payload) ? payload : payload.records || [];
-      lacUfoSourceRecords = Array.isArray(records) ? records : [];
-      return;
-    } catch (error) {
-      lacUfoSourceRecords = [];
-    }
-  }
+  return {
+    sourceRecords: records.length,
+    geipanRecords: geipanSourceRecords.length,
+    lacUfoRecords: lacUfoSourceRecords.length,
+  };
 }
 
 function normalizedPublicUrl(value) {
@@ -1023,6 +1153,50 @@ function attachLacUfoSourcesToIssues(issueRows) {
     if (!mapSourcesByDocumentId.has(documentId)) mapSourcesByDocumentId.set(documentId, []);
     mapSourcesByDocumentId.get(documentId).push(record);
   }
+}
+
+function refreshMapEvidencePresentation() {
+  renderFeaturedCollections();
+  renderCoverageDashboard();
+  renderSourceRichBrowser();
+  renderBrowsePreview();
+  if (!facetUniverse.length) return;
+  facetUniverse = facetUniverse.map(result => ({...result, score: resultScore(result)}));
+  renderResultFacetOptions();
+  currentResults = facetUniverse.filter(result => issueMatchesResultFacets(result.issue));
+  sortCurrentResults();
+  renderResults();
+  renderResultFacetStatus();
+  currentResultNote = resultCountNote();
+  updateStatus(`${currentResultNote}${warningSummary()}`);
+}
+
+function startMapEvidenceEnrichment() {
+  if (mapEvidenceLoadPromise) return mapEvidenceLoadPromise;
+  mapEvidenceLoadState = "loading";
+  document.documentElement.dataset.mapEvidenceEnrichment = "loading";
+  mapEvidenceLoadPromise = loadOptionalMapSources()
+    .then(counts => {
+      attachGeipanSourcesToIssues(issues);
+      attachLacUfoSourcesToIssues(issues);
+      mapEvidenceLoadState = "ready";
+      document.documentElement.dataset.mapEvidenceEnrichment = "ready";
+      document.documentElement.dataset.mapEvidenceSourceRecords = String(
+        counts.sourceRecords + counts.geipanRecords + counts.lacUfoRecords
+      );
+      refreshMapEvidencePresentation();
+      return counts;
+    })
+    .catch(error => {
+      mapSourcesByDocumentId.clear();
+      geipanSourceRecords = [];
+      lacUfoSourceRecords = [];
+      mapEvidenceLoadState = "unavailable";
+      document.documentElement.dataset.mapEvidenceEnrichment = "unavailable";
+      console.warn("Map evidence enrichment was unavailable.", error);
+      return null;
+    });
+  return mapEvidenceLoadPromise;
 }
 
 async function loadOptionalCollectionLandingSummary() {
@@ -2938,6 +3112,10 @@ async function runSearch() {
     resultsElement.innerHTML = `<p class="empty-state load-error">${escapeHtml(catalogueLoadError || catalogueMissingMessage())}</p>`;
     return;
   }
+  if (currentSearchRequiresMapEvidence() && mapEvidenceLoadState === "loading" && mapEvidenceLoadPromise) {
+    updateStatus("Loading mapped archive evidence for this search...");
+    await mapEvidenceLoadPromise;
+  }
   const criteria = searchCriteria();
   const runId = currentSearchRunId + 1;
   currentSearchRunId = runId;
@@ -3135,14 +3313,12 @@ async function start() {
   collections = loaded.map(item => item.collection);
   allSeries = collections.flatMap(collection => collection.series);
   issues = loaded.flatMap(item => item.issues);
-  await Promise.all([loadOptionalLocalLinks(), loadOptionalMapSources(), loadOptionalCollectionLandingSummary(), loadOptionalCaseDossiers(), loadPageIntelligence(collections)]);
+  await Promise.all([loadOptionalLocalLinks(), loadOptionalCollectionLandingSummary(), loadOptionalCaseDossiers(), loadPageIntelligence(collections)]);
   for (const issue of issues) {
     const intelligence = pageIntelligenceByIssue.get(issueIntelligenceKey(issue));
     if (intelligence) issue.page_intelligence = intelligence;
   }
   applyLocalLinksToIssues(issues);
-  attachGeipanSourcesToIssues(issues);
-  attachLacUfoSourcesToIssues(issues);
   catalogueLoaded = true;
   catalogueLoadError = "";
   renderCollections();
@@ -3154,6 +3330,7 @@ async function start() {
   renderCollectionSpotlight();
   renderSourceRichBrowser();
   renderBrowsePreview();
+  const mapEvidencePromise = startMapEvidenceEnrichment();
   const options = deepLinkOptions();
   applyDeepLinkOptions(options);
   updateScopeStatus();
@@ -3169,6 +3346,7 @@ async function start() {
   updateStatus(`${issues.length.toLocaleString()} online PDF records across ${collections.length.toLocaleString()} collection${collections.length === 1 ? "" : "s"} and ${allSeries.length.toLocaleString()} series.${startupNote}${releaseNote}${registryGapNote}${localNote}${unavailableNote}`);
   if (options.autorun && (options.query || options.all || options.phrase || options.any || requestedIssue || requestedMapRecordIds.size)) {
     requestResultFocus();
+    if (currentSearchRequiresMapEvidence()) await mapEvidencePromise;
     await runSearch();
   }
 }
