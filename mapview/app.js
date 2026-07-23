@@ -16,6 +16,10 @@ function configuredMapDataBase() {
 
 const MAP_DATA_ROOT_URL = configuredMapDataBase();
 let MAP_DATA_BASE_URL = MAP_DATA_ROOT_URL;
+let activeMapDataRelease = "";
+const MAP_RUNTIME_CACHE_PREFIX = "isaac-koi-map-data-v1-";
+const MAP_RUNTIME_CACHE_MAX_ENTRIES = 24;
+let mapRuntimeCacheName = "";
 document.documentElement.dataset.archiveDataOrigin = MAP_DATA_ROOT_URL.origin;
 
 function configuredInterfaceBase(metaName, fallback) {
@@ -56,6 +60,75 @@ function mapDataUrl(value) {
   return new URL(value, MAP_DATA_BASE_URL).href;
 }
 
+function runtimeMapCacheReleaseKey() {
+  return String(activeMapDataRelease || "").toLocaleLowerCase().replace(/[^a-z0-9._-]+/g, "-").slice(0, 80);
+}
+
+function isPersistentlyCacheableMapUrl(value) {
+  if (!mapRuntimeCacheName || !activeMapDataRelease || !("caches" in window)) return false;
+  const url = new URL(value);
+  if (url.origin !== MAP_DATA_BASE_URL.origin || !url.href.startsWith(MAP_DATA_BASE_URL.href)) return false;
+  return /\.(?:geo)?json\.gz$/i.test(url.pathname);
+}
+
+async function trimMapRuntimeCache(cache) {
+  const keys = await cache.keys();
+  const overflow = keys.length - MAP_RUNTIME_CACHE_MAX_ENTRIES;
+  if (overflow > 0) {
+    await Promise.all(keys.slice(0, overflow).map(request => cache.delete(request)));
+  }
+  document.documentElement.dataset.mapPersistentCacheEntries = String(
+    Math.min(keys.length, MAP_RUNTIME_CACHE_MAX_ENTRIES)
+  );
+}
+
+async function activateMapRuntimeCache() {
+  if (!activeMapDataRelease || !("caches" in window)) return;
+  mapRuntimeCacheName = `${MAP_RUNTIME_CACHE_PREFIX}${runtimeMapCacheReleaseKey()}`;
+  document.documentElement.dataset.mapPersistentCache = "enabled";
+  try {
+    const names = await caches.keys();
+    await Promise.all(
+      names
+        .filter(name => name.startsWith(MAP_RUNTIME_CACHE_PREFIX) && name !== mapRuntimeCacheName)
+        .map(name => caches.delete(name))
+    );
+    const cache = await caches.open(mapRuntimeCacheName);
+    document.documentElement.dataset.mapPersistentCacheEntries = String((await cache.keys()).length);
+  } catch (error) {
+    document.documentElement.dataset.mapPersistentCache = "unavailable";
+    console.warn("Persistent map cache cleanup was unavailable.", error);
+  }
+}
+
+async function fetchMapResponse(resolvedUrl) {
+  const request = new Request(resolvedUrl, {mode: "cors", credentials: "omit"});
+  if (!isPersistentlyCacheableMapUrl(resolvedUrl)) return fetch(request);
+  let cache;
+  try {
+    cache = await caches.open(mapRuntimeCacheName);
+    const cached = await cache.match(request);
+    if (cached) {
+      document.documentElement.dataset.mapPersistentCache = "hit";
+      return cached;
+    }
+  } catch (error) {
+    document.documentElement.dataset.mapPersistentCache = "unavailable";
+    console.warn("Persistent map cache read was unavailable.", error);
+    return fetch(request);
+  }
+  const response = await fetch(request);
+  if (response.ok) {
+    void cache.put(request, response.clone())
+      .then(() => trimMapRuntimeCache(cache))
+      .catch(error => {
+        document.documentElement.dataset.mapPersistentCache = "unavailable";
+        console.warn("Persistent map cache write was unavailable.", error);
+      });
+  }
+  return response;
+}
+
 function validatedMapReleaseDataUrl(pointer, rootUrl) {
   if (pointer?.schema_version !== 1 || pointer?.package_kind !== "map" || !pointer?.release_id) return null;
   const dataPath = String(pointer.data_path || "");
@@ -78,7 +151,9 @@ async function initializeMapDataRelease() {
     const releaseUrl = validatedMapReleaseDataUrl(pointer, MAP_DATA_ROOT_URL);
     if (!releaseUrl) throw new Error("Release pointer is malformed or unsafe.");
     MAP_DATA_BASE_URL = releaseUrl;
-    document.documentElement.dataset.archiveDataRelease = String(pointer.release_id);
+    activeMapDataRelease = String(pointer.release_id);
+    document.documentElement.dataset.archiveDataRelease = activeMapDataRelease;
+    await activateMapRuntimeCache();
   } catch (error) {
     console.warn("Versioned map release unavailable; using the compatible data root.", error);
   }
@@ -112,6 +187,19 @@ const LAC_UFO_DATA_URL = "data/lac_ufo_cases_public.geojson?v=20260706-lac-ufo-1
 const LAC_UFO_SOURCES_URL = "data/lac_ufo_sources_public.json?v=20260706-lac-ufo-1";
 const INCIDENT_CLUSTERS_URL = "data/incident_clusters_public.json?v=20260709-incident-clusters-1";
 const CASE_DOSSIERS_URL = "data/case_dossiers_public.json?v=20260715-guided-trails-2";
+const COMPRESSED_MAP_DATA_FILES = new Set([
+  "data/fold3_all_geocoded.geojson",
+  "data/ufocat_apro.geojson",
+  "data/ufocat_sources_public.json",
+  "data/source_first_events_public.geojson",
+  "data/source_first_sources_public.json",
+  "data/geipan_cases_public.geojson",
+  "data/geipan_sources_public.json",
+  "data/lac_ufo_cases_public.geojson",
+  "data/lac_ufo_sources_public.json",
+  "data/incident_clusters_public.json",
+  "data/source-link-export/summary.json",
+]);
 
 const decadeColors = {
   "1940s": "#8c3f2a",
@@ -2161,12 +2249,44 @@ searchMapArea?.addEventListener("click", () => {
 
 map.on("moveend", updateMapAreaSearchStatus);
 
-function fetchJson(url) {
+function compressedMapDataUrl(resolvedUrl) {
+  const url = new URL(resolvedUrl);
+  url.pathname = `${url.pathname}.gz`;
+  return url.href;
+}
+
+async function readCompressedMapJson(response) {
+  if (!response.body || !("DecompressionStream" in window)) {
+    throw new Error("This browser cannot decompress the optimized map data.");
+  }
+  const decompressed = response.body.pipeThrough(new DecompressionStream("gzip"));
+  return JSON.parse(await new Response(decompressed).text());
+}
+
+async function fetchJson(url) {
   const resolvedUrl = mapDataUrl(url);
-  return fetch(resolvedUrl, {mode: "cors", credentials: "omit"}).then((response) => {
-    if (!response.ok) throw new Error(`Unable to load ${resolvedUrl}`);
-    return response.json();
-  });
+  const relativePath = String(url).split(/[?#]/, 1)[0].replace(/^\/+/, "");
+  if (COMPRESSED_MAP_DATA_FILES.has(relativePath) && "DecompressionStream" in window) {
+    const compressedUrl = compressedMapDataUrl(resolvedUrl);
+    try {
+      const compressedResponse = await fetchMapResponse(compressedUrl);
+      if (compressedResponse.ok) {
+        document.documentElement.dataset.mapDataEncoding = "gzip";
+        return await readCompressedMapJson(compressedResponse);
+      }
+      if (compressedResponse.status !== 404) {
+        throw new Error(`Unable to load ${compressedUrl}`);
+      }
+    } catch (error) {
+      console.warn(`Compressed map data unavailable for ${relativePath}; using JSON fallback.`, error);
+    }
+  }
+  const response = await fetchMapResponse(resolvedUrl);
+  if (!response.ok) throw new Error(`Unable to load ${resolvedUrl}`);
+  if (!document.documentElement.dataset.mapDataEncoding) {
+    document.documentElement.dataset.mapDataEncoding = "json-fallback";
+  }
+  return response.json();
 }
 
 function fetchUfocatSources() {
@@ -2177,45 +2297,48 @@ function fetchUfocatSources() {
   });
 }
 
-function fetchSourceFirstLocal() {
+function fetchSourceFirstEvents() {
   const dataUrl = localMode ? SOURCE_FIRST_LOCAL_DATA_URL : SOURCE_FIRST_PUBLIC_DATA_URL;
+  return fetchJson(dataUrl).catch((error) => {
+    console.warn("Source-first event data unavailable.", error);
+    return { features: [] };
+  });
+}
+
+function fetchSourceFirstSources() {
   const sourcesUrl = localMode ? SOURCE_FIRST_LOCAL_SOURCES_URL : SOURCE_FIRST_PUBLIC_SOURCES_URL;
-  return Promise.all([
-    fetchJson(dataUrl).catch((error) => {
-      console.warn("Source-first event data unavailable.", error);
-      return { features: [] };
-    }),
-    fetchJson(sourcesUrl).catch((error) => {
-      console.warn("Source-first source sidecar unavailable.", error);
-      return { records: [] };
-    }),
-  ]).then(([events, sources]) => ({ features: events.features || [], records: sources.records || sources || [] }));
+  return fetchJson(sourcesUrl).catch((error) => {
+    console.warn("Source-first source sidecar unavailable.", error);
+    return { records: [] };
+  });
 }
 
-function fetchGeipanLayer() {
-  return Promise.all([
-    fetchJson(GEIPAN_DATA_URL).catch((error) => {
-      console.warn("GEIPAN map layer unavailable.", error);
-      return { features: [] };
-    }),
-    fetchJson(GEIPAN_SOURCES_URL).catch((error) => {
-      console.warn("GEIPAN source sidecar unavailable.", error);
-      return { records: [] };
-    }),
-  ]).then(([events, sources]) => ({ features: events.features || [], records: sources.records || sources || [] }));
+function fetchGeipanEvents() {
+  return fetchJson(GEIPAN_DATA_URL).catch((error) => {
+    console.warn("GEIPAN map layer unavailable.", error);
+    return { features: [] };
+  });
 }
 
-function fetchLacUfoLayer() {
-  return Promise.all([
-    fetchJson(LAC_UFO_DATA_URL).catch((error) => {
-      console.warn("LAC UFO map layer unavailable.", error);
-      return { features: [] };
-    }),
-    fetchJson(LAC_UFO_SOURCES_URL).catch((error) => {
-      console.warn("LAC UFO source sidecar unavailable.", error);
-      return { records: [] };
-    }),
-  ]).then(([events, sources]) => ({ features: events.features || [], records: sources.records || sources || [] }));
+function fetchGeipanSources() {
+  return fetchJson(GEIPAN_SOURCES_URL).catch((error) => {
+    console.warn("GEIPAN source sidecar unavailable.", error);
+    return { records: [] };
+  });
+}
+
+function fetchLacUfoEvents() {
+  return fetchJson(LAC_UFO_DATA_URL).catch((error) => {
+    console.warn("LAC UFO map layer unavailable.", error);
+    return { features: [] };
+  });
+}
+
+function fetchLacUfoSources() {
+  return fetchJson(LAC_UFO_SOURCES_URL).catch((error) => {
+    console.warn("LAC UFO source sidecar unavailable.", error);
+    return { records: [] };
+  });
 }
 
 function fetchSourceLinkExportSummary() {
@@ -2240,20 +2363,47 @@ function fetchCaseDossiers() {
 }
 
 initializeMapDataRelease()
-  .then(() => Promise.all([fetchJson(DATA_URL), fetchJson(APRO_DATA_URL), fetchUfocatSources(), fetchSourceFirstLocal(), fetchGeipanLayer(), fetchLacUfoLayer(), fetchSourceLinkExportSummary(), fetchIncidentClusters(), fetchCaseDossiers()]))
-  .then(([fold3Data, aproData, ufocatSourcesData, sourceFirstLocal, geipanLayer, lacUfoLayer, exportSummary, incidentClusters, caseDossiers]) => {
+  .then(async () => {
+    document.documentElement.dataset.mapEnrichment = "loading";
+    const [fold3Data, aproData, sourceFirstData, geipanData, lacUfoData, caseDossiers] = await Promise.all([
+      fetchJson(DATA_URL),
+      fetchJson(APRO_DATA_URL),
+      fetchSourceFirstEvents(),
+      fetchGeipanEvents(),
+      fetchLacUfoEvents(),
+      fetchCaseDossiers(),
+    ]);
     rawFeatures = fold3Data.features || [];
-    aproFeatures = [...(aproData.features || []), ...(sourceFirstLocal.features || [])];
-    geipanFeatures = geipanLayer.features || [];
-    lacUfoFeatures = lacUfoLayer.features || [];
+    aproFeatures = [...(aproData.features || []), ...(sourceFirstData.features || [])];
+    geipanFeatures = geipanData.features || [];
+    lacUfoFeatures = lacUfoData.features || [];
+    caseDossierByRecordId = new Map((caseDossiers.dossiers || []).map(row => [String(row.record_id || ""), row]));
+    featureArchiveFolders = new Map(
+      rawFeatures.map((feature) => [
+        String(feature.properties.RecordId || feature.properties.Fold3ImageNumber || ""),
+        [FOLD3_ARCHIVE_FOLDER],
+      ])
+    );
+    const allFeatures = [...rawFeatures, ...aproFeatures, ...geipanFeatures, ...lacUfoFeatures];
+    populateFilters(allFeatures);
+    render();
+    document.documentElement.dataset.mapCore = "ready";
+
+    const [ufocatSourcesData, sourceFirstSources, geipanSources, lacUfoSources, exportSummary, incidentClusters] = await Promise.all([
+      fetchUfocatSources(),
+      fetchSourceFirstSources(),
+      fetchGeipanSources(),
+      fetchLacUfoSources(),
+      fetchSourceLinkExportSummary(),
+      fetchIncidentClusters(),
+    ]);
     allPublicSourceRecords = [
       ...(ufocatSourcesData.records || ufocatSourcesData || []),
-      ...(sourceFirstLocal.records || []),
-      ...(geipanLayer.records || []),
-      ...(lacUfoLayer.records || []),
+      ...(sourceFirstSources.records || sourceFirstSources || []),
+      ...(geipanSources.records || geipanSources || []),
+      ...(lacUfoSources.records || lacUfoSources || []),
     ];
     sourceLinkExportSummary = exportSummary;
-    caseDossierByRecordId = new Map((caseDossiers.dossiers || []).map(row => [String(row.record_id || ""), row]));
     const clustersById = new Map((incidentClusters.clusters || []).map(cluster => [String(cluster.cluster_id || ""), cluster]));
     incidentClusterByRecordId = new Map((incidentClusters.records || []).map(row => {
       const cluster = clustersById.get(String(row.cluster_id || "")) || {};
@@ -2271,10 +2421,17 @@ initializeMapDataRelease()
       ...geipanFeatures.map((feature) => [String(feature.properties.RecordId || ""), archiveFoldersForFeature(feature)]),
       ...lacUfoFeatures.map((feature) => [String(feature.properties.RecordId || ""), archiveFoldersForFeature(feature)]),
     ]);
-    populateFilters([...rawFeatures, ...aproFeatures, ...geipanFeatures, ...lacUfoFeatures]);
+    const requestedArchiveFolders = urlParams.getAll("collection");
+    if (requestedArchiveFolders.length) {
+      selectedArchiveFolders = new Set(
+        requestedArchiveFolders.filter(folder => [...featureArchiveFolders.values()].some(folders => folders.includes(folder)))
+      );
+    }
+    populateArchiveFolderFilter(allFeatures);
     renderMappingDataPanel();
     applyInitialUrlFilters();
     dataReady = true;
+    document.documentElement.dataset.mapEnrichment = "ready";
     render();
     focusDeepLinkedRecords();
     window.setTimeout(openDeepLinkedEvidence, deepLinkedRecordIds.size > 1 ? 280 : 120);
