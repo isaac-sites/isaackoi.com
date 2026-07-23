@@ -26,7 +26,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/search.css?v=20">
+  <link rel="stylesheet" href="assets/search.css?v=21">
 </head>
 <body>
   <header class="site-header">
@@ -49,7 +49,7 @@
         </span>
       </a>
       <div class="header-actions">
-        <a class="surface-link" href="../mapview/">Research map</a>
+        <a class="surface-link" href="/mapview/">Research map</a>
         <a class="surface-link" href="investigations/">Guided trails</a>
         <a class="surface-link" href="cases/">Dossiers</a>
         <a class="surface-link" href="research.html">Research set</a>
@@ -196,11 +196,11 @@
         <button type="button" data-featured-search="french-landings">French landings</button>
       </div>
       <div class="map-trail-bridge" aria-label="Featured map trails">
-        <a href="../mapview/?trail=1952&evidence=1">1952 wave map</a>
-        <a href="../mapview/?trail=radar&evidence=1">Radar cases map</a>
-        <a href="../mapview/?trail=landings&evidence=1">Landing cases map</a>
-        <a href="../mapview/?trail=geipan-d&evidence=1">GEIPAN Class D map</a>
-        <a href="../mapview/data/source-link-export/source-links.csv">Mapped source links CSV</a>
+        <a href="/mapview/?trail=1952&evidence=1">1952 wave map</a>
+        <a href="/mapview/?trail=radar&evidence=1">Radar cases map</a>
+        <a href="/mapview/?trail=landings&evidence=1">Landing cases map</a>
+        <a href="/mapview/?trail=geipan-d&evidence=1">GEIPAN Class D map</a>
+        <a href="/mapview/data/source-link-export/source-links.csv">Mapped source links CSV</a>
       </div>
       <div id="featured-collections" class="featured-collections" aria-label="Featured PDF collections"></div>
       <div id="coverage-dashboard" class="coverage-dashboard" aria-live="polite"></div>
@@ -232,7 +232,7 @@
               <option value="title">Title</option>
             </select></label>
             <button id="toggle-results-map" type="button" hidden>Preview map</button>
-            <a id="show-results-map" class="results-map-link disabled" href="../mapview/" aria-disabled="true">No mapped cases in results</a>
+            <a id="show-results-map" class="results-map-link disabled" href="/mapview/" aria-disabled="true">No mapped cases in results</a>
             <button id="copy-visible-results" type="button">Copy research set</button>
             <button id="download-results-csv" type="button">CSV</button>
             <button id="download-results-json" type="button">JSON</button>
@@ -290,13 +290,13 @@
             </div>
             <p id="results-map-note">The map loads only when opened.</p>
             <iframe id="results-map-frame" title="Map of visible case results" loading="lazy"></iframe>
-            <a id="open-results-map" href="../mapview/" target="_blank" rel="noopener">Open the full interactive map</a>
+            <a id="open-results-map" href="/mapview/" target="_blank" rel="noopener">Open the full interactive map</a>
           </aside>
         </div>
       </section>
     </div>
   </main>
   <script src="assets/research-tray.js?v=2"></script>
-  <script src="assets/search.js?v=27"></script>
+  <script src="assets/search.js?v=28"></script>
 </body>
 </html>

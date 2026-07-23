@@ -10,6 +10,7 @@ const hybridMetadataByCollection = new Map();
 const hybridShardByCollection = new Map();
 const localLinksByDocumentId = new Map();
 const mapSourcesByDocumentId = new Map();
+const mapSourcesByRecordId = new Map();
 const pageIntelligenceByIssue = new Map();
 const caseDossierByRecordId = new Map();
 let geipanSourceRecords = [];
@@ -1168,6 +1169,7 @@ function recordsFromPayload(payload) {
 async function loadOptionalMapSources() {
   await initializeMapEvidenceDataRelease();
   mapSourcesByDocumentId.clear();
+  mapSourcesByRecordId.clear();
   geipanSourceRecords = [];
   lacUfoSourceRecords = [];
 
@@ -1194,6 +1196,12 @@ async function loadOptionalMapSources() {
     document.documentElement.dataset.mapEvidenceLoadMode = "legacy-sidecars";
   }
 
+  for (const source of [...records, ...geipanSourceRecords, ...lacUfoSourceRecords]) {
+    const recordId = String(source.ufocat_prn || source.record_id || source.geipan_case_id || "").trim();
+    if (!recordId) continue;
+    if (!mapSourcesByRecordId.has(recordId)) mapSourcesByRecordId.set(recordId, []);
+    mapSourcesByRecordId.get(recordId).push(source);
+  }
   for (const source of records) {
     const documentId = String(source.afu_document_id || source.online_source_document_id || "");
     const recordId = String(source.ufocat_prn || source.record_id || "");
@@ -1205,6 +1213,7 @@ async function loadOptionalMapSources() {
     sourceRecords: records.length,
     geipanRecords: geipanSourceRecords.length,
     lacUfoRecords: lacUfoSourceRecords.length,
+    caseRecords: mapSourcesByRecordId.size,
   };
 }
 
@@ -1275,7 +1284,10 @@ function refreshMapEvidencePresentation() {
   renderCoverageDashboard();
   renderSourceRichBrowser();
   renderBrowsePreview();
-  if (currentResultMode === "cases") return;
+  if (currentResultMode === "cases") {
+    renderResults();
+    return;
+  }
   if (!facetUniverse.length) return;
   facetUniverse = facetUniverse.map(result => ({...result, score: resultScore(result)}));
   renderResultFacetOptions();
@@ -1300,11 +1312,13 @@ function startMapEvidenceEnrichment() {
       document.documentElement.dataset.mapEvidenceSourceRecords = String(
         counts.sourceRecords + counts.geipanRecords + counts.lacUfoRecords
       );
+      document.documentElement.dataset.mapEvidenceCaseRecords = String(counts.caseRecords);
       refreshMapEvidencePresentation();
       return counts;
     })
     .catch(error => {
       mapSourcesByDocumentId.clear();
+      mapSourcesByRecordId.clear();
       geipanSourceRecords = [];
       lacUfoSourceRecords = [];
       mapEvidenceLoadState = "unavailable";
@@ -2840,6 +2854,114 @@ function caseEvidenceUrl(row) {
   }
 }
 
+function caseSourceEvidenceUrl(source) {
+  const raw = String(
+    source.evidence_url
+    || source.online_source_url
+    || source.pdf_url
+    || source.source_url
+    || source.official_source_url
+    || ""
+  ).trim();
+  if (!raw) return "";
+  try {
+    const url = new URL(raw, MAP_EVIDENCE_DATA_BASE_URL);
+    if (url.protocol === "http:" && /(^|\.)fold3\.com$/i.test(url.hostname)) url.protocol = "https:";
+    return ["http:", "https:"].includes(url.protocol) ? url.href : "";
+  } catch (error) {
+    return "";
+  }
+}
+
+function sourceArchiveRecordUrl(source) {
+  const documentId = String(source.afu_document_id || source.online_source_document_id || "").trim();
+  if (!documentId) return "";
+  const url = new URL(SEARCH_UI_BASE_URL);
+  url.searchParams.set("issue", documentId);
+  url.searchParams.set("fulltext", "1");
+  url.searchParams.set("autorun", "1");
+  return url.href;
+}
+
+function readableEvidenceStatus(source) {
+  const raw = String(
+    source.validation_status
+    || source.page_mapping_status
+    || source.link_confidence
+    || source.link_status
+    || ""
+  ).trim();
+  return raw.replaceAll("_", " ");
+}
+
+function caseEvidenceSources(row) {
+  const recordId = caseField(row, "id");
+  const sources = mapSourcesByRecordId.get(recordId) || [];
+  const unique = new Map();
+  for (const source of sources) {
+    const evidenceUrl = caseSourceEvidenceUrl(source);
+    if (!evidenceUrl) continue;
+    const sourceCode = String(source.source_code || source.source_label || "").trim();
+    const page = String(source.online_source_page || source.search_hit_page || "").trim();
+    const key = `${evidenceUrl}|${sourceCode}|${page}`;
+    if (!unique.has(key)) unique.set(key, {...source, _evidence_url: evidenceUrl});
+  }
+  return [...unique.values()].sort((left, right) =>
+    Number(String(right.citation_role || "").toLocaleLowerCase() === "primary")
+      - Number(String(left.citation_role || "").toLocaleLowerCase() === "primary")
+    || String(left.source_label || left.source_code || "").localeCompare(String(right.source_label || right.source_code || ""))
+    || String(left.online_source_page || left.search_hit_page || "").localeCompare(String(right.online_source_page || right.search_hit_page || ""))
+  );
+}
+
+function caseEvidenceTrailMarkup(row) {
+  const sources = caseEvidenceSources(row);
+  const expectedCount = caseNumberField(row, "source_count");
+  if (!sources.length) {
+    if (mapEvidenceLoadState === "loading" && expectedCount) {
+      return `<div class="case-evidence-loading" aria-live="polite">Loading all public evidence links…</div>`;
+    }
+    return "";
+  }
+  const shown = sources.slice(0, 8);
+  const overflow = sources.length - shown.length;
+  return `
+    <details class="case-evidence-trail" ${sources.length <= 3 ? "open" : ""}>
+      <summary>
+        <span>Evidence trail</span>
+        <strong>${sources.length.toLocaleString()} public link${sources.length === 1 ? "" : "s"}</strong>
+      </summary>
+      <div class="case-evidence-source-list">
+        ${shown.map(source => {
+          const label = String(source.source_label || source.source_code || "Public source").trim();
+          const issue = String(source.issue_label || source.online_source_label || source.case_title || source.item_record_number || "").trim();
+          const page = String(source.online_source_page || source.search_hit_page || "").trim();
+          const status = readableEvidenceStatus(source);
+          const role = String(source.citation_role || "").trim();
+          const archiveUrl = sourceArchiveRecordUrl(source);
+          const badges = [
+            role,
+            page ? `page ${page}` : "",
+            status,
+          ].filter(Boolean);
+          return `<article>
+            <div class="case-evidence-source-heading">
+              <strong>${escapeHtml(label)}</strong>
+              ${badges.length ? `<span>${badges.map(value => escapeHtml(value)).join(" / ")}</span>` : ""}
+            </div>
+            ${issue ? `<p>${escapeHtml(issue)}</p>` : ""}
+            <div class="case-evidence-source-actions">
+              <a href="${escapeHtml(source._evidence_url)}" target="_blank" rel="noopener">Open evidence</a>
+              ${archiveUrl ? `<a href="${escapeHtml(archiveUrl)}">Open archive record</a>` : ""}
+            </div>
+          </article>`;
+        }).join("")}
+      </div>
+      ${overflow > 0 ? `<p class="case-evidence-overflow">${overflow.toLocaleString()} additional link${overflow === 1 ? "" : "s"} available on the full map.</p>` : ""}
+      <p class="case-evidence-note">Links identify public source material; they are not a credibility score.</p>
+    </details>`;
+}
+
 function caseMapUrl(recordIds) {
   const url = new URL(MAP_UI_BASE_URL);
   const ids = [...new Set(recordIds.map(value => String(value || "").trim()).filter(Boolean))];
@@ -3305,6 +3427,7 @@ function renderCaseResults() {
     const collectionLabel = CASE_COLLECTION_LABELS[collection] || collection;
     const mapUrl = caseMapUrl([recordId]);
     const evidenceUrl = caseEvidenceUrl(row);
+    const evidenceTrail = caseEvidenceTrailMarkup(row);
     const sourceCount = caseNumberField(row, "source_count");
     const dossier = caseDossierByRecordId.get(recordId);
     const metadata = [
@@ -3328,8 +3451,9 @@ function renderCaseResults() {
           <p class="result-meta">${metadata.map(value => `<span>${escapeHtml(value)}</span>`).join("")}</p>
           <p class="result-stat-strip">${stats.map(value => `<span>${escapeHtml(value)}</span>`).join("")}</p>
           ${caseField(row, "source_labels") ? `<p class="source-map-summary">Source family: ${escapeHtml(caseField(row, "source_labels"))}</p>` : ""}
+          ${evidenceTrail}
           <div class="result-actions">
-            ${evidenceUrl ? `<a class="evidence-action" href="${escapeHtml(evidenceUrl)}" target="_blank" rel="noopener">Open linked evidence or file <span aria-hidden="true">&nearr;</span></a>` : ""}
+            ${evidenceUrl ? `<a class="evidence-action" href="${escapeHtml(evidenceUrl)}" target="_blank" rel="noopener">Open representative evidence <span aria-hidden="true">&nearr;</span></a>` : ""}
             <button class="secondary-action" type="button" data-preview-case-map="${escapeHtml(recordId)}">Locate here</button>
             <a class="secondary-action map-evidence-action" href="${escapeHtml(mapUrl)}">Open case on full map</a>
             ${dossier ? `<a class="secondary-action" href="${escapeHtml(searchUiUrl(dossier.stable_url || ("cases/" + dossier.slug + "/")))}">Open reviewed dossier</a>` : ""}
