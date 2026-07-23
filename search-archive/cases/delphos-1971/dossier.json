@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-07-11",
+  "record_id": "64623",
+  "slug": "delphos-1971",
+  "title": "Delphos — 2 November 1971",
+  "display_date": "2 November 1971",
+  "raw_catalogue_fields": {
+    "Date": "1971.1102",
+    "Time": "19",
+    "Location": "DELPHOS",
+    "County": "Ottawa",
+    "StateProvince": "Kansas",
+    "Country": "United States",
+    "GeographicRegion": "United States",
+    "Names": "JOHNSON, RON",
+    "Hynek": "CE2",
+    "Vallee": "CE5",
+    "ExplanationCode": "+"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.77,
+      39.28
+    ]
+  },
+  "coordinate_provenance": {
+    "CoordinateTier": "raw_plausible_coordinate",
+    "CoordinatePrecision": "catalogue_coordinate",
+    "CoordinateSource": "UFOCAT 2023 corrected edition"
+  },
+  "source_labels": [
+    "APRO Bulletin",
+    "Data-Net"
+  ],
+  "source_link_count": 5,
+  "source_family_count": 2,
+  "evidence_precision_counts": {
+    "Highlighted page": 2,
+    "Text-validated page hit": 3
+  },
+  "sources": [
+    {
+      "source_code": "DataNet",
+      "source_label": "Data-Net",
+      "citation_raw": "19720214",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-911c6fbe3ac00a427dc5",
+      "issue_label": "Data Net - No 56 - 1972",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252056%2520-%25201972.pdf#page=1&search=JOHNSON&phrase=true",
+      "online_source_page": "1",
+      "search_hit_page": "1",
+      "cited_printed_page": 14,
+      "search_anchor_term": "JOHNSON",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "needs_review",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-911c6fbe3ac00a427dc5&fulltext=1&autorun=1&q=JOHNSON&page=1",
+      "required_attribution": "Data-Net via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    },
+    {
+      "source_code": "DataNet",
+      "source_label": "Data-Net",
+      "citation_raw": "19720616",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-7b51b9fdbe65029bd595",
+      "issue_label": "Data Net - No 60 - 1972",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252060%2520-%25201972.pdf#page=1&search=JOHNSON&phrase=true",
+      "online_source_page": "1",
+      "search_hit_page": "1",
+      "cited_printed_page": 16,
+      "search_anchor_term": "JOHNSON",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "needs_review",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-7b51b9fdbe65029bd595&fulltext=1&autorun=1&q=JOHNSON&page=1",
+      "required_attribution": "Data-Net via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    },
+    {
+      "source_code": "DataNet",
+      "source_label": "Data-Net",
+      "citation_raw": "19721012",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-85c4b351ce10179fcb1a",
+      "issue_label": "Data Net - No 64 - 1972",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252064%2520-%25201972.pdf#page=2&search=JOHNSON&phrase=true",
+      "online_source_page": "2",
+      "search_hit_page": "2",
+      "cited_printed_page": 12,
+      "search_anchor_term": "JOHNSON",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "needs_review",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-85c4b351ce10179fcb1a&fulltext=1&autorun=1&q=JOHNSON&page=2",
+      "required_attribution": "Data-Net via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    },
+    {
+      "source_code": "APROBulletin",
+      "source_label": "APRO Bulletin",
+      "citation_raw": "19711101",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-176d0301aac93e49fdbf",
+      "issue_label": "APRO Bulletin - 1971 11 00 - November-December",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FAPRO%2520Bulletin%2FAPRO%2520Bulletin%2520-%25201971%252011%252000%2520-%2520November-December.pdf#page=1&search=JOHNSON&phrase=true",
+      "online_source_page": "1",
+      "search_hit_page": "1",
+      "cited_printed_page": 1,
+      "search_anchor_term": "JOHNSON",
+      "validation_status": "issue_resolved",
+      "page_mapping_status": "needs_review",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-176d0301aac93e49fdbf&fulltext=1&autorun=1&q=JOHNSON&page=1",
+      "required_attribution": "APRO Bulletin via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Highlighted page",
+      "evidence_precision_rank": 2
+    },
+    {
+      "source_code": "APROBulletin",
+      "source_label": "APRO Bulletin",
+      "citation_raw": "19720308",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-1a8ccf0f38aef0d66c7f",
+      "issue_label": "APRO Bulletin - 1972 03 00 - March-April",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FAPRO%2520Bulletin%2FAPRO%2520Bulletin%2520-%25201972%252003%252000%2520-%2520March-April.pdf#page=2&search=JOHNSON&phrase=true",
+      "online_source_page": "2",
+      "search_hit_page": "2",
+      "cited_printed_page": 8,
+      "search_anchor_term": "JOHNSON",
+      "validation_status": "issue_resolved",
+      "page_mapping_status": "needs_review",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-1a8ccf0f38aef0d66c7f&fulltext=1&autorun=1&q=JOHNSON&page=2",
+      "required_attribution": "APRO Bulletin via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Highlighted page",
+      "evidence_precision_rank": 2
+    }
+  ],
+  "map_url": "/mapview/?prn=64623&evidence=1",
+  "stable_url": "/search-archive/cases/delphos-1971/",
+  "investigation_url": "",
+  "attribution": "UFOCAT 2023 corrected edition; archive publications via the Isaac Koi archive, hosted by Archives for the Unexplained.",
+  "publication_note": "This dossier republishes approved catalogue metadata and source links only. It does not reproduce source narrative or assert that automated or issue-level links prove a case detail.",
+  "citation": {
+    "canonical_url": "https://isaackoi.com/search-archive/cases/delphos-1971/",
+    "plain_text": "Isaac Koi Archive. \"Delphos — 2 November 1971.\" Evidence Dossiers, UFOCAT record 64623. https://isaackoi.com/search-archive/cases/delphos-1971/",
+    "csl_json": {
+      "id": "isaac-koi-ufocat-64623",
+      "type": "webpage",
+      "title": "Delphos — 2 November 1971",
+      "author": [
+        {
+          "literal": "Isaac Koi Archive"
+        }
+      ],
+      "container-title": "Isaac Koi Archive Evidence Dossiers",
+      "publisher": "Archives for the Unexplained",
+      "URL": "https://isaackoi.com/search-archive/cases/delphos-1971/",
+      "note": "UFOCAT record 64623; approved catalogue metadata and public evidence links.",
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      }
+    },
+    "bibtex": "@misc{isaac_koi_ufocat_64623,\n  author = {{Isaac Koi Archive}},\n  title = {Delphos — 2 November 1971},\n  year = {2026},\n  howpublished = {Isaac Koi Archive Evidence Dossiers},\n  note = {UFOCAT record 64623},\n  url = {https://isaackoi.com/search-archive/cases/delphos-1971/}\n}\n",
+    "ris": "TY  - ELEC\r\nAU  - Isaac Koi Archive\r\nTI  - Delphos — 2 November 1971\r\nT2  - Isaac Koi Archive Evidence Dossiers\r\nPB  - Archives for the Unexplained\r\nPY  - 2026\r\nN1  - UFOCAT record 64623\r\nUR  - https://isaackoi.com/search-archive/cases/delphos-1971/\r\nER  -\r\n"
+  }
+}

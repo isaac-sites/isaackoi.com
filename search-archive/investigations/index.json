@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-07-15",
+  "trails": [
+    {
+      "slug": "follow-the-evidence-sillerup",
+      "title": "Follow the evidence: Sillerup",
+      "dek": "A five-minute guided route from one catalogue record to its map provenance, two publication families, and a structured comparison.",
+      "estimated_minutes": 5,
+      "reviewed_at": "2026-07-15",
+      "featured_record_id": "110409",
+      "stable_url": "/search-archive/investigations/follow-the-evidence-sillerup/",
+      "map_url": "/mapview/?prn=110409,76555,89688&evidence=1"
+    },
+    {
+      "slug": "three-publication-families-valensole",
+      "title": "Three publication families: Valensole",
+      "dek": "A six-minute route through one catalogue record and three distinct archive publication families, ending with a disciplined comparison.",
+      "estimated_minutes": 6,
+      "reviewed_at": "2026-07-15",
+      "featured_record_id": "76555",
+      "stable_url": "/search-archive/investigations/three-publication-families-valensole/",
+      "map_url": "/mapview/?prn=76555,110409,64623&evidence=1"
+    },
+    {
+      "slug": "same-date-different-records",
+      "title": "Same date, different records",
+      "dek": "A six-minute paired investigation of Moneymore and Twin Falls: two catalogue records sharing a date and one publication issue, but requiring separate treatment.",
+      "estimated_minutes": 6,
+      "reviewed_at": "2026-07-15",
+      "featured_record_id": "89688",
+      "stable_url": "/search-archive/investigations/same-date-different-records/",
+      "map_url": "/mapview/?prn=89688,71217&evidence=1"
+    }
+  ]
+}

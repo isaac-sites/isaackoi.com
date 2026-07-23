@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Raw Tile Grid Test</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        background: #f0f2f4;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .bar {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        padding: 10px 12px;
+        background: #fff;
+        border-bottom: 1px solid #ccd4dc;
+      }
+
+      .bar strong {
+        display: inline-block;
+        min-width: 180px;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(6, 256px);
+        gap: 0;
+        width: max-content;
+        margin: 18px;
+        border: 3px solid #c3552a;
+      }
+
+      .tile {
+        position: relative;
+        width: 256px;
+        height: 256px;
+        background: repeating-linear-gradient(
+          45deg,
+          #f8d7da,
+          #f8d7da 10px,
+          #fff 10px,
+          #fff 20px
+        );
+        outline: 1px solid rgba(0, 0, 0, 0.28);
+      }
+
+      .tile img {
+        display: block;
+        width: 256px;
+        height: 256px;
+      }
+
+      .label {
+        position: absolute;
+        left: 4px;
+        bottom: 4px;
+        padding: 2px 4px;
+        background: rgba(255, 255, 255, 0.88);
+        border-radius: 4px;
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="bar">
+      <strong>Raw tile grid</strong>
+      <span id="status">loading...</span>
+    </div>
+    <div id="grid" class="grid"></div>
+
+    <script>
+      const grid = document.getElementById("grid");
+      const statusEl = document.getElementById("status");
+      const tiles = [];
+      let loaded = 0;
+      let failed = 0;
+
+      // z=5 over central/eastern United States. Plain image tags, no Leaflet.
+      const z = 5;
+      for (let y = 10; y <= 13; y += 1) {
+        for (let x = 7; x <= 12; x += 1) {
+          tiles.push({ x, y, z });
+        }
+      }
+
+      function updateStatus() {
+        statusEl.textContent = `${loaded} loaded, ${failed} failed, ${tiles.length} total`;
+      }
+
+      for (const tile of tiles) {
+        const cell = document.createElement("div");
+        cell.className = "tile";
+        const img = document.createElement("img");
+        img.alt = `tile ${tile.z}/${tile.x}/${tile.y}`;
+        img.src = `https://a.basemaps.cartocdn.com/light_all/${tile.z}/${tile.x}/${tile.y}.png`;
+        img.addEventListener("load", () => {
+          loaded += 1;
+          updateStatus();
+        });
+        img.addEventListener("error", () => {
+          failed += 1;
+          updateStatus();
+        });
+        const label = document.createElement("div");
+        label.className = "label";
+        label.textContent = `${tile.z}/${tile.x}/${tile.y}`;
+        cell.appendChild(img);
+        cell.appendChild(label);
+        grid.appendChild(cell);
+      }
+      updateStatus();
+    </script>
+  </body>
+</html>

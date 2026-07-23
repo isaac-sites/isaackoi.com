@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Compare public archive documents, mapped cases, and evidence dossiers saved to a browser-local research set.">
+  <meta name="afu-search-ui-base" content="https://isaackoi.com/search-archive/">
+  <meta name="afu-map-ui-base" content="https://isaackoi.com/mapview/">
+  <title>Research Workspace | Isaac Koi Archive</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <script>(function(){var s=null;try{s=localStorage.getItem("phoenix-color-mode")}catch(e){}var t=s==="dark"||s==="light"?s:(matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t)}());</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/search.css?v=18">
+</head>
+<body>
+  <header class="site-header"><div class="header-inner">
+    <a class="brand-lockup" href="./"><span class="brand-copy"><span class="brand-name">Isaac Koi Archive</span><span class="site-title">Research Workspace</span><span class="site-tagline">Compare public records without creating an account</span></span></a>
+    <div class="header-actions"><a class="surface-link" href="./">Archive search</a><a class="surface-link" href="/mapview/">Research map</a><a class="surface-link" href="cases/">Evidence dossiers</a></div>
+  </div></header>
+
+  <main class="research-workspace-page">
+    <section class="research-workspace-hero">
+      <p class="eyebrow">Browser-local research set</p>
+      <h1>Compare evidence without flattening uncertainty</h1>
+      <p>Select up to four saved documents, mapped cases, or dossiers. The workspace compares public metadata and provenance; it does not infer which case is more credible.</p>
+      <div class="research-workspace-actions">
+        <button id="copy-research-share" class="primary-button" type="button">Copy share link</button>
+        <button id="copy-research-citations" type="button">Copy citations</button>
+        <button id="download-research-json" type="button">Download JSON</button>
+        <button id="save-shared-set" type="button" hidden>Save shared set in this browser</button>
+      </div>
+      <p id="research-workspace-status" class="research-workspace-status" aria-live="polite"></p>
+    </section>
+
+    <section id="shared-set-note" class="research-shared-note" hidden>
+      <strong>Viewing a shared public research set.</strong>
+      <span>It has not been added to this browser unless you choose “Save shared set.”</span>
+    </section>
+
+    <div class="research-workspace-layout">
+      <aside class="research-selection-panel">
+        <div class="research-section-heading"><div><p class="eyebrow">Selection</p><h2>Research items</h2></div><span id="research-selection-count">0 selected</span></div>
+        <p>Choose up to four items for the comparison table.</p>
+        <div id="research-item-list" class="research-item-list"></div>
+        <div id="research-empty-state" class="research-empty-state" hidden>
+          <h3>Start a research set</h3>
+          <p>Add results, mapped cases, or dossiers. Selections remain in this browser.</p>
+          <a href="./">Search the archive</a><a href="/mapview/">Explore the map</a>
+        </div>
+      </aside>
+
+      <section class="research-comparison-panel">
+        <div class="research-section-heading"><div><p class="eyebrow">Evidence matrix</p><h2>Side-by-side comparison</h2></div><span>Public metadata only</span></div>
+        <div id="research-comparison" class="research-comparison" aria-live="polite"></div>
+      </section>
+    </div>
+
+    <section class="research-workspace-note">
+      <h2>Interpretation boundary</h2>
+      <p>More links do not automatically mean a more credible case. Source counts describe archive coverage. Page-resolution and provenance labels describe link precision and review status. Missing fields remain visible instead of being replaced with generated guesses.</p>
+      <a href="methodology.html">Read the complete methodology</a>
+    </section>
+  </main>
+  <script src="assets/research-tray.js?v=2"></script>
+  <script src="assets/research-workspace.js?v=1"></script>
+</body>
+</html>

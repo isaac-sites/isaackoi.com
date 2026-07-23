@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "slug": "follow-the-evidence-sillerup",
+  "title": "Follow the evidence: Sillerup",
+  "dek": "A five-minute guided route from one catalogue record to its map provenance, two publication families, and a structured comparison.",
+  "estimated_minutes": 5,
+  "reviewed_at": "2026-07-15",
+  "featured_record_id": "110409",
+  "stable_url": "/search-archive/investigations/follow-the-evidence-sillerup/",
+  "map_url": "/mapview/?prn=110409,76555,89688&evidence=1",
+  "research_items": [
+    {
+      "id": "dossier:110409",
+      "type": "dossier",
+      "title": "Sillerup — 13 August 1970",
+      "subtitle": "UFOCAT 110409 evidence dossier",
+      "url": "https://isaackoi.com/search-archive/cases/sillerup-1970/",
+      "citation": "Isaac Koi Archive. \"Sillerup — 13 August 1970.\" Evidence Dossiers, UFOCAT record 110409. https://isaackoi.com/search-archive/cases/sillerup-1970/",
+      "date": "13 August 1970",
+      "location": "SILLERUP",
+      "collection": "Isaac Koi Archive Evidence Dossiers",
+      "document_id": "",
+      "record_id": "110409",
+      "source_families": [
+        "APRO Bulletin",
+        "Data-Net"
+      ],
+      "source_count": 6,
+      "evidence_status": "2 source families · 6 public source links"
+    },
+    {
+      "id": "dossier:76555",
+      "type": "dossier",
+      "title": "Valensole — 1 July 1965",
+      "subtitle": "UFOCAT 76555 evidence dossier",
+      "url": "https://isaackoi.com/search-archive/cases/valensole-1965/",
+      "citation": "Isaac Koi Archive. \"Valensole — 1 July 1965.\" Evidence Dossiers, UFOCAT record 76555. https://isaackoi.com/search-archive/cases/valensole-1965/",
+      "date": "1 July 1965",
+      "location": "VALENSOLE",
+      "collection": "Isaac Koi Archive Evidence Dossiers",
+      "document_id": "",
+      "record_id": "76555",
+      "source_families": [
+        "APRO Bulletin",
+        "Data-Net",
+        "Lumieres dans la Nuit"
+      ],
+      "source_count": 3,
+      "evidence_status": "3 source families · 3 public source links"
+    },
+    {
+      "id": "dossier:89688",
+      "type": "dossier",
+      "title": "Moneymore — 7 September 1956",
+      "subtitle": "UFOCAT 89688 evidence dossier",
+      "url": "https://isaackoi.com/search-archive/cases/moneymore-1956/",
+      "citation": "Isaac Koi Archive. \"Moneymore — 7 September 1956.\" Evidence Dossiers, UFOCAT record 89688. https://isaackoi.com/search-archive/cases/moneymore-1956/",
+      "date": "7 September 1956",
+      "location": "MONEYMORE",
+      "collection": "Isaac Koi Archive Evidence Dossiers",
+      "document_id": "",
+      "record_id": "89688",
+      "source_families": [
+        "APRO Bulletin",
+        "CSI New York",
+        "Data-Net"
+      ],
+      "source_count": 3,
+      "evidence_status": "3 source families · 3 public source links"
+    }
+  ],
+  "checkpoints": [
+    {
+      "id": "catalogue",
+      "label": "Checkpoint 1",
+      "title": "Separate the recorded fields from interpretation",
+      "guidance": "Begin with the catalogue layer. Retain the stable record ID and read the raw date, place, names, and classification fields as recorded values—not as conclusions.",
+      "action": {
+        "kind": "dossier",
+        "label": "Inspect the recorded fields",
+        "url": "/search-archive/cases/sillerup-1970/#recorded-fields",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Record",
+          "value": "UFOCAT 110409"
+        },
+        {
+          "label": "Date",
+          "value": "13 August 1970"
+        },
+        {
+          "label": "Location",
+          "value": "SILLERUP"
+        }
+      ]
+    },
+    {
+      "id": "map",
+      "label": "Checkpoint 2",
+      "title": "Check how the point reached the map",
+      "guidance": "A precise-looking marker can still rest on coarse or provisional geography. Check the coordinate tier, precision, source, and stated uncertainty before drawing spatial conclusions.",
+      "action": {
+        "kind": "map",
+        "label": "Open the mapped record",
+        "url": "/mapview/?prn=110409&evidence=1",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Coordinate tier",
+          "value": "reviewed_coordinate_override"
+        },
+        {
+          "label": "Precision",
+          "value": "city"
+        },
+        {
+          "label": "Coordinate source",
+          "value": "Reviewed coordinate override (nominatim_reviewed)"
+        }
+      ]
+    },
+    {
+      "id": "apro",
+      "label": "Checkpoint 3",
+      "title": "Follow the APRO publication route",
+      "guidance": "Open the reviewed archive route and note what the precision badge actually promises. A highlighted viewer page is a finding aid; verify the scan before quoting or attributing a claim.",
+      "action": {
+        "kind": "source",
+        "label": "Open the APRO evidence page",
+        "url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FAPRO%2520Bulletin%2FAPRO%2520Bulletin%2520-%25201970%252007%252000%2520-%2520July-August.pdf#page=7&search=MOURUP&phrase=true",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Publication family",
+          "value": "APRO Bulletin"
+        },
+        {
+          "label": "Issue",
+          "value": "APRO Bulletin - 1970 07 00 - July-August"
+        },
+        {
+          "label": "Link precision",
+          "value": "Highlighted page"
+        },
+        {
+          "label": "Confidence",
+          "value": "high"
+        }
+      ]
+    },
+    {
+      "id": "data-net",
+      "label": "Checkpoint 4",
+      "title": "Compare an independent publication family",
+      "guidance": "Now follow a Data-Net route for the same catalogue record. Distinct publication families are useful for source comparison, but source counts do not by themselves establish independence or truth.",
+      "action": {
+        "kind": "source",
+        "label": "Open the Data-Net evidence page",
+        "url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252041%2520-%25201970.pdf#page=8&search=HADERSLEV&phrase=true",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Publication family",
+          "value": "Data-Net"
+        },
+        {
+          "label": "Issue",
+          "value": "Data Net - No 41 - 1970"
+        },
+        {
+          "label": "Link precision",
+          "value": "Text-validated page hit"
+        },
+        {
+          "label": "Confidence",
+          "value": "high"
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "label": "Checkpoint 5",
+      "title": "Carry the method into comparison",
+      "guidance": "Add three reviewed dossiers to the research workspace. Compare dates, locations, source families, link counts, and evidence-status labels while leaving missing fields visible.",
+      "action": {
+        "kind": "comparison",
+        "label": "Add three dossiers to the research set",
+        "url": "/search-archive/research.html",
+        "record_ids": [
+          "110409",
+          "76555",
+          "89688"
+        ]
+      },
+      "facts": [
+        {
+          "label": "Sillerup — 13 August 1970",
+          "value": "2 families · 6 links"
+        },
+        {
+          "label": "Valensole — 1 July 1965",
+          "value": "3 families · 3 links"
+        },
+        {
+          "label": "Moneymore — 7 September 1956",
+          "value": "3 families · 3 links"
+        }
+      ]
+    }
+  ]
+}

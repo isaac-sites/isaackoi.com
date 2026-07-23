@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "slug": "same-date-different-records",
+  "title": "Same date, different records",
+  "dek": "A six-minute paired investigation of Moneymore and Twin Falls: two catalogue records sharing a date and one publication issue, but requiring separate treatment.",
+  "estimated_minutes": 6,
+  "reviewed_at": "2026-07-15",
+  "featured_record_id": "89688",
+  "stable_url": "/search-archive/investigations/same-date-different-records/",
+  "map_url": "/mapview/?prn=89688,71217&evidence=1",
+  "research_items": [
+    {
+      "id": "dossier:89688",
+      "type": "dossier",
+      "title": "Moneymore — 7 September 1956",
+      "subtitle": "UFOCAT 89688 evidence dossier",
+      "url": "https://isaackoi.com/search-archive/cases/moneymore-1956/",
+      "citation": "Isaac Koi Archive. \"Moneymore — 7 September 1956.\" Evidence Dossiers, UFOCAT record 89688. https://isaackoi.com/search-archive/cases/moneymore-1956/",
+      "date": "7 September 1956",
+      "location": "MONEYMORE",
+      "collection": "Isaac Koi Archive Evidence Dossiers",
+      "document_id": "",
+      "record_id": "89688",
+      "source_families": [
+        "APRO Bulletin",
+        "CSI New York",
+        "Data-Net"
+      ],
+      "source_count": 3,
+      "evidence_status": "3 source families · 3 public source links"
+    },
+    {
+      "id": "dossier:71217",
+      "type": "dossier",
+      "title": "Twin Falls — 7 September 1956",
+      "subtitle": "UFOCAT 71217 evidence dossier",
+      "url": "https://isaackoi.com/search-archive/cases/twin-falls-1956/",
+      "citation": "Isaac Koi Archive. \"Twin Falls — 7 September 1956.\" Evidence Dossiers, UFOCAT record 71217. https://isaackoi.com/search-archive/cases/twin-falls-1956/",
+      "date": "7 September 1956",
+      "location": "TWIN FALLS",
+      "collection": "Isaac Koi Archive Evidence Dossiers",
+      "document_id": "",
+      "record_id": "71217",
+      "source_families": [
+        "CRIFO Orbit",
+        "CSI New York",
+        "Data-Net"
+      ],
+      "source_count": 3,
+      "evidence_status": "3 source families · 3 public source links"
+    }
+  ],
+  "checkpoints": [
+    {
+      "id": "moneymore-record",
+      "label": "Checkpoint 1",
+      "title": "Read the Moneymore record on its own terms",
+      "guidance": "Capture its stable ID, place, date, and classifications before looking for similarities elsewhere. Shared dates are search clues, not evidence that records describe one event.",
+      "action": {
+        "kind": "dossier",
+        "label": "Inspect the Moneymore record",
+        "url": "/search-archive/cases/moneymore-1956/#recorded-fields",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Record",
+          "value": "UFOCAT 89688"
+        },
+        {
+          "label": "Date",
+          "value": "7 September 1956"
+        },
+        {
+          "label": "Location",
+          "value": "MONEYMORE"
+        }
+      ]
+    },
+    {
+      "id": "twin-falls-record",
+      "label": "Checkpoint 2",
+      "title": "Keep the Twin Falls record distinct",
+      "guidance": "Repeat the same extraction for Twin Falls. Preserve its own record ID and location so later comparison cannot silently merge the two catalogue rows.",
+      "action": {
+        "kind": "dossier",
+        "label": "Inspect the Twin Falls record",
+        "url": "/search-archive/cases/twin-falls-1956/#recorded-fields",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Record",
+          "value": "UFOCAT 71217"
+        },
+        {
+          "label": "Date",
+          "value": "7 September 1956"
+        },
+        {
+          "label": "Location",
+          "value": "TWIN FALLS"
+        }
+      ]
+    },
+    {
+      "id": "paired-map",
+      "label": "Checkpoint 3",
+      "title": "View both locations before inferring a relationship",
+      "guidance": "Open the records together and check their coordinate precision. A shared date does not erase geographic separation or uncertainty in either mapped point.",
+      "action": {
+        "kind": "map",
+        "label": "Open both records on the map",
+        "url": "/mapview/?prn=89688,71217&evidence=1",
+        "record_ids": [
+          "89688",
+          "71217"
+        ]
+      },
+      "facts": [
+        {
+          "label": "Moneymore — 7 September 1956",
+          "value": "MONEYMORE · catalogue_coordinate"
+        },
+        {
+          "label": "Twin Falls — 7 September 1956",
+          "value": "TWIN FALLS · catalogue_coordinate"
+        }
+      ]
+    },
+    {
+      "id": "moneymore-csi",
+      "label": "Checkpoint 4",
+      "title": "Trace Moneymore into the CSI issue",
+      "guidance": "Open the reviewed CSI New York page route for Moneymore and retain its record-specific context while noting the publication identity.",
+      "action": {
+        "kind": "source",
+        "label": "Open the Moneymore CSI route",
+        "url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FCivilian%2520Saucer%2520Intelligence%2520%2528CSI%2520New%2520York%2529%2FCivlilian%2520Saucer%2520Intellligence%2520of%2520New%2520York%2520-%2520No%252017.pdf#page=9&search=HUTCHINSON&phrase=true",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Publication family",
+          "value": "CSI New York"
+        },
+        {
+          "label": "Issue",
+          "value": "Civlilian Saucer Intellligence of New York - No 17"
+        },
+        {
+          "label": "Link precision",
+          "value": "Reviewed page mapping"
+        },
+        {
+          "label": "Confidence",
+          "value": "high"
+        }
+      ]
+    },
+    {
+      "id": "twin-falls-csi",
+      "label": "Checkpoint 5",
+      "title": "Trace Twin Falls into the same CSI issue",
+      "guidance": "The document ID matches the prior checkpoint because both routes reach the same publication issue. That shared container is provenance information—not permission to merge the catalogue records.",
+      "action": {
+        "kind": "source",
+        "label": "Open the Twin Falls CSI route",
+        "url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FCivilian%2520Saucer%2520Intelligence%2520%2528CSI%2520New%2520York%2529%2FCivlilian%2520Saucer%2520Intellligence%2520of%2520New%2520York%2520-%2520No%252017.pdf#page=9&search=ATTORNEY&phrase=true",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Publication family",
+          "value": "CSI New York"
+        },
+        {
+          "label": "Issue",
+          "value": "Civlilian Saucer Intellligence of New York - No 17"
+        },
+        {
+          "label": "Link precision",
+          "value": "Reviewed page mapping"
+        },
+        {
+          "label": "Confidence",
+          "value": "high"
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "label": "Checkpoint 6",
+      "title": "Compare without collapsing",
+      "guidance": "Place both dossiers side by side. Keep distinct IDs, locations, source families, and citations visible even where date or publication context overlaps.",
+      "action": {
+        "kind": "comparison",
+        "label": "Add both dossiers to the research set",
+        "url": "/search-archive/research.html",
+        "record_ids": [
+          "89688",
+          "71217"
+        ]
+      },
+      "facts": [
+        {
+          "label": "Moneymore — 7 September 1956",
+          "value": "3 families · 3 links"
+        },
+        {
+          "label": "Twin Falls — 7 September 1956",
+          "value": "3 families · 3 links"
+        }
+      ]
+    }
+  ]
+}

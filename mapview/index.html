@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="afu-map-data-base" content="https://files.afu.se/Downloads/mapview/">
+    <meta name="afu-map-ui-base" content="https://isaackoi.com/mapview/">
+    <meta name="afu-search-ui-base" content="https://isaackoi.com/search-archive/">
+    <title>Isaac Koi UFO Research Map</title>
+    <script>
+      (function () {
+        var stored = null;
+        try { stored = window.localStorage.getItem("phoenix-color-mode"); } catch (error) {}
+        var theme = stored === "dark" || stored === "light"
+          ? stored
+          : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        document.documentElement.setAttribute("data-theme", theme);
+      }());
+    </script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@10.6.1/ol.css">
+    <link rel="stylesheet" href="styles.css?v=33">
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="control-panel" aria-label="Map controls">
+        <div class="control-bar">
+          <div class="brand">
+            <a class="brand-lockup" href="https://isaackoi.com/" aria-label="Isaac Koi Archive home">
+              <span class="brand-mark" aria-hidden="true">
+                <svg viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g stroke="currentColor" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter">
+                    <path d="M64 20V34M64 34L44 50M64 34L84 50M44 50L28 66M44 50L52 66M84 50L76 66M84 50L100 66"/>
+                  </g>
+                  <rect x="60" y="66" width="8" height="24" fill="var(--accent)"/>
+                  <path d="M64 90C50.8 82.8 27.9 82.8 15 90V105C29.4 98.6 50.3 98.6 64 105C77.7 98.6 98.6 98.6 113 105V90C100.1 82.8 77.2 82.8 64 90Z" fill="var(--accent)"/>
+                  <path d="M64 10L74 20L64 30L54 20L64 10ZM44 42L52 50L44 58L36 50L44 42ZM84 42L92 50L84 58L76 50L84 42Z" fill="currentColor"/>
+                </svg>
+              </span>
+              <span class="brand-copy">
+                <span class="brand-name">Isaac Koi Archive</span>
+                <span class="brand-title">UFO Research Map</span>
+                <span id="localModeBadge" class="local-mode-badge" hidden>Local evidence mode</span>
+                <span class="brand-tagline">Documents, catalogue records, and linked archive sources</span>
+              </span>
+            </a>
+          </div>
+          <div class="surface-links">
+            <a class="surface-link" href="/search-archive/">Archive search</a>
+            <a class="surface-link" href="/search-archive/investigations/">Guided trails</a>
+            <a class="surface-link" href="/search-archive/research.html">Research set</a>
+            <a class="surface-link surface-link-secondary" href="/search-archive/methodology.html">About data</a>
+          </div>
+
+          <div class="stats" aria-live="polite">
+            <div>
+              <span id="visibleCount">0</span>
+              <label>visible</label>
+            </div>
+            <div>
+              <span id="totalCount">0</span>
+              <label>total</label>
+            </div>
+            <div>
+              <span id="evidenceCount">0</span>
+              <label>evidence</label>
+            </div>
+          </div>
+
+          <details class="timeline-disclosure">
+            <summary>Timeline</summary>
+          <section id="timelineExplorer" class="timeline-explorer" aria-labelledby="timelineTitle">
+            <div class="timeline-heading">
+              <div>
+                <span class="timeline-kicker">Timeline explorer</span>
+                <strong id="timelineTitle">Cases through time</strong>
+              </div>
+              <div class="timeline-actions">
+                <button id="timelinePlay" type="button" aria-pressed="false" title="Play available years">Play</button>
+                <button id="timelineClear" type="button" title="Clear timeline filters">Clear</button>
+              </div>
+            </div>
+            <div id="yearTimeline" class="timeline-chart timeline-years" aria-label="Cases by year"></div>
+            <div class="timeline-lower">
+              <div>
+                <span class="timeline-label">Months</span>
+                <div id="monthTimeline" class="timeline-chart timeline-months" aria-label="Cases by month"></div>
+              </div>
+              <div>
+                <span class="timeline-label">Collections</span>
+                <div id="collectionTimeline" class="timeline-collections" aria-label="Cases by collection"></div>
+              </div>
+            </div>
+            <p id="timelineStatus" class="timeline-status" aria-live="polite">Loading dated cases...</p>
+          </section>
+          </details>
+
+          <label class="field search-field">
+            <span>Search</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="Location, date, state, record ID">
+          </label>
+
+          <button id="filterToggle" class="filter-toggle" type="button" aria-expanded="false" aria-controls="advancedFilters">
+            Filters <span id="activeFilterCount" class="filter-count" hidden>0</span>
+          </button>
+
+          <button id="resetButton" class="reset" type="button">Reset</button>
+
+          <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme" title="Switch colour theme">
+            <svg class="icon icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/></svg>
+            <svg class="icon icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14.5 3a8.8 8.8 0 1 0 6.5 14.7 9.2 9.2 0 0 1-6.5-14.7z"/></svg>
+          </button>
+        </div>
+
+        <div id="advancedFilters" class="advanced-filters" hidden>
+          <fieldset class="layer-controls">
+            <legend>Layers</legend>
+            <label><input id="fold3LayerToggle" type="checkbox" checked> Documents / Project Blue Book / Fold3</label>
+            <label><input id="aproLayerToggle" type="checkbox" checked> Publications / records with linked archive evidence</label>
+            <label><input id="geipanLayerToggle" type="checkbox" checked> Documents / France / GEIPAN</label>
+            <label><input id="lacUfoLayerToggle" type="checkbox" checked> Documents / Canada / Library and Archives Canada UFO files</label>
+            <label><input id="evidenceOnlyToggle" type="checkbox"> Has online evidence</label>
+            <label><input id="sourceRichToggle" type="checkbox"> Source-rich cases</label>
+            <div class="map-trails" aria-label="Map story trails">
+              <button type="button" data-map-trail="1952">1952 wave</button>
+              <button type="button" data-map-trail="radar">Radar</button>
+              <button type="button" data-map-trail="landings">Landings</button>
+              <button type="button" data-map-trail="photos">Photos</button>
+              <button type="button" data-map-trail="france">France</button>
+              <button type="button" data-map-trail="geipan">GEIPAN</button>
+              <button type="button" data-map-trail="geipan-d">GEIPAN Class D</button>
+              <button type="button" data-map-trail="canada-lac">Canada UFO files</button>
+              <button type="button" data-map-trail="australia">Australia</button>
+              <button type="button" data-map-trail="congress">Congress</button>
+              <button type="button" data-map-trail="uk">UK</button>
+            </div>
+            <div id="trailStatus" class="trail-status" hidden>
+              <strong id="trailStatusLabel"></strong>
+              <div>
+                <a id="trailArchiveLink" href="/search-archive/">Matching archive search</a>
+                <button id="copyTrailLink" type="button">Copy trail link</button>
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset class="archive-tree-field">
+            <legend>Publication and document layers</legend>
+            <div id="archiveTree" class="archive-tree" aria-label="Archive source filter"></div>
+            <p class="filter-help">Tick a publication or document collection to show only records linked to that part of the Isaac Koi archive.</p>
+          </fieldset>
+
+          <label class="field">
+            <span>Country</span>
+            <select id="countryFilter">
+              <option value="">All countries/areas</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>State</span>
+            <select id="stateFilter">
+              <option value="">All states</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>Year</span>
+            <select id="yearFilter">
+              <option value="">All years</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>Month</span>
+            <select id="monthFilter">
+              <option value="">All months</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>Decade</span>
+            <select id="decadeFilter">
+              <option value="">All decades</option>
+            </select>
+          </label>
+
+          <div class="field">
+            <span>Color</span>
+            <div class="segmented" role="group" aria-label="Marker color mode">
+              <button id="colorByDecade" class="active" type="button">Decade</button>
+              <button id="colorByState" type="button">State</button>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <section class="map-panel" aria-label="Interactive map">
+        <div class="map-area-search">
+          <button id="searchMapArea" type="button">Search this map area</button>
+          <span id="searchMapAreaStatus">Moves with the current viewport</span>
+        </div>
+        <div class="map-panel-tools" aria-label="Map information panels">
+          <button id="sourceRichPanelToggle" type="button" aria-expanded="false" aria-controls="sourceRichPanel">Documented cases</button>
+          <button id="mappingDataPanelToggle" type="button" aria-expanded="false" aria-controls="mappingDataAside">Data &amp; downloads</button>
+        </div>
+        <div id="map"></div>
+        <aside id="sourceRichPanel" class="case-rank-panel" aria-label="Source-rich cases" hidden>
+          <div class="case-rank-header">
+            <div><p class="source-label">Source-rich cases</p><h2>Top documented cases</h2></div>
+            <button id="sourceRichPanelClose" class="panel-close" type="button" aria-label="Close documented cases panel">Close</button>
+          </div>
+          <div id="sourceRichList" class="source-rich-list" aria-live="polite"></div>
+        </aside>
+        <aside id="mappingDataAside" class="mapping-data-panel" aria-label="Mapping data downloads and checks" hidden>
+          <div class="mapping-data-header">
+            <div><p class="source-label">Mapping data</p><h2>Download and check links</h2></div>
+            <button id="mappingDataPanelClose" class="panel-close" type="button" aria-label="Close mapping data panel">Close</button>
+          </div>
+          <div id="mappingDataPanel" class="mapping-data-content" aria-live="polite">
+            <p class="source-detail">Loading mapping data...</p>
+          </div>
+        </aside>
+        <aside id="evidencePanel" class="evidence-panel" aria-label="Archive evidence viewer" hidden>
+          <div class="evidence-panel-header">
+            <div>
+              <p class="source-label">Highlighted archive evidence</p>
+              <h2 id="evidencePanelTitle" class="evidence-title">No evidence selected</h2>
+              <p id="evidencePanelMeta" class="evidence-meta"></p>
+            </div>
+            <div class="evidence-actions">
+              <a id="evidenceExternalLink" class="popup-link" href="#" target="_blank" rel="noopener">Open in new tab</a>
+              <button id="evidencePanelClose" class="popup-close evidence-close" type="button" aria-label="Close evidence viewer">x</button>
+            </div>
+          </div>
+          <iframe id="evidenceFrame" class="evidence-frame" title="Highlighted archive evidence"></iframe>
+        </aside>
+        <div id="popup" class="ol-popup">
+          <button id="popupClose" class="popup-close" type="button" aria-label="Close popup">x</button>
+          <div id="popupContent"></div>
+        </div>
+      </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/ol@10.6.1/dist/ol.js"></script>
+    <script src="/search-archive/assets/research-tray.js?v=2"></script>
+    <script src="app.js?v=64"></script>
+  </body>
+</html>

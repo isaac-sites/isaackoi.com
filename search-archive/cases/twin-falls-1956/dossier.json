@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-07-11",
+  "record_id": "71217",
+  "slug": "twin-falls-1956",
+  "title": "Twin Falls — 7 September 1956",
+  "display_date": "7 September 1956",
+  "raw_catalogue_fields": {
+    "Date": "1956.0907",
+    "Location": "TWIN FALLS",
+    "County": "Twin Falls",
+    "StateProvince": "Idaho",
+    "Country": "United States",
+    "GeographicRegion": "United States",
+    "Names": "'ATTORNEY'",
+    "Hynek": "CE2",
+    "Vallee": "CE5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.46,
+      42.57
+    ]
+  },
+  "coordinate_provenance": {
+    "CoordinateTier": "raw_plausible_coordinate",
+    "CoordinatePrecision": "catalogue_coordinate",
+    "CoordinateSource": "UFOCAT 2023 corrected edition"
+  },
+  "source_labels": [
+    "CRIFO Orbit",
+    "CSI New York",
+    "Data-Net"
+  ],
+  "source_link_count": 3,
+  "source_family_count": 3,
+  "evidence_precision_counts": {
+    "Reviewed page mapping": 1,
+    "Text-validated page hit": 2
+  },
+  "sources": [
+    {
+      "source_code": "CSI-NYNews",
+      "source_label": "CSI New York",
+      "citation_raw": "19560909",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-d3631b5fb10f4d5c61ee",
+      "issue_label": "Civlilian Saucer Intellligence of New York - No 17",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FCivilian%2520Saucer%2520Intelligence%2520%2528CSI%2520New%2520York%2529%2FCivlilian%2520Saucer%2520Intellligence%2520of%2520New%2520York%2520-%2520No%252017.pdf#page=9&search=ATTORNEY&phrase=true",
+      "online_source_page": "9",
+      "search_hit_page": "9",
+      "cited_printed_page": 9,
+      "search_anchor_term": "ATTORNEY",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "manually_reviewed",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-d3631b5fb10f4d5c61ee&fulltext=1&autorun=1&q=ATTORNEY&page=9",
+      "required_attribution": "Civilian Saucer Intelligence New York via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Reviewed page mapping",
+      "evidence_precision_rank": 4
+    },
+    {
+      "source_code": "CRIFO",
+      "source_label": "CRIFO Orbit",
+      "citation_raw": "19561004",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-2c0eec86fa4d8dcfdf39",
+      "issue_label": "Orbit - Vol 3 - 1956-1957",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FOrbit%2520%2528CRIFO%252C%2520Leonard%2520Stringfield%2529%2FOrbit%2520-%2520Vol%25203%2520-%25201956-1957.pdf#page=28&search=RAYBURN&phrase=true",
+      "online_source_page": "28",
+      "search_hit_page": "28",
+      "cited_printed_page": 4,
+      "search_anchor_term": "RAYBURN",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "needs_review",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-2c0eec86fa4d8dcfdf39&fulltext=1&autorun=1&q=RAYBURN&page=28",
+      "required_attribution": "CRIFO Orbit via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    },
+    {
+      "source_code": "DataNet",
+      "source_label": "Data-Net",
+      "citation_raw": "197009",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-60a11d15c6991d309e87",
+      "issue_label": "Data Net - No 39 - 1970",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252039%2520-%25201970.pdf#page=6&search=PARKER&phrase=true",
+      "online_source_page": "6",
+      "search_hit_page": "6",
+      "search_anchor_term": "PARKER",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "issue_only",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-60a11d15c6991d309e87&fulltext=1&autorun=1&q=PARKER&page=6",
+      "required_attribution": "Data-Net via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    }
+  ],
+  "map_url": "/mapview/?prn=71217&evidence=1",
+  "stable_url": "/search-archive/cases/twin-falls-1956/",
+  "investigation_url": "/search-archive/investigations/same-date-different-records/",
+  "attribution": "UFOCAT 2023 corrected edition; archive publications via the Isaac Koi archive, hosted by Archives for the Unexplained.",
+  "publication_note": "This dossier republishes approved catalogue metadata and source links only. It does not reproduce source narrative or assert that automated or issue-level links prove a case detail.",
+  "citation": {
+    "canonical_url": "https://isaackoi.com/search-archive/cases/twin-falls-1956/",
+    "plain_text": "Isaac Koi Archive. \"Twin Falls — 7 September 1956.\" Evidence Dossiers, UFOCAT record 71217. https://isaackoi.com/search-archive/cases/twin-falls-1956/",
+    "csl_json": {
+      "id": "isaac-koi-ufocat-71217",
+      "type": "webpage",
+      "title": "Twin Falls — 7 September 1956",
+      "author": [
+        {
+          "literal": "Isaac Koi Archive"
+        }
+      ],
+      "container-title": "Isaac Koi Archive Evidence Dossiers",
+      "publisher": "Archives for the Unexplained",
+      "URL": "https://isaackoi.com/search-archive/cases/twin-falls-1956/",
+      "note": "UFOCAT record 71217; approved catalogue metadata and public evidence links.",
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      }
+    },
+    "bibtex": "@misc{isaac_koi_ufocat_71217,\n  author = {{Isaac Koi Archive}},\n  title = {Twin Falls — 7 September 1956},\n  year = {2026},\n  howpublished = {Isaac Koi Archive Evidence Dossiers},\n  note = {UFOCAT record 71217},\n  url = {https://isaackoi.com/search-archive/cases/twin-falls-1956/}\n}\n",
+    "ris": "TY  - ELEC\r\nAU  - Isaac Koi Archive\r\nTI  - Twin Falls — 7 September 1956\r\nT2  - Isaac Koi Archive Evidence Dossiers\r\nPB  - Archives for the Unexplained\r\nPY  - 2026\r\nN1  - UFOCAT record 71217\r\nUR  - https://isaackoi.com/search-archive/cases/twin-falls-1956/\r\nER  -\r\n"
+  }
+}

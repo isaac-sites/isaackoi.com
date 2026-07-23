@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "slug": "three-publication-families-valensole",
+  "title": "Three publication families: Valensole",
+  "dek": "A six-minute route through one catalogue record and three distinct archive publication families, ending with a disciplined comparison.",
+  "estimated_minutes": 6,
+  "reviewed_at": "2026-07-15",
+  "featured_record_id": "76555",
+  "stable_url": "/search-archive/investigations/three-publication-families-valensole/",
+  "map_url": "/mapview/?prn=76555,110409,64623&evidence=1",
+  "research_items": [
+    {
+      "id": "dossier:76555",
+      "type": "dossier",
+      "title": "Valensole — 1 July 1965",
+      "subtitle": "UFOCAT 76555 evidence dossier",
+      "url": "https://isaackoi.com/search-archive/cases/valensole-1965/",
+      "citation": "Isaac Koi Archive. \"Valensole — 1 July 1965.\" Evidence Dossiers, UFOCAT record 76555. https://isaackoi.com/search-archive/cases/valensole-1965/",
+      "date": "1 July 1965",
+      "location": "VALENSOLE",
+      "collection": "Isaac Koi Archive Evidence Dossiers",
+      "document_id": "",
+      "record_id": "76555",
+      "source_families": [
+        "APRO Bulletin",
+        "Data-Net",
+        "Lumieres dans la Nuit"
+      ],
+      "source_count": 3,
+      "evidence_status": "3 source families · 3 public source links"
+    },
+    {
+      "id": "dossier:110409",
+      "type": "dossier",
+      "title": "Sillerup — 13 August 1970",
+      "subtitle": "UFOCAT 110409 evidence dossier",
+      "url": "https://isaackoi.com/search-archive/cases/sillerup-1970/",
+      "citation": "Isaac Koi Archive. \"Sillerup — 13 August 1970.\" Evidence Dossiers, UFOCAT record 110409. https://isaackoi.com/search-archive/cases/sillerup-1970/",
+      "date": "13 August 1970",
+      "location": "SILLERUP",
+      "collection": "Isaac Koi Archive Evidence Dossiers",
+      "document_id": "",
+      "record_id": "110409",
+      "source_families": [
+        "APRO Bulletin",
+        "Data-Net"
+      ],
+      "source_count": 6,
+      "evidence_status": "2 source families · 6 public source links"
+    },
+    {
+      "id": "dossier:64623",
+      "type": "dossier",
+      "title": "Delphos — 2 November 1971",
+      "subtitle": "UFOCAT 64623 evidence dossier",
+      "url": "https://isaackoi.com/search-archive/cases/delphos-1971/",
+      "citation": "Isaac Koi Archive. \"Delphos — 2 November 1971.\" Evidence Dossiers, UFOCAT record 64623. https://isaackoi.com/search-archive/cases/delphos-1971/",
+      "date": "2 November 1971",
+      "location": "DELPHOS",
+      "collection": "Isaac Koi Archive Evidence Dossiers",
+      "document_id": "",
+      "record_id": "64623",
+      "source_families": [
+        "APRO Bulletin",
+        "Data-Net"
+      ],
+      "source_count": 5,
+      "evidence_status": "2 source families · 5 public source links"
+    }
+  ],
+  "checkpoints": [
+    {
+      "id": "catalogue",
+      "label": "Checkpoint 1",
+      "title": "Anchor the investigation to the catalogue record",
+      "guidance": "Start with the stable record ID and preserved catalogue fields. Treat classifications, names, and explanation codes as recorded data whose meaning still requires source-level checking.",
+      "action": {
+        "kind": "dossier",
+        "label": "Inspect the Valensole record",
+        "url": "/search-archive/cases/valensole-1965/#recorded-fields",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Record",
+          "value": "UFOCAT 76555"
+        },
+        {
+          "label": "Date",
+          "value": "1 July 1965"
+        },
+        {
+          "label": "Location",
+          "value": "VALENSOLE"
+        }
+      ]
+    },
+    {
+      "id": "map",
+      "label": "Checkpoint 2",
+      "title": "Review the coordinate provenance",
+      "guidance": "Check how the location was positioned and what precision the public map actually claims before using geographic proximity as evidence.",
+      "action": {
+        "kind": "map",
+        "label": "Open Valensole on the map",
+        "url": "/mapview/?prn=76555&evidence=1",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Coordinate tier",
+          "value": "raw_plausible_coordinate"
+        },
+        {
+          "label": "Precision",
+          "value": "catalogue_coordinate"
+        },
+        {
+          "label": "Coordinate source",
+          "value": "UFOCAT 2023 corrected edition"
+        }
+      ]
+    },
+    {
+      "id": "apro",
+      "label": "Checkpoint 3",
+      "title": "Open the APRO route",
+      "guidance": "Record the issue, page-routing label, and confidence before reading. The archive link helps locate relevant material; it does not validate every statement in the publication.",
+      "action": {
+        "kind": "source",
+        "label": "Open the APRO evidence page",
+        "url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FAPRO%2520Bulletin%2FAPRO%2520Bulletin%2520-%25201966%252009%252000%2520-%2520September-October.pdf#page=7&search=MASSE&phrase=true",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Publication family",
+          "value": "APRO Bulletin"
+        },
+        {
+          "label": "Issue",
+          "value": "APRO Bulletin - 1966 09 00 - September-October"
+        },
+        {
+          "label": "Link precision",
+          "value": "Highlighted page"
+        },
+        {
+          "label": "Confidence",
+          "value": "high"
+        }
+      ]
+    },
+    {
+      "id": "ldln",
+      "label": "Checkpoint 4",
+      "title": "Follow the Lumieres dans la Nuit route",
+      "guidance": "A second publication family broadens the trail. Note its issue identity and link precision, then inspect the scan rather than assuming its relationship to APRO.",
+      "action": {
+        "kind": "source",
+        "label": "Open the LDLN evidence page",
+        "url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FFrance%2FLDLN%2FLDLN%2520-%2520No%2520200.pdf#page=2&search=VALENSOLE&phrase=true",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Publication family",
+          "value": "Lumieres dans la Nuit"
+        },
+        {
+          "label": "Issue",
+          "value": "LDLN - No 200"
+        },
+        {
+          "label": "Link precision",
+          "value": "Text-validated page hit"
+        },
+        {
+          "label": "Confidence",
+          "value": "high"
+        }
+      ]
+    },
+    {
+      "id": "data-net",
+      "label": "Checkpoint 5",
+      "title": "Add the Data-Net route",
+      "guidance": "The third publication family increases archive coverage. It does not automatically create a third independent account; chronology and citation dependence still need review.",
+      "action": {
+        "kind": "source",
+        "label": "Open the Data-Net evidence page",
+        "url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252051%2520-%25201971.pdf#page=6&search=PROVENCE&phrase=true",
+        "record_ids": []
+      },
+      "facts": [
+        {
+          "label": "Publication family",
+          "value": "Data-Net"
+        },
+        {
+          "label": "Issue",
+          "value": "Data Net - No 51 - 1971"
+        },
+        {
+          "label": "Link precision",
+          "value": "Text-validated page hit"
+        },
+        {
+          "label": "Confidence",
+          "value": "high"
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "label": "Checkpoint 6",
+      "title": "Compare coverage without scoring credibility",
+      "guidance": "Place Valensole beside Sillerup and Delphos. Compare source-family breadth, link counts, dates, and missing fields without converting coverage into a credibility ranking.",
+      "action": {
+        "kind": "comparison",
+        "label": "Add three dossiers to the research set",
+        "url": "/search-archive/research.html",
+        "record_ids": [
+          "76555",
+          "110409",
+          "64623"
+        ]
+      },
+      "facts": [
+        {
+          "label": "Valensole — 1 July 1965",
+          "value": "3 families · 3 links"
+        },
+        {
+          "label": "Sillerup — 13 August 1970",
+          "value": "2 families · 6 links"
+        },
+        {
+          "label": "Delphos — 2 November 1971",
+          "value": "2 families · 5 links"
+        }
+      ]
+    }
+  ]
+}

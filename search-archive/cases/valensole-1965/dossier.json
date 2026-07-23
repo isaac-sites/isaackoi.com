@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-07-11",
+  "record_id": "76555",
+  "slug": "valensole-1965",
+  "title": "Valensole — 1 July 1965",
+  "display_date": "1 July 1965",
+  "raw_catalogue_fields": {
+    "Date": "1965.0701",
+    "Time": "0530",
+    "Location": "VALENSOLE",
+    "County": "Alpes-Haut-P",
+    "Country": "France",
+    "GeographicRegion": "Europe",
+    "Names": "MASSE, MAURICE",
+    "Hynek": "CE3",
+    "Vallee": "CE5",
+    "ExplanationCode": "+"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.98,
+      43.83
+    ]
+  },
+  "coordinate_provenance": {
+    "CoordinateTier": "raw_plausible_coordinate",
+    "CoordinatePrecision": "catalogue_coordinate",
+    "CoordinateSource": "UFOCAT 2023 corrected edition"
+  },
+  "source_labels": [
+    "APRO Bulletin",
+    "Data-Net",
+    "Lumieres dans la Nuit"
+  ],
+  "source_link_count": 3,
+  "source_family_count": 3,
+  "evidence_precision_counts": {
+    "Highlighted page": 1,
+    "Text-validated page hit": 2
+  },
+  "sources": [
+    {
+      "source_code": "DataNet",
+      "source_label": "Data-Net",
+      "citation_raw": "197109",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-98609d6af9bbfdc3f333",
+      "issue_label": "Data Net - No 51 - 1971",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252051%2520-%25201971.pdf#page=6&search=PROVENCE&phrase=true",
+      "online_source_page": "6",
+      "search_hit_page": "6",
+      "search_anchor_term": "PROVENCE",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "issue_only",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-98609d6af9bbfdc3f333&fulltext=1&autorun=1&q=PROVENCE&page=6",
+      "required_attribution": "Data-Net via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    },
+    {
+      "source_code": "LDLN",
+      "source_label": "Lumieres dans la Nuit",
+      "citation_raw": "200",
+      "citation_role": "secondary",
+      "afu_document_id": "afu-mag-fr-23c373677fc518317643",
+      "issue_label": "LDLN - No 200",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FFrance%2FLDLN%2FLDLN%2520-%2520No%2520200.pdf#page=2&search=VALENSOLE&phrase=true",
+      "online_source_page": "2",
+      "search_hit_page": "2",
+      "search_anchor_term": "VALENSOLE",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "issue_only",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-fr-23c373677fc518317643&fulltext=1&autorun=1&q=VALENSOLE&page=2",
+      "required_attribution": "Lumieres dans la Nuit via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    },
+    {
+      "source_code": "APROBulletin",
+      "source_label": "APRO Bulletin",
+      "citation_raw": "19660907",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-69d0398625a39fc108f1",
+      "issue_label": "APRO Bulletin - 1966 09 00 - September-October",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FAPRO%2520Bulletin%2FAPRO%2520Bulletin%2520-%25201966%252009%252000%2520-%2520September-October.pdf#page=7&search=MASSE&phrase=true",
+      "online_source_page": "7",
+      "search_hit_page": "7",
+      "cited_printed_page": 7,
+      "search_anchor_term": "MASSE",
+      "validation_status": "issue_resolved",
+      "page_mapping_status": "needs_review",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-69d0398625a39fc108f1&fulltext=1&autorun=1&q=MASSE&page=7",
+      "required_attribution": "APRO Bulletin via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Highlighted page",
+      "evidence_precision_rank": 2
+    }
+  ],
+  "map_url": "/mapview/?prn=76555&evidence=1",
+  "stable_url": "/search-archive/cases/valensole-1965/",
+  "investigation_url": "/search-archive/investigations/three-publication-families-valensole/",
+  "attribution": "UFOCAT 2023 corrected edition; archive publications via the Isaac Koi archive, hosted by Archives for the Unexplained.",
+  "publication_note": "This dossier republishes approved catalogue metadata and source links only. It does not reproduce source narrative or assert that automated or issue-level links prove a case detail.",
+  "citation": {
+    "canonical_url": "https://isaackoi.com/search-archive/cases/valensole-1965/",
+    "plain_text": "Isaac Koi Archive. \"Valensole — 1 July 1965.\" Evidence Dossiers, UFOCAT record 76555. https://isaackoi.com/search-archive/cases/valensole-1965/",
+    "csl_json": {
+      "id": "isaac-koi-ufocat-76555",
+      "type": "webpage",
+      "title": "Valensole — 1 July 1965",
+      "author": [
+        {
+          "literal": "Isaac Koi Archive"
+        }
+      ],
+      "container-title": "Isaac Koi Archive Evidence Dossiers",
+      "publisher": "Archives for the Unexplained",
+      "URL": "https://isaackoi.com/search-archive/cases/valensole-1965/",
+      "note": "UFOCAT record 76555; approved catalogue metadata and public evidence links.",
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      }
+    },
+    "bibtex": "@misc{isaac_koi_ufocat_76555,\n  author = {{Isaac Koi Archive}},\n  title = {Valensole — 1 July 1965},\n  year = {2026},\n  howpublished = {Isaac Koi Archive Evidence Dossiers},\n  note = {UFOCAT record 76555},\n  url = {https://isaackoi.com/search-archive/cases/valensole-1965/}\n}\n",
+    "ris": "TY  - ELEC\r\nAU  - Isaac Koi Archive\r\nTI  - Valensole — 1 July 1965\r\nT2  - Isaac Koi Archive Evidence Dossiers\r\nPB  - Archives for the Unexplained\r\nPY  - 2026\r\nN1  - UFOCAT record 76555\r\nUR  - https://isaackoi.com/search-archive/cases/valensole-1965/\r\nER  -\r\n"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-07-11",
+  "dossiers": [
+    {
+      "record_id": "110409",
+      "slug": "sillerup-1970",
+      "title": "Sillerup — 13 August 1970",
+      "display_date": "13 August 1970",
+      "source_labels": [
+        "APRO Bulletin",
+        "Data-Net"
+      ],
+      "source_link_count": 6,
+      "source_family_count": 2,
+      "map_url": "/mapview/?prn=110409&evidence=1",
+      "stable_url": "/search-archive/cases/sillerup-1970/",
+      "investigation_url": "/search-archive/investigations/follow-the-evidence-sillerup/"
+    },
+    {
+      "record_id": "64623",
+      "slug": "delphos-1971",
+      "title": "Delphos — 2 November 1971",
+      "display_date": "2 November 1971",
+      "source_labels": [
+        "APRO Bulletin",
+        "Data-Net"
+      ],
+      "source_link_count": 5,
+      "source_family_count": 2,
+      "map_url": "/mapview/?prn=64623&evidence=1",
+      "stable_url": "/search-archive/cases/delphos-1971/",
+      "investigation_url": ""
+    },
+    {
+      "record_id": "76555",
+      "slug": "valensole-1965",
+      "title": "Valensole — 1 July 1965",
+      "display_date": "1 July 1965",
+      "source_labels": [
+        "APRO Bulletin",
+        "Data-Net",
+        "Lumieres dans la Nuit"
+      ],
+      "source_link_count": 3,
+      "source_family_count": 3,
+      "map_url": "/mapview/?prn=76555&evidence=1",
+      "stable_url": "/search-archive/cases/valensole-1965/",
+      "investigation_url": "/search-archive/investigations/three-publication-families-valensole/"
+    },
+    {
+      "record_id": "89688",
+      "slug": "moneymore-1956",
+      "title": "Moneymore — 7 September 1956",
+      "display_date": "7 September 1956",
+      "source_labels": [
+        "APRO Bulletin",
+        "CSI New York",
+        "Data-Net"
+      ],
+      "source_link_count": 3,
+      "source_family_count": 3,
+      "map_url": "/mapview/?prn=89688&evidence=1",
+      "stable_url": "/search-archive/cases/moneymore-1956/",
+      "investigation_url": "/search-archive/investigations/same-date-different-records/"
+    },
+    {
+      "record_id": "71217",
+      "slug": "twin-falls-1956",
+      "title": "Twin Falls — 7 September 1956",
+      "display_date": "7 September 1956",
+      "source_labels": [
+        "CRIFO Orbit",
+        "CSI New York",
+        "Data-Net"
+      ],
+      "source_link_count": 3,
+      "source_family_count": 3,
+      "map_url": "/mapview/?prn=71217&evidence=1",
+      "stable_url": "/search-archive/cases/twin-falls-1956/",
+      "investigation_url": "/search-archive/investigations/same-date-different-records/"
+    }
+  ]
+}

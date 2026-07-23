@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-07-11",
+  "record_id": "110409",
+  "slug": "sillerup-1970",
+  "title": "Sillerup — 13 August 1970",
+  "display_date": "13 August 1970",
+  "raw_catalogue_fields": {
+    "Date": "1970.0813",
+    "Time": "2250",
+    "Location": "SILLERUP",
+    "County": "Sonderjyllan",
+    "Country": "Denmark",
+    "GeographicRegion": "Europe",
+    "Names": "MOURUP",
+    "Hynek": "CE2",
+    "Vallee": "CE2",
+    "ExplanationCode": "+"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4997871,
+      55.2500715
+    ]
+  },
+  "coordinate_provenance": {
+    "CoordinateTier": "reviewed_coordinate_override",
+    "CoordinatePrecision": "city",
+    "CoordinateSource": "Reviewed coordinate override (nominatim_reviewed)"
+  },
+  "source_labels": [
+    "APRO Bulletin",
+    "Data-Net"
+  ],
+  "source_link_count": 6,
+  "source_family_count": 2,
+  "evidence_precision_counts": {
+    "Highlighted page": 2,
+    "Text-validated page hit": 4
+  },
+  "sources": [
+    {
+      "source_code": "DataNet",
+      "source_label": "Data-Net",
+      "citation_raw": "197011",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-42e6465d8be0ed2bcf1e",
+      "issue_label": "Data Net - No 41 - 1970",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252041%2520-%25201970.pdf#page=8&search=HADERSLEV&phrase=true",
+      "online_source_page": "8",
+      "search_hit_page": "8",
+      "search_anchor_term": "HADERSLEV",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "issue_only",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-42e6465d8be0ed2bcf1e&fulltext=1&autorun=1&q=HADERSLEV&page=8",
+      "required_attribution": "Data-Net via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    },
+    {
+      "source_code": "DataNet",
+      "source_label": "Data-Net",
+      "citation_raw": "19701211",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-1cd8672d36c361cd56fe",
+      "issue_label": "Data Net - No 42 - 1970",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252042%2520-%25201970.pdf#page=12&search=MAARUP&phrase=true",
+      "online_source_page": "12",
+      "search_hit_page": "12",
+      "cited_printed_page": 11,
+      "search_anchor_term": "MAARUP",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "needs_review",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-1cd8672d36c361cd56fe&fulltext=1&autorun=1&q=MAARUP&page=12",
+      "required_attribution": "Data-Net via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    },
+    {
+      "source_code": "DataNet",
+      "source_label": "Data-Net",
+      "citation_raw": "197101",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-ca9ae154b21dbf502802",
+      "issue_label": "Data Net - No 43 - 1971",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252043%2520-%25201971.pdf#page=13&search=MAARUP&phrase=true",
+      "online_source_page": "13",
+      "search_hit_page": "13",
+      "search_anchor_term": "MAARUP",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "issue_only",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-ca9ae154b21dbf502802&fulltext=1&autorun=1&q=MAARUP&page=13",
+      "required_attribution": "Data-Net via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    },
+    {
+      "source_code": "DataNet",
+      "source_label": "Data-Net",
+      "citation_raw": "197105",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-0a39409ed90dfdb757a6",
+      "issue_label": "Data Net - No 47 - 1971",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FData%2520Net%2FData%2520Net%2520-%2520No%252047%2520-%25201971.pdf#page=18&search=FJELSTRUP&phrase=true",
+      "online_source_page": "18",
+      "search_hit_page": "18",
+      "search_anchor_term": "FJELSTRUP",
+      "validation_status": "search_hit_text_validated",
+      "page_mapping_status": "issue_only",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-0a39409ed90dfdb757a6&fulltext=1&autorun=1&q=FJELSTRUP&page=18",
+      "required_attribution": "Data-Net via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Text-validated page hit",
+      "evidence_precision_rank": 3
+    },
+    {
+      "source_code": "APROBulletin",
+      "source_label": "APRO Bulletin",
+      "citation_raw": "19700707",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-226b029e41b86d8ea823",
+      "issue_label": "APRO Bulletin - 1970 07 00 - July-August",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FAPRO%2520Bulletin%2FAPRO%2520Bulletin%2520-%25201970%252007%252000%2520-%2520July-August.pdf#page=7&search=MOURUP&phrase=true",
+      "online_source_page": "7",
+      "search_hit_page": "7",
+      "cited_printed_page": 7,
+      "search_anchor_term": "MOURUP",
+      "validation_status": "issue_resolved",
+      "page_mapping_status": "needs_review",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-226b029e41b86d8ea823&fulltext=1&autorun=1&q=MOURUP&page=7",
+      "required_attribution": "APRO Bulletin via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Highlighted page",
+      "evidence_precision_rank": 2
+    },
+    {
+      "source_code": "APROBulletin",
+      "source_label": "APRO Bulletin",
+      "citation_raw": "19710101",
+      "citation_role": "primary",
+      "afu_document_id": "afu-mag-us-36cefda88aa09f6036d2",
+      "issue_label": "APRO Bulletin - 1971 01 00 - January-February",
+      "evidence_url": "https://isaackoi.com/search-archive/pdfjs/web/viewer.html?v=20260607-1&file=https%3A%2F%2Ffiles.afu.se%2FDownloads%2FMagazines%2FUnited%2520States%2FAPRO%2520Bulletin%2FAPRO%2520Bulletin%2520-%25201971%252001%252000%2520-%2520January-February.pdf#page=1&search=MAARUP&phrase=true",
+      "online_source_page": "1",
+      "search_hit_page": "1",
+      "cited_printed_page": 1,
+      "search_anchor_term": "MAARUP",
+      "validation_status": "issue_resolved",
+      "page_mapping_status": "needs_review",
+      "link_confidence": "high",
+      "rights_publication_status": "approved_public_link",
+      "archive_search_url": "/search-archive/?issue=afu-mag-us-36cefda88aa09f6036d2&fulltext=1&autorun=1&q=MAARUP&page=1",
+      "required_attribution": "APRO Bulletin via Isaac Koi archive, hosted by Archives for the Unexplained",
+      "evidence_precision": "Highlighted page",
+      "evidence_precision_rank": 2
+    }
+  ],
+  "map_url": "/mapview/?prn=110409&evidence=1",
+  "stable_url": "/search-archive/cases/sillerup-1970/",
+  "investigation_url": "/search-archive/investigations/follow-the-evidence-sillerup/",
+  "attribution": "UFOCAT 2023 corrected edition; archive publications via the Isaac Koi archive, hosted by Archives for the Unexplained.",
+  "publication_note": "This dossier republishes approved catalogue metadata and source links only. It does not reproduce source narrative or assert that automated or issue-level links prove a case detail.",
+  "citation": {
+    "canonical_url": "https://isaackoi.com/search-archive/cases/sillerup-1970/",
+    "plain_text": "Isaac Koi Archive. \"Sillerup — 13 August 1970.\" Evidence Dossiers, UFOCAT record 110409. https://isaackoi.com/search-archive/cases/sillerup-1970/",
+    "csl_json": {
+      "id": "isaac-koi-ufocat-110409",
+      "type": "webpage",
+      "title": "Sillerup — 13 August 1970",
+      "author": [
+        {
+          "literal": "Isaac Koi Archive"
+        }
+      ],
+      "container-title": "Isaac Koi Archive Evidence Dossiers",
+      "publisher": "Archives for the Unexplained",
+      "URL": "https://isaackoi.com/search-archive/cases/sillerup-1970/",
+      "note": "UFOCAT record 110409; approved catalogue metadata and public evidence links.",
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      }
+    },
+    "bibtex": "@misc{isaac_koi_ufocat_110409,\n  author = {{Isaac Koi Archive}},\n  title = {Sillerup — 13 August 1970},\n  year = {2026},\n  howpublished = {Isaac Koi Archive Evidence Dossiers},\n  note = {UFOCAT record 110409},\n  url = {https://isaackoi.com/search-archive/cases/sillerup-1970/}\n}\n",
+    "ris": "TY  - ELEC\r\nAU  - Isaac Koi Archive\r\nTI  - Sillerup — 13 August 1970\r\nT2  - Isaac Koi Archive Evidence Dossiers\r\nPB  - Archives for the Unexplained\r\nPY  - 2026\r\nN1  - UFOCAT record 110409\r\nUR  - https://isaackoi.com/search-archive/cases/sillerup-1970/\r\nER  -\r\n"
+  }
+}
