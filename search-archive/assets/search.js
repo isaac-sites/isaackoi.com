@@ -53,7 +53,7 @@ const MAP_EVIDENCE_CACHE_PREFIX = "isaac-koi-map-data-v1-";
 const MAP_EVIDENCE_CACHE_MAX_ENTRIES = 24;
 const MAP_EVIDENCE_BUNDLE_PATH = "data/search_map_evidence_public.json";
 const CASE_DISCOVERY_BUNDLE_PATH = "data/case_discovery_public.json";
-const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=2";
+const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=3";
 const CASE_DISCOVERY_FIELDS = [
   "id", "collection", "title", "date", "year", "location", "region",
   "country", "type", "classification", "source_count", "source_labels", "evidence_url",
@@ -760,7 +760,7 @@ function updateResultModePresentation() {
     if (element) element.hidden = caseMode;
   }
   const searchButton = document.getElementById("search-button");
-  if (searchButton) searchButton.textContent = caseMode ? "Search mapped cases" : "Search archive";
+  if (searchButton) searchButton.textContent = caseMode ? "Browse / search mapped cases" : "Search archive";
   if (queryInput) {
     queryInput.placeholder = caseMode
       ? "Try a place, case ID, date, classification, or source"
@@ -768,7 +768,7 @@ function updateResultModePresentation() {
     const help = queryInput.nextElementSibling;
     if (help?.classList.contains("field-help")) {
       help.textContent = caseMode
-        ? "Search more than 24,000 mapped case records; the compact index loads only after you search."
+        ? "Enter a term or leave this blank to browse more than 24,000 mapped records. The compact index loads only in this mode."
         : "Search titles, catalogue metadata, and hundreds of thousands of indexed pages.";
     }
   }
@@ -793,7 +793,7 @@ function rerunIfUseful() {
   if (
     hasPositiveCriteria(criteria)
     || requestedIssue
-    || (selectedSearchIntent() === "cases" && (criteria.yearMin || criteria.yearMax))
+    || selectedSearchIntent() === "cases"
   ) runSearch().catch(error => updateStatus(error.message));
 }
 
@@ -1828,7 +1828,7 @@ function buildShareUrl({autorun = true, issue = null, page = null, query = null,
   if (autorun && (
     query
     || hasPositiveCriteria(searchCriteria())
-    || (caseMode && (yearMinInput?.value.trim() || yearMaxInput?.value.trim()))
+    || caseMode
     || issue
     || requestedIssue
     || requestedMapRecordIds.size
@@ -3060,10 +3060,8 @@ function caseMapUrl(recordIds) {
   return url.href;
 }
 
-function caseDetailUrl(row) {
+function caseDetailUrlForRecord(recordId, collection) {
   const url = new URL("case/", SEARCH_UI_BASE_URL);
-  const recordId = caseField(row, "id");
-  const collection = caseField(row, "collection");
   if (recordId) url.searchParams.set("id", recordId);
   if (collection) url.searchParams.set("collection", collection);
   if (isLocalArchivePreview()
@@ -3072,6 +3070,24 @@ function caseDetailUrl(row) {
     url.searchParams.set("publicData", "1");
   }
   return url.href;
+}
+
+function caseDetailUrl(row) {
+  return caseDetailUrlForRecord(caseField(row, "id"), caseField(row, "collection"));
+}
+
+function sourceCaseCollection(source) {
+  const recordId = String(source.ufocat_prn || source.record_id || source.geipan_case_id || "").trim();
+  const sourceCode = String(source.source_code || "").toLocaleLowerCase();
+  if (recordId.startsWith("geipan:") || sourceCode === "geipan") return "geipan";
+  if (recordId.startsWith("lac-ufo") || sourceCode === "lac-ufo") return "lac";
+  if (recordId.startsWith("factory:")) return "source-first";
+  return "ufocat";
+}
+
+function sourceCaseDetailUrl(source) {
+  const recordId = String(source.ufocat_prn || source.record_id || source.geipan_case_id || "").trim();
+  return recordId ? caseDetailUrlForRecord(recordId, sourceCaseCollection(source)) : "";
 }
 
 function caseCitation(row) {
@@ -3207,7 +3223,7 @@ async function runCaseSearch(criteria, searchStartedAt) {
   currentSearchTruncated = false;
   facetUniverse = [];
   updateResultModePresentation();
-  if (!hasPositiveCriteria(criteria) && !criteria.yearMin && !criteria.yearMax) {
+  if (!hasPositiveCriteria(criteria) && !criteria.yearMin && !criteria.yearMax && criteria.none.length) {
     caseUniverse = [];
     currentResults = [];
     currentCaseCriteria = null;
@@ -3222,7 +3238,7 @@ async function runCaseSearch(criteria, searchStartedAt) {
     renderResults();
     renderResultFacetStatus();
     updateShareUrl();
-    updateStatus(criteria.none.length ? "Enter a positive case-search term as well as excluded words." : "Enter a case-search term or year range.");
+    updateStatus("Enter a positive case-search term as well as excluded words.");
     return;
   }
   updateStatus("Loading the compact mapped-case index...");
@@ -3452,11 +3468,13 @@ function evidenceTrailDetailsMarkup(issue) {
           const page = source.online_source_page || source.search_hit_page || "";
           const status = source.validation_status || source.page_mapping_status || source.link_confidence || "";
           const title = [source.source_label || source.source_code || "Archive source", source.issue_label].filter(Boolean).join(" / ");
+          const detailUrl = sourceCaseDetailUrl(source);
           return `
             <article>
               <strong>${escapeHtml(prn)}</strong>
               <span>${escapeHtml(title)}</span>
               <span>${escapeHtml([page ? `page ${page}` : "", status].filter(Boolean).join(" / ") || "source link")}</span>
+              ${detailUrl ? `<a href="${escapeHtml(detailUrl)}">Open full case</a>` : ""}
               <a href="${escapeHtml(sourceMapUrl(source, issue))}">Open this case on map</a>
             </article>
           `;
@@ -4147,7 +4165,7 @@ async function start() {
     || options.all
     || options.phrase
     || options.any
-    || (options.intent === "cases" && (options.yearMin || options.yearMax))
+    || options.intent === "cases"
     || requestedIssue
     || requestedMapRecordIds.size
   )) {
@@ -4157,9 +4175,38 @@ async function start() {
   }
 }
 
+async function browseAllCases() {
+  document.querySelector('input[name="search-mode"][value="basic"]').checked = true;
+  document.getElementById("basic-search").hidden = false;
+  document.getElementById("advanced-search").hidden = true;
+  queryInput.value = "";
+  allWordsInput.value = "";
+  exactPhraseInput.value = "";
+  anyWordsInput.value = "";
+  noneWordsInput.value = "";
+  if (yearMinInput) yearMinInput.value = "";
+  if (yearMaxInput) yearMaxInput.value = "";
+  if (searchIntentInput) searchIntentInput.value = "cases";
+  if (caseCollectionFilter) caseCollectionFilter.value = "";
+  if (caseCountryFilter) caseCountryFilter.value = "";
+  if (caseEvidenceFilter) caseEvidenceFilter.checked = false;
+  if (resultSortInput) resultSortInput.value = "relevance";
+  requestedIssue = null;
+  requestedPage = null;
+  requestedMapRecordIds.clear();
+  pendingCaseFilters = {collection: "", country: "", evidence: false};
+  updateResultModePresentation();
+  updateScopeStatus();
+  requestResultFocus();
+  await runSearch();
+}
+
 document.getElementById("search-button").addEventListener("click", () => {
   requestResultFocus();
   runSearch().catch(error => updateStatus(error.message));
+});
+document.getElementById("browse-all-cases")?.addEventListener("click", () => {
+  browseAllCases().catch(error => updateStatus(error.message));
 });
 document.querySelectorAll('input[name="search-mode"]').forEach(input => {
   input.addEventListener("change", () => {

@@ -92,7 +92,7 @@ main { width: min(1320px, 94vw); margin: 0 auto; padding: 2rem 0 3rem; }
 .primary-search #query { min-height: 3.35rem; font-size: 1.04rem; }
 .start-here { margin: 1.2rem 0; }
 .section-heading { margin-bottom: .65rem; }
-.start-here-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .75rem; }
+.start-here-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: .75rem; }
 .start-here-grid article { display: grid; grid-template-rows: auto auto 1fr auto; gap: .35rem; min-height: 12rem; padding: 1rem; border: 1px solid var(--card-border); border-radius: 12px; background: var(--surface); box-shadow: var(--soft-shadow); }
 .start-here-grid h3 { margin: 0; font: 700 1rem/1.35 Merriweather, Georgia, serif; }
 .start-here-grid p { margin: 0; color: var(--muted); font: 500 .78rem/1.55 Manrope, Arial, sans-serif; }
@@ -489,6 +489,7 @@ h3 { margin: .8rem 0 .5rem; color: var(--heading); font: 700 .82rem Manrope, Ari
 .related-case-list h3 { margin: .15rem 0 .35rem; font: 700 .86rem/1.35 Merriweather, Georgia, serif; }
 .related-case-list h3 a { color: var(--heading); text-decoration: none; }
 .related-case-list p:not(.eyebrow) { margin: .2rem 0; color: var(--muted); font: 500 .66rem/1.45 Manrope, Arial, sans-serif; }
+.source-neighbor-list .source-neighbor-context { color: var(--text); }
 .related-case-list article > div { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: .45rem; }
 .related-case-list article > div a, .case-detail-note a { color: var(--brand-dark); font: 700 .67rem Manrope, Arial, sans-serif; }
 .case-detail-empty { grid-column: 1 / -1; margin: 0; padding: .8rem; border: 1px dashed var(--border); border-radius: 9px; color: var(--muted); background: var(--surface-alt); font: 600 .7rem/1.5 Manrope, Arial, sans-serif; }

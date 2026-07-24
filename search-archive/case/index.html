@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="../assets/search.css?v=22">
+  <link rel="stylesheet" href="../assets/search.css?v=23">
 </head>
 <body>
   <header class="site-header"><div class="header-inner">
@@ -58,6 +58,15 @@
           </div>
           <p class="case-detail-intro">These links identify public source material and link precision. Link counts are not a credibility score.</p>
           <div id="case-evidence-list" class="case-detail-evidence-list"></div>
+        </section>
+
+        <section class="case-detail-panel" aria-labelledby="source-neighbors-heading">
+          <div class="case-detail-section-heading">
+            <div><p class="eyebrow">Shared publication context</p><h2 id="source-neighbors-heading">Other cases in these publications</h2></div>
+            <span id="source-neighbor-count">Checking&hellip;</span>
+          </div>
+          <p class="case-detail-intro">These records are mentioned in one or more of the same archive publications. That shared source does not mean they describe the same incident.</p>
+          <div id="source-neighbor-list" class="related-case-list source-neighbor-list"></div>
         </section>
 
         <section class="case-detail-panel" aria-labelledby="related-heading">
@@ -108,6 +117,6 @@
   </aside>
 
   <script src="../assets/research-tray.js?v=2"></script>
-  <script src="../assets/case-detail.js?v=3"></script>
+  <script src="../assets/case-detail.js?v=4"></script>
 </body>
 </html>

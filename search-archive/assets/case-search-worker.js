@@ -7,7 +7,9 @@ const CASE_DISCOVERY_FIELDS = [
 const CASE_FIELD = Object.freeze(Object.fromEntries(
   CASE_DISCOVERY_FIELDS.map((field, index) => [field, index])
 ));
+const SHARED_SOURCE_NEIGHBOR_LIMIT = 8;
 let records = [];
+let recordsByKey = new Map();
 
 function field(record, name) {
   return String(record?.[CASE_FIELD[name]] ?? "");
@@ -146,6 +148,81 @@ function sourceRecordId(source) {
   return String(source?.ufocat_prn || source?.record_id || source?.geipan_case_id || "").trim();
 }
 
+function sourceDocumentId(source) {
+  return String(source?.afu_document_id || source?.online_source_document_id || "").trim();
+}
+
+function sourceDocumentLabel(source) {
+  return String(
+    source?.online_source_label
+    || source?.issue_label
+    || source?.source_label
+    || source?.source_code
+    || sourceDocumentId(source)
+  ).trim();
+}
+
+function sharedPublicationNeighbors(evidenceRecords, selectedSources, recordId) {
+  const selectedDocumentIds = new Set(
+    selectedSources.map(sourceDocumentId).filter(Boolean)
+  );
+  if (!selectedDocumentIds.size) {
+    return {available_count: 0, document_count: 0, rows: []};
+  }
+  const documentCases = new Map([...selectedDocumentIds].map(documentId => [documentId, new Set()]));
+  const documentLabels = new Map();
+  const neighbors = new Map();
+  for (const source of evidenceRecords) {
+    const documentId = sourceDocumentId(source);
+    if (!selectedDocumentIds.has(documentId)) continue;
+    const candidateId = sourceRecordId(source);
+    if (!candidateId) continue;
+    documentCases.get(documentId)?.add(candidateId);
+    if (!documentLabels.has(documentId)) {
+      documentLabels.set(documentId, sourceDocumentLabel(source));
+    }
+    if (candidateId === recordId) continue;
+    const candidate = recordsByKey.get(`ufocat:${candidateId}`);
+    if (!candidate) continue;
+    if (!neighbors.has(candidateId)) {
+      neighbors.set(candidateId, {
+        record: candidate,
+        shared_documents: new Map(),
+      });
+    }
+    const row = neighbors.get(candidateId);
+    if (!row.shared_documents.has(documentId)) {
+      row.shared_documents.set(documentId, {
+        document_id: documentId,
+        label: sourceDocumentLabel(source),
+        source_label: String(source.source_label || source.source_code || "").trim(),
+      });
+    }
+  }
+  const rows = [...neighbors.values()]
+    .map(row => ({
+      record: row.record,
+      shared_source_count: row.shared_documents.size,
+      shared_documents: [...row.shared_documents.values()].slice(0, 3),
+    }))
+    .sort((left, right) =>
+      right.shared_source_count - left.shared_source_count
+      || numberField(right.record, "source_count") - numberField(left.record, "source_count")
+      || field(left.record, "title").localeCompare(field(right.record, "title"))
+      || field(left.record, "id").localeCompare(field(right.record, "id"))
+    );
+  return {
+    available_count: rows.length,
+    document_count: selectedDocumentIds.size,
+    documents: [...selectedDocumentIds].map(documentId => ({
+      document_id: documentId,
+      label: documentLabels.get(documentId) || documentId,
+      linked_case_count: documentCases.get(documentId)?.size || 0,
+    })),
+    rows: rows.slice(0, SHARED_SOURCE_NEIGHBOR_LIMIT),
+  };
+}
+
 async function loadCaseDetail(payload) {
   const [evidence, incidents] = await Promise.all([
     readCompressedJson(payload.compressedEvidenceBuffer),
@@ -156,11 +233,18 @@ async function loadCaseDetail(payload) {
   }
   const recordId = String(payload.recordId || "").trim();
   const collection = String(payload.collection || "").trim();
-  const sources = [
-    ...(Array.isArray(evidence.records) ? evidence.records : []),
-    ...(Array.isArray(evidence.geipan_records) ? evidence.geipan_records : []),
-    ...(Array.isArray(evidence.lac_ufo_records) ? evidence.lac_ufo_records : []),
-  ].filter(source => sourceRecordId(source) === recordId);
+  const evidenceRecords = Array.isArray(evidence.records) ? evidence.records : [];
+  const geipanRecords = Array.isArray(evidence.geipan_records) ? evidence.geipan_records : [];
+  const lacRecords = Array.isArray(evidence.lac_ufo_records) ? evidence.lac_ufo_records : [];
+  const collectionSources = collection === "geipan"
+    ? geipanRecords
+    : collection === "lac"
+      ? lacRecords
+      : evidenceRecords;
+  const sources = collectionSources.filter(source => sourceRecordId(source) === recordId);
+  const sharedPublications = collection === "ufocat"
+    ? sharedPublicationNeighbors(evidenceRecords, sources, recordId)
+    : {available_count: 0, document_count: 0, rows: []};
   const recordKey = `${collection}:${recordId}`;
   const membership = (incidents?.records || []).find(row => String(row.record_key || "") === recordKey) || null;
   const cluster = membership
@@ -168,6 +252,7 @@ async function loadCaseDetail(payload) {
     : null;
   return {
     sources,
+    shared_publications: sharedPublications,
     related: membership ? {
       ...membership,
       member_count: Number(cluster?.member_count || 0),
@@ -193,6 +278,10 @@ async function initialize(compressedBuffer) {
     throw new Error("The mapped case index contains malformed records.");
   }
   records = payload.records;
+  recordsByKey = new Map(records.map(record => [
+    `${field(record, "collection")}:${field(record, "id")}`,
+    record,
+  ]));
   return {
     recordCount: records.length,
     collectionCount: Object.keys(payload?.counts?.collections || {}).length,

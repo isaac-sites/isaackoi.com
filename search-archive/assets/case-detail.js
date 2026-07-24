@@ -4,7 +4,7 @@ const AFU_PUBLIC_MAP_DATA_BASE = "https://files.afu.se/Downloads/mapview/";
 const CASE_DISCOVERY_BUNDLE_PATH = "data/case_discovery_public.json.gz";
 const MAP_EVIDENCE_BUNDLE_PATH = "data/search_map_evidence_public.json.gz";
 const INCIDENT_CLUSTERS_PATH = "data/incident_clusters_public.json.gz";
-const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=2";
+const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=3";
 const CASE_DETAIL_CACHE_PREFIX = "isaac-koi-map-data-v1-";
 const CASE_FIELDS = [
   "id", "collection", "title", "date", "year", "location", "region",
@@ -58,6 +58,8 @@ const contentElement = document.getElementById("case-detail-content");
 const fieldsElement = document.getElementById("case-fields");
 const evidenceCountElement = document.getElementById("evidence-count");
 const evidenceListElement = document.getElementById("case-evidence-list");
+const sourceNeighborCountElement = document.getElementById("source-neighbor-count");
+const sourceNeighborListElement = document.getElementById("source-neighbor-list");
 const relatedCountElement = document.getElementById("related-count");
 const relatedListElement = document.getElementById("related-case-list");
 const mapLinkElement = document.getElementById("case-map-link");
@@ -475,6 +477,48 @@ function renderRelated(related) {
   }).join("");
 }
 
+function renderSharedPublications(sharedPublications) {
+  const rows = Array.isArray(sharedPublications?.rows) ? sharedPublications.rows : [];
+  const availableCount = Number(sharedPublications?.available_count || 0);
+  const documentCount = Number(sharedPublications?.document_count || 0);
+  sourceNeighborCountElement.textContent = availableCount
+    ? `${availableCount.toLocaleString()} other case${availableCount === 1 ? "" : "s"}`
+    : "No shared cases";
+  document.documentElement.dataset.caseDetailSourceNeighbors = String(availableCount);
+  document.documentElement.dataset.caseDetailSourceNeighborRows = String(rows.length);
+  if (!rows.length) {
+    sourceNeighborListElement.innerHTML = `<p class="case-detail-empty">No other mapped cases are currently connected through this record's stable archive document IDs.</p>`;
+    return;
+  }
+  sourceNeighborListElement.innerHTML = rows.map(row => {
+    const recordId = caseField(row, "id");
+    const collection = caseField(row, "collection");
+    const href = caseDetailUrl(recordId, collection);
+    const documents = Array.isArray(row.shared_documents) ? row.shared_documents : [];
+    const labels = documents.map(document => document.label).filter(Boolean);
+    const archiveUrl = documents.length
+      ? archiveRecordUrl({afu_document_id: documents[0].document_id})
+      : "";
+    return `<article>
+      <p class="eyebrow">${escapeHtml(COLLECTION_LABELS[collection] || collection || "Mapped collection")}</p>
+      <h3><a href="${escapeHtml(href)}">${escapeHtml(caseField(row, "title") || recordId)}</a></h3>
+      <p>${escapeHtml([caseField(row, "date"), caseField(row, "location"), caseField(row, "country")].filter(Boolean).join(" Â· "))}</p>
+      <p class="source-neighbor-context">${escapeHtml(labels.length ? `Also cited in ${labels.join("; ")}` : `${Number(row.shared_source_count || 1).toLocaleString()} shared publication`)}</p>
+      <div>
+        <a href="${escapeHtml(href)}">Open full case</a>
+        ${archiveUrl ? `<a href="${escapeHtml(archiveUrl)}">Open shared publication</a>` : ""}
+      </div>
+    </article>`;
+  }).join("");
+  if (availableCount > rows.length) {
+    sourceNeighborListElement.insertAdjacentHTML(
+      "beforeend",
+      `<p class="case-detail-empty">${(availableCount - rows.length).toLocaleString()} additional source-connected case${availableCount - rows.length === 1 ? "" : "s"} omitted from this compact view. Search the linked publications to continue exploring.</p>`
+    );
+  }
+  sourceNeighborCountElement.title = `${availableCount.toLocaleString()} other mapped case${availableCount === 1 ? "" : "s"} across ${documentCount.toLocaleString()} linked publication${documentCount === 1 ? "" : "s"}`;
+}
+
 function openEvidencePreview(source) {
   const url = evidenceUrl(source);
   const previewUrl = evidencePreviewUrl(url);
@@ -555,6 +599,7 @@ async function start() {
     }
     renderRecord(lookup.record);
     renderEvidence(lookup.record, []);
+    renderSharedPublications(null);
     renderRelated(null);
     statusElement.textContent = "Case metadata ready. Loading public evidence and related-record context…";
     const [evidenceBuffer, incidentBuffer] = await Promise.all([
@@ -568,9 +613,10 @@ async function start() {
       compressedIncidentBuffer: incidentBuffer,
     }, [evidenceBuffer, incidentBuffer]);
     renderEvidence(lookup.record, detail.sources);
+    renderSharedPublications(detail.shared_publications);
     renderRelated(detail.related);
     document.documentElement.dataset.caseDetailState = "ready";
-    statusElement.textContent = `Loaded the current public record, ${Number(document.documentElement.dataset.caseDetailEvidenceLinks || 0).toLocaleString()} evidence link${document.documentElement.dataset.caseDetailEvidenceLinks === "1" ? "" : "s"}, and related-record context from AFU.`;
+    statusElement.textContent = `Loaded the current public record, ${Number(document.documentElement.dataset.caseDetailEvidenceLinks || 0).toLocaleString()} evidence link${document.documentElement.dataset.caseDetailEvidenceLinks === "1" ? "" : "s"}, ${Number(document.documentElement.dataset.caseDetailSourceNeighbors || 0).toLocaleString()} source-connected case${document.documentElement.dataset.caseDetailSourceNeighbors === "1" ? "" : "s"}, and related-record context from AFU.`;
   } catch (error) {
     if (currentRow) {
       document.documentElement.dataset.caseDetailState = "partial";
