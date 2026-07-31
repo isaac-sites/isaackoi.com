@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A stable Isaac Koi Archive document record with public source metadata, citation tools, and a rights-safe research handoff.">
+  <meta name="afu-search-data-base" content="https://files.afu.se/Downloads/search/">
+  <meta name="afu-search-ui-base" content="https://isaackoi.com/search-archive/">
+  <meta name="afu-map-ui-base" content="https://isaackoi.com/mapview/">
+  <title>Archive Document | Isaac Koi Archive</title>
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <script>(function(){var s=null;try{s=localStorage.getItem("phoenix-color-mode")}catch(e){}var t=s==="dark"||s==="light"?s:(matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t)}());</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/search.css?v=35">
+</head>
+<body>
+  <header class="site-header"><div class="header-inner">
+    <a class="brand-lockup" href="../"><span class="brand-copy"><span class="brand-name">Isaac Koi Archive</span><span class="site-title">Archive Document</span><span class="site-tagline">Public source metadata, provenance, and citation tools</span></span></a>
+    <div class="header-actions">
+      <a class="surface-link" href="../">Archive search</a>
+      <a class="surface-link" href="/mapview/">Research map</a>
+      <a class="surface-link" href="../research.html">Research set</a>
+      <a class="surface-link" href="../methodology.html">About the data</a>
+    </div>
+  </div></header>
+
+  <main class="case-detail-page document-detail-page">
+    <nav class="dossier-breadcrumb" aria-label="Breadcrumb"><a href="../">Archive search</a><span>/</span><span>Archive document</span></nav>
+
+    <section class="case-detail-hero" aria-labelledby="document-title">
+      <p class="eyebrow">Stable archive document record</p>
+      <h1 id="document-title">Loading document&hellip;</h1>
+      <p id="document-summary">Resolving public catalogue metadata from the current AFU search release.</p>
+      <div id="document-badges" class="dossier-badges"></div>
+      <div id="document-actions" class="dossier-actions" hidden>
+        <a id="document-pdf-link" class="primary-button" href="#" target="_blank" rel="noopener">Open source PDF</a>
+        <a id="document-search-link" href="../">Search this document</a>
+        <a id="document-map-link" href="/mapview/">Find mapped citations</a>
+        <button id="copy-document-citation" type="button">Copy citation</button>
+        <button id="document-research-add" class="research-save-button" type="button" data-research-add>Save for comparison</button>
+      </div>
+      <p id="document-status" class="case-detail-status" aria-live="polite">Loading public catalogue metadata&hellip;</p>
+    </section>
+
+    <div id="document-detail-content" class="case-detail-layout" hidden>
+      <div class="case-detail-primary">
+        <section class="case-detail-panel" aria-labelledby="source-record-heading">
+          <p class="eyebrow">Source metadata</p>
+          <h2 id="source-record-heading">Archive record</h2>
+          <p class="case-detail-intro">These fields describe the archived file and catalogue record. A document date is not automatically the date of any incident discussed inside it.</p>
+          <dl id="document-fields" class="dossier-fields"></dl>
+        </section>
+
+        <section class="case-detail-panel document-search-panel" aria-labelledby="within-document-heading">
+          <p class="eyebrow">Evidence finding aid</p>
+          <h2 id="within-document-heading">Search within this document</h2>
+          <p class="case-detail-intro">Search indexed OCR or extracted page text when available. OCR helps locate evidence but does not replace checking the source scan.</p>
+          <form id="document-search-form">
+            <label for="document-query">Words or exact phrase</label>
+            <div>
+              <input id="document-query" type="search" autocomplete="off" placeholder="e.g. radar observation">
+              <button type="submit">Search indexed pages</button>
+            </div>
+          </form>
+          <div class="document-range-capture">
+            <div>
+              <p class="eyebrow">Precise research item</p>
+              <h3>Save an evidence page range</h3>
+              <p>PDF page numbers and the finding query may be shared. Your optional note stays in this browser and is removed from share links.</p>
+            </div>
+            <form id="document-range-form">
+              <label for="document-page-start">First PDF page<input id="document-page-start" type="number" inputmode="numeric" min="1" required placeholder="e.g. 12"></label>
+              <label for="document-page-end">Last PDF page<input id="document-page-end" type="number" inputmode="numeric" min="1" placeholder="same as first"></label>
+              <label class="document-range-note" for="document-private-note">Private note<textarea id="document-private-note" rows="3" maxlength="1000" placeholder="Optional research note stored only in this browser"></textarea></label>
+              <button id="save-document-range" type="submit">Save page range</button>
+              <p id="document-range-status" aria-live="polite"></p>
+            </form>
+          </div>
+        </section>
+
+        <section class="case-detail-panel document-reader-panel" aria-labelledby="reader-heading">
+          <div class="case-detail-section-heading">
+            <div><p class="eyebrow">Original source</p><h2 id="reader-heading">Document reader</h2></div>
+            <span id="document-reader-state">Not loaded</span>
+          </div>
+          <p class="case-detail-intro">The source PDF remains unloaded until requested.</p>
+          <button id="load-document-reader" type="button">Load document here</button>
+          <button id="unload-document-reader" type="button" hidden>Unload document</button>
+          <iframe id="document-reader-frame" title="Archive source document" loading="lazy"></iframe>
+        </section>
+      </div>
+
+      <aside class="case-detail-secondary">
+        <section class="case-detail-panel document-preview-panel">
+          <p class="eyebrow">Source preview</p>
+          <h2>Archived file</h2>
+          <div id="document-preview" class="document-detail-preview"></div>
+          <p id="document-access-note" class="case-detail-intro"></p>
+        </section>
+
+        <section class="case-detail-panel case-detail-note">
+          <p class="eyebrow">Interpretation boundary</p>
+          <h2>What this page means</h2>
+          <p>Catalogue metadata, file properties, indexed text, and mapped-case links have different origins. This page does not generate a narrative summary or silently turn inferred values into source facts.</p>
+          <a href="../methodology.html">Read the methodology</a>
+        </section>
+      </aside>
+    </div>
+
+    <section id="document-detail-error" class="case-detail-error" hidden>
+      <h2>Document record unavailable</h2>
+      <p id="document-detail-error-message"></p>
+      <a href="../">Search the archive</a>
+    </section>
+  </main>
+
+  <script src="../assets/research-tray.js?v=4"></script>
+  <script src="../assets/document-detail.js?v=2"></script>
+</body>
+</html>

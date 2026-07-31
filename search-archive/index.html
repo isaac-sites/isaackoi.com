@@ -26,9 +26,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/search.css?v=23">
+  <link rel="stylesheet" href="assets/search.css?v=41">
 </head>
-<body>
+<body class="search-page">
   <header class="site-header">
     <div class="header-inner">
       <a class="brand-lockup" href="https://isaackoi.com/" aria-label="Isaac Koi Archive home">
@@ -49,12 +49,21 @@
         </span>
       </a>
       <div class="header-actions">
-        <a class="surface-link" href="/mapview/">Research map</a>
-        <a class="surface-link" href="investigations/">Guided trails</a>
-        <a class="surface-link" href="cases/">Dossiers</a>
-        <a class="surface-link" href="research.html">Research set</a>
-        <a class="surface-link" href="methodology.html">About the data</a>
-        <span class="host-note">Online files hosted by Archives for the Unexplained</span>
+        <a id="header-map-link" class="surface-link" data-research-map-link href="/mapview/">Research map</a>
+        <a id="header-research-link" class="surface-link header-research-link" href="research.html">Research set <span data-research-count hidden>0</span></a>
+        <details class="header-more">
+          <summary>More</summary>
+          <nav aria-label="More archive destinations">
+            <a class="mobile-more-link" data-research-map-link href="/mapview/">Research map</a>
+            <a class="mobile-more-link" href="research.html">Research set</a>
+            <a href="collections/">Collections</a>
+            <a href="timeline/">Timeline</a>
+            <a href="investigations/">Guided trails</a>
+            <a href="cases/">Dossiers</a>
+            <a href="methodology.html">About the data</a>
+            <span>Online files hosted by Archives for the Unexplained</span>
+          </nav>
+        </details>
         <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme" title="Switch colour theme">
           <svg class="icon icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/></svg>
           <svg class="icon icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14.5 3a8.8 8.8 0 1 0 6.5 14.7 9.2 9.2 0 0 1-6.5-14.7z"/></svg>
@@ -64,93 +73,144 @@
   </header>
 
   <main>
-    <section class="intro">
-      <p class="eyebrow">Search the online archive</p>
-      <h1>Find material across the Isaac Koi archive</h1>
-      <p>Search magazine titles, document metadata, and indexed page text. The archive and search index are Isaac Koi's; the online files are hosted by the AFU.</p>
-      <div id="archive-stats" class="archive-stats" aria-live="polite">
-        <span><strong>Loading</strong><small>catalogue</small></span>
-      </div>
-      <p class="trust-line"><a href="methodology.html">How the archive, OCR, map evidence, and reviewed links are built</a> <span aria-hidden="true">&middot;</span> Methodology reviewed 11 July 2026</p>
+    <section class="intro compact-intro">
+      <h1>Search the Isaac Koi archive</h1>
+      <p>Find publications, indexed pages, and mapped cases.</p>
+      <details class="archive-about">
+        <summary id="archive-ready-summary">Loading archive...</summary>
+        <div id="archive-stats" class="archive-stats" aria-live="polite"></div>
+        <p class="trust-line">The archive and search index are Isaac Koi's; online files are hosted by the AFU. <a href="methodology.html">How the data is built</a>.</p>
+      </details>
     </section>
 
     <section class="search-panel primary-search" aria-label="Archive search">
-      <div class="search-mode-switch" role="radiogroup" aria-label="Search mode">
-        <label><input type="radio" name="search-mode" value="basic" checked> Simple search</label>
-        <label><input type="radio" name="search-mode" value="advanced"> Advanced criteria</label>
+      <div class="primary-intent-switch" role="group" aria-label="Search documents or mapped cases">
+        <button type="button" data-primary-intent="general" aria-pressed="true">Documents</button>
+        <button type="button" data-primary-intent="cases" aria-pressed="false">Cases</button>
       </div>
 
-      <div id="basic-search" class="basic-search">
-        <label for="query">What would you like to find?</label>
-        <input id="query" type="search" autocomplete="off" placeholder="Try a person, place, event, publication, or phrase">
-        <p class="field-help">Search titles, catalogue metadata, and hundreds of thousands of indexed pages.</p>
+      <div class="primary-query-row">
+        <div id="basic-search" class="basic-search">
+          <label for="query">What would you like to find?</label>
+          <input id="query" type="search" autocomplete="off" placeholder="Try a person, place, event, or phrase">
+        </div>
+
+        <div class="primary-search-actions">
+          <button id="search-button" class="primary-button" type="button">Search archive</button>
+        </div>
       </div>
 
-      <div id="advanced-search" class="advanced-search" hidden>
-        <p class="criteria-heading">Find results with:</p>
-        <label for="all-words"><span>All of these words</span><input id="all-words" type="search" autocomplete="off" placeholder="e.g. radar report"></label>
-        <label for="exact-phrase"><span>This exact phrase</span><input id="exact-phrase" type="search" autocomplete="off" placeholder="e.g. unidentified flying object"></label>
-        <label for="any-words"><span>Any of these words</span><input id="any-words" type="search" autocomplete="off" placeholder="e.g. Roswell Rendlesham Kecksburg"></label>
-        <label for="none-words"><span>None of these words</span><input id="none-words" type="search" autocomplete="off" placeholder="e.g. fiction advertisement"></label>
-        <label for="year-min"><span>From year</span><input id="year-min" type="number" inputmode="numeric" min="1800" max="2100" placeholder="e.g. 1952"></label>
-        <label for="year-max"><span>To year</span><input id="year-max" type="number" inputmode="numeric" min="1800" max="2100" placeholder="e.g. 1969"></label>
+      <div class="search-suggestions" aria-label="Suggested searches">
+        <span>Try</span>
+        <button type="button" data-featured-search="radar">Radar reports</button>
+        <button type="button" data-featured-search="blue-book">Project Blue Book</button>
+        <button type="button" data-featured-search="australia">Australia</button>
       </div>
 
-      <div class="search-actions">
-        <button id="search-button" class="primary-button" type="button">Search archive</button>
-        <button id="copy-link" type="button">Copy link</button>
-        <label id="full-text-option" class="check-option"><input id="full-text" type="checkbox" checked> Include indexed page text</label>
-        <label class="search-intent"><span>Mode</span><select id="search-intent">
-          <option value="general" selected>General</option>
-          <option value="cases">Cases / sightings</option>
-          <option value="people">People</option>
-          <option value="places">Places</option>
-          <option value="organizations">Organizations</option>
-          <option value="mapped">Mapped evidence</option>
-        </select></label>
-        <label class="language-filter"><span>Language</span><select id="language-filter">
-          <option value="main" selected>English + mixed/unknown</option>
-          <option value="all">All languages</option>
-          <option value="en">English</option>
-          <option value="fr">French</option>
-          <option value="de">German</option>
-          <option value="it">Italian</option>
-          <option value="es">Spanish</option>
-          <option value="sv">Swedish</option>
-          <option value="ru">Russian</option>
-          <option value="other">Other detected languages</option>
-        </select></label>
-      </div>
-      <fieldset class="access-filters">
-        <legend>Include records with:</legend>
-        <label><input class="access-filter" type="checkbox" value="online" checked> Online PDF</label>
-        <label><input class="access-filter" type="checkbox" value="local" checked> Local PDF</label>
-        <label><input class="access-filter" type="checkbox" value="unavailable" checked> No public PDF yet</label>
-      </fieldset>
-      <fieldset class="intelligence-filters">
-        <legend>Page signals:</legend>
-        <label><input class="intelligence-filter" type="checkbox" value="likely_sighting"> Likely sighting reports</label>
-        <label><input class="intelligence-filter" type="checkbox" value="date"> Has date</label>
-        <label><input class="intelligence-filter" type="checkbox" value="place"> Has place</label>
-        <label><input class="intelligence-filter" type="checkbox" value="person"> Has names</label>
-        <label><input class="intelligence-filter" type="checkbox" value="organization"> Has organization</label>
-      </fieldset>
-      <div class="quick-filters" aria-label="Quick search filters">
-        <button type="button" data-quick-filter="magazines">Magazines</button>
-        <button type="button" data-quick-filter="documents">Documents</button>
-        <button type="button" data-quick-filter="geipan">GEIPAN</button>
-        <button type="button" data-quick-filter="french">French language</button>
-        <button type="button" data-quick-filter="foreign-language">Foreign language</button>
-        <button type="button" data-quick-filter="fulltext">Full text only</button>
-        <button type="button" data-quick-filter="sightings">Likely sightings</button>
-        <button type="button" data-quick-filter="mapped">Mapped evidence</button>
-        <button type="button" data-quick-filter="all">All PDFs</button>
-      </div>
-      <p id="status" class="status" aria-live="polite">Loading catalogue...</p>
-      <p id="scope-status" class="scope-status" aria-live="polite"></p>
+      <details id="search-filter-drawer" class="search-filter-drawer">
+        <summary><span>Filters and advanced search</span><span id="active-search-filter-count" hidden>0 active</span></summary>
+        <div class="search-filter-body" aria-hidden="true" inert>
+          <div class="search-mode-switch" role="radiogroup" aria-label="Search mode">
+            <label><input type="radio" name="search-mode" value="basic" checked> Simple search</label>
+            <label><input type="radio" name="search-mode" value="advanced"> Advanced criteria</label>
+          </div>
+
+          <div id="advanced-search" class="advanced-search" hidden>
+            <p class="criteria-heading">Find results with:</p>
+            <label for="all-words"><span>All of these words</span><input id="all-words" type="search" autocomplete="off" placeholder="e.g. radar report"></label>
+            <label for="exact-phrase"><span>This exact phrase</span><input id="exact-phrase" type="search" autocomplete="off" placeholder="e.g. unidentified flying object"></label>
+            <label for="any-words"><span>Any of these words</span><input id="any-words" type="search" autocomplete="off" placeholder="e.g. Roswell Rendlesham Kecksburg"></label>
+            <label for="none-words"><span>None of these words</span><input id="none-words" type="search" autocomplete="off" placeholder="e.g. fiction advertisement"></label>
+            <label for="year-min"><span>From year</span><input id="year-min" type="number" inputmode="numeric" min="1800" max="2100" placeholder="e.g. 1952"></label>
+            <label for="year-max"><span>To year</span><input id="year-max" type="number" inputmode="numeric" min="1800" max="2100" placeholder="e.g. 1969"></label>
+          </div>
+
+          <div class="search-actions filter-control-row">
+            <label id="full-text-option" class="check-option"><input id="full-text" type="checkbox" checked> Include indexed page text</label>
+            <label class="search-intent"><span>Specialist mode</span><select id="search-intent">
+              <option value="general" selected>Documents</option>
+              <option value="cases">Cases / sightings</option>
+              <option value="people">People</option>
+              <option value="places">Places</option>
+              <option value="organizations">Organizations</option>
+              <option value="mapped">Mapped evidence</option>
+            </select></label>
+            <label class="language-filter"><span>Language</span><select id="language-filter">
+              <option value="main" selected>English + mixed/unknown</option>
+              <option value="all">All languages</option>
+              <option value="en">English</option>
+              <option value="fr">French</option>
+              <option value="de">German</option>
+              <option value="it">Italian</option>
+              <option value="es">Spanish</option>
+              <option value="sv">Swedish</option>
+              <option value="ru">Russian</option>
+              <option value="other">Other detected languages</option>
+            </select></label>
+          </div>
+          <details class="secondary-filter-details">
+            <summary>
+              <span>More filters</span>
+              <small>Access, page signals, and content type</small>
+            </summary>
+            <div class="secondary-filter-body">
+              <fieldset class="access-filters">
+                <legend>Include records with:</legend>
+                <label><input class="access-filter" type="checkbox" value="online" checked> Online PDF</label>
+                <label><input class="access-filter" type="checkbox" value="local" checked> Local PDF</label>
+                <label><input class="access-filter" type="checkbox" value="unavailable" checked> No public PDF yet</label>
+              </fieldset>
+              <fieldset class="intelligence-filters">
+                <legend>Page signals:</legend>
+                <label><input class="intelligence-filter" type="checkbox" value="likely_sighting"> Likely sighting reports</label>
+                <label><input class="intelligence-filter" type="checkbox" value="date"> Has date</label>
+                <label><input class="intelligence-filter" type="checkbox" value="place"> Has place</label>
+                <label><input class="intelligence-filter" type="checkbox" value="person"> Has names</label>
+                <label><input class="intelligence-filter" type="checkbox" value="organization"> Has organization</label>
+              </fieldset>
+              <div class="quick-filters" aria-label="Quick search filters">
+                <button type="button" data-quick-filter="magazines">Magazines</button>
+                <button type="button" data-quick-filter="documents">Documents</button>
+                <button type="button" data-quick-filter="mapped">Mapped evidence</button>
+              </div>
+            </div>
+          </details>
+
+          <details id="archive-scope-panel" class="series-panel archive-scope-details">
+            <summary>Collections and series</summary>
+            <div class="archive-scope-body">
+            <h3>PDF collections</h3>
+            <div id="collection-list" class="collection-list"></div>
+            <div class="series-heading"><h3>Series</h3><div class="series-actions"><button id="clear-series" type="button">Clear</button><button id="select-indexed" type="button">Select indexed</button></div></div>
+            <p class="scope-help">Leave every series unticked to search all series in the selected collections.</p>
+            <div id="series-list" class="series-list"></div>
+            <div id="browse-preview" class="browse-preview" aria-live="polite"></div>
+            </div>
+          </details>
+          <div class="filter-diagnostics">
+            <p id="scope-status" class="scope-status" aria-live="polite"></p>
+            <button id="copy-link" type="button">Copy search link</button>
+          </div>
+        </div>
+      </details>
+
+      <p id="status" class="status primary-status" aria-live="polite">Loading archive...</p>
+      <aside id="search-handoff" class="handoff-banner" aria-live="polite" hidden>
+        <div>
+          <strong>Continuing from the research map</strong>
+          <span id="search-handoff-text">These results reflect the cases or map area you selected.</span>
+        </div>
+        <a id="return-to-map" href="/mapview/">Return to map</a>
+        <button id="dismiss-search-handoff" type="button" aria-label="Dismiss map context">Dismiss</button>
+      </aside>
+      <button id="clear-document-scope" class="clear-document-scope" type="button" hidden>Search the full archive instead</button>
     </section>
 
-    <section class="start-here" aria-labelledby="start-here-title">
+    <div id="pre-search-discovery">
+    <details class="explore-alternatives">
+      <summary>Explore without searching</summary>
+      <div class="explore-alternatives-body">
+      <section class="start-here" aria-labelledby="start-here-title">
       <div class="section-heading">
         <p class="eyebrow">Four ways in</p>
         <h2 id="start-here-title">Start exploring</h2>
@@ -181,9 +241,9 @@
           <a href="methodology.html">Read about the data</a>
         </article>
       </div>
-    </section>
+      </section>
 
-    <details class="discovery-panel">
+      <details class="discovery-panel">
       <summary>Browse featured searches, collections, and newly searchable material</summary>
       <div class="discovery-content">
       <div class="featured-trails" aria-label="Featured archive searches">
@@ -214,47 +274,54 @@
       <div id="collection-spotlight" class="collection-spotlight" aria-label="Collection highlights"></div>
       <div id="source-rich-browser" class="source-rich-browser" aria-label="Source-rich mapped cases"></div>
       </div>
+      </details>
+      </div>
     </details>
+    </div>
 
-    <div class="workspace">
-      <aside id="archive-scope-panel" class="series-panel">
-        <div class="panel-heading"><p class="eyebrow">Search scope</p><h2>Collections and series</h2></div>
-        <h3>PDF collections</h3>
-        <div id="collection-list" class="collection-list"></div>
-        <div class="series-heading"><h3>Series</h3><div class="series-actions"><button id="clear-series" type="button">Clear</button><button id="select-indexed" type="button">Select indexed</button></div></div>
-        <p class="scope-help">Leave every series unticked to search all series in the selected collections.</p>
-        <div id="series-list" class="series-list"></div>
-        <div id="browse-preview" class="browse-preview" aria-live="polite"></div>
-      </aside>
+    <div id="results-workspace" class="workspace" hidden>
       <section class="results-panel">
         <div class="panel-heading results-heading">
-          <div><p class="eyebrow">Ranked matches</p><h2>Results</h2></div>
-          <div class="results-heading-actions">
+          <div class="results-heading-copy">
+            <p class="eyebrow">Ranked matches</p>
+            <h2 id="results-title">Search results</h2>
+            <p id="results-summary" class="results-summary"></p>
+          </div>
+          <div id="results-heading-actions" class="results-heading-actions">
+            <button id="edit-search" class="edit-search" type="button">Edit search</button>
+            <a id="show-results-map" class="results-map-link primary-map-link" href="/mapview/" hidden>View on map</a>
             <label class="result-sort"><span>Sort</span><select id="result-sort">
               <option value="relevance" selected>Relevance</option>
               <option value="source-richness">Source richness</option>
-              <option value="date-newest">Newest first</option>
-              <option value="date-oldest">Oldest first</option>
+              <option value="date-newest">Known year: newest first</option>
+              <option value="date-oldest">Known year: oldest first</option>
               <option value="title">Title</option>
             </select></label>
-            <button id="toggle-results-map" type="button" hidden>Preview map</button>
-            <a id="show-results-map" class="results-map-link disabled" href="/mapview/" aria-disabled="true">No mapped cases in results</a>
-            <button id="copy-visible-results" type="button">Copy research set</button>
-            <button id="download-results-csv" type="button">CSV</button>
-            <button id="download-results-json" type="button">JSON</button>
+            <details class="results-tools">
+              <summary>More actions</summary>
+              <div>
+                <button id="toggle-results-map" type="button" hidden>Preview map</button>
+                <button id="copy-visible-results" type="button">Copy research set</button>
+                <button id="download-results-csv" type="button">Download CSV</button>
+                <button id="download-results-json" type="button">Download JSON</button>
+              </div>
+            </details>
           </div>
         </div>
-        <div id="case-result-controls" class="case-result-controls" hidden>
-          <label><span>Case collection</span><select id="case-collection-filter">
-            <option value="">All mapped collections</option>
-          </select></label>
-          <label><span>Country</span><select id="case-country-filter">
-            <option value="">All countries</option>
-          </select></label>
-          <label class="case-evidence-filter"><input id="case-evidence-filter" type="checkbox"> Has a source or file link</label>
-          <button id="clear-case-filters" type="button">Clear case filters</button>
-          <p id="case-filter-status" aria-live="polite"></p>
-        </div>
+        <details id="case-result-controls" class="case-result-filter-panel" hidden>
+          <summary>Filter these cases <span id="active-case-filter-count" hidden>0 active</span></summary>
+          <div class="case-result-controls">
+            <label><span>Case collection</span><select id="case-collection-filter">
+              <option value="">All mapped collections</option>
+            </select></label>
+            <label><span>Country</span><select id="case-country-filter">
+              <option value="">All countries</option>
+            </select></label>
+            <label class="case-evidence-filter"><input id="case-evidence-filter" type="checkbox"> Has a source or file link</label>
+            <button id="clear-case-filters" type="button">Clear case filters</button>
+            <p id="case-filter-status" aria-live="polite"></p>
+          </div>
+        </details>
         <details id="result-facets" class="result-facets" hidden>
           <summary>
             <span>Refine these matches</span>
@@ -291,7 +358,7 @@
           <div id="results" class="results"><p class="empty-state">Enter search terms to begin.</p></div>
           <aside id="results-map-panel" class="results-map-panel" hidden>
             <div class="results-map-panel-heading">
-              <div><p class="eyebrow">Visible matches</p><h3>Results map</h3></div>
+              <div><p class="eyebrow">Mapped matches</p><h3>Results map</h3></div>
               <button id="close-results-map" type="button" aria-label="Close results map">Close</button>
             </div>
             <p id="results-map-note">The map loads only when opened.</p>
@@ -302,7 +369,7 @@
       </section>
     </div>
   </main>
-  <script src="assets/research-tray.js?v=2"></script>
-  <script src="assets/search.js?v=32"></script>
+  <script src="assets/research-tray.js?v=5"></script>
+  <script src="assets/search.js?v=51"></script>
 </body>
 </html>

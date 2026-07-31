@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Browse the public Isaac Koi Archive by collection and series, with searchable-page and mapped-evidence coverage.">
+  <meta name="afu-search-data-base" content="https://files.afu.se/Downloads/search/">
+  <meta name="afu-search-ui-base" content="https://isaackoi.com/search-archive/">
+  <meta name="afu-map-ui-base" content="https://isaackoi.com/mapview/">
+  <title>Browse Collections | Isaac Koi Archive</title>
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <script>(function(){var s=null;try{s=localStorage.getItem("phoenix-color-mode")}catch(e){}var t=s==="dark"||s==="light"?s:(matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t)}());</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/search.css?v=35">
+</head>
+<body>
+  <header class="site-header"><div class="header-inner">
+    <a class="brand-lockup" href="../"><span class="brand-copy"><span class="brand-name">Isaac Koi Archive</span><span class="site-title">Collection Browser</span><span class="site-tagline">Browse public sources by collection and series</span></span></a>
+    <div class="header-actions">
+      <a class="surface-link" href="../">Archive search</a>
+      <a class="surface-link" href="../timeline/">Timeline</a>
+      <a class="surface-link" href="/mapview/">Research map</a>
+      <a class="surface-link" href="../research.html">Research set</a>
+    </div>
+  </div></header>
+
+  <main class="browse-page collection-browser-page">
+    <nav class="dossier-breadcrumb" aria-label="Breadcrumb"><a href="../">Archive search</a><span>/</span><span>Collections</span></nav>
+    <section class="browse-hero">
+      <h1>Collections and series</h1>
+      <p>Explore the archive by its source organization. Counts describe public catalogue and search coverage; they are not judgments about the evidential value of a collection.</p>
+      <details class="browse-about">
+        <summary>Archive coverage</summary>
+        <div id="collection-browser-stats" class="archive-stats" aria-live="polite"><span><strong>Loading</strong><small>collections</small></span></div>
+      </details>
+    </section>
+
+    <section class="browse-controls" aria-label="Collection filters">
+      <label for="collection-browser-query"><span>Find a collection or series</span><input id="collection-browser-query" type="search" autocomplete="off" placeholder="e.g. GEIPAN, France, APRO"></label>
+      <label for="collection-kind-filter"><span>Archive section</span><select id="collection-kind-filter"><option value="">All sections</option></select></label>
+      <label for="collection-sort"><span>Sort</span><select id="collection-sort"><option value="title">Title</option><option value="documents">Most PDFs</option><option value="pages">Most searchable pages</option><option value="mapped">Most mapped citations</option><option value="recent">Recently indexed</option></select></label>
+      <p id="collection-browser-status" aria-live="polite">Loading the public catalogue&hellip;</p>
+    </section>
+
+    <section id="collection-browser-results" class="collection-browser-grid" aria-live="polite"></section>
+    <button id="load-more-collections" class="load-more" type="button" hidden>Show more collections</button>
+    <section id="collection-browser-error" class="case-detail-error" hidden><h2>Collections unavailable</h2><p></p><a href="../">Return to archive search</a></section>
+  </main>
+
+  <script src="../assets/archive-browse-data.js?v=3"></script>
+  <script src="../assets/collections-browser.js?v=1"></script>
+</body>
+</html>

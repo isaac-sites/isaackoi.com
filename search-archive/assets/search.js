@@ -13,6 +13,8 @@ const mapSourcesByDocumentId = new Map();
 const mapSourcesByRecordId = new Map();
 const pageIntelligenceByIssue = new Map();
 const caseDossierByRecordId = new Map();
+let pageIntelligenceLoadState = "idle";
+let pageIntelligenceLoadPromise = null;
 let geipanSourceRecords = [];
 let lacUfoSourceRecords = [];
 let catalogueLoadMode = "per-collection";
@@ -53,7 +55,7 @@ const MAP_EVIDENCE_CACHE_PREFIX = "isaac-koi-map-data-v1-";
 const MAP_EVIDENCE_CACHE_MAX_ENTRIES = 24;
 const MAP_EVIDENCE_BUNDLE_PATH = "data/search_map_evidence_public.json";
 const CASE_DISCOVERY_BUNDLE_PATH = "data/case_discovery_public.json";
-const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=3";
+const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=4";
 const CASE_DISCOVERY_FIELDS = [
   "id", "collection", "title", "date", "year", "location", "region",
   "country", "type", "classification", "source_count", "source_labels", "evidence_url",
@@ -108,7 +110,36 @@ function searchUiUrl(value = "") {
 }
 
 function mapUiUrl(value = "") {
-  return interfaceUrl(value, "/Downloads/mapview", MAP_UI_BASE_URL);
+  const raw = String(value || "").trim();
+  const normalized = raw === "mapview" || raw === "mapview/"
+    ? ""
+    : raw.startsWith("mapview/")
+      ? raw.slice("mapview/".length)
+      : raw.startsWith("mapview?")
+        ? raw.slice("mapview".length)
+        : raw;
+  return interfaceUrl(normalized, "/Downloads/mapview", MAP_UI_BASE_URL);
+}
+
+function validatedHandoffUrl(value, baseUrl) {
+  if (!value) return "";
+  try {
+    const candidate = new URL(value, baseUrl);
+    const base = new URL(baseUrl);
+    const basePath = base.pathname.endsWith("/") ? base.pathname : `${base.pathname}/`;
+    if (candidate.origin !== base.origin) return "";
+    if (candidate.pathname !== base.pathname && !candidate.pathname.startsWith(basePath)) return "";
+    return candidate.href;
+  } catch (error) {
+    return "";
+  }
+}
+
+function withSearchHandoff(value) {
+  const url = new URL(value, MAP_UI_BASE_URL);
+  url.searchParams.set("from", "search");
+  url.searchParams.set("return_search", buildShareUrl({autorun: true, handoff: false}));
+  return url.href;
 }
 
 function archiveDataUrl(value) {
@@ -327,12 +358,26 @@ const yearMaxInput = document.getElementById("year-max");
 const fullTextInput = document.getElementById("full-text");
 const searchIntentInput = document.getElementById("search-intent");
 const languageFilterInput = document.getElementById("language-filter");
+const searchFilterDrawer = document.getElementById("search-filter-drawer");
+const searchFilterBody = searchFilterDrawer?.querySelector(".search-filter-body");
+const activeSearchFilterCountElement = document.getElementById("active-search-filter-count");
+const preSearchDiscoveryElement = document.getElementById("pre-search-discovery");
+const resultsWorkspaceElement = document.getElementById("results-workspace");
+const primaryIntentButtons = [...document.querySelectorAll("[data-primary-intent]")];
 const resultsElement = document.getElementById("results");
 const statusElement = document.getElementById("status");
+const searchButton = document.getElementById("search-button");
+const searchHandoffElement = document.getElementById("search-handoff");
+const searchHandoffTextElement = document.getElementById("search-handoff-text");
+const returnToMapElement = document.getElementById("return-to-map");
+const dismissSearchHandoffButton = document.getElementById("dismiss-search-handoff");
 const scopeStatusElement = document.getElementById("scope-status");
+const clearDocumentScopeButton = document.getElementById("clear-document-scope");
 const archiveStatsElement = document.getElementById("archive-stats");
+const archiveReadySummaryElement = document.getElementById("archive-ready-summary");
 const featuredCollectionsElement = document.getElementById("featured-collections");
 const showResultsMapElement = document.getElementById("show-results-map");
+const headerMapLinkElements = [...document.querySelectorAll("[data-research-map-link]")];
 const coverageDashboardElement = document.getElementById("coverage-dashboard");
 const newlySearchableElement = document.getElementById("newly-searchable");
 const collectionSpotlightElement = document.getElementById("collection-spotlight");
@@ -345,6 +390,10 @@ const copyVisibleResultsButton = document.getElementById("copy-visible-results")
 const downloadResultsCsvButton = document.getElementById("download-results-csv");
 const downloadResultsJsonButton = document.getElementById("download-results-json");
 const resultSortInput = document.getElementById("result-sort");
+const resultsTitleElement = document.getElementById("results-title");
+const resultsSummaryElement = document.getElementById("results-summary");
+const resultsHeadingActionsElement = document.getElementById("results-heading-actions");
+const editSearchButton = document.getElementById("edit-search");
 const resultFacetsElement = document.getElementById("result-facets");
 const facetDecadeInput = document.getElementById("facet-decade");
 const facetEvidenceInput = document.getElementById("facet-evidence");
@@ -360,6 +409,7 @@ const caseCountryFilter = document.getElementById("case-country-filter");
 const caseEvidenceFilter = document.getElementById("case-evidence-filter");
 const clearCaseFiltersButton = document.getElementById("clear-case-filters");
 const caseFilterStatus = document.getElementById("case-filter-status");
+const activeCaseFilterCountElement = document.getElementById("active-case-filter-count");
 const resultsLayout = document.getElementById("results-layout");
 const resultsMapPanel = document.getElementById("results-map-panel");
 const resultsMapFrame = document.getElementById("results-map-frame");
@@ -386,6 +436,31 @@ const featuredSearches = {
   "french-photos": "photo photographie",
   "french-landings": "atterrissage trace",
 };
+
+function renderSearchHandoff() {
+  if (!searchHandoffElement || !returnToMapElement) return;
+  const params = new URLSearchParams(window.location.search);
+  const returnUrl = params.get("from") === "map"
+    ? validatedHandoffUrl(params.get("return_map"), MAP_UI_BASE_URL)
+    : "";
+  if (!returnUrl) return;
+  returnToMapElement.href = returnUrl;
+  if (searchHandoffTextElement) {
+    const mappedRecordIds = params.get("map_record")?.split(",").filter(Boolean) || [];
+    const query = params.get("q")?.trim() || "";
+    searchHandoffTextElement.textContent = mappedRecordIds.length
+      ? `Searching archive sources linked to ${mappedRecordIds.length.toLocaleString()} mapped case${mappedRecordIds.length === 1 ? "" : "s"}.`
+      : query
+        ? `Searching the archive for “${query}” from the map.`
+        : "These results reflect the cases or map area you selected.";
+  }
+  searchHandoffElement.hidden = false;
+}
+
+renderSearchHandoff();
+dismissSearchHandoffButton?.addEventListener("click", () => {
+  searchHandoffElement.hidden = true;
+});
 let currentResults = [];
 let facetUniverse = [];
 let visibleCount = pageSize;
@@ -394,6 +469,7 @@ let currentTerms = [];
 let requestedIssue = null;
 let requestedPage = null;
 let requestedMapRecordIds = new Set();
+let requestedDocumentIds = new Set();
 let deepLinkWarnings = [];
 let currentCriteria = null;
 let catalogueLoaded = false;
@@ -428,6 +504,7 @@ let caseSearchSummary = {
   durationMs: 0,
 };
 let currentResultMode = "documents";
+let searchHasRun = false;
 let pendingCaseFilters = {collection: "", country: "", evidence: false};
 let resultsMapOpen = false;
 
@@ -523,7 +600,7 @@ function parseYearInput(value) {
 
 function issueYear(issue) {
   if (Number.isInteger(issue.publication_year)) return issue.publication_year;
-  const haystack = `${issue.title || ""} ${issue.filename || ""} ${issue.remote_path || ""}`;
+  const haystack = `${issue.title || ""} ${issue.filename || ""}`;
   const match = haystack.match(/\b(18|19|20)\d{2}\b/);
   return match ? Number.parseInt(match[0], 10) : null;
 }
@@ -745,26 +822,63 @@ function selectedSearchIntent() {
   return searchIntentInput?.value || "general";
 }
 
+function activeSearchFilterCount() {
+  let count = 0;
+  if (activeSearchMode() === "advanced") count += 1;
+  if (yearMinInput?.value.trim() || yearMaxInput?.value.trim()) count += 1;
+  if (fullTextInput && !fullTextInput.checked) count += 1;
+  if (selectedLanguageMode() !== "main") count += 1;
+  if (!["general", "cases"].includes(selectedSearchIntent())) count += 1;
+  const accessInputs = [...document.querySelectorAll(".access-filter")];
+  const selectedAccessCount = accessInputs.filter(input => input.checked).length;
+  if (accessInputs.length && selectedAccessCount !== accessInputs.length) count += 1;
+  count += selectedIntelligenceFilters().size;
+  const selectedCollectionCount = document.querySelectorAll(".collection-checkbox:checked").length;
+  if (collections.length && selectedCollectionCount !== collections.length) count += 1;
+  if (selectedSeries().size) count += 1;
+  if (requestedDocumentIds.size) count += 1;
+  return count;
+}
+
+function updateSearchFilterSummary() {
+  if (!activeSearchFilterCountElement) return;
+  const count = activeSearchFilterCount();
+  activeSearchFilterCountElement.hidden = count === 0;
+  activeSearchFilterCountElement.textContent = `${count} active`;
+}
+
+function updatePreSearchDiscovery() {
+  if (preSearchDiscoveryElement) preSearchDiscoveryElement.hidden = searchHasRun;
+  if (resultsWorkspaceElement) resultsWorkspaceElement.hidden = !searchHasRun;
+  document.body.classList.toggle("search-has-run", searchHasRun);
+}
+
 function updateResultModePresentation() {
   const caseMode = selectedSearchIntent() === "cases";
   document.body.classList.toggle("case-search-mode", caseMode);
+  primaryIntentButtons.forEach(button => {
+    button.setAttribute("aria-pressed", String(
+      button.dataset.primaryIntent === (caseMode ? "cases" : "general")
+    ));
+  });
   if (archiveScopePanel) archiveScopePanel.hidden = caseMode;
   if (caseResultControls) caseResultControls.hidden = !caseMode;
+  if (resultsTitleElement) resultsTitleElement.textContent = caseMode ? "Mapped cases" : "Search results";
   for (const element of [
     document.getElementById("full-text-option"),
     document.querySelector(".language-filter"),
     document.querySelector(".access-filters"),
     document.querySelector(".intelligence-filters"),
     document.querySelector(".quick-filters"),
+    document.querySelector(".secondary-filter-details"),
   ]) {
     if (element) element.hidden = caseMode;
   }
-  const searchButton = document.getElementById("search-button");
-  if (searchButton) searchButton.textContent = caseMode ? "Browse / search mapped cases" : "Search archive";
+  if (searchButton) searchButton.textContent = caseMode ? "Search cases" : "Search archive";
   if (queryInput) {
     queryInput.placeholder = caseMode
-      ? "Try a place, case ID, date, classification, or source"
-      : "Try a person, place, event, publication, or phrase";
+      ? "Try a place, date, case name, or record ID"
+      : "Try a person, place, event, or phrase";
     const help = queryInput.nextElementSibling;
     if (help?.classList.contains("field-help")) {
       help.textContent = caseMode
@@ -777,6 +891,7 @@ function updateResultModePresentation() {
       ? `${caseDiscoveryRecordCount.toLocaleString()} mapped cases are ready to search. PDF collection and page-text filters do not apply in this mode.`
       : "The compact mapped-case index loads only when you search. PDF collection and page-text filters do not apply in this mode.";
   }
+  updateSearchFilterSummary();
 }
 
 function currentSearchRequiresMapEvidence() {
@@ -793,6 +908,7 @@ function rerunIfUseful() {
   if (
     hasPositiveCriteria(criteria)
     || requestedIssue
+    || requestedDocumentIds.size
     || selectedSearchIntent() === "cases"
   ) runSearch().catch(error => updateStatus(error.message));
 }
@@ -958,7 +1074,12 @@ function applyFeaturedSearch(key) {
 }
 
 function updateStatus(message) {
-  statusElement.textContent = deepLinkWarnings.length ? `${message} ${deepLinkWarnings.join(" ")}` : message;
+  const text = deepLinkWarnings.length ? `${message} ${deepLinkWarnings.join(" ")}` : message;
+  statusElement.textContent = text;
+  statusElement.classList.toggle("is-idle", /^Ready to search\./.test(message));
+  statusElement.classList.toggle("is-working", /^(Loading|Searching|Connecting)/.test(message));
+  statusElement.classList.toggle("is-complete", /^Found /.test(message) && deepLinkWarnings.length === 0);
+  if (resultsSummaryElement && searchHasRun) resultsSummaryElement.textContent = text;
 }
 
 function warningKey(warning) {
@@ -1465,6 +1586,50 @@ async function loadPageIntelligence(collectionRows) {
   }));
 }
 
+function attachPageIntelligenceToIssues() {
+  for (const issue of issues) {
+    const intelligence = pageIntelligenceByIssue.get(issueIntelligenceKey(issue));
+    if (intelligence) issue.page_intelligence = intelligence;
+  }
+}
+
+function ensurePageIntelligenceLoaded() {
+  if (pageIntelligenceLoadState === "ready") return Promise.resolve(pageIntelligenceByIssue);
+  if (pageIntelligenceLoadPromise) return pageIntelligenceLoadPromise;
+  pageIntelligenceLoadState = "loading";
+  document.documentElement.dataset.pageIntelligence = "loading";
+  pageIntelligenceLoadPromise = loadPageIntelligence(collections)
+    .then(() => {
+      attachPageIntelligenceToIssues();
+      pageIntelligenceLoadState = "ready";
+      document.documentElement.dataset.pageIntelligence = "ready";
+      return pageIntelligenceByIssue;
+    })
+    .catch(error => {
+      pageIntelligenceLoadState = "unavailable";
+      document.documentElement.dataset.pageIntelligence = "unavailable";
+      console.warn("Page intelligence was unavailable.", error);
+      return pageIntelligenceByIssue;
+    });
+  return pageIntelligenceLoadPromise;
+}
+
+function scheduleDeferredSearchEnhancements() {
+  const load = () => ensurePageIntelligenceLoaded();
+  if ("requestIdleCallback" in window) {
+    window.requestIdleCallback(load, {timeout: 2500});
+  } else {
+    window.setTimeout(load, 600);
+  }
+}
+
+function syncSearchFilterDisclosure() {
+  if (!searchFilterDrawer || !searchFilterBody) return;
+  const collapsed = !searchFilterDrawer.open;
+  searchFilterBody.toggleAttribute("inert", collapsed);
+  searchFilterBody.setAttribute("aria-hidden", String(collapsed));
+}
+
 function applyLocalLinksToIssues(issueRows) {
   for (const issue of issueRows) {
     const link = localLinksByDocumentId.get(String(issue.document_id));
@@ -1578,6 +1743,14 @@ function resultScore(result) {
   return result.metadataScore + contentScore + evidenceScore + intelligenceScore + intentScore(result, mapEvidence);
 }
 
+function compareKnownYears(leftYear, rightYear, mode) {
+  const leftKnown = Number.isInteger(leftYear) && leftYear > 0;
+  const rightKnown = Number.isInteger(rightYear) && rightYear > 0;
+  if (leftKnown !== rightKnown) return leftKnown ? -1 : 1;
+  if (!leftKnown) return 0;
+  return mode === "date-newest" ? rightYear - leftYear : leftYear - rightYear;
+}
+
 function sortCurrentResults() {
   const mode = resultSortInput?.value || "relevance";
   if (currentResultMode === "cases") {
@@ -1590,8 +1763,9 @@ function sortCurrentResults() {
           || right.score - left.score
           || titleOrder;
       }
-      if (mode === "date-newest") return rightYear - leftYear || right.score - left.score || titleOrder;
-      if (mode === "date-oldest") return leftYear - rightYear || right.score - left.score || titleOrder;
+      if (mode === "date-newest" || mode === "date-oldest") {
+        return compareKnownYears(leftYear, rightYear, mode) || right.score - left.score || titleOrder;
+      }
       if (mode === "title") return titleOrder || right.score - left.score;
       return right.score - left.score || titleOrder;
     });
@@ -1607,13 +1781,15 @@ function sortCurrentResults() {
       return rightScore - leftScore || right.score - left.score || left.issue.title.localeCompare(right.issue.title);
     }
     if (mode === "date-newest" || mode === "date-oldest") {
-      const leftYear = Number(issueYear(left.issue) || 0);
-      const rightYear = Number(issueYear(right.issue) || 0);
-      const direction = mode === "date-newest" ? rightYear - leftYear : leftYear - rightYear;
-      return direction || right.score - left.score || left.issue.title.localeCompare(right.issue.title);
+      const leftYear = issueYear(left.issue);
+      const rightYear = issueYear(right.issue);
+      return compareKnownYears(leftYear, rightYear, mode)
+        || right.score - left.score
+        || left.issue.title.localeCompare(right.issue.title);
     }
     if (mode === "title") return left.issue.title.localeCompare(right.issue.title) || right.score - left.score;
-    return right.score - left.score || left.issue.title.localeCompare(right.issue.title);
+    const metadataOrder = Number(Boolean(right.metadataScore)) - Number(Boolean(left.metadataScore));
+    return metadataOrder || right.score - left.score || left.issue.title.localeCompare(right.issue.title);
   });
 }
 
@@ -1694,6 +1870,11 @@ function deepLinkOptions() {
       .flatMap(value => value.split(","))
       .map(value => value.trim())
       .filter(Boolean),
+    documents: params.getAll("doc")
+      .flatMap(value => value.split(","))
+      .map(value => value.trim())
+      .filter(Boolean)
+      .slice(0, 50),
     issue: params.get("issue") || "",
     page: Number.isInteger(page) && page > 0 ? page : null,
     fulltext: booleanParam(params.get("fulltext"), true),
@@ -1703,6 +1884,7 @@ function deepLinkOptions() {
 
 function applyDeepLinkOptions(options) {
   requestedMapRecordIds = new Set(options.mapRecords || []);
+  requestedDocumentIds = new Set(options.documents || []);
   if (options.mode === "advanced" || options.all || options.phrase || options.any || options.none) {
     document.querySelector('input[name="search-mode"][value="advanced"]').checked = true;
     document.getElementById("basic-search").hidden = true;
@@ -1752,6 +1934,18 @@ function applyDeepLinkOptions(options) {
   if (languageFilterInput && options.language) languageFilterInput.value = options.language;
   if (searchIntentInput && options.intent) searchIntentInput.value = options.intent;
   updateResultModePresentation();
+  if (searchFilterDrawer && (
+    options.mode === "advanced"
+    || options.yearMin
+    || options.yearMax
+    || options.collections.length
+    || options.series.length
+    || options.access.length
+    || options.intelligence.length
+    || options.language !== "main"
+    || !options.fulltext
+    || !["general", "cases"].includes(options.intent)
+  )) searchFilterDrawer.open = true;
   if (resultSortInput && [...resultSortInput.options].some(option => option.value === options.sort)) resultSortInput.value = options.sort;
   const knownSeries = new Set(allSeries.flatMap(series => [series.id, series.selection_id]));
   const selected = new Set(options.series);
@@ -1765,9 +1959,14 @@ function applyDeepLinkOptions(options) {
     : null;
   requestedPage = options.page;
   if (options.issue && !requestedIssue) deepLinkWarnings.push(`Unknown issue: ${options.issue}.`);
+  const knownDocumentIds = new Set(issues.map(issue => String(issue.document_id || "")).filter(Boolean));
+  const unknownDocuments = [...requestedDocumentIds].filter(documentId => !knownDocumentIds.has(documentId));
+  if (unknownDocuments.length) {
+    deepLinkWarnings.push(`${unknownDocuments.length} research-set document identifier${unknownDocuments.length === 1 ? " is" : "s are"} not present in this catalogue.`);
+  }
 }
 
-function buildShareUrl({autorun = true, issue = null, page = null, query = null, collection = null, series = [], fulltext = null} = {}) {
+function buildShareUrl({autorun = true, issue = null, page = null, query = null, collection = null, series = [], fulltext = null, handoff = true} = {}) {
   const params = new URLSearchParams();
   const mode = activeSearchMode();
   if (query) {
@@ -1810,6 +2009,7 @@ function buildShareUrl({autorun = true, issue = null, page = null, query = null,
     if (resultFacets.source) params.set("facet_source", resultFacets.source);
     if (resultFacets.pageLink) params.set("facet_page", resultFacets.pageLink);
     if (requestedMapRecordIds.size) params.set("map_record", [...requestedMapRecordIds].slice(0, 80).join(","));
+    requestedDocumentIds.forEach(documentId => params.append("doc", documentId));
     const selectedCollectionIds = collection
       ? [collection]
       : [...document.querySelectorAll(".collection-checkbox:checked")].map(input => input.value);
@@ -1832,7 +2032,18 @@ function buildShareUrl({autorun = true, issue = null, page = null, query = null,
     || issue
     || requestedIssue
     || requestedMapRecordIds.size
+    || requestedDocumentIds.size
   )) params.set("autorun", "1");
+  if (handoff) {
+    const currentParams = new URLSearchParams(window.location.search);
+    const returnMapUrl = currentParams.get("from") === "map"
+      ? validatedHandoffUrl(currentParams.get("return_map"), MAP_UI_BASE_URL)
+      : "";
+    if (returnMapUrl) {
+      params.set("from", "map");
+      params.set("return_map", returnMapUrl);
+    }
+  }
   const url = new URL(window.location.href);
   url.search = params.toString();
   url.hash = "";
@@ -1845,12 +2056,15 @@ function updateShareUrl() {
 
 function updateScopeStatus() {
   if (!scopeStatusElement) return;
+  updateSearchFilterSummary();
   if (selectedSearchIntent() === "cases") {
+    if (clearDocumentScopeButton) clearDocumentScopeButton.hidden = true;
     scopeStatusElement.textContent = caseDiscoveryRecordCount
       ? `${caseDiscoveryRecordCount.toLocaleString()} public mapped cases loaded from ${caseDiscoveryCollectionCount.toLocaleString()} active collections. The case index and map data come from the active MapView release.`
       : "Mapped case mode uses a compact cross-origin index that loads on the first case search; the interactive map stays unloaded until opened.";
     return;
   }
+  if (clearDocumentScopeButton) clearDocumentScopeButton.hidden = !requestedDocumentIds.size;
   const selected = selectedSeries();
   const selectedCountryIds = selectedCollections();
   const activeSeries = allSeries.filter(series =>
@@ -1868,7 +2082,10 @@ function updateScopeStatus() {
   const signalText = signalCount ? ` Page signals: ${signalCount} active.` : "";
   const resultFacetCount = activeResultFacetCount();
   const resultFacetText = resultFacetCount ? ` Result refinements: ${resultFacetCount} active.` : "";
-  scopeStatusElement.textContent = `${searchable.toLocaleString()} of ${activeSeries.length.toLocaleString()} active series have indexed full text. Mode: ${intentText}. Language scope: ${languageText}.${signalText}${resultFacetText}`;
+  const documentScopeText = requestedDocumentIds.size
+    ? ` Restricted to ${requestedDocumentIds.size.toLocaleString()} document${requestedDocumentIds.size === 1 ? "" : "s"} from a research set.`
+    : "";
+  scopeStatusElement.textContent = `${searchable.toLocaleString()} of ${activeSeries.length.toLocaleString()} active series have indexed full text. Mode: ${intentText}. Language scope: ${languageText}.${documentScopeText}${signalText}${resultFacetText}`;
 }
 
 function collectionKindCount() {
@@ -1896,6 +2113,9 @@ function archiveStats() {
 function renderArchiveStats() {
   if (!archiveStatsElement) return;
   const stats = archiveStats();
+  if (archiveReadySummaryElement) {
+    archiveReadySummaryElement.textContent = `${stats.documents.toLocaleString()} documents · ${stats.searchablePages.toLocaleString()} searchable pages`;
+  }
   archiveStatsElement.innerHTML = [
     {value: stats.collections, label: "PDF collections"},
     {value: stats.documents, label: "online PDFs"},
@@ -3057,7 +3277,7 @@ function caseMapUrl(recordIds) {
   const ids = [...new Set(recordIds.map(value => String(value || "").trim()).filter(Boolean))];
   if (ids.length) url.searchParams.set("prn", ids.slice(0, 80).join(","));
   url.searchParams.set("evidence", "1");
-  return url.href;
+  return withSearchHandoff(url.href);
 }
 
 function caseDetailUrlForRecord(recordId, collection) {
@@ -3117,7 +3337,7 @@ function caseResearchButton(row) {
     data-research-record-id="${escapeHtml(recordId)}"
     data-research-source-families="${escapeHtml(caseField(row, "source_labels"))}"
     data-research-source-count="${escapeHtml(caseNumberField(row, "source_count"))}"
-    data-research-evidence-status="${caseEvidenceUrl(row) ? "linked" : "mapped"}">Add to research set</button>`;
+    data-research-evidence-status="${caseEvidenceUrl(row) ? "linked" : "mapped"}">Save for comparison</button>`;
 }
 
 function renderCaseFilterOptions() {
@@ -3161,6 +3381,14 @@ function activeCaseFilters() {
   };
 }
 
+function updateActiveCaseFilterCount() {
+  if (!activeCaseFilterCountElement) return;
+  const filters = activeCaseFilters();
+  const count = Number(Boolean(filters.collection)) + Number(Boolean(filters.country)) + Number(filters.evidence);
+  activeCaseFilterCountElement.textContent = `${count} active`;
+  activeCaseFilterCountElement.hidden = count === 0;
+}
+
 async function refreshWorkerCaseResults({updateUrl = true, announce = true} = {}) {
   const refreshId = caseSearchRefreshId + 1;
   caseSearchRefreshId = refreshId;
@@ -3178,12 +3406,13 @@ async function refreshWorkerCaseResults({updateUrl = true, announce = true} = {}
   document.documentElement.dataset.caseWorkerTotalMatches = String(summary.totalMatches);
   document.documentElement.dataset.caseWorkerDurationMs = String(summary.durationMs);
   renderCaseFilterOptions();
+  updateActiveCaseFilterCount();
   renderResults();
   renderResultFacetStatus();
   currentResultNote = resultCountNote();
   if (caseFilterStatus) caseFilterStatus.textContent = currentResultNote;
   if (announce) {
-    updateStatus(`${currentResultNote} Case filtering took ${Number(summary.durationMs || 0).toLocaleString()} ms off the page's main thread.`);
+    updateStatus(currentResultNote);
   }
   if (updateUrl) updateShareUrl();
   return true;
@@ -3210,6 +3439,7 @@ async function applyCaseFilters({updateUrl = true} = {}) {
     durationMs: 0,
   };
   renderCaseFilterOptions();
+  updateActiveCaseFilterCount();
   renderResults();
   renderResultFacetStatus();
   currentResultNote = resultCountNote();
@@ -3272,18 +3502,28 @@ async function runCaseSearch(criteria, searchStartedAt) {
     await applyCaseFilters({updateUrl: false});
   }
   focusResultsIfRequested();
-  const seconds = elapsedSeconds(searchStartedAt);
   currentResultNote = resultCountNote();
-  const workerNote = caseSearchEngine === "worker"
-    ? ` Worker matching and filtering took ${Number(caseSearchSummary.durationMs || 0).toLocaleString()} ms off the page's main thread.`
-    : "";
-  updateStatus(`${currentResultNote} Case index search completed in ${seconds}s.${workerNote} The map remains unloaded until requested.`);
+  updateStatus(currentResultNote);
   updateShareUrl();
   updateScopeStatus();
 }
 
 function resultDomId(result) {
   return `result-${String(result.issue.document_id || result.issue.id).replace(/[^a-zA-Z0-9_-]/g, "-")}`;
+}
+
+function documentDetailUrl(issue, {page = null, query = ""} = {}) {
+  const documentId = String(issue?.document_id || issue?.id || "").trim();
+  if (!documentId) return "";
+  const url = new URL("document/", SEARCH_UI_BASE_URL);
+  url.searchParams.set("id", documentId);
+  if (issue.collection_id) url.searchParams.set("collection", issue.collection_id);
+  if (page) url.searchParams.set("page_start", String(page));
+  if (query) url.searchParams.set("q", query);
+  if (isLocalArchivePreview() && new URLSearchParams(window.location.search).get("publicData") === "1" && url.origin === window.location.origin) {
+    url.searchParams.set("publicData", "1");
+  }
+  return url.href;
 }
 
 function relatedMapUrl(row) {
@@ -3299,7 +3539,7 @@ function relatedMapUrl(row) {
     : currentTerms.length ? currentTerms.join(" ") : row.issue.title || row.issue.series || "";
   if (query) url.searchParams.set("q", query);
   url.searchParams.set("evidence", "1");
-  return url.href;
+  return withSearchHandoff(url.href);
 }
 
 function visibleResultsMapUrl() {
@@ -3308,7 +3548,7 @@ function visibleResultsMapUrl() {
     return {url: caseMapUrl(recordIds), mappedCount: recordIds.length};
   }
   const url = new URL(MAP_UI_BASE_URL);
-  const rows = currentResults.slice(0, visibleCount);
+  const rows = currentResults;
   const allRecordIds = [...new Set(rows.flatMap(row =>
     mapSourcesForIssue(row.issue)
       .map(source => String(source.ufocat_prn || source.record_id || source.geipan_case_id || "").trim())
@@ -3317,26 +3557,34 @@ function visibleResultsMapUrl() {
   const recordIds = requestedMapRecordIds.size
     ? allRecordIds.filter(recordId => requestedMapRecordIds.has(recordId))
     : allRecordIds;
-  if (recordIds.length) url.searchParams.set("prn", recordIds.slice(0, 80).join(","));
-  const query = recordIds.length
+  const transferredRecordIds = recordIds.slice(0, 80);
+  if (transferredRecordIds.length) url.searchParams.set("prn", transferredRecordIds.join(","));
+  const query = transferredRecordIds.length
     ? ""
     : currentTerms.length
       ? currentTerms.join(" ")
       : rows.length === 1 ? rows[0].issue.title || rows[0].issue.series || "" : "";
   if (query) url.searchParams.set("q", query);
   url.searchParams.set("evidence", "1");
-  return {url: url.href, mappedCount: recordIds.length};
+  return {url: withSearchHandoff(url.href), mappedCount: transferredRecordIds.length};
 }
 
 function updateResultsMapLink() {
   if (!showResultsMapElement) return;
   const {url, mappedCount} = visibleResultsMapUrl();
+  const mapQuery = currentTerms.join(" ").trim();
+  const mapAvailable = Boolean(mappedCount || mapQuery);
   showResultsMapElement.href = url;
-  showResultsMapElement.setAttribute("aria-disabled", String(!mappedCount));
-  showResultsMapElement.classList.toggle("disabled", !mappedCount);
+  showResultsMapElement.hidden = !mapAvailable;
   showResultsMapElement.textContent = mappedCount
-    ? `Show ${mappedCount.toLocaleString()} mapped case${mappedCount === 1 ? "" : "s"}`
-    : "No mapped cases in results";
+    ? `View ${mappedCount.toLocaleString()} mapped case${mappedCount === 1 ? "" : "s"}`
+    : mapQuery ? `Explore “${mapQuery}” on map` : "View on map";
+  headerMapLinkElements.forEach(link => {
+    link.href = mapAvailable ? url : mapUiUrl();
+    link.title = mappedCount
+      ? `View ${mappedCount.toLocaleString()} mapped case${mappedCount === 1 ? "" : "s"} from these results`
+      : mapQuery ? `Explore “${mapQuery}” on the research map` : "Open the research map";
+  });
   if (toggleResultsMapButton) {
     toggleResultsMapButton.hidden = !mappedCount;
     toggleResultsMapButton.disabled = !mappedCount;
@@ -3353,7 +3601,7 @@ function syncResultsMapFrame(url, mappedCount) {
   if (mappedCount && resultsMapFrame.src !== url) resultsMapFrame.src = url;
   if (resultsMapNote) {
     resultsMapNote.textContent = mappedCount
-      ? `Showing up to ${mappedCount.toLocaleString()} visible mapped case${mappedCount === 1 ? "" : "s"}. Selecting “Locate here” focuses one case.`
+      ? `Showing ${mappedCount.toLocaleString()} mapped case${mappedCount === 1 ? "" : "s"} linked to the current result set. Selecting “Locate here” focuses one case.`
       : "No mapped cases are available in the visible results.";
   }
 }
@@ -3526,22 +3774,23 @@ function researchItemButton(row, page, searchUrl, mapEvidence) {
     data-research-document-id="${escapeHtml(documentId)}"
     data-research-source-families="${escapeHtml(sourceFamilies.join("|"))}"
     data-research-source-count="${escapeHtml(mapEvidence?.sourceCount || 0)}"
-    data-research-evidence-status="${escapeHtml(evidenceStatus)}">Add to research set</button>`;
+    data-research-evidence-status="${escapeHtml(evidenceStatus)}">Save for comparison</button>`;
 }
 
 function resultNeedsSnippets(result) {
   return Boolean(result.textHitPages && !result.excerpts.length && result.storedPages.length);
 }
 
-function renderResultExcerpts(row) {
-  if (row.excerpts.length) {
-    return `<div class="excerpts">${row.excerpts.map(excerpt => `
+function renderResultExcerpts(row, start = 0, limit = 1) {
+  const excerpts = row.excerpts.slice(start, start + limit);
+  if (excerpts.length) {
+    return `<div class="excerpts">${excerpts.map(excerpt => `
       <p class="excerpt">${pdfOpenUrl(row.issue, excerpt.page, currentTerms)
         ? `<a class="page-prefix" href="${escapeHtml(pdfOpenUrl(row.issue, excerpt.page, currentTerms))}" target="_blank" rel="noopener">Page ${escapeHtml(excerpt.page)}</a>`
         : `<span class="page-prefix">Page ${escapeHtml(excerpt.page)}</span>`}: ${highlightedSnippet(excerpt.text, currentTerms, currentCriteria?.phrase || "")}</p>
     `).join("")}</div>`;
   }
-  if (resultNeedsSnippets(row)) {
+  if (start === 0 && resultNeedsSnippets(row)) {
     return `<div class="excerpts snippet-pending" aria-live="polite">
       <p class="excerpt-skeleton"><span></span><span></span><span></span></p>
     </div>`;
@@ -3554,6 +3803,8 @@ function updateResultExcerpts(row) {
   const container = article?.querySelector("[data-snippet-slot]");
   if (!container) return;
   container.innerHTML = renderResultExcerpts(row);
+  const additionalContainer = article.querySelector("[data-additional-snippet-slot]");
+  if (additionalContainer) additionalContainer.innerHTML = renderResultExcerpts(row, 1, 2);
 }
 
 async function hydrateResultSnippets(result, terms, runId) {
@@ -3617,14 +3868,25 @@ async function hydrateVisibleSnippets(terms, runId = currentSearchRunId) {
 function renderCaseResults() {
   const rows = currentResults.slice(0, visibleCount);
   if (!rows.length) {
-    resultsElement.innerHTML = "<p>No matching mapped cases.</p>";
+    if (resultsHeadingActionsElement) resultsHeadingActionsElement.hidden = true;
+    resultsElement.innerHTML = `
+      <div class="results-state empty-state">
+        <strong>No mapped cases matched</strong>
+        <p>Try a broader place, date, or record term. Any case filters remain available under “Filter these cases”.</p>
+        <div class="results-state-actions">
+          <button type="button" data-empty-action="edit">Edit search</button>
+          <button type="button" data-empty-action="browse-cases">Browse all mapped cases</button>
+        </div>
+      </div>`;
     updateResultsMapLink();
     return;
   }
+  if (resultsHeadingActionsElement) resultsHeadingActionsElement.hidden = false;
   const markup = rows.map(row => {
     const recordId = caseField(row, "id");
     const collection = caseField(row, "collection");
     const collectionLabel = CASE_COLLECTION_LABELS[collection] || collection;
+    const title = caseField(row, "title") || recordId;
     const mapUrl = caseMapUrl([recordId]);
     const detailUrl = caseDetailUrl(row);
     const evidenceUrl = caseEvidenceUrl(row);
@@ -3633,35 +3895,51 @@ function renderCaseResults() {
     const dossier = caseDossierByRecordId.get(recordId);
     const metadata = [
       caseField(row, "date"),
-      caseField(row, "location"),
-      caseField(row, "region"),
+      caseField(row, "location") && caseField(row, "location") !== title ? caseField(row, "location") : "",
       caseField(row, "country"),
-      caseField(row, "type"),
       caseField(row, "classification") ? `Class ${caseField(row, "classification")}` : "",
+    ].filter(Boolean);
+    const detailMetadata = [
+      caseField(row, "region") && caseField(row, "region") !== caseField(row, "location")
+        ? `Region: ${caseField(row, "region")}`
+        : "",
+      caseField(row, "type") ? `Type: ${caseField(row, "type")}` : "",
     ].filter(Boolean);
     const stats = [
       `${sourceCount.toLocaleString()} linked source${sourceCount === 1 ? "" : "s"}`,
       evidenceUrl ? "source/file link" : "map metadata",
       dossier ? "reviewed dossier" : "",
     ].filter(Boolean);
+    const researchButton = caseResearchButton(row);
+    const primaryAction = evidenceUrl
+      ? `<a class="evidence-action" href="${escapeHtml(evidenceUrl)}" target="_blank" rel="noopener">View source evidence <span aria-hidden="true">&nearr;</span></a>`
+      : `<a class="evidence-action" href="${escapeHtml(detailUrl)}">Open case</a>`;
     return `
       <article id="case-${escapeHtml(recordId.replace(/[^a-zA-Z0-9_-]/g, "-"))}" class="result no-thumbnail case-result">
         <div class="result-body">
           <p class="series-name">${escapeHtml(collectionLabel)} / ${escapeHtml(recordId)}</p>
-          <h3>${escapeHtml(caseField(row, "title") || recordId)}</h3>
+          <h3>${escapeHtml(title)}</h3>
           <p class="result-meta">${metadata.map(value => `<span>${escapeHtml(value)}</span>`).join("")}</p>
-          <p class="result-stat-strip">${stats.map(value => `<span>${escapeHtml(value)}</span>`).join("")}</p>
-          ${caseField(row, "source_labels") ? `<p class="source-map-summary">Source family: ${escapeHtml(caseField(row, "source_labels"))}</p>` : ""}
-          ${evidenceTrail}
-          <div class="result-actions">
-            ${evidenceUrl ? `<a class="evidence-action" href="${escapeHtml(evidenceUrl)}" target="_blank" rel="noopener">Open representative evidence <span aria-hidden="true">&nearr;</span></a>` : ""}
-            <a class="secondary-action" href="${escapeHtml(detailUrl)}">Open case page</a>
-            <button class="secondary-action" type="button" data-preview-case-map="${escapeHtml(recordId)}">Locate here</button>
-            <a class="secondary-action map-evidence-action" href="${escapeHtml(mapUrl)}">Open case on full map</a>
-            ${dossier ? `<a class="secondary-action" href="${escapeHtml(searchUiUrl(dossier.stable_url || ("cases/" + dossier.slug + "/")))}">Open reviewed dossier</a>` : ""}
-            <button class="citation-action" type="button" data-copy-case-citation="${escapeHtml(recordId)}">Copy citation</button>
-            ${caseResearchButton(row)}
+          <div class="result-actions result-primary-actions">
+            ${primaryAction}
+            ${researchButton}
           </div>
+          <details class="result-more">
+            <summary>Details and research tools</summary>
+            <div class="result-more-body">
+              ${detailMetadata.length ? `<p class="result-detail-line">${detailMetadata.map(value => `<span>${escapeHtml(value)}</span>`).join("")}</p>` : ""}
+              <p class="result-stat-strip">${stats.map(value => `<span>${escapeHtml(value)}</span>`).join("")}</p>
+              ${caseField(row, "source_labels") ? `<p class="source-map-summary">Source family: ${escapeHtml(caseField(row, "source_labels"))}</p>` : ""}
+              ${evidenceTrail}
+              <div class="result-actions">
+                ${evidenceUrl ? `<a class="secondary-action" href="${escapeHtml(detailUrl)}">Open case page</a>` : ""}
+                <button class="secondary-action" type="button" data-preview-case-map="${escapeHtml(recordId)}">Locate here</button>
+                <a class="secondary-action map-evidence-action" href="${escapeHtml(mapUrl)}">Open case on full map</a>
+                ${dossier ? `<a class="secondary-action" href="${escapeHtml(searchUiUrl(dossier.stable_url || ("cases/" + dossier.slug + "/")))}">Open reviewed dossier</a>` : ""}
+                <button class="citation-action" type="button" data-copy-case-citation="${escapeHtml(recordId)}">Copy citation</button>
+              </div>
+            </div>
+          </details>
         </div>
       </article>`;
   }).join("");
@@ -3680,10 +3958,20 @@ function renderResults() {
   }
   const rows = currentResults.slice(0, visibleCount);
   if (!rows.length) {
-    resultsElement.innerHTML = "<p>No matching results.</p>";
+    if (resultsHeadingActionsElement) resultsHeadingActionsElement.hidden = true;
+    resultsElement.innerHTML = `
+      <div class="results-state empty-state">
+        <strong>No documents matched</strong>
+        <p>Check the wording or broaden the filters. Exact phrases and collection limits can narrow a search substantially.</p>
+        <div class="results-state-actions">
+          <button type="button" data-empty-action="edit">Edit search</button>
+          <a href="${escapeHtml(searchUiUrl("collections/"))}">Browse collections</a>
+        </div>
+      </div>`;
     updateResultsMapLink();
     return;
   }
+  if (resultsHeadingActionsElement) resultsHeadingActionsElement.hidden = false;
   const resultMarkup = rows.map(row => {
     const pageSummary = matchingPageSummary(row);
     const sourceLabels = [];
@@ -3695,9 +3983,16 @@ function renderResults() {
     const openPdfUrl = pdfOpenUrl(row.issue, openPage, currentTerms);
     const evidenceLabel = openPage ? `View evidence page ${openPage}` : "Open PDF";
     const searchUrl = buildShareUrl({autorun: true, issue: row.issue.document_id, page: openPage});
+    const detailUrl = documentDetailUrl(row.issue, {
+      page: openPage,
+      query: currentCriteria?.phrase || currentTerms.join(" "),
+    });
     const mapUrl = relatedMapUrl(row);
     const mapEvidence = mappedEvidenceSummary(row.issue);
     const issueYearText = issueYear(row.issue);
+    const issueYearDescription = issueYearText
+      ? (row.issue.publication_year ? `Publication year ${issueYearText}` : `Title/filename year ${issueYearText}`)
+      : "";
     const pageCount = Number(row.issue.page_count || row.issue.pages || 0);
     const resultStats = [
       row.textHitPages ? `${row.textHitPages.toLocaleString()} full-text hit${row.textHitPages === 1 ? "" : "s"}` : "",
@@ -3708,12 +4003,8 @@ function renderResults() {
     ].filter(Boolean);
     const whyItems = whyMatchedItems(row, sourceLabels);
     const resultMeta = [
-      row.issue.collection_title || row.issue.collection_id || "Archive",
-      row.issue.series,
-      row.issue.language_label ? `${row.issue.language_label} language` : "",
-      issueYearText || "",
+      issueYearDescription,
       pageCount ? `${pageCount.toLocaleString()} pages` : "",
-      openPage ? `best page ${openPage}` : "",
     ].filter(Boolean);
     const resultLanguageBadges = languageBadges(row.issue);
     let accessLabel = `<span class="access-badge online-access">Online PDF</span>`;
@@ -3734,36 +4025,50 @@ function renderResults() {
     const preview = documentPreviewMarkup(row.issue, openPdfUrl, pageCount);
     const evidenceTrail = evidenceTrailMarkup(row.issue, mapEvidence, mapUrl);
     const researchButton = researchItemButton(row, openPage, searchUrl, mapEvidence);
-    const evidenceAction = openPdfUrl
-      ? `<div class="result-actions">
+    const primaryActions = openPdfUrl
+      ? `<div class="result-actions result-primary-actions">
           <a class="evidence-action" href="${escapeHtml(openPdfUrl)}" target="_blank" rel="noopener">
             ${escapeHtml(evidenceLabel)} <span aria-hidden="true">&nearr;</span>
           </a>
+          ${researchButton}
+        </div>`
+      : `<div class="result-actions result-primary-actions"><span class="evidence-action unavailable-action" aria-disabled="true">PDF not publicly available</span>${researchButton}</div>`;
+    const secondaryActions = `<div class="result-actions">
           <a class="secondary-action" href="${escapeHtml(searchUrl)}">Open search result</a>
+          ${detailUrl ? `<a class="secondary-action" href="${escapeHtml(detailUrl)}">Document details</a>` : ""}
           ${mapEvidence
             ? `<a class="secondary-action map-evidence-action" href="${escapeHtml(mapUrl)}">${mapEvidence.prnCount.toLocaleString()} mapped sighting${mapEvidence.prnCount === 1 ? "" : "s"}</a>`
             : `<a class="secondary-action" href="${escapeHtml(mapUrl)}">Explore related map search</a>`}
           <button class="citation-action" type="button" data-copy-result-citation="${escapeHtml(String(row.issue.document_id || row.issue.id || ""))}">Copy citation</button>
-          ${researchButton}
-        </div>`
-      : `<div class="result-actions"><span class="evidence-action unavailable-action" aria-disabled="true">PDF not publicly available</span><button class="citation-action" type="button" data-copy-result-citation="${escapeHtml(String(row.issue.document_id || row.issue.id || ""))}">Copy citation</button>${researchButton}</div>`;
+        </div>`;
+    const seriesPath = [
+      row.issue.collection_title || row.issue.collection_id || "Archive",
+      row.issue.series,
+    ].filter(Boolean).join(" / ");
     return `
     <article id="${escapeHtml(resultDomId(row))}" class="result ${preview ? "has-thumbnail" : "no-thumbnail"}">
       ${preview}
       <div class="result-body">
-        <p class="series-name">${escapeHtml(row.issue.collection_title || row.issue.collection_id || "Archive")} / ${escapeHtml(row.issue.series)}</p>
-        <h3>${escapeHtml(row.issue.title)}</h3>
+        <p class="series-name" title="${escapeHtml(seriesPath)}">${escapeHtml(seriesPath)}</p>
+        <h3>${detailUrl ? `<a class="result-title-link" href="${escapeHtml(detailUrl)}">${escapeHtml(row.issue.title)}</a>` : escapeHtml(row.issue.title)}</h3>
         <p class="result-meta">${resultMeta.map(item => `<span>${escapeHtml(item)}</span>`).join("")}</p>
-        ${resultLanguageBadges.length ? `<p class="language-badge-line">${resultLanguageBadges.map(item => `<span class="language-badge ${item.className}">${escapeHtml(item.label)}</span>`).join("")}</p>` : ""}
-        ${resultStats.length ? `<p class="result-stat-strip">${resultStats.map(item => `<span>${escapeHtml(item)}</span>`).join("")}</p>` : ""}
-        ${whyItems.length ? `<p class="why-match">${whyItems.map(item => `<span>${escapeHtml(item)}</span>`).join("")}</p>` : ""}
-        <p class="access-line">${accessLabel}</p>
-        ${mapEvidence ? `<p class="source-map-summary">${mapEvidence.prnCount.toLocaleString()} mapped sighting${mapEvidence.prnCount === 1 ? "" : "s"} cite this PDF${mapEvidence.label ? ` via ${escapeHtml(mapEvidence.label)}` : ""}.</p>` : ""}
-        ${evidenceTrail}
-        <p class="match-summary">${escapeHtml(sourceLabels.join(" + "))}${pageSummary ? ` &middot; ${pageSummary}` : ""}</p>
-        ${pageClusterMarkup(row)}
         <div data-snippet-slot>${renderResultExcerpts(row)}</div>
-        ${evidenceAction}
+        ${primaryActions}
+        <details class="result-more">
+          <summary>Details and research tools</summary>
+          <div class="result-more-body">
+            ${resultLanguageBadges.length ? `<p class="language-badge-line">${resultLanguageBadges.map(item => `<span class="language-badge ${item.className}">${escapeHtml(item.label)}</span>`).join("")}</p>` : ""}
+            <p class="access-line">${accessLabel}</p>
+            <div data-additional-snippet-slot>${renderResultExcerpts(row, 1, 2)}</div>
+            ${resultStats.length ? `<p class="result-stat-strip">${resultStats.map(item => `<span>${escapeHtml(item)}</span>`).join("")}</p>` : ""}
+            ${whyItems.length ? `<p class="why-match">${whyItems.map(item => `<span>${escapeHtml(item)}</span>`).join("")}</p>` : ""}
+            ${mapEvidence ? `<p class="source-map-summary">${mapEvidence.prnCount.toLocaleString()} mapped sighting${mapEvidence.prnCount === 1 ? "" : "s"} cite this PDF${mapEvidence.label ? ` via ${escapeHtml(mapEvidence.label)}` : ""}.</p>` : ""}
+            ${evidenceTrail}
+            <p class="match-summary">${escapeHtml(sourceLabels.join(" + "))}${pageSummary ? ` &middot; ${pageSummary}` : ""}</p>
+            ${pageClusterMarkup(row)}
+            ${secondaryActions}
+          </div>
+        </details>
       </div>
     </article>
   `;
@@ -3774,6 +4079,18 @@ function renderResults() {
   resultsElement.innerHTML = `${resultMarkup}${moreMarkup}`;
   window.IsaacKoiResearch?.render();
   updateResultsMapLink();
+}
+
+function renderResultsLoading(title, detail) {
+  if (resultsHeadingActionsElement) resultsHeadingActionsElement.hidden = true;
+  resultsElement.innerHTML = `
+    <div class="results-state is-loading">
+      <span class="results-state-spinner" aria-hidden="true"></span>
+      <div>
+        <strong>${escapeHtml(title)}</strong>
+        <p>${escapeHtml(detail)}</p>
+      </div>
+    </div>`;
 }
 
 function visibleResearchSetText() {
@@ -3908,6 +4225,8 @@ function searchDiagnosticsNote(searchStartedAt, metadataSeconds) {
 }
 
 async function runSearch() {
+  searchHasRun = true;
+  updatePreSearchDiscovery();
   if (!catalogueLoaded) {
     currentResults = [];
     facetUniverse = [];
@@ -3919,9 +4238,16 @@ async function runSearch() {
     resultsElement.innerHTML = `<p class="empty-state load-error">${escapeHtml(catalogueLoadError || catalogueMissingMessage())}</p>`;
     return;
   }
-  if (currentSearchRequiresMapEvidence() && mapEvidenceLoadState === "loading" && mapEvidenceLoadPromise) {
+  if (selectedIntelligenceFilters().size && pageIntelligenceLoadState !== "ready") {
+    updateStatus("Loading page signals for this search...");
+    renderResultsLoading("Preparing specialist filters…", "Loading the page-level signals requested for this search.");
+    await ensurePageIntelligenceLoaded();
+  }
+  if (currentSearchRequiresMapEvidence()) {
+    const evidencePromise = startMapEvidenceEnrichment();
     updateStatus("Loading mapped archive evidence for this search...");
-    await mapEvidenceLoadPromise;
+    renderResultsLoading("Connecting documents and mapped cases…", "Loading the public evidence links used by this search.");
+    await evidencePromise;
   }
   const criteria = searchCriteria();
   const runId = currentSearchRunId + 1;
@@ -3934,13 +4260,14 @@ async function runSearch() {
   lastSearchStats = null;
   currentSearchWarnings = [];
   if (selectedSearchIntent() === "cases") {
+    renderResultsLoading("Searching mapped cases…", "Checking the compact public case index.");
     await runCaseSearch(criteria, searchStartedAt);
     return;
   }
   currentResultMode = "documents";
   caseUniverse = [];
   updateResultModePresentation();
-  if (!hasPositiveCriteria(criteria) && !requestedIssue && !requestedMapRecordIds.size) {
+  if (!hasPositiveCriteria(criteria) && !requestedIssue && !requestedMapRecordIds.size && !requestedDocumentIds.size) {
     currentResults = [];
     facetUniverse = [];
     visibleCount = pageSize;
@@ -3951,6 +4278,7 @@ async function runSearch() {
     updateStatus(criteria.none.length ? "Enter at least one positive search term as well as excluded words." : "Enter at least one search term.");
     return;
   }
+  renderResultsLoading("Searching the archive…", "Checking catalogue metadata and the relevant indexed pages.");
   const selected = selectedSeries();
   const selectedCountryIds = selectedCollections();
   const accessModes = selectedAccessModes();
@@ -3962,6 +4290,7 @@ async function runSearch() {
     && languageMatchesMode(issue, languageMode)
     && issueMatchesYearRange(issue, criteria)
     && issueMatchesIntelligenceFilters(issue)
+    && (!requestedDocumentIds.size || requestedDocumentIds.has(String(issue.document_id || "")))
     && (!requestedMapRecordIds.size || mapSourcesForIssue(issue).some(source =>
       requestedMapRecordIds.has(String(source.ufocat_prn || source.record_id || source.geipan_case_id || ""))
     ))
@@ -3981,6 +4310,13 @@ async function runSearch() {
       pinned.metadataScore = 1000;
     }
   }
+  if (requestedDocumentIds.size && !hasPositiveCriteria(criteria)) {
+    for (const issue of scopedIssues) {
+      const pinned = ensureCandidate(candidates, issue);
+      pinned.sources.add("direct-link");
+      pinned.metadataScore = 1000;
+    }
+  }
   if (hasPositiveCriteria(criteria)) {
     for (const issue of scopedIssues) {
       if (!metadataMatches(issue, criteria)) continue;
@@ -3994,10 +4330,12 @@ async function runSearch() {
   let truncated = false;
   if (hasPositiveCriteria(criteria) && fullTextInput.checked) {
     const searchAllIndexed = !selected.size;
+    const requestedSeriesIds = new Set(scopedIssues.map(issue => issue.series_selection_id));
     const selectable = allSeries.filter(series =>
       selectedCountryIds.has(series.collection_id)
       && series.indexed_text_pages > 0
       && languageMatchesMode(series, languageMode)
+      && (!requestedDocumentIds.size || requestedSeriesIds.has(series.selection_id))
       && (searchAllIndexed || selected.has(series.selection_id))
     );
     if (searchAllIndexed) {
@@ -4026,13 +4364,11 @@ async function runSearch() {
   hydrateVisibleSnippets(terms, runId)
     .then(() => {
       if (runId !== currentSearchRunId) return;
-      updateStatus(`${currentResultNote}${searchDiagnosticsNote(searchStartedAt, metadataSeconds)}${warningSummary()}`);
+      updateStatus(`${currentResultNote}${warningSummary()}`);
     })
     .catch(error => updateStatus(`${currentResultNote} Snippet hydration warning: ${error.message}`));
   currentResultNote = resultCountNote();
-  updateStatus(
-    `${currentResultNote}${searchDiagnosticsNote(searchStartedAt, metadataSeconds)}${warningSummary()}`
-  );
+  updateStatus(`${currentResultNote}${warningSummary()}`);
   updateShareUrl();
   updateScopeStatus();
 }
@@ -4129,11 +4465,7 @@ async function start() {
   collections = loaded.map(item => item.collection);
   allSeries = collections.flatMap(collection => collection.series);
   issues = loaded.flatMap(item => item.issues);
-  await Promise.all([loadOptionalLocalLinks(), loadOptionalCollectionLandingSummary(), loadOptionalCaseDossiers(), loadPageIntelligence(collections)]);
-  for (const issue of issues) {
-    const intelligence = pageIntelligenceByIssue.get(issueIntelligenceKey(issue));
-    if (intelligence) issue.page_intelligence = intelligence;
-  }
+  await Promise.all([loadOptionalLocalLinks(), loadOptionalCollectionLandingSummary(), loadOptionalCaseDossiers()]);
   applyLocalLinksToIssues(issues);
   catalogueLoaded = true;
   catalogueLoadError = "";
@@ -4150,16 +4482,10 @@ async function start() {
   const options = deepLinkOptions();
   applyDeepLinkOptions(options);
   updateScopeStatus();
-  const localCount = issues.filter(issue => issue.access_mode === "local").length;
-  const unavailableCount = issues.filter(issue => issue.access_mode === "unavailable").length;
-  const localNote = localCount ? ` ${localCount.toLocaleString()} PDFs will open from local files.` : "";
-  const unavailableNote = unavailableCount ? ` ${unavailableCount.toLocaleString()} records have no public PDF link yet.` : "";
-  const startupNote = catalogueLoadMode === "compact-bundle" ? " Compact catalogue loaded in one request." : "";
-  const releaseNote = activeDataRelease ? ` Data release ${activeDataRelease}.` : "";
   const registryGapNote = unavailableCatalogueEntries.length
     ? ` ${unavailableCatalogueEntries.length.toLocaleString()} advertised collection${unavailableCatalogueEntries.length === 1 ? " is" : "s are"} not yet deployed and ${unavailableCatalogueEntries.length === 1 ? "was" : "were"} skipped.`
     : "";
-  updateStatus(`${issues.length.toLocaleString()} online PDF records across ${collections.length.toLocaleString()} collection${collections.length === 1 ? "" : "s"} and ${allSeries.length.toLocaleString()} series.${startupNote}${releaseNote}${registryGapNote}${localNote}${unavailableNote}`);
+  updateStatus(`Ready to search.${registryGapNote}`);
   if (options.autorun && (
     options.query
     || options.all
@@ -4168,14 +4494,18 @@ async function start() {
     || options.intent === "cases"
     || requestedIssue
     || requestedMapRecordIds.size
+    || requestedDocumentIds.size
   )) {
     requestResultFocus();
     if (currentSearchRequiresMapEvidence()) await mapEvidencePromise;
     await runSearch();
   }
+  scheduleDeferredSearchEnhancements();
 }
 
 async function browseAllCases() {
+  searchHasRun = true;
+  updatePreSearchDiscovery();
   document.querySelector('input[name="search-mode"][value="basic"]').checked = true;
   document.getElementById("basic-search").hidden = false;
   document.getElementById("advanced-search").hidden = true;
@@ -4190,10 +4520,13 @@ async function browseAllCases() {
   if (caseCollectionFilter) caseCollectionFilter.value = "";
   if (caseCountryFilter) caseCountryFilter.value = "";
   if (caseEvidenceFilter) caseEvidenceFilter.checked = false;
+  if (caseResultControls) caseResultControls.open = false;
+  updateActiveCaseFilterCount();
   if (resultSortInput) resultSortInput.value = "relevance";
   requestedIssue = null;
   requestedPage = null;
   requestedMapRecordIds.clear();
+  requestedDocumentIds.clear();
   pendingCaseFilters = {collection: "", country: "", evidence: false};
   updateResultModePresentation();
   updateScopeStatus();
@@ -4205,18 +4538,48 @@ document.getElementById("search-button").addEventListener("click", () => {
   requestResultFocus();
   runSearch().catch(error => updateStatus(error.message));
 });
+primaryIntentButtons.forEach(button => {
+  button.addEventListener("click", () => {
+    if (searchIntentInput) searchIntentInput.value = button.dataset.primaryIntent || "general";
+    updateResultModePresentation();
+    updateScopeStatus();
+    if (searchHasRun) rerunIfUseful();
+  });
+});
 document.getElementById("browse-all-cases")?.addEventListener("click", () => {
   browseAllCases().catch(error => updateStatus(error.message));
+});
+clearDocumentScopeButton?.addEventListener("click", () => {
+  requestedDocumentIds.clear();
+  updateScopeStatus();
+  updateShareUrl();
+  if (hasPositiveCriteria(searchCriteria()) || requestedIssue || requestedMapRecordIds.size) {
+    requestResultFocus();
+    runSearch().catch(error => updateStatus(error.message));
+  } else {
+    currentResults = [];
+    facetUniverse = [];
+    renderResults();
+    updateStatus("Research-set scope cleared. Enter search terms to search the full archive.");
+  }
+});
+editSearchButton?.addEventListener("click", () => {
+  document.querySelector(".search-panel")?.scrollIntoView({behavior: "smooth", block: "start"});
+  window.setTimeout(() => queryInput.focus(), 220);
 });
 document.querySelectorAll('input[name="search-mode"]').forEach(input => {
   input.addEventListener("change", () => {
     const advanced = activeSearchMode() === "advanced";
+    if (advanced && searchFilterDrawer) searchFilterDrawer.open = true;
     document.getElementById("basic-search").hidden = advanced;
     document.getElementById("advanced-search").hidden = !advanced;
     if (advanced && !allWordsInput.value && queryInput.value) allWordsInput.value = queryInput.value;
+    updateSearchFilterSummary();
     (advanced ? allWordsInput : queryInput).focus();
   });
 });
+searchFilterDrawer?.addEventListener("toggle", syncSearchFilterDisclosure);
+syncSearchFilterDisclosure();
 [queryInput, allWordsInput, exactPhraseInput, anyWordsInput, noneWordsInput].forEach(input => {
   input.addEventListener("keydown", event => {
     if (event.key === "Enter") {
@@ -4226,6 +4589,16 @@ document.querySelectorAll('input[name="search-mode"]').forEach(input => {
   });
 });
 resultsElement.addEventListener("click", async event => {
+  const emptyAction = event.target?.closest("[data-empty-action]");
+  if (emptyAction) {
+    if (emptyAction.dataset.emptyAction === "browse-cases") {
+      browseAllCases().catch(error => updateStatus(error.message));
+      return;
+    }
+    document.querySelector(".search-panel")?.scrollIntoView({behavior: "smooth", block: "start"});
+    queryInput.focus();
+    return;
+  }
   const caseCitationButton = event.target?.closest("[data-copy-case-citation]");
   if (caseCitationButton) {
     const recordId = caseCitationButton.dataset.copyCaseCitation || "";
@@ -4390,6 +4763,7 @@ resultSortInput?.addEventListener("change", () => {
 });
 [caseCollectionFilter, caseCountryFilter, caseEvidenceFilter].forEach(input => {
   input?.addEventListener("change", () => {
+    updateActiveCaseFilterCount();
     if (currentResultMode === "cases" && (caseSearchSummary.totalMatches || caseUniverse.length)) {
       applyCaseFilters().catch(error => updateStatus(`Could not filter mapped cases: ${error.message}`));
     }
@@ -4399,6 +4773,7 @@ clearCaseFiltersButton?.addEventListener("click", () => {
   if (caseCollectionFilter) caseCollectionFilter.value = "";
   if (caseCountryFilter) caseCountryFilter.value = "";
   if (caseEvidenceFilter) caseEvidenceFilter.checked = false;
+  updateActiveCaseFilterCount();
   if (currentResultMode === "cases") {
     applyCaseFilters().catch(error => updateStatus(`Could not clear mapped-case filters: ${error.message}`));
   }
@@ -4416,7 +4791,8 @@ clearResultFacetsButton?.addEventListener("click", () => {
   applyResultFacets();
 });
 document.querySelectorAll(".intelligence-filter").forEach(input => {
-  input.addEventListener("change", () => {
+  input.addEventListener("change", async () => {
+    if (input.checked) await ensurePageIntelligenceLoaded();
     rerunIfUseful();
     renderBrowsePreview();
   });
@@ -4450,10 +4826,18 @@ browsePreviewElement?.addEventListener("click", event => {
 seriesList.addEventListener("change", event => {
   if (event.target?.matches(".series-checkbox")) updateScopeStatus();
 });
+[yearMinInput, yearMaxInput].forEach(input => {
+  input?.addEventListener("input", updateSearchFilterSummary);
+});
+fullTextInput?.addEventListener("change", () => {
+  updateSearchFilterSummary();
+  updateShareUrl();
+});
 document.querySelectorAll(".access-filter").forEach(input => {
   input.addEventListener("change", () => {
+    updateScopeStatus();
     updateShareUrl();
-    if (hasPositiveCriteria(searchCriteria()) || requestedIssue) {
+    if (hasPositiveCriteria(searchCriteria()) || requestedIssue || requestedDocumentIds.size) {
       runSearch().catch(error => updateStatus(error.message));
     }
   });

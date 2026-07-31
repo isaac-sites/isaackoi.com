@@ -3,6 +3,8 @@
 
   const research = window.IsaacKoiResearch;
   if (!research) return;
+  const searchUiMeta = document.querySelector('meta[name="afu-search-ui-base"]')?.content.trim();
+  const SEARCH_UI_BASE_URL = new URL(searchUiMeta || "./", window.location.href);
   const sharedItems = research.sharedItemsFromUrl();
   let items = sharedItems.length ? sharedItems : research.getItems();
   let selectedIds = new Set(items.slice(0, 4).map(item => item.id));
@@ -14,6 +16,10 @@
   const statusElement = document.getElementById("research-workspace-status");
   const sharedNoteElement = document.getElementById("shared-set-note");
   const saveSharedButton = document.getElementById("save-shared-set");
+  const setSearchForm = document.getElementById("research-set-search-form");
+  const setSearchInput = document.getElementById("research-set-query");
+  const setSearchButton = document.getElementById("search-research-set");
+  const setSearchStatus = document.getElementById("research-set-search-status");
 
   function typeLabel(type) {
     return {"archive-document": "Archive document", "mapped-case": "Mapped case", dossier: "Evidence dossier"}[type] || type;
@@ -27,6 +33,9 @@
   function comparisonFields() {
     return [
       ["Record type", item => typeLabel(item.type)],
+      ["Evidence pages", item => item.page_start ? (item.page_start === item.page_end ? `PDF page ${item.page_start}` : `PDF pages ${item.page_start}–${item.page_end}`) : ""],
+      ["Finding query", item => item.finding_query],
+      ["Private note (local only)", item => item.private_note],
       ["Date", item => item.date],
       ["Location", item => item.location],
       ["Collection", item => item.collection],
@@ -117,6 +126,32 @@
   function render() {
     renderList();
     renderComparison();
+    renderSetSearch();
+  }
+
+  function searchableDocumentIds() {
+    return [...new Set(items
+      .filter(item => item.type === "archive-document")
+      .map(item => String(item.document_id || "").trim())
+      .filter(Boolean))]
+      .slice(0, research.maxItems);
+  }
+
+  function renderSetSearch() {
+    const documentIds = searchableDocumentIds();
+    setSearchButton.disabled = !documentIds.length;
+    setSearchStatus.textContent = documentIds.length
+      ? `${documentIds.length} saved archive document${documentIds.length === 1 ? "" : "s"} will be searched.`
+      : "Add an archive document with a stable document ID before searching this set.";
+  }
+
+  function researchSetSearchUrl(query) {
+    const url = new URL(SEARCH_UI_BASE_URL);
+    searchableDocumentIds().forEach(documentId => url.searchParams.append("doc", documentId));
+    if (query) url.searchParams.set("q", query);
+    url.searchParams.set("fulltext", "1");
+    url.searchParams.set("autorun", "1");
+    return url.href;
   }
 
   function downloadJson() {
@@ -163,9 +198,23 @@
     statusElement.textContent = copied ? `Copied ${citations.length} citation${citations.length === 1 ? "" : "s"}.` : "Clipboard access is unavailable.";
   });
   document.getElementById("download-research-json").addEventListener("click", downloadJson);
+  setSearchForm.addEventListener("submit", event => {
+    event.preventDefault();
+    const documentIds = searchableDocumentIds();
+    if (!documentIds.length) {
+      setSearchStatus.textContent = "No saved archive documents are available to search.";
+      return;
+    }
+    window.location.href = researchSetSearchUrl(setSearchInput.value.trim());
+  });
   saveSharedButton.addEventListener("click", () => {
     const existing = research.getItems();
-    const merged = [...items, ...existing.filter(existingItem => !items.some(item => item.id === existingItem.id))];
+    const existingById = new Map(existing.map(item => [item.id, item]));
+    const sharedWithLocalNotes = items.map(item => ({
+      ...item,
+      private_note: existingById.get(item.id)?.private_note || "",
+    }));
+    const merged = [...sharedWithLocalNotes, ...existing.filter(existingItem => !items.some(item => item.id === existingItem.id))];
     research.writeItems(merged);
     statusElement.textContent = `Saved ${items.length} shared item${items.length === 1 ? "" : "s"} in this browser.`;
     saveSharedButton.disabled = true;

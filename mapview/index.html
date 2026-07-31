@@ -9,21 +9,34 @@
     <title>Isaac Koi UFO Research Map</title>
     <script>
       (function () {
+        var params = new URLSearchParams(window.location.search);
+        var embed = params.get("embed");
+        if (embed === "1" || embed === "true") {
+          document.documentElement.setAttribute("data-embed-mode", "true");
+        }
+        document.documentElement.setAttribute("data-dataset", params.get("dataset") || "ufo-public");
         var stored = null;
         try { stored = window.localStorage.getItem("phoenix-color-mode"); } catch (error) {}
-        var theme = stored === "dark" || stored === "light"
-          ? stored
-          : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        var requestedTheme = params.get("theme");
+        var theme = requestedTheme === "dark" || requestedTheme === "light"
+          ? requestedTheme
+          : (requestedTheme !== "auto" && (stored === "dark" || stored === "light")
+            ? stored
+            : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));
         document.documentElement.setAttribute("data-theme", theme);
       }());
     </script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@10.6.1/ol.css">
-    <link rel="stylesheet" href="styles.css?v=33">
+    <link rel="stylesheet" href="styles.css?v=52">
   </head>
-  <body>
+  <body class="map-page">
     <main class="app-shell">
       <aside class="control-panel" aria-label="Map controls">
         <div class="control-bar">
+          <div class="embed-context" aria-label="Embedded evidence explorer" hidden>
+            <span>Evidence explorer</span>
+            <strong id="embedContextTitle">Explore mapped records</strong>
+          </div>
           <div class="brand">
             <a class="brand-lockup" href="https://isaackoi.com/" aria-label="Isaac Koi Archive home">
               <span class="brand-mark" aria-hidden="true">
@@ -45,26 +58,50 @@
             </a>
           </div>
           <div class="surface-links">
-            <a class="surface-link" href="/search-archive/">Archive search</a>
-            <a class="surface-link" href="/search-archive/investigations/">Guided trails</a>
-            <a class="surface-link" href="/search-archive/research.html">Research set</a>
-            <a class="surface-link surface-link-secondary" href="/search-archive/methodology.html">About data</a>
+            <a class="surface-link" data-archive-search-link href="/search-archive/">Archive search</a>
+            <a id="header-research-link" class="surface-link" href="/search-archive/research.html">
+              Research set <span class="research-count" data-research-count hidden>0</span>
+            </a>
+            <details class="desktop-surface-menu">
+              <summary>More</summary>
+              <nav aria-label="More map destinations">
+                <a href="/search-archive/investigations/">Guided trails</a>
+                <button id="desktopTimelineToggle" type="button">Timeline</button>
+                <button id="desktopCoverageToggle" type="button">Coverage</button>
+                <button id="desktopMappingDataToggle" type="button">Data &amp; downloads</button>
+                <a href="/search-archive/methodology.html">About data</a>
+              </nav>
+            </details>
           </div>
+          <details class="mobile-surface-menu">
+            <summary>More</summary>
+            <nav aria-label="More map destinations">
+              <a data-archive-search-link href="/search-archive/">Archive search</a>
+              <a href="/search-archive/investigations/">Guided trails</a>
+              <a href="/search-archive/research.html">Research set <span class="research-count" data-research-count hidden>0</span></a>
+              <button id="mobileTimelineToggle" type="button">Timeline</button>
+              <button id="mobileMappingDataToggle" type="button">Data &amp; downloads</button>
+              <a href="/search-archive/methodology.html">About data</a>
+            </nav>
+          </details>
 
-          <div class="stats" aria-live="polite">
-            <div>
-              <span id="visibleCount">0</span>
-              <label>visible</label>
+          <details class="stats-disclosure">
+            <summary>Coverage</summary>
+            <div class="stats" aria-live="polite">
+              <div>
+                <span id="visibleCount">0</span>
+                <label>visible</label>
+              </div>
+              <div>
+                <span id="totalCount">0</span>
+                <label>total</label>
+              </div>
+              <div>
+                <span id="evidenceCount">0</span>
+                <label>evidence</label>
+              </div>
             </div>
-            <div>
-              <span id="totalCount">0</span>
-              <label>total</label>
-            </div>
-            <div>
-              <span id="evidenceCount">0</span>
-              <label>evidence</label>
-            </div>
-          </div>
+          </details>
 
           <details class="timeline-disclosure">
             <summary>Timeline</summary>
@@ -96,14 +133,15 @@
 
           <label class="field search-field">
             <span>Search</span>
-            <input id="searchInput" type="search" autocomplete="off" placeholder="Location, date, state, record ID">
+            <input id="searchInput" type="search" autocomplete="off" placeholder="Location, date, state, record ID"
+              title="Type to filter the map; press Enter to focus matching cases">
           </label>
 
           <button id="filterToggle" class="filter-toggle" type="button" aria-expanded="false" aria-controls="advancedFilters">
             Filters <span id="activeFilterCount" class="filter-count" hidden>0</span>
           </button>
 
-          <button id="resetButton" class="reset" type="button">Reset</button>
+          <button id="resetButton" class="reset" type="button" title="Clear search and filters" hidden>Clear</button>
 
           <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme" title="Switch colour theme">
             <svg class="icon icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/></svg>
@@ -112,8 +150,57 @@
         </div>
 
         <div id="advancedFilters" class="advanced-filters" hidden>
-          <fieldset class="layer-controls">
-            <legend>Layers</legend>
+          <fieldset class="basic-map-filters">
+            <legend>Place and date</legend>
+            <label class="field">
+              <span>Country</span>
+              <select id="countryFilter">
+                <option value="">All countries/areas</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>State</span>
+              <select id="stateFilter">
+                <option value="">All states</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Year</span>
+              <select id="yearFilter">
+                <option value="">All years</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Month</span>
+              <select id="monthFilter">
+                <option value="">All months</option>
+              </select>
+            </label>
+
+            <label class="field">
+              <span>Decade</span>
+              <select id="decadeFilter">
+                <option value="">All decades</option>
+              </select>
+            </label>
+
+            <div class="field">
+              <span>Marker colour</span>
+              <div class="segmented" role="group" aria-label="Marker color mode">
+                <button id="colorUniform" class="active" type="button">Simple</button>
+                <button id="colorByDecade" type="button">Decade</button>
+                <button id="colorByState" type="button">State</button>
+              </div>
+            </div>
+          </fieldset>
+
+          <details class="specialist-filter-group">
+            <summary>Research layers and shortcuts</summary>
+            <fieldset class="layer-controls">
+            <legend>Layers and research shortcuts</legend>
             <label><input id="fold3LayerToggle" type="checkbox" checked> Documents / Project Blue Book / Fold3</label>
             <label><input id="aproLayerToggle" type="checkbox" checked> Publications / records with linked archive evidence</label>
             <label><input id="geipanLayerToggle" type="checkbox" checked> Documents / France / GEIPAN</label>
@@ -140,69 +227,46 @@
                 <button id="copyTrailLink" type="button">Copy trail link</button>
               </div>
             </div>
-          </fieldset>
+            </fieldset>
+          </details>
 
-          <fieldset class="archive-tree-field">
-            <legend>Publication and document layers</legend>
-            <div id="archiveTree" class="archive-tree" aria-label="Archive source filter"></div>
-            <p class="filter-help">Tick a publication or document collection to show only records linked to that part of the Isaac Koi archive.</p>
-          </fieldset>
-
-          <label class="field">
-            <span>Country</span>
-            <select id="countryFilter">
-              <option value="">All countries/areas</option>
-            </select>
-          </label>
-
-          <label class="field">
-            <span>State</span>
-            <select id="stateFilter">
-              <option value="">All states</option>
-            </select>
-          </label>
-
-          <label class="field">
-            <span>Year</span>
-            <select id="yearFilter">
-              <option value="">All years</option>
-            </select>
-          </label>
-
-          <label class="field">
-            <span>Month</span>
-            <select id="monthFilter">
-              <option value="">All months</option>
-            </select>
-          </label>
-
-          <label class="field">
-            <span>Decade</span>
-            <select id="decadeFilter">
-              <option value="">All decades</option>
-            </select>
-          </label>
-
-          <div class="field">
-            <span>Color</span>
-            <div class="segmented" role="group" aria-label="Marker color mode">
-              <button id="colorByDecade" class="active" type="button">Decade</button>
-              <button id="colorByState" type="button">State</button>
-            </div>
-          </div>
+          <details class="specialist-filter-group">
+            <summary>Publication sources</summary>
+            <fieldset class="archive-tree-field">
+              <legend>Publication and document layers</legend>
+              <div id="archiveTree" class="archive-tree" aria-label="Archive source filter"></div>
+              <p class="filter-help">Tick a publication or document collection to show only records linked to that part of the Isaac Koi archive.</p>
+            </fieldset>
+          </details>
         </div>
       </aside>
 
       <section class="map-panel" aria-label="Interactive map">
+        <aside id="mapHandoff" class="handoff-banner map-handoff" aria-live="polite" hidden>
+          <div>
+            <strong>Mapped results from archive search</strong>
+            <span id="mapHandoffText">The map is focused on the cases you selected.</span>
+          </div>
+          <a id="returnToSearch" href="/search-archive/">Return to search</a>
+          <button id="dismissMapHandoff" type="button" aria-label="Dismiss search context">Dismiss</button>
+        </aside>
         <div class="map-area-search">
           <button id="searchMapArea" type="button">Search this map area</button>
           <span id="searchMapAreaStatus">Moves with the current viewport</span>
         </div>
         <div class="map-panel-tools" aria-label="Map information panels">
-          <button id="sourceRichPanelToggle" type="button" aria-expanded="false" aria-controls="sourceRichPanel">Documented cases</button>
+          <button id="sourceRichPanelToggle" type="button" aria-expanded="false" aria-controls="sourceRichPanel">Top documented</button>
           <button id="mappingDataPanelToggle" type="button" aria-expanded="false" aria-controls="mappingDataAside">Data &amp; downloads</button>
         </div>
         <div id="map"></div>
+        <div id="mapState" class="map-state is-loading" role="status" aria-live="polite">
+          <span class="map-state-spinner" aria-hidden="true"></span>
+          <div>
+            <strong id="mapStateTitle">Loading mapped cases…</strong>
+            <span id="mapStateDetail">Preparing the public research map.</span>
+          </div>
+          <button id="mapStateAction" type="button" hidden>Reset filters</button>
+        </div>
         <aside id="sourceRichPanel" class="case-rank-panel" aria-label="Source-rich cases" hidden>
           <div class="case-rank-header">
             <div><p class="source-label">Source-rich cases</p><h2>Top documented cases</h2></div>
@@ -228,20 +292,20 @@
             </div>
             <div class="evidence-actions">
               <a id="evidenceExternalLink" class="popup-link" href="#" target="_blank" rel="noopener">Open in new tab</a>
-              <button id="evidencePanelClose" class="popup-close evidence-close" type="button" aria-label="Close evidence viewer">x</button>
+              <button id="evidencePanelClose" class="popup-close evidence-close" type="button" aria-label="Close evidence viewer">&times;</button>
             </div>
           </div>
           <iframe id="evidenceFrame" class="evidence-frame" title="Highlighted archive evidence"></iframe>
         </aside>
         <div id="popup" class="ol-popup">
-          <button id="popupClose" class="popup-close" type="button" aria-label="Close popup">x</button>
+          <button id="popupClose" class="popup-close" type="button" aria-label="Close popup">&times;</button>
           <div id="popupContent"></div>
         </div>
       </section>
     </main>
 
     <script src="https://cdn.jsdelivr.net/npm/ol@10.6.1/dist/ol.js"></script>
-    <script src="/search-archive/assets/research-tray.js?v=2"></script>
-    <script src="app.js?v=66"></script>
+    <script src="/search-archive/assets/research-tray.js?v=5"></script>
+    <script src="app.js?v=90"></script>
   </body>
 </html>

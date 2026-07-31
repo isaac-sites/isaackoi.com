@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Browse the public Isaac Koi Archive chronologically by document year or exact collection-indexing date.">
+  <meta name="afu-search-data-base" content="https://files.afu.se/Downloads/search/">
+  <meta name="afu-search-ui-base" content="https://isaackoi.com/search-archive/">
+  <meta name="afu-map-ui-base" content="https://isaackoi.com/mapview/">
+  <title>Archive Timeline | Isaac Koi Archive</title>
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <script>(function(){var s=null;try{s=localStorage.getItem("phoenix-color-mode")}catch(e){}var t=s==="dark"||s==="light"?s:(matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t)}());</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/search.css?v=35">
+</head>
+<body>
+  <header class="site-header"><div class="header-inner">
+    <a class="brand-lockup" href="../"><span class="brand-copy"><span class="brand-name">Isaac Koi Archive</span><span class="site-title">Archive Timeline</span><span class="site-tagline">Chronological browsing with explicit date provenance</span></span></a>
+    <div class="header-actions">
+      <a class="surface-link" href="../">Archive search</a>
+      <a class="surface-link" href="../collections/">Collections</a>
+      <a class="surface-link" href="/mapview/">Research map</a>
+      <a class="surface-link" href="../methodology.html">About the data</a>
+    </div>
+  </div></header>
+
+  <main class="browse-page timeline-page">
+    <nav class="dossier-breadcrumb" aria-label="Breadcrumb"><a href="../">Archive search</a><span>/</span><span>Timeline</span></nav>
+    <section class="browse-hero">
+      <h1>Archive timeline</h1>
+      <p id="timeline-explanation">Document years are parsed from catalogue titles or filenames unless an explicit document-year field exists. They are not incident dates.</p>
+      <details class="browse-about">
+        <summary>Timeline coverage</summary>
+        <div id="timeline-stats" class="archive-stats" aria-live="polite"><span><strong>Loading</strong><small>timeline</small></span></div>
+      </details>
+    </section>
+
+    <section class="browse-controls timeline-controls" aria-label="Timeline filters">
+      <label for="timeline-mode"><span>Date layer</span><select id="timeline-mode"><option value="documents">Document chronology</option><option value="indexing">Collection indexing chronology</option></select></label>
+      <label for="timeline-collection"><span>Collection</span><select id="timeline-collection"><option value="">All collections</option></select></label>
+      <label for="timeline-decade"><span>Decade</span><select id="timeline-decade"><option value="">All decades</option></select></label>
+      <label for="timeline-query"><span>Filter titles</span><input id="timeline-query" type="search" autocomplete="off" placeholder="e.g. APRO, radar"></label>
+      <p id="timeline-status" aria-live="polite">Loading the public catalogue&hellip;</p>
+    </section>
+
+    <section id="timeline-results" class="timeline-results" aria-live="polite"></section>
+    <button id="load-more-timeline" class="load-more" type="button" hidden>Show more timeline entries</button>
+    <section id="timeline-error" class="case-detail-error" hidden><h2>Timeline unavailable</h2><p></p><a href="../">Return to archive search</a></section>
+  </main>
+
+  <script src="../assets/archive-browse-data.js?v=3"></script>
+  <script src="../assets/archive-timeline.js?v=1"></script>
+</body>
+</html>

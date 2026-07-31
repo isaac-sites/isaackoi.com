@@ -1,6 +1,14 @@
 const urlParams = new URLSearchParams(window.location.search);
 const localMode = urlParams.get("local") === "true";
+const embedMode = ["1", "true"].includes((urlParams.get("embed") || "").toLocaleLowerCase());
+const requestedDataset = (urlParams.get("dataset") || "ufo-public").trim().toLocaleLowerCase();
+const requestedGeographyType = (urlParams.get("geography_type") || "").trim().toLocaleLowerCase();
+const requestedGeographyId = (urlParams.get("geography_id") || "").trim();
+const requestedFocusGeographyType = (urlParams.get("focus_geography_type") || "").trim().toLocaleLowerCase();
+const requestedFocusGeographyId = (urlParams.get("focus_geography_id") || "").trim();
 const AFU_PUBLIC_MAP_DATA_BASE = "https://files.afu.se/Downloads/mapview/";
+document.documentElement.dataset.embedMode = embedMode ? "true" : "false";
+document.documentElement.dataset.dataset = requestedDataset;
 
 function isLocalMapPreview() {
   return window.location.protocol === "file:"
@@ -54,6 +62,34 @@ function interfaceUrl(value, legacyPrefix, baseUrl) {
 
 function searchUiUrl(value = "") {
   return interfaceUrl(value, "/Downloads/search", SEARCH_UI_BASE_URL);
+}
+
+function validatedHandoffUrl(value, baseUrl) {
+  if (!value) return "";
+  try {
+    const candidate = new URL(value, baseUrl);
+    const base = new URL(baseUrl);
+    const basePath = base.pathname.endsWith("/") ? base.pathname : `${base.pathname}/`;
+    if (candidate.origin !== base.origin) return "";
+    if (candidate.pathname !== base.pathname && !candidate.pathname.startsWith(basePath)) return "";
+    return candidate.href;
+  } catch (error) {
+    return "";
+  }
+}
+
+function canonicalMapReturnUrl() {
+  const url = new URL(window.location.href);
+  url.searchParams.delete("from");
+  url.searchParams.delete("return_search");
+  return url.href;
+}
+
+function withMapHandoff(value) {
+  const url = new URL(value, SEARCH_UI_BASE_URL);
+  url.searchParams.set("from", "map");
+  url.searchParams.set("return_map", canonicalMapReturnUrl());
+  return url.href;
 }
 
 function mapDataUrl(value) {
@@ -230,6 +266,14 @@ const collectionTimeline = document.getElementById("collectionTimeline");
 const timelinePlay = document.getElementById("timelinePlay");
 const timelineClear = document.getElementById("timelineClear");
 const timelineStatus = document.getElementById("timelineStatus");
+const timelineDisclosure = document.querySelector(".timeline-disclosure");
+const statsDisclosure = document.querySelector(".stats-disclosure");
+const mobileSurfaceMenu = document.querySelector(".mobile-surface-menu");
+const desktopSurfaceMenu = document.querySelector(".desktop-surface-menu");
+const desktopTimelineToggle = document.getElementById("desktopTimelineToggle");
+const desktopCoverageToggle = document.getElementById("desktopCoverageToggle");
+const mobileTimelineToggle = document.getElementById("mobileTimelineToggle");
+const mobileMappingDataToggle = document.getElementById("mobileMappingDataToggle");
 const searchInput = document.getElementById("searchInput");
 const trailStatus = document.getElementById("trailStatus");
 const trailStatusLabel = document.getElementById("trailStatusLabel");
@@ -243,10 +287,12 @@ const yearFilter = document.getElementById("yearFilter");
 const monthFilter = document.getElementById("monthFilter");
 const colorByDecade = document.getElementById("colorByDecade");
 const colorByState = document.getElementById("colorByState");
+const colorUniform = document.getElementById("colorUniform");
 const filterToggle = document.getElementById("filterToggle");
 const activeFilterCount = document.getElementById("activeFilterCount");
 const advancedFilters = document.getElementById("advancedFilters");
 const resetButton = document.getElementById("resetButton");
+const controlBar = document.querySelector(".control-bar");
 const popup = document.getElementById("popup");
 const popupContent = document.getElementById("popupContent");
 const popupClose = document.getElementById("popupClose");
@@ -257,6 +303,7 @@ const sourceRichPanel = document.getElementById("sourceRichPanel");
 const mappingDataAside = document.getElementById("mappingDataAside");
 const sourceRichPanelToggle = document.getElementById("sourceRichPanelToggle");
 const mappingDataPanelToggle = document.getElementById("mappingDataPanelToggle");
+const desktopMappingDataToggle = document.getElementById("desktopMappingDataToggle");
 const sourceRichPanelClose = document.getElementById("sourceRichPanelClose");
 const mappingDataPanelClose = document.getElementById("mappingDataPanelClose");
 const evidencePanel = document.getElementById("evidencePanel");
@@ -275,6 +322,236 @@ const themeToggle = document.querySelector("[data-theme-toggle]");
 const localModeBadge = document.getElementById("localModeBadge");
 const searchMapArea = document.getElementById("searchMapArea");
 const searchMapAreaStatus = document.getElementById("searchMapAreaStatus");
+const mapHandoff = document.getElementById("mapHandoff");
+const mapHandoffText = document.getElementById("mapHandoffText");
+const returnToSearch = document.getElementById("returnToSearch");
+const dismissMapHandoff = document.getElementById("dismissMapHandoff");
+const mapState = document.getElementById("mapState");
+const mapStateTitle = document.getElementById("mapStateTitle");
+const mapStateDetail = document.getElementById("mapStateDetail");
+const mapStateAction = document.getElementById("mapStateAction");
+const embedContext = document.querySelector(".embed-context");
+const embedContextTitle = document.getElementById("embedContextTitle");
+
+if (embedContext) embedContext.hidden = !embedMode;
+
+const US_STATE_NAMES = {
+  AL: "Alabama", AK: "Alaska", AZ: "Arizona", AR: "Arkansas", CA: "California",
+  CO: "Colorado", CT: "Connecticut", DE: "Delaware", FL: "Florida", GA: "Georgia",
+  HI: "Hawaii", ID: "Idaho", IL: "Illinois", IN: "Indiana", IA: "Iowa",
+  KS: "Kansas", KY: "Kentucky", LA: "Louisiana", ME: "Maine", MD: "Maryland",
+  MA: "Massachusetts", MI: "Michigan", MN: "Minnesota", MS: "Mississippi",
+  MO: "Missouri", MT: "Montana", NE: "Nebraska", NV: "Nevada",
+  NH: "New Hampshire", NJ: "New Jersey", NM: "New Mexico", NY: "New York",
+  NC: "North Carolina", ND: "North Dakota", OH: "Ohio", OK: "Oklahoma",
+  OR: "Oregon", PA: "Pennsylvania", RI: "Rhode Island", SC: "South Carolina",
+  SD: "South Dakota", TN: "Tennessee", TX: "Texas", UT: "Utah", VT: "Vermont",
+  VA: "Virginia", WA: "Washington", WV: "West Virginia", WI: "Wisconsin",
+  WY: "Wyoming", DC: "District of Columbia",
+};
+
+// Match reviewed legacy dataset labels before falling back to modern region names.
+// This keeps a Phoenix-facing ISO code stable even when the source catalogue uses
+// an older display label.
+const COUNTRY_FILTER_NAMES = {
+  GB: "Great Britain",
+};
+
+function normalizedOptionValue(value) {
+  return String(value || "").toLocaleLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+}
+
+function matchingSelectValue(select, candidates) {
+  const normalizedCandidates = new Set(candidates.map(normalizedOptionValue).filter(Boolean));
+  if (!normalizedCandidates.size) return "";
+  return [...select.options]
+    .map(option => option.value)
+    .find(value => normalizedCandidates.has(normalizedOptionValue(value))) || "";
+}
+
+function countryNameForCode(value) {
+  const code = String(value || "").trim().toLocaleUpperCase();
+  if (!/^[A-Z]{2}$/.test(code)) return "";
+  try {
+    const label = new Intl.DisplayNames(["en"], {type: "region"}).of(code);
+    if (label && label !== code) return label;
+  } catch (error) {
+    // The small fallback below covers the current Phoenix pilot sites.
+  }
+  return {GB: "United Kingdom", US: "United States"}[code] || "";
+}
+
+function countryFilterCandidates(value) {
+  const code = String(value || "").trim().toLocaleUpperCase();
+  return [
+    value,
+    COUNTRY_FILTER_NAMES[code],
+    countryNameForCode(code),
+    code === "US" ? "United States of America" : "",
+  ];
+}
+
+function requestedGeography() {
+  if (urlParams.get("country_code")) {
+    return {type: "country", id: urlParams.get("country_code").trim()};
+  }
+  if (urlParams.get("state_code")) {
+    return {type: "state", id: urlParams.get("state_code").trim()};
+  }
+  if (requestedGeographyType && requestedGeographyId) {
+    return {type: requestedGeographyType, id: requestedGeographyId};
+  }
+  return {type: "", id: ""};
+}
+
+function requestedFocusGeography() {
+  if (urlParams.get("focus_country_code")) {
+    return {type: "country", id: urlParams.get("focus_country_code").trim()};
+  }
+  if (urlParams.get("focus_state_code")) {
+    return {type: "state", id: urlParams.get("focus_state_code").trim()};
+  }
+  if (requestedFocusGeographyType && requestedFocusGeographyId) {
+    return {type: requestedFocusGeographyType, id: requestedFocusGeographyId};
+  }
+  return {type: "", id: ""};
+}
+
+function geographyDisplayLabel(scope) {
+  if (scope.type === "country") {
+    return countryNameForCode(scope.id) || scope.id;
+  }
+  if (scope.type === "state") {
+    return US_STATE_NAMES[scope.id.toLocaleUpperCase()] || scope.id;
+  }
+  return "";
+}
+
+function updateEmbedContextTitle() {
+  if (!embedContextTitle) return;
+  const scope = requestedGeography();
+  const label = scope.type === "country"
+    ? countryFilter.value || countryNameForCode(scope.id) || scope.id
+    : scope.type === "state"
+      ? stateFilter.value || US_STATE_NAMES[scope.id.toLocaleUpperCase()] || scope.id
+      : "";
+  const focusLabel = geographyDisplayLabel(requestedFocusGeography());
+  embedContextTitle.textContent = label
+    ? `Mapped records · ${label}`
+    : focusLabel
+      ? `Mapped records · Focused on ${focusLabel}`
+      : "Explore mapped records";
+}
+
+function applyInitialGeographyFilters() {
+  const legacyState = urlParams.get("state") || "";
+  const legacyCountry = urlParams.get("country") || "";
+  if (legacyState && [...stateFilter.options].some(option => option.value === legacyState)) {
+    stateFilter.value = legacyState;
+  }
+  if (legacyCountry && [...countryFilter.options].some(option => option.value === legacyCountry)) {
+    countryFilter.value = legacyCountry;
+  }
+  const scope = requestedGeography();
+  if (scope.type === "country") {
+    stateFilter.value = "";
+    countryFilter.value = matchingSelectValue(countryFilter, countryFilterCandidates(scope.id));
+  } else if (scope.type === "state") {
+    const stateCode = scope.id.toLocaleUpperCase();
+    countryFilter.value = "";
+    stateFilter.value = matchingSelectValue(stateFilter, [scope.id, US_STATE_NAMES[stateCode]]);
+  }
+  updateEmbedContextTitle();
+}
+
+let initialScopeFocusApplied = false;
+
+function optionValueForGeography(scope) {
+  if (scope.type === "country") {
+    return matchingSelectValue(countryFilter, countryFilterCandidates(scope.id));
+  }
+  if (scope.type === "state") {
+    return matchingSelectValue(stateFilter, [
+      scope.id,
+      US_STATE_NAMES[scope.id.toLocaleUpperCase()],
+    ]);
+  }
+  return "";
+}
+
+function focusGeographyCases(scope) {
+  const optionValue = optionValueForGeography(scope);
+  if (!optionValue) return false;
+  const matches = currentFilteredFeatures.filter(feature => {
+    const properties = feature?.properties || {};
+    return scope.type === "country"
+      ? properties.Country === optionValue
+      : properties.StateProvince === optionValue;
+  });
+  if (!matches.length) return false;
+  const extent = ol.extent.createEmpty();
+  for (const feature of matches) {
+    const coordinates = feature?.geometry?.coordinates;
+    if (!coordinates || coordinates.length < 2) continue;
+    const coordinate = ol.proj.fromLonLat(coordinates);
+    ol.extent.extend(extent, [coordinate[0], coordinate[1], coordinate[0], coordinate[1]]);
+  }
+  if (ol.extent.isEmpty(extent)) return false;
+  map.getView().fit(extent, {padding: [64, 64, 64, 64], duration: 220, maxZoom: 9});
+  return true;
+}
+
+function focusInitialScopeIfRequested() {
+  if (initialScopeFocusApplied || deepLinkedRecordIds.size) return;
+  const focusScope = requestedFocusGeography();
+  if (!stateFilter.value && !countryFilter.value && focusScope.type && focusScope.id) {
+    initialScopeFocusApplied = focusGeographyCases(focusScope);
+    if (initialScopeFocusApplied) return;
+  }
+  const shouldFocus = (urlParams.get("focus") || "").toLocaleLowerCase() === "filtered"
+    || (embedMode && Boolean(stateFilter.value || countryFilter.value));
+  if (!shouldFocus || !currentFilteredFeatures.length) return;
+  initialScopeFocusApplied = true;
+  window.setTimeout(focusFilteredCases, 0);
+}
+
+function renderMapHandoff() {
+  if (!mapHandoff || !returnToSearch) return;
+  const returnUrl = urlParams.get("from") === "search"
+    ? validatedHandoffUrl(urlParams.get("return_search"), SEARCH_UI_BASE_URL)
+    : "";
+  if (!returnUrl) return;
+  returnToSearch.href = returnUrl;
+  if (mapHandoffText) {
+    const query = urlParams.get("q")?.trim() || "";
+    mapHandoffText.textContent = deepLinkedRecordIds.size
+      ? `Focused on ${deepLinkedRecordIds.size.toLocaleString()} mapped case${deepLinkedRecordIds.size === 1 ? "" : "s"} from your search.`
+      : query
+        ? `Showing map cases related to “${query}”.`
+        : "Showing the map view selected from archive search.";
+  }
+  mapHandoff.hidden = false;
+}
+
+function updateMapState({title = "", detail = "", loading = false, action = ""} = {}) {
+  if (!mapState) return;
+  if (!title) {
+    mapState.hidden = true;
+    return;
+  }
+  mapState.hidden = false;
+  mapState.classList.toggle("is-loading", loading);
+  mapStateTitle.textContent = title;
+  mapStateDetail.textContent = detail;
+  mapStateAction.hidden = !action;
+  mapStateAction.textContent = action;
+  mapStateAction.dataset.action = action === "Try again" ? "retry" : "reset";
+}
+
+renderMapHandoff();
+dismissMapHandoff?.addEventListener("click", () => {
+  mapHandoff.hidden = true;
+});
 
 let rawFeatures = [];
 let aproFeatures = [];
@@ -287,7 +564,7 @@ let incidentClusterByRecordId = new Map();
 let caseDossierByRecordId = new Map();
 let featureArchiveFolders = new Map();
 let selectedArchiveFolders = new Set();
-let colorMode = "decade";
+let colorMode = "uniform";
 let stateColors = new Map();
 let activeClassificationFilter = "";
 let activeTrailKey = "";
@@ -315,8 +592,11 @@ const monthNames = [
 function setAuxiliaryPanel(panelName = "") {
   const showSourceRich = panelName === "source-rich";
   const showMappingData = panelName === "mapping-data";
+  if (showSourceRich) renderSourceRichList(currentFilteredFeatures);
+  if (showMappingData) renderMappingDataPanel();
   if (sourceRichPanel) sourceRichPanel.hidden = !showSourceRich;
   if (mappingDataAside) mappingDataAside.hidden = !showMappingData;
+  mapPanel?.classList.toggle("auxiliary-panel-open", showSourceRich || showMappingData);
   sourceRichPanelToggle?.setAttribute("aria-expanded", String(showSourceRich));
   mappingDataPanelToggle?.setAttribute("aria-expanded", String(showMappingData));
 }
@@ -382,6 +662,18 @@ const baseLayer = new ol.layer.Tile({
   }),
 });
 
+const overviewVectorSource = new ol.source.Vector();
+const overviewClusterSource = new ol.source.Cluster({
+  distance: 70,
+  minDistance: 12,
+  source: overviewVectorSource,
+});
+const overviewClusterLayer = new ol.layer.Vector({
+  source: overviewClusterSource,
+  style: styleForOverviewCluster,
+  visible: true,
+});
+
 const vectorSource = new ol.source.Vector();
 const clusterSource = new ol.source.Cluster({
   distance: 36,
@@ -392,6 +684,7 @@ const clusterSource = new ol.source.Cluster({
 const clusterLayer = new ol.layer.Vector({
   source: clusterSource,
   style: styleForCluster,
+  visible: false,
 });
 
 const aproVectorSource = new ol.source.Vector();
@@ -403,7 +696,7 @@ const aproClusterSource = new ol.source.Cluster({
 const aproClusterLayer = new ol.layer.Vector({
   source: aproClusterSource,
   style: styleForCluster,
-  visible: true,
+  visible: false,
 });
 const geipanVectorSource = new ol.source.Vector();
 const geipanClusterSource = new ol.source.Cluster({
@@ -414,7 +707,7 @@ const geipanClusterSource = new ol.source.Cluster({
 const geipanClusterLayer = new ol.layer.Vector({
   source: geipanClusterSource,
   style: styleForCluster,
-  visible: true,
+  visible: false,
 });
 const lacUfoVectorSource = new ol.source.Vector();
 const lacUfoClusterSource = new ol.source.Cluster({
@@ -425,26 +718,69 @@ const lacUfoClusterSource = new ol.source.Cluster({
 const lacUfoClusterLayer = new ol.layer.Vector({
   source: lacUfoClusterSource,
   style: styleForCluster,
-  visible: true,
+  visible: false,
 });
 
 const popupOverlay = new ol.Overlay({
   element: popup,
-  autoPan: { animation: { duration: 180 } },
   positioning: "bottom-center",
   stopEvent: true,
   offset: [0, -12],
 });
 
+function positionPopup(coordinate) {
+  mapPanel?.classList.add("popup-open");
+  popup.classList.remove("popup-below");
+  popup.style.maxHeight = "";
+  popupOverlay.setPositioning("bottom-center");
+  popupOverlay.setOffset([0, -12]);
+  popupOverlay.setPosition(coordinate);
+  window.requestAnimationFrame(() => {
+    const size = map.getSize();
+    const pixel = map.getPixelFromCoordinate(coordinate);
+    if (!size || !pixel) return;
+    const popupHeight = popup.getBoundingClientRect().height;
+    const spaceAbove = pixel[1] - 18;
+    const spaceBelow = size[1] - pixel[1] - 18;
+    if (popupHeight > spaceAbove && spaceBelow > spaceAbove) {
+      popup.classList.add("popup-below");
+      popup.style.maxHeight = `${Math.max(180, spaceBelow)}px`;
+      popupOverlay.setPositioning("top-center");
+      popupOverlay.setOffset([0, 12]);
+      popupOverlay.setPosition(coordinate);
+    }
+  });
+}
+
+function closeMapPopup() {
+  popupOverlay.setPosition(undefined);
+  popup.classList.remove("popup-below");
+  popup.style.maxHeight = "";
+  mapPanel?.classList.remove("popup-open");
+}
+
 const map = new ol.Map({
   target: "map",
-  layers: [baseLayer, clusterLayer, aproClusterLayer, geipanClusterLayer, lacUfoClusterLayer],
+  layers: [baseLayer, overviewClusterLayer, clusterLayer, aproClusterLayer, geipanClusterLayer, lacUfoClusterLayer],
   overlays: [popupOverlay],
   view: new ol.View({
     center: ol.proj.fromLonLat([0, 20]),
     zoom: 2,
   }),
 });
+
+function isOverviewZoom() {
+  return (map.getView().getZoom() || 0) < 4;
+}
+
+function syncClusterLayerVisibility() {
+  const overview = isOverviewZoom();
+  overviewClusterLayer.setVisible(overview);
+  clusterLayer.setVisible(!overview && fold3LayerToggle.checked);
+  aproClusterLayer.setVisible(!overview && aproLayerToggle.checked);
+  geipanClusterLayer.setVisible(!overview && geipanLayerToggle.checked);
+  lacUfoClusterLayer.setVisible(!overview && lacUfoLayerToggle.checked);
+}
 
 function escapeHtml(value) {
   return String(value || "")
@@ -496,16 +832,10 @@ function dateParts(properties) {
 }
 
 function colorFor(properties) {
-  if (isLacUfoFeature(properties)) {
-    if (properties.CoordinateTier === "high_confidence_locality") return "#b0477d";
-    if (properties.CoordinateTier === "provisional_locality") return "#a56a2a";
-    return "#7b6f1d";
-  }
-  if (isGeipanFeature(properties)) return "#336db0";
-  if (isSourceFirstFeature(properties)) return "#2f7d8c";
   if (coordinateTier(properties) === "centroid_fallback") return "#7b6f1d";
-  if (coordinateTier(properties) === "provisional_coordinate") return "#b65f18";
-  if (isUfocatFeature(properties)) return "#c3552a";
+  if (coordinateTier(properties) === "coarse_province_centroid") return "#8a7a43";
+  if (coordinateTier(properties) === "provisional_coordinate" || coordinateTier(properties) === "provisional_locality") return "#a96a36";
+  if (colorMode === "uniform") return "#2f7480";
   if (colorMode === "state") {
     return stateColors.get(properties.StateProvince) || "#156c75";
   }
@@ -548,7 +878,7 @@ function styleForCluster(feature) {
   const key = `${colorMode}:${color}:${tier}:${size > 1 ? "cluster" : "single"}:${size}`;
   if (styleCache.has(key)) return styleCache.get(key);
 
-  const radius = size > 1 ? Math.min(30, 14 + Math.log(size) * 4) : 7;
+  const radius = size > 1 ? Math.min(25, 12 + Math.log(size) * 3.3) : 6.5;
   if (size === 1 && (tier === "centroid_fallback" || tier === "coarse_province_centroid")) {
     const style = [
       new ol.style.Style({
@@ -584,16 +914,40 @@ function styleForCluster(feature) {
     image: new ol.style.Circle({
       radius,
       fill: new ol.style.Fill({ color }),
-      stroke: new ol.style.Stroke({ color: "#ffffff", width: 2 }),
+      stroke: new ol.style.Stroke({ color: "rgba(255,255,255,0.92)", width: size > 1 ? 1.75 : 1.5 }),
     }),
     text:
       size > 1
         ? new ol.style.Text({
             text: String(size),
             fill: new ol.style.Fill({ color: "#ffffff" }),
-            font: "700 12px Arial, Helvetica, sans-serif",
+            font: "700 11px Arial, Helvetica, sans-serif",
           })
         : undefined,
+  });
+  styleCache.set(key, style);
+  return style;
+}
+
+function styleForOverviewCluster(feature) {
+  const features = feature.get("features") || [];
+  const size = features.length;
+  if (size === 1) return styleForCluster(feature);
+  const first = features[0]?.getProperties() || {};
+  const color = colorMode === "uniform" ? "#2f7480" : colorFor(first);
+  const key = `overview:${colorMode}:${color}:${size}`;
+  if (styleCache.has(key)) return styleCache.get(key);
+  const style = new ol.style.Style({
+    image: new ol.style.Circle({
+      radius: Math.min(22, 10 + Math.log(size) * 2.7),
+      fill: new ol.style.Fill({ color }),
+      stroke: new ol.style.Stroke({ color: "rgba(255,255,255,0.94)", width: 1.6 }),
+    }),
+    text: new ol.style.Text({
+      text: String(size),
+      fill: new ol.style.Fill({ color: "#ffffff" }),
+      font: "700 10px Arial, Helvetica, sans-serif",
+    }),
   });
   styleCache.set(key, style);
   return style;
@@ -665,7 +1019,7 @@ function researchCaseButton(properties) {
     data-research-record-id="${escapeHtml(recordId)}"
     data-research-source-families="${escapeHtml(labels.join("|"))}"
     data-research-source-count="${escapeHtml(linkCount)}"
-    data-research-evidence-status="${escapeHtml(evidenceStatus)}">Add to research set</button>`;
+    data-research-evidence-status="${escapeHtml(evidenceStatus)}">Save for comparison</button>`;
 }
 
 function casePermalinkMarkup(properties) {
@@ -1036,7 +1390,7 @@ function archiveSearchUrl(source) {
   if (page) url.searchParams.set("page", page);
   url.searchParams.set("fulltext", "1");
   url.searchParams.set("autorun", "1");
-  return url.href;
+  return withMapHandoff(url.href);
 }
 
 function archiveSearchQueryUrl(query) {
@@ -1046,7 +1400,21 @@ function archiveSearchQueryUrl(query) {
   url.searchParams.set("q", value);
   url.searchParams.set("fulltext", "1");
   url.searchParams.set("autorun", "1");
-  return url.href;
+  return withMapHandoff(url.href);
+}
+
+function syncArchiveSearchLinks() {
+  const query = searchInput.value.trim();
+  const returnUrl = urlParams.get("from") === "search"
+    ? validatedHandoffUrl(urlParams.get("return_search"), SEARCH_UI_BASE_URL)
+    : "";
+  const url = query ? archiveSearchQueryUrl(query) : returnUrl || searchUiUrl();
+  document.querySelectorAll("[data-archive-search-link]").forEach(link => {
+    link.href = url;
+    link.title = query
+      ? `Search archive material for “${query}”`
+      : returnUrl ? "Return to archive results" : "Open archive search";
+  });
 }
 
 function mapAreaSearchUrl() {
@@ -1074,16 +1442,31 @@ function mapAreaSearchUrl() {
   url.searchParams.set("map_record", recordIds.join(","));
   url.searchParams.set("fulltext", "0");
   url.searchParams.set("autorun", "1");
-  return {url: url.href, recordCount: recordIds.length, availableCount: candidates.length};
+  return {url: withMapHandoff(url.href), recordCount: recordIds.length, availableCount: candidates.length};
 }
 
 function updateMapAreaSearchStatus() {
   if (!searchMapArea || !searchMapAreaStatus) return;
+  const container = searchMapArea.closest(".map-area-search");
+  if (!dataReady) {
+    if (container) container.hidden = true;
+    searchMapArea.disabled = true;
+    searchMapArea.textContent = "Search archive for cases";
+    searchMapAreaStatus.textContent = "";
+    return;
+  }
   const result = mapAreaSearchUrl();
   searchMapArea.disabled = !result.recordCount;
-  searchMapAreaStatus.textContent = result.recordCount
-    ? `${result.recordCount.toLocaleString()} evidence-linked case${result.recordCount === 1 ? "" : "s"}${result.availableCount > result.recordCount ? " nearest centre" : ""}`
-    : "No evidence-linked cases in this viewport";
+  searchMapArea.textContent = result.recordCount
+    ? `Search archive for ${result.recordCount.toLocaleString()} case${result.recordCount === 1 ? "" : "s"}`
+    : "No linked cases here";
+  const matchCount = currentFilteredFeatures.length;
+  const userHasMapIntent = activeDataFilterCount() > 0 || deepLinkedRecordIds.size > 0 || Boolean(activeTrailKey);
+  if (container) container.hidden = matchCount === 0 || !result.recordCount || (isOverviewZoom() && !userHasMapIntent);
+  const overviewNote = isOverviewZoom() ? " \u00b7 grouped overview" : "";
+  searchMapAreaStatus.textContent = matchCount
+    ? `${matchCount.toLocaleString()} map case${matchCount === 1 ? "" : "s"} match${overviewNote}`
+    : "No map cases match";
 }
 
 function archiveCollectionSearchUrl(collectionId, query = "") {
@@ -1093,7 +1476,7 @@ function archiveCollectionSearchUrl(collectionId, query = "") {
   if (collectionId) url.searchParams.set("collection", collectionId);
   url.searchParams.set("fulltext", "1");
   url.searchParams.set("autorun", "1");
-  return url.href;
+  return withMapHandoff(url.href);
 }
 
 function mapSearchActions(properties) {
@@ -1110,9 +1493,12 @@ function mapSearchActions(properties) {
     .filter(([, url]) => url);
   if (!actions.length) return "";
   return `
-    <div class="map-search-actions" aria-label="Archive search shortcuts">
-      ${actions.map(([label, url]) => `<a class="popup-link search-shortcut-link" href="${escapeHtml(url)}">${escapeHtml(label)}</a>`).join("")}
-    </div>
+    <details class="map-search-tools">
+      <summary>Search related archive material</summary>
+      <div class="map-search-actions" aria-label="Archive search shortcuts">
+        ${actions.map(([label, url]) => `<a class="popup-link search-shortcut-link" href="${escapeHtml(url)}">${escapeHtml(label)}</a>`).join("")}
+      </div>
+    </details>
   `;
 }
 
@@ -1386,7 +1772,7 @@ function openFeaturePopup(feature) {
   map.getView().animate({center: coordinate, zoom: Math.max(map.getView().getZoom() || 0, 7), duration: 180});
   popupContent.innerHTML = popupHtml(feature.properties || {});
   window.IsaacKoiResearch?.render();
-  popupOverlay.setPosition(coordinate);
+  positionPopup(coordinate);
 }
 
 function focusDeepLinkedRecords() {
@@ -1403,7 +1789,17 @@ function focusDeepLinkedRecords() {
     ol.extent.extend(extent, [coordinate[0], coordinate[1], coordinate[0], coordinate[1]]);
   }
   map.getView().fit(extent, { padding: [70, 70, 70, 70], duration: 220, maxZoom: 8 });
-  setTimeout(() => openFeaturePopup(linked[0]), 240);
+}
+
+function focusFilteredCases() {
+  const matches = currentFilteredFeatures.filter(feature => feature?.geometry?.coordinates?.length >= 2);
+  if (!matches.length) return;
+  const extent = ol.extent.createEmpty();
+  for (const feature of matches) {
+    const coordinate = ol.proj.fromLonLat(feature.geometry.coordinates);
+    ol.extent.extend(extent, [coordinate[0], coordinate[1], coordinate[0], coordinate[1]]);
+  }
+  map.getView().fit(extent, {padding: [64, 64, 64, 64], duration: 220, maxZoom: 9});
 }
 
 function sourceMatchesDeepLink(source) {
@@ -1530,8 +1926,7 @@ function applyInitialUrlFilters() {
     const value = urlParams.get(key) || "";
     if (value && [...element.options].some(option => option.value === value)) element.value = value;
   };
-  setSelectFromUrl(stateFilter, "state");
-  setSelectFromUrl(countryFilter, "country");
+  applyInitialGeographyFilters();
   setSelectFromUrl(decadeFilter, "decade");
   setSelectFromUrl(yearFilter, "year");
   setSelectFromUrl(monthFilter, "month");
@@ -1771,6 +2166,7 @@ function activeDataFilterCount() {
     monthFilter.value,
     evidenceOnlyToggle?.checked ? "evidence" : "",
     sourceRichToggle?.checked ? "source-rich" : "",
+    [fold3LayerToggle, aproLayerToggle, geipanLayerToggle, lacUfoLayerToggle].every(toggle => toggle.checked) ? "" : "layers",
   ].filter(Boolean).length;
 }
 
@@ -1778,6 +2174,8 @@ function updateFilterSummary() {
   const count = activeDataFilterCount();
   activeFilterCount.textContent = String(count);
   activeFilterCount.hidden = count === 0;
+  resetButton.hidden = count === 0;
+  controlBar?.classList.toggle("has-active-filters", count > 0);
 }
 
 function setFilterPanelOpen(isOpen) {
@@ -1827,6 +2225,8 @@ function render() {
   lacUfoVectorSource.addFeatures(filteredLacUfo.map(featureToOl));
   const visibleFeatures = [...filtered, ...filteredApro, ...filteredGeipan, ...filteredLacUfo];
   currentFilteredFeatures = visibleFeatures;
+  overviewVectorSource.clear(true);
+  overviewVectorSource.addFeatures(visibleFeatures.map(featureToOl));
   visibleCount.textContent = visibleFeatures.length.toLocaleString();
   totalCount.textContent = (
     (fold3LayerToggle.checked ? rawFeatures.length : 0) +
@@ -1835,12 +2235,29 @@ function render() {
     (lacUfoLayerToggle.checked ? lacUfoFeatures.length : 0)
   ).toLocaleString();
   if (evidenceCount) evidenceCount.textContent = visibleFeatures.filter(hasOnlineEvidence).length.toLocaleString();
-  renderSourceRichList(visibleFeatures);
-  renderTimeline(allEnabledFeatures, visibleFeatures);
-  popupOverlay.setPosition(undefined);
+  if (sourceRichPanel && !sourceRichPanel.hidden) renderSourceRichList(visibleFeatures);
+  if (timelineDisclosure?.open) renderTimeline(allEnabledFeatures, visibleFeatures);
+  closeMapPopup();
   updateFilterSummary();
+  syncClusterLayerVisibility();
   updateMapAreaSearchStatus();
+  if (!dataReady) {
+    updateMapState({
+      title: visibleFeatures.length ? "Loading source links…" : "Loading mapped cases…",
+      detail: visibleFeatures.length ? "The map is ready; archive evidence is still being connected." : "Preparing the public research map.",
+      loading: true,
+    });
+  } else if (!visibleFeatures.length) {
+    updateMapState({
+      title: "No cases match these filters",
+      detail: "Broaden the search or reset the map to see all available cases.",
+      action: "Reset filters",
+    });
+  } else {
+    updateMapState();
+  }
   syncFilterUrl();
+  syncArchiveSearchLinks();
 }
 
 function isUsefulCountryOption(country, count) {
@@ -2015,16 +2432,20 @@ function populateFilters(features) {
 function setColorMode(mode) {
   colorMode = mode;
   styleCache.clear();
+  colorUniform?.classList.toggle("active", mode === "uniform");
   colorByDecade.classList.toggle("active", mode === "decade");
   colorByState.classList.toggle("active", mode === "state");
   clusterLayer.changed();
   aproClusterLayer.changed();
+  geipanClusterLayer.changed();
+  lacUfoClusterLayer.changed();
+  overviewClusterLayer.changed();
 }
 
 map.on("click", (event) => {
   const hit = map.forEachFeatureAtPixel(event.pixel, (feature) => feature);
   if (!hit) {
-    popupOverlay.setPosition(undefined);
+    closeMapPopup();
     return;
   }
 
@@ -2033,7 +2454,7 @@ map.on("click", (event) => {
     if (membersShareCoordinate(members)) {
       popupContent.innerHTML = multiPopupHtml(members);
       window.IsaacKoiResearch?.render();
-      popupOverlay.setPosition(event.coordinate);
+      positionPopup(event.coordinate);
       return;
     }
 
@@ -2043,7 +2464,7 @@ map.on("click", (event) => {
     if (zoom >= 13 || (ol.extent.getWidth(extent) < 1000 && ol.extent.getHeight(extent) < 1000)) {
       popupContent.innerHTML = multiPopupHtml(members);
       window.IsaacKoiResearch?.render();
-      popupOverlay.setPosition(event.coordinate);
+      positionPopup(event.coordinate);
       return;
     }
 
@@ -2055,10 +2476,10 @@ map.on("click", (event) => {
   if (!properties) return;
   popupContent.innerHTML = popupHtml(properties);
   window.IsaacKoiResearch?.render();
-  popupOverlay.setPosition(event.coordinate);
+  positionPopup(event.coordinate);
 });
 
-popupClose.addEventListener("click", () => popupOverlay.setPosition(undefined));
+popupClose.addEventListener("click", closeMapPopup);
 evidencePanelClose.addEventListener("click", closeEvidencePanel);
 popupContent.addEventListener("click", async (event) => {
   const citationButton = event.target?.closest("[data-copy-case-citation]");
@@ -2164,6 +2585,28 @@ timelineClear?.addEventListener("click", () => {
   clearActiveTrail();
   render();
 });
+mobileTimelineToggle?.addEventListener("click", () => {
+  timelineDisclosure?.classList.add("mobile-requested");
+  if (timelineDisclosure) timelineDisclosure.open = true;
+  if (mobileSurfaceMenu) mobileSurfaceMenu.open = false;
+});
+timelineDisclosure?.addEventListener("toggle", () => {
+  if (timelineDisclosure.open) renderTimeline(enabledFeatures(), currentFilteredFeatures);
+  if (!timelineDisclosure.open) timelineDisclosure.classList.remove("mobile-requested", "desktop-requested");
+});
+desktopTimelineToggle?.addEventListener("click", () => {
+  timelineDisclosure?.classList.add("desktop-requested");
+  if (timelineDisclosure) timelineDisclosure.open = true;
+  if (desktopSurfaceMenu) desktopSurfaceMenu.open = false;
+});
+desktopCoverageToggle?.addEventListener("click", () => {
+  statsDisclosure?.classList.add("desktop-requested");
+  if (statsDisclosure) statsDisclosure.open = true;
+  if (desktopSurfaceMenu) desktopSurfaceMenu.open = false;
+});
+statsDisclosure?.addEventListener("toggle", () => {
+  if (!statsDisclosure.open) statsDisclosure.classList.remove("desktop-requested");
+});
 filterToggle.addEventListener("click", () => {
   setFilterPanelOpen(advancedFilters.hidden);
 });
@@ -2173,6 +2616,15 @@ sourceRichPanelToggle?.addEventListener("click", () => {
 mappingDataPanelToggle?.addEventListener("click", () => {
   setAuxiliaryPanel(mappingDataAside?.hidden ? "mapping-data" : "");
 });
+desktopMappingDataToggle?.addEventListener("click", () => {
+  setAuxiliaryPanel(mappingDataAside?.hidden ? "mapping-data" : "");
+  const menu = desktopMappingDataToggle.closest("details");
+  if (menu) menu.open = false;
+});
+mobileMappingDataToggle?.addEventListener("click", () => {
+  setAuxiliaryPanel(mappingDataAside?.hidden ? "mapping-data" : "");
+  if (mobileSurfaceMenu) mobileSurfaceMenu.open = false;
+});
 sourceRichPanelClose?.addEventListener("click", () => setAuxiliaryPanel());
 mappingDataPanelClose?.addEventListener("click", () => setAuxiliaryPanel());
 searchInput.addEventListener("input", () => {
@@ -2180,6 +2632,13 @@ searchInput.addEventListener("input", () => {
   clearActiveTrail();
   if (searchRenderTimer) window.clearTimeout(searchRenderTimer);
   searchRenderTimer = window.setTimeout(render, 120);
+});
+searchInput.addEventListener("keydown", (event) => {
+  if (event.key !== "Enter") return;
+  event.preventDefault();
+  if (searchRenderTimer) window.clearTimeout(searchRenderTimer);
+  render();
+  focusFilteredCases();
 });
 archiveTree.addEventListener("change", (event) => {
   if (event.target?.matches("input[type='checkbox']")) {
@@ -2227,6 +2686,7 @@ copyTrailLink?.addEventListener("click", async () => {
     if (window.history?.replaceState && activeTrailKey) window.history.replaceState({}, "", url);
   }
 });
+colorUniform?.addEventListener("click", () => setColorMode("uniform"));
 colorByDecade.addEventListener("click", () => setColorMode("decade"));
 colorByState.addEventListener("click", () => setColorMode("state"));
 resetButton.addEventListener("click", () => {
@@ -2247,6 +2707,7 @@ resetButton.addEventListener("click", () => {
   lacUfoLayerToggle.checked = true;
   if (evidenceOnlyToggle) evidenceOnlyToggle.checked = false;
   if (sourceRichToggle) sourceRichToggle.checked = false;
+  setColorMode("uniform");
   clusterLayer.setVisible(true);
   aproClusterLayer.setVisible(true);
   geipanClusterLayer.setVisible(true);
@@ -2262,7 +2723,18 @@ searchMapArea?.addEventListener("click", () => {
   if (result.url) window.location.href = result.url;
 });
 
-map.on("moveend", updateMapAreaSearchStatus);
+mapStateAction?.addEventListener("click", () => {
+  if (mapStateAction.dataset.action === "retry") {
+    window.location.reload();
+    return;
+  }
+  resetButton.click();
+});
+
+map.on("moveend", () => {
+  syncClusterLayerVisibility();
+  updateMapAreaSearchStatus();
+});
 
 function compressedMapDataUrl(resolvedUrl) {
   const url = new URL(resolvedUrl);
@@ -2401,7 +2873,9 @@ initializeMapDataRelease()
     );
     const allFeatures = [...rawFeatures, ...aproFeatures, ...geipanFeatures, ...lacUfoFeatures];
     populateFilters(allFeatures);
+    applyInitialGeographyFilters();
     render();
+    focusInitialScopeIfRequested();
     document.documentElement.dataset.mapCore = "ready";
 
     const [ufocatSourcesData, sourceFirstSources, geipanSources, lacUfoSources, exportSummary, incidentClusters] = await Promise.all([
@@ -2443,16 +2917,22 @@ initializeMapDataRelease()
       );
     }
     populateArchiveFolderFilter(allFeatures);
-    renderMappingDataPanel();
     applyInitialUrlFilters();
     dataReady = true;
     document.documentElement.dataset.mapEnrichment = "ready";
+    styleCache.clear();
     render();
+    focusInitialScopeIfRequested();
     focusDeepLinkedRecords();
     window.setTimeout(openDeepLinkedEvidence, deepLinkedRecordIds.size > 1 ? 280 : 120);
   })
   .catch((error) => {
     visibleCount.textContent = "0";
     totalCount.textContent = "0";
+    updateMapState({
+      title: "The map could not be loaded",
+      detail: "Check the connection, then try loading the public map again.",
+      action: "Try again",
+    });
     console.error(error);
   });

@@ -31,6 +31,11 @@
     return Number.isInteger(parsed) && parsed >= 0 ? parsed : null;
   }
 
+  function cleanPage(value) {
+    const parsed = cleanInteger(value);
+    return parsed && parsed > 0 ? parsed : null;
+  }
+
   function normalizeFamilies(value) {
     const rows = Array.isArray(value) ? value : String(value || "").split("|");
     return [...new Set(rows.map(row => cleanText(row, 120)).filter(Boolean))].slice(0, 12);
@@ -43,6 +48,9 @@
     const title = cleanText(raw.title, 260);
     const url = cleanUrl(raw.url);
     if (!id || !title || !url || !ALLOWED_TYPES.has(type)) return null;
+    const pageStart = cleanPage(raw.page_start);
+    const requestedPageEnd = cleanPage(raw.page_end);
+    const pageEnd = pageStart ? Math.max(pageStart, requestedPageEnd || pageStart) : null;
     return {
       id,
       type,
@@ -58,7 +66,18 @@
       source_families: normalizeFamilies(raw.source_families),
       source_count: cleanInteger(raw.source_count),
       evidence_status: cleanText(raw.evidence_status, 260),
+      page_start: pageStart,
+      page_end: pageEnd,
+      finding_query: cleanText(raw.finding_query, 260),
+      private_note: cleanText(raw.private_note, 1000),
     };
+  }
+
+  function shareSafeItem(raw) {
+    const item = normalizeItem(raw);
+    if (!item) return null;
+    const {private_note, ...publicItem} = item;
+    return publicItem;
   }
 
   function readItems() {
@@ -107,7 +126,7 @@
   }
 
   function encodeItems(rows = readItems()) {
-    const items = rows.map(normalizeItem).filter(Boolean).slice(0, MAX_SHARED_ITEMS);
+    const items = rows.map(shareSafeItem).filter(Boolean).slice(0, MAX_SHARED_ITEMS);
     const json = JSON.stringify({v: SCHEMA_VERSION, items});
     const bytes = new TextEncoder().encode(json);
     let binary = "";
@@ -159,6 +178,10 @@
       source_families: button.dataset.researchSourceFamilies,
       source_count: button.dataset.researchSourceCount,
       evidence_status: button.dataset.researchEvidenceStatus,
+      page_start: button.dataset.researchPageStart,
+      page_end: button.dataset.researchPageEnd,
+      finding_query: button.dataset.researchFindingQuery,
+      private_note: button.dataset.researchPrivateNote,
     });
   }
 
@@ -212,7 +235,7 @@
     tray.setAttribute("aria-label", "Saved research set");
     tray.innerHTML = `
       <div class="research-tray-header"><div><small>Browser-local workspace</small><h2>Research set</h2></div><button class="research-tray-close" type="button" aria-label="Close research set">Close</button></div>
-      <p class="research-tray-note">Selections stay in this browser unless you explicitly copy a share link. Only public metadata and archive links are retained.</p>
+      <p class="research-tray-note">Selections stay in this browser unless you explicitly copy a share link. Private notes stay local and are removed from shared links.</p>
       <div class="research-tray-list"></div>
       <p class="research-tray-empty">No items saved yet.</p>
       <div class="research-tray-actions"><a data-research-workspace href="${workspaceUrl()}">Compare items</a><button data-research-copy-share type="button">Copy share link</button><button data-research-clear type="button">Clear</button></div>
@@ -249,7 +272,19 @@
 
   function renderTray() {
     const rows = readItems();
-    document.querySelectorAll("[data-research-count]").forEach(node => { node.textContent = String(rows.length); });
+    document.querySelectorAll("[data-research-count]").forEach(node => {
+      node.textContent = String(rows.length);
+      node.hidden = rows.length === 0;
+    });
+    const headerResearchLink = document.getElementById("header-research-link");
+    if (headerResearchLink) {
+      headerResearchLink.setAttribute(
+        "aria-label",
+        rows.length
+          ? `Research set, ${rows.length} saved item${rows.length === 1 ? "" : "s"}`
+          : "Research set",
+      );
+    }
     const tray = document.getElementById("research-tray");
     if (tray) {
       const list = tray.querySelector(".research-tray-list");
@@ -261,7 +296,10 @@
         link.href = item.url;
         link.textContent = item.title;
         const meta = document.createElement("small");
-        meta.textContent = [item.subtitle, item.date, item.type.replaceAll("-", " ")].filter(Boolean).join(" · ");
+        const pageLabel = item.page_start
+          ? `PDF ${item.page_start === item.page_end ? `page ${item.page_start}` : `pages ${item.page_start}–${item.page_end}`}`
+          : "";
+        meta.textContent = [item.subtitle, pageLabel, item.date, item.type.replaceAll("-", " ")].filter(Boolean).join(" · ");
         const button = document.createElement("button");
         button.type = "button";
         button.className = "research-tray-remove";
@@ -280,7 +318,7 @@
       const saved = ids.has(button.dataset.researchId || "");
       button.classList.toggle("is-saved", saved);
       button.setAttribute("aria-pressed", String(saved));
-      button.textContent = saved ? "Saved to research set" : "Add to research set";
+      button.textContent = saved ? "Saved for comparison" : "Save for comparison";
     });
   }
 
@@ -300,6 +338,7 @@
     maxItems: MAX_ITEMS,
     getItems: readItems,
     normalizeItem,
+    shareSafeItem,
     add,
     remove,
     toggle,

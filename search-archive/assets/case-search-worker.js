@@ -78,6 +78,8 @@ function sortMatches(rows, mode) {
   rows.sort((left, right) => {
     const leftYear = Number(field(left.record, "year") || 0);
     const rightYear = Number(field(right.record, "year") || 0);
+    const leftYearKnown = leftYear > 0;
+    const rightYearKnown = rightYear > 0;
     const titleOrder = field(left.record, "title").localeCompare(field(right.record, "title"));
     const idOrder = field(left.record, "id").localeCompare(field(right.record, "id"));
     if (mode === "source-richness") {
@@ -86,8 +88,11 @@ function sortMatches(rows, mode) {
         || titleOrder
         || idOrder;
     }
-    if (mode === "date-newest") return rightYear - leftYear || right.score - left.score || titleOrder || idOrder;
-    if (mode === "date-oldest") return leftYear - rightYear || right.score - left.score || titleOrder || idOrder;
+    if (mode === "date-newest" || mode === "date-oldest") {
+      if (leftYearKnown !== rightYearKnown) return leftYearKnown ? -1 : 1;
+      const yearOrder = mode === "date-newest" ? rightYear - leftYear : leftYear - rightYear;
+      return yearOrder || right.score - left.score || titleOrder || idOrder;
+    }
     if (mode === "title") return titleOrder || right.score - left.score || idOrder;
     return right.score - left.score || titleOrder || idOrder;
   });

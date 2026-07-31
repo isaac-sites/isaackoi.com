@@ -4,7 +4,7 @@ const AFU_PUBLIC_MAP_DATA_BASE = "https://files.afu.se/Downloads/mapview/";
 const CASE_DISCOVERY_BUNDLE_PATH = "data/case_discovery_public.json.gz";
 const MAP_EVIDENCE_BUNDLE_PATH = "data/search_map_evidence_public.json.gz";
 const INCIDENT_CLUSTERS_PATH = "data/incident_clusters_public.json.gz";
-const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=3";
+const CASE_SEARCH_WORKER_PATH = "assets/case-search-worker.js?v=4";
 const CASE_DETAIL_CACHE_PREFIX = "isaac-koi-map-data-v1-";
 const CASE_FIELDS = [
   "id", "collection", "title", "date", "year", "location", "region",

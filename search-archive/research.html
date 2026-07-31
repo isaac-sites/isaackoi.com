@@ -12,9 +12,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/search.css?v=18">
+  <link rel="stylesheet" href="assets/search.css?v=35">
 </head>
-<body>
+<body class="research-page">
   <header class="site-header"><div class="header-inner">
     <a class="brand-lockup" href="./"><span class="brand-copy"><span class="brand-name">Isaac Koi Archive</span><span class="site-title">Research Workspace</span><span class="site-tagline">Compare public records without creating an account</span></span></a>
     <div class="header-actions"><a class="surface-link" href="./">Archive search</a><a class="surface-link" href="/mapview/">Research map</a><a class="surface-link" href="cases/">Evidence dossiers</a></div>
@@ -23,14 +23,8 @@
   <main class="research-workspace-page">
     <section class="research-workspace-hero">
       <p class="eyebrow">Browser-local research set</p>
-      <h1>Compare evidence without flattening uncertainty</h1>
-      <p>Select up to four saved documents, mapped cases, or dossiers. The workspace compares public metadata and provenance; it does not infer which case is more credible.</p>
-      <div class="research-workspace-actions">
-        <button id="copy-research-share" class="primary-button" type="button">Copy share link</button>
-        <button id="copy-research-citations" type="button">Copy citations</button>
-        <button id="download-research-json" type="button">Download JSON</button>
-        <button id="save-shared-set" type="button" hidden>Save shared set in this browser</button>
-      </div>
+      <h1>Research set</h1>
+      <p>Select up to four saved documents, mapped cases, or dossiers to compare their public metadata and provenance.</p>
       <p id="research-workspace-status" class="research-workspace-status" aria-live="polite"></p>
     </section>
 
@@ -38,6 +32,35 @@
       <strong>Viewing a shared public research set.</strong>
       <span>It has not been added to this browser unless you choose “Save shared set.”</span>
     </section>
+
+    <div class="research-workspace-tools">
+      <details class="research-tool-disclosure">
+        <summary>Share or export</summary>
+        <div class="research-workspace-actions">
+          <button id="copy-research-share" class="primary-button" type="button">Copy share link</button>
+          <button id="copy-research-citations" type="button">Copy citations</button>
+          <button id="download-research-json" type="button">Download JSON</button>
+          <button id="save-shared-set" type="button" hidden>Save shared set in this browser</button>
+        </div>
+      </details>
+      <details class="research-tool-disclosure research-search-disclosure">
+        <summary>Search within saved documents</summary>
+        <section class="research-set-search" aria-labelledby="research-set-search-heading">
+      <div>
+        <h2 id="research-set-search-heading">Search within this research set</h2>
+        <p>Run a metadata and indexed-page search restricted to saved archive documents. Cases and dossiers without stable document IDs are excluded from this scope.</p>
+      </div>
+      <form id="research-set-search-form">
+        <label for="research-set-query">Words or exact phrase</label>
+        <div>
+          <input id="research-set-query" type="search" autocomplete="off" placeholder="e.g. radar observation">
+          <button id="search-research-set" class="primary-button" type="submit">Search saved documents</button>
+        </div>
+        <p id="research-set-search-status" aria-live="polite"></p>
+      </form>
+        </section>
+      </details>
+    </div>
 
     <div class="research-workspace-layout">
       <aside class="research-selection-panel">
@@ -63,7 +86,7 @@
       <a href="methodology.html">Read the complete methodology</a>
     </section>
   </main>
-  <script src="assets/research-tray.js?v=2"></script>
-  <script src="assets/research-workspace.js?v=1"></script>
+  <script src="assets/research-tray.js?v=4"></script>
+  <script src="assets/research-workspace.js?v=2"></script>
 </body>
 </html>
