@@ -6,6 +6,7 @@ const requestedGeographyType = (urlParams.get("geography_type") || "").trim().to
 const requestedGeographyId = (urlParams.get("geography_id") || "").trim();
 const requestedFocusGeographyType = (urlParams.get("focus_geography_type") || "").trim().toLocaleLowerCase();
 const requestedFocusGeographyId = (urlParams.get("focus_geography_id") || "").trim();
+const requestedVisitorFocus = (urlParams.get("focus") || "").trim().toLocaleLowerCase() === "visitor";
 const AFU_PUBLIC_MAP_DATA_BASE = "https://files.afu.se/Downloads/mapview/";
 document.documentElement.dataset.embedMode = embedMode ? "true" : "false";
 document.documentElement.dataset.dataset = requestedDataset;
@@ -285,6 +286,9 @@ const countryFilter = document.getElementById("countryFilter");
 const decadeFilter = document.getElementById("decadeFilter");
 const yearFilter = document.getElementById("yearFilter");
 const monthFilter = document.getElementById("monthFilter");
+const recordExtentFilter = document.getElementById("recordExtentFilter");
+const coordinateTierFilter = document.getElementById("coordinateTierFilter");
+const sourceAccessFilter = document.getElementById("sourceAccessFilter");
 const colorByDecade = document.getElementById("colorByDecade");
 const colorByState = document.getElementById("colorByState");
 const colorUniform = document.getElementById("colorUniform");
@@ -501,12 +505,85 @@ function focusGeographyCases(scope) {
   return true;
 }
 
+function visitorCountryCode() {
+  const aliases = {UK: "GB", EL: "GR"};
+  const normalizeCode = value => {
+    const raw = String(value || "").trim().toLocaleUpperCase().replace(/[^A-Z]/g, "");
+    const code = aliases[raw] || raw;
+    return code.length === 2 ? code : "";
+  };
+  const available = code => Boolean(optionValueForGeography({type: "country", id: code}));
+  const timezoneRules = [
+    [/^Europe\/London$/i, "GB"],
+    [/^Europe\/Dublin$/i, "IE"],
+    [/^America\/(New_York|Detroit|Kentucky|Indiana|Chicago|North_Dakota|Denver|Boise|Phoenix|Los_Angeles|Anchorage|Adak|Honolulu)$/i, "US"],
+    [/^America\/(Toronto|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Whitehorse|Yellowknife|Iqaluit)$/i, "CA"],
+    [/^Australia\//i, "AU"],
+    [/^Pacific\/(Auckland|Chatham)$/i, "NZ"],
+    [/^Europe\/Paris$/i, "FR"],
+    [/^Europe\/Berlin$/i, "DE"],
+    [/^Europe\/Madrid$/i, "ES"],
+    [/^Europe\/Rome$/i, "IT"],
+    [/^Europe\/Amsterdam$/i, "NL"],
+    [/^Europe\/Brussels$/i, "BE"],
+    [/^Europe\/Zurich$/i, "CH"],
+    [/^Europe\/Stockholm$/i, "SE"],
+    [/^Europe\/Oslo$/i, "NO"],
+    [/^Europe\/Copenhagen$/i, "DK"],
+    [/^Europe\/Helsinki$/i, "FI"],
+    [/^Europe\/Warsaw$/i, "PL"],
+    [/^Europe\/Prague$/i, "CZ"],
+    [/^Europe\/Vienna$/i, "AT"],
+    [/^Europe\/Lisbon$/i, "PT"],
+    [/^America\/Mexico_City$/i, "MX"],
+    [/^America\/Sao_Paulo$/i, "BR"],
+    [/^America\/Buenos_Aires$/i, "AR"],
+    [/^America\/Santiago$/i, "CL"],
+    [/^Asia\/Tokyo$/i, "JP"],
+    [/^Asia\/Seoul$/i, "KR"],
+    [/^Asia\/(Shanghai|Hong_Kong)$/i, "CN"],
+    [/^Asia\/(Kolkata|Calcutta)$/i, "IN"],
+    [/^Asia\/Singapore$/i, "SG"],
+    [/^Asia\/Dubai$/i, "AE"],
+    [/^Africa\/Johannesburg$/i, "ZA"],
+    [/^Africa\/Lagos$/i, "NG"],
+  ];
+  let timezone = "";
+  try {
+    timezone = String(Intl.DateTimeFormat().resolvedOptions().timeZone || "");
+  } catch (error) {
+    // A locale-based estimate remains available below.
+  }
+  for (const [pattern, code] of timezoneRules) {
+    if (pattern.test(timezone) && available(code)) return code;
+  }
+  let languages = [];
+  try {
+    languages = navigator.languages?.length ? [...navigator.languages] : [navigator.language];
+  } catch (error) {
+    // No visitor hint is preferable to a guessed unsupported country.
+  }
+  for (const language of languages) {
+    const parts = String(language || "").replaceAll("_", "-").split("-");
+    const code = normalizeCode(parts.length > 1 ? parts.at(-1) : "");
+    if (code && available(code)) return code;
+  }
+  return "";
+}
+
 function focusInitialScopeIfRequested() {
   if (initialScopeFocusApplied || deepLinkedRecordIds.size) return;
   const focusScope = requestedFocusGeography();
   if (!stateFilter.value && !countryFilter.value && focusScope.type && focusScope.id) {
     initialScopeFocusApplied = focusGeographyCases(focusScope);
     if (initialScopeFocusApplied) return;
+  }
+  if (!stateFilter.value && !countryFilter.value && requestedVisitorFocus) {
+    const visitorCountry = visitorCountryCode();
+    if (visitorCountry) {
+      initialScopeFocusApplied = focusGeographyCases({type: "country", id: visitorCountry});
+      if (initialScopeFocusApplied) return;
+    }
   }
   const shouldFocus = (urlParams.get("focus") || "").toLocaleLowerCase() === "filtered"
     || (embedMode && Boolean(stateFilter.value || countryFilter.value));
@@ -1930,6 +2007,9 @@ function applyInitialUrlFilters() {
   setSelectFromUrl(decadeFilter, "decade");
   setSelectFromUrl(yearFilter, "year");
   setSelectFromUrl(monthFilter, "month");
+  setSelectFromUrl(recordExtentFilter, "record_extent");
+  setSelectFromUrl(coordinateTierFilter, "coordinate_tier");
+  setSelectFromUrl(sourceAccessFilter, "source_access");
   selectedArchiveFolders = new Set(
     urlParams.getAll("collection").filter(folder => featureArchiveFolders.size && [...featureArchiveFolders.values()].some(folders => folders.includes(folder)))
   );
@@ -2137,6 +2217,9 @@ function passesFilters(feature, {ignoreTime = false, ignoreArchive = false} = {}
   if (!ignoreTime && decade && decadeFor(p) !== decade) return false;
   if (!ignoreTime && year && parts.year !== year) return false;
   if (!ignoreTime && month && parts.month !== month) return false;
+  if (recordExtentFilter?.value && p.RecordExtent !== recordExtentFilter.value) return false;
+  if (coordinateTierFilter?.value && p.CoordinateTier !== coordinateTierFilter.value) return false;
+  if (sourceAccessFilter?.value && p.SourceAccess !== sourceAccessFilter.value) return false;
   if (evidenceOnlyToggle?.checked && !hasOnlineEvidence(feature)) return false;
   if (sourceRichToggle?.checked && sourceLinkCount(feature) < 2) return false;
   if (query && !p.SearchText.includes(query)) return false;
@@ -2164,6 +2247,9 @@ function activeDataFilterCount() {
     decadeFilter.value,
     yearFilter.value,
     monthFilter.value,
+    recordExtentFilter?.value,
+    coordinateTierFilter?.value,
+    sourceAccessFilter?.value,
     evidenceOnlyToggle?.checked ? "evidence" : "",
     sourceRichToggle?.checked ? "source-rich" : "",
     [fold3LayerToggle, aproLayerToggle, geipanLayerToggle, lacUfoLayerToggle].every(toggle => toggle.checked) ? "" : "layers",
@@ -2193,6 +2279,9 @@ function syncFilterUrl() {
   setOrDelete("decade", decadeFilter.value);
   setOrDelete("year", yearFilter.value);
   setOrDelete("month", monthFilter.value);
+  setOrDelete("record_extent", recordExtentFilter?.value);
+  setOrDelete("coordinate_tier", coordinateTierFilter?.value);
+  setOrDelete("source_access", sourceAccessFilter?.value);
   setOrDelete("evidence", evidenceOnlyToggle?.checked ? "1" : "");
   setOrDelete("source_rich", sourceRichToggle?.checked ? "1" : "");
   url.searchParams.delete("collection");
@@ -2651,6 +2740,9 @@ countryFilter.addEventListener("change", () => { clearActiveTrail(); render(); }
 decadeFilter.addEventListener("change", () => { stopTimelinePlayback(); clearActiveTrail(); render(); });
 yearFilter.addEventListener("change", () => { stopTimelinePlayback(); clearActiveTrail(); render(); });
 monthFilter.addEventListener("change", () => { stopTimelinePlayback(); clearActiveTrail(); render(); });
+[recordExtentFilter, coordinateTierFilter, sourceAccessFilter].forEach(filter => {
+  filter?.addEventListener("change", () => { clearActiveTrail(); render(); });
+});
 fold3LayerToggle.addEventListener("change", () => {
   clearActiveTrail();
   clusterLayer.setVisible(fold3LayerToggle.checked);
@@ -2701,6 +2793,9 @@ resetButton.addEventListener("click", () => {
   decadeFilter.value = "";
   yearFilter.value = "";
   monthFilter.value = "";
+  if (recordExtentFilter) recordExtentFilter.value = "";
+  if (coordinateTierFilter) coordinateTierFilter.value = "";
+  if (sourceAccessFilter) sourceAccessFilter.value = "";
   fold3LayerToggle.checked = true;
   aproLayerToggle.checked = true;
   geipanLayerToggle.checked = true;
