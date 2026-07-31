@@ -493,10 +493,28 @@ function focusGeographyCases(scope) {
       : properties.StateProvince === optionValue;
   });
   if (!matches.length) return false;
+  const lonLatCoordinates = matches.map(feature => feature?.geometry?.coordinates)
+    .filter(coordinates => coordinates && coordinates.length >= 2)
+    .map(coordinates => [Number(coordinates[0]), Number(coordinates[1])])
+    .filter(coordinates => Number.isFinite(coordinates[0]) && Number.isFinite(coordinates[1]));
+  if (!lonLatCoordinates.length) return false;
+
+  // Large catalogues occasionally retain country labels alongside provisional
+  // or erroneous outlier coordinates. A small symmetric trim gives an honest,
+  // useful opening viewport without altering, hiding, or discarding any record.
+  let focusCoordinates = lonLatCoordinates;
+  if (scope.type === "country" && lonLatCoordinates.length >= 40) {
+    const sortedLongitudes = lonLatCoordinates.map(coordinates => coordinates[0]).sort((a, b) => a - b);
+    const sortedLatitudes = lonLatCoordinates.map(coordinates => coordinates[1]).sort((a, b) => a - b);
+    const lowerIndex = Math.floor((lonLatCoordinates.length - 1) * 0.025);
+    const upperIndex = Math.ceil((lonLatCoordinates.length - 1) * 0.975);
+    focusCoordinates = [
+      [sortedLongitudes[lowerIndex], sortedLatitudes[lowerIndex]],
+      [sortedLongitudes[upperIndex], sortedLatitudes[upperIndex]],
+    ];
+  }
   const extent = ol.extent.createEmpty();
-  for (const feature of matches) {
-    const coordinates = feature?.geometry?.coordinates;
-    if (!coordinates || coordinates.length < 2) continue;
+  for (const coordinates of focusCoordinates) {
     const coordinate = ol.proj.fromLonLat(coordinates);
     ol.extent.extend(extent, [coordinate[0], coordinate[1], coordinate[0], coordinate[1]]);
   }
@@ -575,21 +593,29 @@ function focusInitialScopeIfRequested() {
   if (initialScopeFocusApplied || deepLinkedRecordIds.size) return;
   const focusScope = requestedFocusGeography();
   if (!stateFilter.value && !countryFilter.value && focusScope.type && focusScope.id) {
-    initialScopeFocusApplied = focusGeographyCases(focusScope);
-    if (initialScopeFocusApplied) return;
+    initialScopeFocusApplied = true;
+    window.setTimeout(() => focusGeographyCases(focusScope), 0);
+    return;
   }
   if (!stateFilter.value && !countryFilter.value && requestedVisitorFocus) {
     const visitorCountry = visitorCountryCode();
     if (visitorCountry) {
-      initialScopeFocusApplied = focusGeographyCases({type: "country", id: visitorCountry});
-      if (initialScopeFocusApplied) return;
+      initialScopeFocusApplied = true;
+      window.setTimeout(() => focusGeographyCases({type: "country", id: visitorCountry}), 0);
+      return;
     }
   }
   const shouldFocus = (urlParams.get("focus") || "").toLocaleLowerCase() === "filtered"
     || (embedMode && Boolean(stateFilter.value || countryFilter.value));
   if (!shouldFocus || !currentFilteredFeatures.length) return;
   initialScopeFocusApplied = true;
-  window.setTimeout(focusFilteredCases, 0);
+  const filteredScope = requestedGeography();
+  window.setTimeout(
+    () => filteredScope.type && filteredScope.id
+      ? focusGeographyCases(filteredScope)
+      : focusFilteredCases(),
+    0,
+  );
 }
 
 function renderMapHandoff() {
