@@ -1,12 +1,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  {% if page.description %}
-  <meta name="description" content="{{ page.description | escape }}">
-  {% elsif site.description %}
-  <meta name="description" content="{{ site.description | escape }}">
-  {% endif %}
+  {% comment %}
+    Title and meta description are emitted solely by the jekyll-seo-tag
+    include below. Duplicating them here produced two <title> tags and two
+    description metas on every page (invalid HTML; crawlers read the first
+    title, which on the homepage rendered the degenerate
+    "Isaac Koi Archive | Isaac Koi Archive").
+  {% endcomment %}
   {% seo %}
   <script>
     (function () {
