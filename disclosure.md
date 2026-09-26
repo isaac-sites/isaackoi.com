@@ -4,6 +4,7 @@ title: "Affiliate & AI Disclosure"
 permalink: /disclosure/
 description: "How this site uses AI assistance and affiliate links, and what that means for you."
 structured_data_article: false
+last_modified_at: 2026-09-26 19:55:00 +0000
 ---
 
 # Affiliate & AI Disclosure
