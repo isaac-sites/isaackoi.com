@@ -76,7 +76,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/beckley-timothy-green' | relative_url }}">Beckley, Timothy Green</a> in his “MJ-12 and the Riddle of Hangar 18” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0938294024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in Chapter 3) of the Inner Light softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/beckley-timothy-green' | relative_url }}">Beckley, Timothy Green</a> in his “MJ-12 and the Riddle of Hangar 18” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="https://www.amazon.com/dp/0938294024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0938294024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in Chapter 3) of the Inner Light softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,7 +87,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> in his “<a href="{{ '/ufo-history/ufo-books/binder-otto-what-we-really-know-about-flying-saucers' | relative_url }}">What we really know about Flying Saucers</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000NPYTFO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPYTFO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 149 (in Chapter 13) of the Fawcett paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> in his “<a href="{{ '/ufo-history/ufo-books/binder-otto-what-we-really-know-about-flying-saucers' | relative_url }}">What we really know about Flying Saucers</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/B000NPYTFO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000NPYTFO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 149 (in Chapter 13) of the Fawcett paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,7 +109,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a> : Volume 1:A-K” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 272 (forming part of an entry entitled “Crashes and Retrievals in the Twentieth Century” at pages 264-296) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a> : Volume 1:A-K” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 272 (forming part of an entry entitled “Crashes and Retrievals in the Twentieth Century” at pages 264-296) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,7 +120,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encounters' | relative_url }}">UFO Encounters</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1561736058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1561736058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 106 (in the unnumbered chapter entitled “The Ultimate Secret”) of the Publications International hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encounters' | relative_url }}">UFO Encounters</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="https://www.amazon.com/dp/1561736058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1561736058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 106 (in the unnumbered chapter entitled “The Ultimate Secret”) of the Publications International hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -131,7 +131,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 133-134 (in Section 3, Chapter 3 “Direct Physical Evidence”, by Roy Craig), 923 (in Section 5, Chapter 3, “Official <a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-study' | relative_url }}">UFO Study</a> Programs in Foreign Countries” by Harriet Hunter) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 90-91, 554-555 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="https://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 133-134 (in Section 3, Chapter 3 “Direct Physical Evidence”, by Roy Craig), 923 (in Section 5, Chapter 3, “Official <a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-study' | relative_url }}">UFO Study</a> Programs in Foreign Countries” by Harriet Hunter) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 90-91, 554-555 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
 <p><a href="http://www.project1947.com/shg/condon/contents.html">http://www.project1947.com/shg/condon/contents.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -143,7 +143,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/dutta-rex' | relative_url }}">Dutta, Rex</a> in his “<a href="{{ '/ufo-history/ufo-books/dutta-rex-reality-of-occultyogameditationflying-saucers' | relative_url }}">Reality of Occult/Yoga/Meditation/Flying Saucers</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0720707897/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0720707897/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 102 (in Chapter 7) of the Pelham Books hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dutta-rex' | relative_url }}">Dutta, Rex</a> in his “<a href="{{ '/ufo-history/ufo-books/dutta-rex-reality-of-occultyogameditationflying-saucers' | relative_url }}">Reality of Occult/Yoga/Meditation/Flying Saucers</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="https://www.amazon.com/dp/0720707897/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0720707897/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 102 (in Chapter 7) of the Pelham Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -154,7 +154,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }}">Flying Saucers – Serious Business</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-47 (in Chapter 4) of the Bantam paperback edition, at pages 51-53 of the Mayflower-Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }}">Flying Saucers – Serious Business</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="https://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-47 (in Chapter 4) of the Bantam paperback edition, at pages 51-53 of the Mayflower-Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -165,7 +165,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p>Erskine, Allen Louis in his “Why Are They Watching Us?” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000I9JDLK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000I9JDLK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 104-106 (in Chapter 12) of the Tower paperback edition.</p>
+<p>Erskine, Allen Louis in his “Why Are They Watching Us?” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/B000I9JDLK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000I9JDLK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 104-106 (in Chapter 12) of the Tower paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -176,7 +176,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/green-gabriel' | relative_url }}">Green, Gabriel</a> with <a href="{{ '/ufo-history/ufo-personalities/smith-warren' | relative_url }}">Smith, Warren</a> in their “Let’s face the facts about Flying Saucers” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BS25S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BS25S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122-123 (in the unnumbered chapter entitled “The True Facts About Flying Saucers”) of the Popular Library paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/green-gabriel' | relative_url }}">Green, Gabriel</a> with <a href="{{ '/ufo-history/ufo-personalities/smith-warren' | relative_url }}">Smith, Warren</a> in their “Let’s face the facts about Flying Saucers” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/B0006BS25S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0006BS25S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122-123 (in the unnumbered chapter entitled “The True Facts About Flying Saucers”) of the Popular Library paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -198,7 +198,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history' | relative_url }}">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 176 (in Section 3) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history' | relative_url }}">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 176 (in Section 3) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -220,7 +220,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> and <a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in their “<a href="{{ '/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality' | relative_url }}">The Edge of Reality</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 68 (in Chapter 3) of the Henry Regnery hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> and <a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in their “<a href="{{ '/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality' | relative_url }}">The Edge of Reality</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="https://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 68 (in Chapter 3) of the Henry Regnery hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -231,7 +231,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/michel-aime' | relative_url }}">Michel, Aime</a> in his “<a href="{{ '/ufo-history/ufo-books/michel-aime-the-truth-about-flying-saucers' | relative_url }}">The Truth about Flying Saucers</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B000OZY8EA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OZY8EA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 91-92 (in Part 1, Chapter 5) of the Robert Hale hardback edition, page 99 of the Pyramid paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/michel-aime' | relative_url }}">Michel, Aime</a> in his “<a href="{{ '/ufo-history/ufo-books/michel-aime-the-truth-about-flying-saucers' | relative_url }}">The Truth about Flying Saucers</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="https://www.amazon.com/dp/B000OZY8EA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000OZY8EA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 91-92 (in Part 1, Chapter 5) of the Robert Hale hardback edition, page 99 of the Pyramid paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -242,7 +242,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-60 (in Chapter 2) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-60 (in Chapter 2) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -253,7 +253,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/schmitt-donald-r' | relative_url }}">Schmitt, Donald R</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-schmitt-donald-r-ufo-crash-at-roswell' | relative_url }}">UFO Crash at Roswell</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B00137C3LI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00137C3LI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 250-251 (in Appendix B) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/schmitt-donald-r' | relative_url }}">Schmitt, Donald R</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-schmitt-donald-r-ufo-crash-at-roswell' | relative_url }}">UFO Crash at Roswell</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="https://www.amazon.com/dp/B00137C3LI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B00137C3LI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 250-251 (in Appendix B) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -264,7 +264,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 348 (in an entry entitled “Spitzbergen Island hoax”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="https://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 348 (in an entry entitled “Spitzbergen Island hoax”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -275,7 +275,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-a-history-of-ufo-crashes' | relative_url }}">A history of UFO crashes</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0380776669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380776669/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in the Introduction), 194-195 (in Appendix A, “The UFO Crash Data Base”) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-a-history-of-ufo-crashes' | relative_url }}">A history of UFO crashes</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/0380776669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0380776669/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in the Introduction), 194-195 (in Appendix A, “The UFO Crash Data Base”) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -286,7 +286,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were' | relative_url }}">The UFOs that never were</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>, <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Andy Roberts</a> and <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a> at page 66 (in Chapter 3, by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>) of the London House hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were' | relative_url }}">The UFOs that never were</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>, <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Andy Roberts</a> and <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a> at page 66 (in Chapter 3, by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>) of the London House hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -297,7 +297,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-retrievals' | relative_url }}">UFO Retrievals</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-70 (in Chapter 4) of the Blandford softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-retrievals' | relative_url }}">UFO Retrievals</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-70 (in Chapter 4) of the Blandford softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -308,7 +308,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-body-snatchers-in-the-desert' | relative_url }}">Body Snatchers in the Desert: The Horrible Truth at the heart of the Roswell Story</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180-181 (in Chapter 14) of the Paraview Pocket Books softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-body-snatchers-in-the-desert' | relative_url }}">Body Snatchers in the Desert: The Horrible Truth at the heart of the Roswell Story</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="https://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180-181 (in Chapter 14) of the Paraview Pocket Books softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -319,7 +319,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 194-195 (in an entry entitled “Spitzbergen incident, Norway”) of the MJF hardback edition.</p>
+<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 194-195 (in an entry entitled “Spitzbergen incident, Norway”) of the MJF hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -330,7 +330,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ross, Daniel in his “<a href="{{ '/ufo-history/ufo-books/ross-daniel-ufos-and-the-complete-evidence-from-space-the-truth-about-venus-mars-and-the-moon' | relative_url }}">UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0944255000/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0944255000/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-50 (in Chapter 3) of the Pintado softcover edition.</p>
+<p>Ross, Daniel in his “<a href="{{ '/ufo-history/ufo-books/ross-daniel-ufos-and-the-complete-evidence-from-space-the-truth-about-venus-mars-and-the-moon' | relative_url }}">UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/0944255000/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0944255000/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-50 (in Chapter 3) of the Pintado softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -341,7 +341,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 75 (in an entry entitled “Crashed Flying Saucers”), 306-307 (in an entry entitled “Spitzbergen, Norway”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="https://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 75 (in an entry entitled “Crashed Flying Saucers”), 306-307 (in an entry entitled “Spitzbergen, Norway”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -352,7 +352,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Schellhorn, G Cope in his “<a href="{{ '/ufo-history/ufo-books/schellhorn-g-cope-extraterrestrials-in-biblical-prophecy' | relative_url }}">Extraterrestrials in Biblical Prophecy</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/1881852024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881852024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 358, 360-361 (in Chapter 17) of the Horus softcover edition.</p>
+<p>Schellhorn, G Cope in his “<a href="{{ '/ufo-history/ufo-books/schellhorn-g-cope-extraterrestrials-in-biblical-prophecy' | relative_url }}">Extraterrestrials in Biblical Prophecy</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="https://www.amazon.com/dp/1881852024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1881852024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 358, 360-361 (in Chapter 17) of the Horus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -363,7 +363,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> in his “<a href="{{ '/ufo-history/ufo-books/shuttlewood-arthur-warnings-from-flying-friends' | relative_url }}">Warnings from Flying Friends</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/0900599006/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0900599006/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82-85 (in Chapter 5) of the Portway Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> in his “<a href="{{ '/ufo-history/ufo-books/shuttlewood-arthur-warnings-from-flying-friends' | relative_url }}">Warnings from Flying Friends</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/0900599006/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0900599006/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82-85 (in Chapter 5) of the Portway Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -374,7 +374,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Sladek, John in his “<a href="{{ '/ufo-history/ufo-books/sladek-john-the-new-apocrypha' | relative_url }}">The New Apocrypha</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0812817125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0812817125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in Chapter 3) of the Panther paperback edition.</p>
+<p>Sladek, John in his “<a href="{{ '/ufo-history/ufo-books/sladek-john-the-new-apocrypha' | relative_url }}">The New Apocrypha</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="https://www.amazon.com/dp/0812817125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0812817125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in Chapter 3) of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -385,7 +385,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 227 (in an entry entitled “Norway, Crash Retrieval”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 266 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="https://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 227 (in an entry entitled “Norway, Crash Retrieval”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 266 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -396,7 +396,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p>Steinman, William and <a href="{{ '/ufo-history/ufo-personalities/stevens-wendelle' | relative_url }}">Stevens, Wendelle</a> in their “UFO Crash at Aztec” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/093426905X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/093426905X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 353-361 of the Wendelle Stevens hardback edition.</p>
+<p>Steinman, William and <a href="{{ '/ufo-history/ufo-personalities/stevens-wendelle' | relative_url }}">Stevens, Wendelle</a> in their “UFO Crash at Aztec” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="https://www.amazon.com/dp/093426905X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/093426905X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 353-361 of the Wendelle Stevens hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -407,7 +407,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Time-Life (Editors of) in “<a href="{{ '/ufo-history/ufo-books/time-life-editors-of-the-ufo-phenomenon-mysteries-of-the-unknown' | relative_url }}">The UFO phenomenon: Mysteries of the Unknown</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0809463245/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809463245/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 75 (in Chapter 3) of the Time-Life Book hardback edition.</p>
+<p>Time-Life (Editors of) in “<a href="{{ '/ufo-history/ufo-books/time-life-editors-of-the-ufo-phenomenon-mysteries-of-the-unknown' | relative_url }}">The UFO phenomenon: Mysteries of the Unknown</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/0809463245/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0809463245/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 75 (in Chapter 3) of the Time-Life Book hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -418,7 +418,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in “<a href="{{ '/ufo-history/ufo-books/david-jay-flying-saucers-have-arrived' | relative_url }}">Flying Saucers Have Arrived!</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}">Jay David</a>) (available <a href="http://www.amazon.com/dp/B000EH5018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EH5018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139, 140, 142 (in the unnumbered chapter entitled “The Landings”) of the World hardback edition. The relevant chapter is reprinted from “<a href="{{ '/ufo-history/ufo-books/trench-brinsley-le-poer-the-flying-saucer-story' | relative_url }}">The Flying Saucer Story</a>” by Brinsley Le Poer Trench.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in “<a href="{{ '/ufo-history/ufo-books/david-jay-flying-saucers-have-arrived' | relative_url }}">Flying Saucers Have Arrived!</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}">Jay David</a>) (available <a href="https://www.amazon.com/dp/B000EH5018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000EH5018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139, 140, 142 (in the unnumbered chapter entitled “The Landings”) of the World hardback edition. The relevant chapter is reprinted from “<a href="{{ '/ufo-history/ufo-books/trench-brinsley-le-poer-the-flying-saucer-story' | relative_url }}">The Flying Saucer Story</a>” by Brinsley Le Poer Trench.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -429,7 +429,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in his “<a href="{{ '/ufo-history/ufo-books/trench-brinsley-le-poer-the-flying-saucer-story' | relative_url }}">The Flying Saucer Story</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B00005VXTC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005VXTC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 133-134 (in Chapter 16) of the revised Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in his “<a href="{{ '/ufo-history/ufo-books/trench-brinsley-le-poer-the-flying-saucer-story' | relative_url }}">The Flying Saucer Story</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="https://www.amazon.com/dp/B00005VXTC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B00005VXTC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 133-134 (in Chapter 16) of the revised Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -440,7 +440,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }}">Revelations: Alien Contact and Human Deception</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 21 (in Chapter 1) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }}">Revelations: Alien Contact and Human Deception</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="https://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 21 (in Chapter 1) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -451,7 +451,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1954' | relative_url }}">1954</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold</a> in his “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-flying-saucers-on-the-moon' | relative_url }}">Flying Saucers on the Moon</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="http://www.amazon.com/dp/B0007J479O/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007J479O/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 7) of the Peter Owen hardback edition, at page 144 of the Ace paperback edition published under the title “Flying Saucers on the Attack”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold</a> in his “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-flying-saucers-on-the-moon' | relative_url }}">Flying Saucers on the Moon</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="https://www.amazon.com/dp/B0007J479O/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0007J479O/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 7) of the Peter Owen hardback edition, at page 144 of the Ace paperback edition published under the title “Flying Saucers on the Attack”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -462,7 +462,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-the-alien-agenda' | relative_url }}">The Alien Agenda</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0451157060/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451157060/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37-38 (in Chapter 4) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-the-alien-agenda' | relative_url }}">The Alien Agenda</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="https://www.amazon.com/dp/0451157060/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0451157060/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37-38 (in Chapter 4) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -473,7 +473,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible' | relative_url }}">UFOs and Their Mission Impossible</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0451064240/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451064240/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37-38 (in Chapter 4) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible' | relative_url }}">UFOs and Their Mission Impossible</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="https://www.amazon.com/dp/0451064240/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0451064240/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37-38 (in Chapter 4) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -484,7 +484,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}">Wood, Ryan</a> in his “<a href="{{ '/ufo-history/ufo-books/wood-ryan-majic-eyes-only' | relative_url }}">MAJIC Eyes Only</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 102-104 of the Wood Enterprises hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}">Wood, Ryan</a> in his “<a href="{{ '/ufo-history/ufo-books/wood-ryan-majic-eyes-only' | relative_url }}">MAJIC Eyes Only</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="https://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 102-104 of the Wood Enterprises hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -495,7 +495,7 @@ For discussion of Spitsbergen/Spitzbergen Island see the following:
 <p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p>Zarkon in his “The Zarkon Principle” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0905018001/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0905018001/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-60 (in Chapter 8) of the Everest paperback edition.</p>
+<p>Zarkon in his “The Zarkon Principle” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="https://www.amazon.com/dp/0905018001/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0905018001/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-60 (in Chapter 8) of the Everest paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

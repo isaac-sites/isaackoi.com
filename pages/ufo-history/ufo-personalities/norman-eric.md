@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/norman-eric' | relative_url }}">Norman, Eric</a> (pseudonum of Warren Smith) “Gods, Demons and Space Chariots” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/B000FTPD5S/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000FTPD5S/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/norman-eric' | relative_url }}">Norman, Eric</a> (pseudonum of Warren Smith) “Gods, Demons and Space Chariots” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="https://www.amazon.com/dp/B000FTPD5S/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000FTPD5S/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>

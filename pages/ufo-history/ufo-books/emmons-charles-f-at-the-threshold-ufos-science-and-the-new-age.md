@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0926524429"], "cover_image": "/book-covers/0926524429.jpg", "cover_source": "local-cache", "primary_isbn": "0926524429"}
 ---
 
-Brief review to be added of [Charles F Emmons]({{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }})'s book “[At The Threshold: UFOs, Science and the New Age]({{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0926524429/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0926524429/?&tag=ufot-21))
+Brief review to be added of [Charles F Emmons]({{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }})'s book “[At The Threshold: UFOs, Science and the New Age]({{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0926524429/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0926524429/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

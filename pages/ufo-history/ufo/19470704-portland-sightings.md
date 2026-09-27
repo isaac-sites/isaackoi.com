@@ -69,7 +69,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}">Bartholomew, Robert E</a>. and Radford, Benjamin in their “<a href="{{ '/ufo-history/ufo-books/bartholomew-robert-e-and-radford-benjamin-hoaxes-myths-and-manias-why-we-need-critical-thinking' | relative_url }}">Hoaxes, Myths and Manias: Why We Need Critical Thinking</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/1591020484/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591020484/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 163 (in Chapter 12) of the Prometheus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}">Bartholomew, Robert E</a>. and Radford, Benjamin in their “<a href="{{ '/ufo-history/ufo-books/bartholomew-robert-e-and-radford-benjamin-hoaxes-myths-and-manias-why-we-need-critical-thinking' | relative_url }}">Hoaxes, Myths and Manias: Why We Need Critical Thinking</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="https://www.amazon.com/dp/1591020484/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1591020484/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 163 (in Chapter 12) of the Prometheus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -80,7 +80,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/bloecher-ted' | relative_url }}">Bloecher, Ted</a> in his “<a href="{{ '/ufo-history/ufo-books/bloecher-ted-report-on-the-ufo-wave-of-1947' | relative_url }}">Report on the UFO Wave of 1947</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000E4AMK0/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000E4AMK0/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages I_8 (in Section I), III_15-III_16 (in Section III), IV_1 (in Section IV), Cases 227-231, 233-235, 239, 244, 248 (in Section V) of the privately published paperbound edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bloecher-ted' | relative_url }}">Bloecher, Ted</a> in his “<a href="{{ '/ufo-history/ufo-books/bloecher-ted-report-on-the-ufo-wave-of-1947' | relative_url }}">Report on the UFO Wave of 1947</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/B000E4AMK0/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000E4AMK0/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages I_8 (in Section I), III_15-III_16 (in Section III), IV_1 (in Section IV), Cases 227-231, 233-235, 239, 244, 248 (in Section V) of the privately published paperbound edition.</p>
 </td>
 <td valign="top" width="52">
 <p>15</p>
@@ -92,7 +92,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel in his “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits' | relative_url }}">World’s Most Amazing UFO Visits</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1857781589/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1857781589/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21-22 of the Select softcover edition.</p>
+<p>Blundell, Nigel in his “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits' | relative_url }}">World’s Most Amazing UFO Visits</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/1857781589/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1857781589/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21-22 of the Select softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -103,7 +103,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a> : Volume 1:A-K” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 319 (in an entry entitled “Daylight Discs”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a> : Volume 1:A-K” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 319 (in an entry entitled “Daylight Discs”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -114,7 +114,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Chapter 2) of the Keyhole softcover edition, at page 19 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Chapter 2) of the Keyhole softcover edition, at page 19 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -125,7 +125,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-46 (in Chapter 2) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-46 (in Chapter 2) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -136,7 +136,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> and <a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> in their “<a href="{{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }}">Beyond Roswell</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 4 (in Chapter 1) of the Michael O’Mara hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> and <a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> in their “<a href="{{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }}">Beyond Roswell</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 4 (in Chapter 1) of the Michael O’Mara hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -147,7 +147,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Chapter 2) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Chapter 2) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -170,7 +170,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/mcdonald-james-e' | relative_url }}">McDonald, James E</a> in Ted Bloecher’s “<a href="{{ '/ufo-history/ufo-books/bloecher-ted-report-on-the-ufo-wave-of-1947' | relative_url }}">Report on the UFO Wave of 1947</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000E4AMK0/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000E4AMK0/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages viii-ix (in the Introduction) of the privately published paperbound edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonald-james-e' | relative_url }}">McDonald, James E</a> in Ted Bloecher’s “<a href="{{ '/ufo-history/ufo-books/bloecher-ted-report-on-the-ufo-wave-of-1947' | relative_url }}">Report on the UFO Wave of 1947</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/B000E4AMK0/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000E4AMK0/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages viii-ix (in the Introduction) of the privately published paperbound edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -181,7 +181,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/olsen-thomas-m' | relative_url }}">Olsen, Thomas M</a> in his “<a href="{{ '/ufo-history/ufo-books/olsen-thomas-m-the-reference-for-outstanding-ufo-sighting-reports' | relative_url }}">The Reference for Outstanding UFO Sighting Reports</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000VK61WA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000VK61WA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3_2 (in Chapter 3) of the UFOIRC spiral-bound edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/olsen-thomas-m' | relative_url }}">Olsen, Thomas M</a> in his “<a href="{{ '/ufo-history/ufo-books/olsen-thomas-m-the-reference-for-outstanding-ufo-sighting-reports' | relative_url }}">The Reference for Outstanding UFO Sighting Reports</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="https://www.amazon.com/dp/B000VK61WA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000VK61WA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3_2 (in Chapter 3) of the UFOIRC spiral-bound edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -192,7 +192,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 10 (in Chapter 2, “The <a href="{{ '/tags/1947' | relative_url }}">1947</a> Flap”) of the Smithsonian hardback edition, at page 11of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 10 (in Chapter 2, “The <a href="{{ '/tags/1947' | relative_url }}">1947</a> Flap”) of the Smithsonian hardback edition, at page 11of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -203,7 +203,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-scientific-ufology' | relative_url }}">Scientific Ufology</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0380813831/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380813831/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-17, 30-31 (in Chapter 2) of the Avon softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-scientific-ufology' | relative_url }}">Scientific Ufology</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0380813831/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0380813831/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-17, 30-31 (in Chapter 2) of the Avon softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -214,7 +214,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }}">Ruppelt, Edward</a> J in his “<a href="{{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }}">The Report on Unidentified Flying Objects</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 20 (in Chapter 2) of the original 17 chapter Doubleday hardback edition, at page 36 of the Gollancz hardback edition, at pages 31-32 of the Ace paperback edition, at page 20 of the <a href="{{ '/tags/1959' | relative_url }}">1959</a> revised Doubleday 20 chapter hardback edition, at page 13-14 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }}">Ruppelt, Edward</a> J in his “<a href="{{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }}">The Report on Unidentified Flying Objects</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="https://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 20 (in Chapter 2) of the original 17 chapter Doubleday hardback edition, at page 36 of the Gollancz hardback edition, at pages 31-32 of the Ace paperback edition, at page 20 of the <a href="{{ '/tags/1959' | relative_url }}">1959</a> revised Doubleday 20 chapter hardback edition, at page 13-14 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available online at:</p>
 <p><a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
 </td>
 <td valign="top" width="52">
@@ -239,7 +239,7 @@ For discussion of the Portland, Oregon sightings see the following:
 <p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/stanton-l-jerome' | relative_url }}">Stanton, L Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality' | relative_url }}">Flying Saucers : Hoax or Reality?</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 (in Chapter 2) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stanton-l-jerome' | relative_url }}">Stanton, L Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality' | relative_url }}">Flying Saucers : Hoax or Reality?</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="https://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 (in Chapter 2) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

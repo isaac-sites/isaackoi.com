@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/white-michael' | relative_url }}">White, Michael</a> “Life Out There” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/088001671X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/088001671X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/white-michael' | relative_url }}">White, Michael</a> “Life Out There” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/088001671X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/088001671X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/white-michael' | relative_url }}">White, Michael</a> “<a href="{{ '/ufo-history/ufo-books/white-michael-alien-life-forms-sci-fi-explained' | relative_url }}">Alien Life Forms : Sci-Fi Explained</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0141300167/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0141300167/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/white-michael' | relative_url }}">White, Michael</a> “<a href="{{ '/ufo-history/ufo-books/white-michael-alien-life-forms-sci-fi-explained' | relative_url }}">Alien Life Forms : Sci-Fi Explained</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0141300167/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0141300167/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

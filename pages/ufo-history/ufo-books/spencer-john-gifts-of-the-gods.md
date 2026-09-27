@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0863698212"], "cover_image": "/book-covers/0863698212.jpg", "cover_source": "local-cache", "primary_isbn": "0863698212"}
 ---
 
-Brief review to be added of [John Spencer]({{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }})'s book “[Gifts of the Gods?]({{ '/ufo-history/ufo-books/spencer-john-gifts-of-the-gods' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0863698212/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0863698212/?&tag=ufot-21))
+Brief review to be added of [John Spencer]({{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }})'s book “[Gifts of the Gods?]({{ '/ufo-history/ufo-books/spencer-john-gifts-of-the-gods' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0863698212/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0863698212/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

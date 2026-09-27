@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/chalker-bill' | relative_url }}">Chalker, Bill</a> “<a href="{{ '/ufo-history/ufo-books/chalker-bill-hair-of-the-alien-dna-and-other-forensic-evidence-of-alien-abduction' | relative_url }}">Hair of the Alien : DNA and other forensic evidence of alien abduction</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0743492862/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743492862/?&amp;tag=ufot-21">on Amazon UK</a>). Focuses on the abduction experience of Peter Khoury.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chalker-bill' | relative_url }}">Chalker, Bill</a> “<a href="{{ '/ufo-history/ufo-books/chalker-bill-hair-of-the-alien-dna-and-other-forensic-evidence-of-alien-abduction' | relative_url }}">Hair of the Alien : DNA and other forensic evidence of alien abduction</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="https://www.amazon.com/dp/0743492862/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0743492862/?&amp;tag=ufot-21">on Amazon UK</a>). Focuses on the abduction experience of Peter Khoury.</p>
 </td>
 </tr>
 </tbody>

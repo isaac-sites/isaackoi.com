@@ -50,7 +50,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Bova, Ben</a> “<a href="{{ '/ufo-history/ufo-books/bova-ben-the-high-road' | relative_url }}">The High Road</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0395312884/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0395312884/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Bova, Ben</a> “<a href="{{ '/ufo-history/ufo-books/bova-ben-the-high-road' | relative_url }}">The High Road</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="https://www.amazon.com/dp/0395312884/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0395312884/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ For discussion of Ben Bova see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>di Fate, Vincent in his “The Science Fiction Art of Vincent Di Fate” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1855859491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1855859491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18, 22 (in the unnumbered chapter entitled “Gadget Man”) of the Paper Tiger hardback edition.</p>
+<p>di Fate, Vincent in his “The Science Fiction Art of Vincent Di Fate” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/1855859491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1855859491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18, 22 (in the unnumbered chapter entitled “Gadget Man”) of the Paper Tiger hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -126,7 +126,7 @@ For discussion of Ben Bova see the following:
 <p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 190-193 (in Chapter 7) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="https://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 190-193 (in Chapter 7) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

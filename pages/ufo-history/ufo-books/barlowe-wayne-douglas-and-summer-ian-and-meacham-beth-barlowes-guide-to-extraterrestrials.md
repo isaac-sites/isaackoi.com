@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0894805002"], "cover_image": "/book-covers/0894805002.jpg", "cover_source": "local-cache", "primary_isbn": "0894805002"}
 ---
 
-Brief review to be added of Wayne Douglas Barlowe and Ian Summer and Beth Meacham's “[Barlowe's Guide to Extraterrestrials]({{ '/ufo-history/ufo-books/barlowe-wayne-douglas-and-summer-ian-and-meacham-beth-barlowes-guide-to-extraterrestrials' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0894805002/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0894805002/?&tag=ufot-21)).
+Brief review to be added of Wayne Douglas Barlowe and Ian Summer and Beth Meacham's “[Barlowe's Guide to Extraterrestrials]({{ '/ufo-history/ufo-books/barlowe-wayne-douglas-and-summer-ian-and-meacham-beth-barlowes-guide-to-extraterrestrials' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0894805002/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0894805002/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 

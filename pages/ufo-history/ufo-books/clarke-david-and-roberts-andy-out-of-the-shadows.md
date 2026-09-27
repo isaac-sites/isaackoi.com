@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0749922907"], "cover_image": "/book-covers/0749922907.jpg", "cover_source": "local-cache", "primary_isbn": "0749922907"}
 ---
 
-Brief review to be added of [David Clarke]({{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}) and [Andy Roberts]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }})' book “[Out Of The Shadows]({{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-out-of-the-shadows' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0749922907/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749922907/?&tag=ufot-21))
+Brief review to be added of [David Clarke]({{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}) and [Andy Roberts]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }})' book “[Out Of The Shadows]({{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-out-of-the-shadows' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0749922907/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0749922907/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

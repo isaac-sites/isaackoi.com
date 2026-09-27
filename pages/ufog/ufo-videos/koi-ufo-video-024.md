@@ -95,7 +95,7 @@ The IMDB entry for the movie also lists credits for the teams involved in produc
 [Brett Snyder](http://pro.imdb.com/name/nm1959798/)... *additional visual effects*
 [Mark Sullivan](http://pro.imdb.com/name/nm1558535/)... *visual effects*
 
-That movie was eventually released on DVD a few years later and that [DVD is available on Amazon](http://www.amazon.com/dp/B002X78Q9A/).
+That movie was eventually released on DVD a few years later and that [DVD is available on Amazon](https://www.amazon.com/dp/B002X78Q9A/).
 
 ![]({{ '/images/stories/ufo_videos/video024_4.JPG' | relative_url }})
 

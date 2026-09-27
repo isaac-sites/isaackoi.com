@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/evans-christopher' | relative_url }}">Evans, Christopher</a> “<a href="{{ '/ufo-history/ufo-books/evans-christopher-cults-of-unreason' | relative_url }}">Cults of Unreason</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0374133247/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0374133247/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-christopher' | relative_url }}">Evans, Christopher</a> “<a href="{{ '/ufo-history/ufo-books/evans-christopher-cults-of-unreason' | relative_url }}">Cults of Unreason</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="https://www.amazon.com/dp/0374133247/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0374133247/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

@@ -69,7 +69,7 @@ For discussion of “the voice of Glon” broadcast see the following:
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/beckley-timothy-green' | relative_url }}">Beckley, Timothy Green</a> in “<a href="{{ '/ufo-history/ufo-books/williamson-george-hunt-with-bailey-alfred-other-voices' | relative_url }}">Other Voices</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0938294644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294644/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by George Hunt Williamson with Alfred Bailey) at pages 15-20 (in the Introduction) of the Abeldard softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/beckley-timothy-green' | relative_url }}">Beckley, Timothy Green</a> in “<a href="{{ '/ufo-history/ufo-books/williamson-george-hunt-with-bailey-alfred-other-voices' | relative_url }}">Other Voices</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/0938294644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0938294644/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by George Hunt Williamson with Alfred Bailey) at pages 15-20 (in the Introduction) of the Abeldard softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -80,7 +80,7 @@ For discussion of “the voice of Glon” broadcast see the following:
 <p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/beckley-timothy-green' | relative_url }}">Beckley, Timothy Green</a> in his “Strange Encounters: Bizarre and Eerie Contact with UFO Occupants” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0938294210/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294210/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34-36, 40 (in the unnumbered chapter entitled “Probing the Mystery of the Unexplained Radio Transmissions”) of the Inner Light softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/beckley-timothy-green' | relative_url }}">Beckley, Timothy Green</a> in his “Strange Encounters: Bizarre and Eerie Contact with UFO Occupants” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="https://www.amazon.com/dp/0938294210/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0938294210/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34-36, 40 (in the unnumbered chapter entitled “Probing the Mystery of the Unexplained Radio Transmissions”) of the Inner Light softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -91,7 +91,7 @@ For discussion of “the voice of Glon” broadcast see the following:
 <p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hind-cynthia' | relative_url }}">Hind, Cynthia</a> in her “<a href="{{ '/ufo-history/ufo-books/hind-cynthia-ufos-african-encounters' | relative_url }}">UFOs : African Encounters</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="http://www.amazon.com/dp/079740533X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/079740533X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 81 (in Chapter 9) of the Gemini paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hind-cynthia' | relative_url }}">Hind, Cynthia</a> in her “<a href="{{ '/ufo-history/ufo-books/hind-cynthia-ufos-african-encounters' | relative_url }}">UFOs : African Encounters</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="https://www.amazon.com/dp/079740533X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/079740533X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 81 (in Chapter 9) of the Gemini paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -102,7 +102,7 @@ For discussion of “the voice of Glon” broadcast see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Morris, Peter J in his “Aliens Amongst Us: A Beginner’s Guide” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0340758333/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340758333/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in Chapter 4) of the Hodder &amp; Stoughton softcover edition.</p>
+<p>Morris, Peter J in his “Aliens Amongst Us: A Beginner’s Guide” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0340758333/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0340758333/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in Chapter 4) of the Hodder &amp; Stoughton softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0553083767"], "primary_isbn": "0553083767", "cover_image": "https://covers.openlibrary.org/b/isbn/0553083767-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[In Search of Ancient Mysteries]({{ '/ufo-history/ufo-books/landsburg-alan-and-landsburg-sally-in-search-of-ancient-mysteries' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0553083767/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0553083767/?&tag=ufot-21)) by [Alan Landsburg]({{ '/ufo-history/ufo-personalities/landsburg-alan' | relative_url }}) and Sally Landsburg.
+Brief review to be added of “[In Search of Ancient Mysteries]({{ '/ufo-history/ufo-books/landsburg-alan-and-landsburg-sally-in-search-of-ancient-mysteries' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0553083767/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0553083767/?&tag=ufot-21)) by [Alan Landsburg]({{ '/ufo-history/ufo-personalities/landsburg-alan' | relative_url }}) and Sally Landsburg.
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Serling, Rod in “<a href="{{ '/ufo-history/ufo-books/landsburg-alan-and-landsburg-sally-in-search-of-ancient-mysteries' | relative_url }}">In Search of Ancient Mysteries</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0553083767/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553083767/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by Alan Landsburg and Sally Landsburg) at pages vii-ix (in the Foreword) of the Corgi paperback edition.</p>
+<p>Serling, Rod in “<a href="{{ '/ufo-history/ufo-books/landsburg-alan-and-landsburg-sally-in-search-of-ancient-mysteries' | relative_url }}">In Search of Ancient Mysteries</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="https://www.amazon.com/dp/0553083767/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0553083767/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by Alan Landsburg and Sally Landsburg) at pages vii-ix (in the Foreword) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

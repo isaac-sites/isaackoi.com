@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0586201475"], "cover_image": "/book-covers/0586201475.jpg", "cover_source": "local-cache", "primary_isbn": "0586201475"}
 ---
 
-Brief review to be added of “[Death By Supernatural Causes?]({{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-death-by-supernatural-causes' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0586201475/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0586201475/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Peter Hough]({{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}).
+Brief review to be added of “[Death By Supernatural Causes?]({{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-death-by-supernatural-causes' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0586201475/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0586201475/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Peter Hough]({{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}).
 
 1. [Web Resources](#web)
 

@@ -69,7 +69,7 @@ For discussion of the Mandelbrot set crop circle see the following:
 <p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 218-222 (in Chapter 20) of the ABC softcover edition.</p>
+<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="https://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 218-222 (in Chapter 20) of the ABC softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -80,7 +80,7 @@ For discussion of the Mandelbrot set crop circle see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Craft, Michael in his “<a href="{{ '/ufo-history/ufo-books/craft-michael-alien-impact' | relative_url }}">Alien Impact</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 167 (in Chapter 9) of the St Martin’s Paperbacks paperback edition.</p>
+<p>Craft, Michael in his “<a href="{{ '/ufo-history/ufo-books/craft-michael-alien-impact' | relative_url }}">Alien Impact</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 167 (in Chapter 9) of the St Martin’s Paperbacks paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -91,7 +91,7 @@ For discussion of the Mandelbrot set crop circle see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-the-cosmic-connection' | relative_url }}">The Cosmic Connection</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1858600170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1858600170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 38-39 (in Chapter 4), 51 (in Chapter 5) of the Gateway Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-the-cosmic-connection' | relative_url }}">The Cosmic Connection</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/1858600170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1858600170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 38-39 (in Chapter 4), 51 (in Chapter 5) of the Gateway Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -113,7 +113,7 @@ For discussion of the Mandelbrot set crop circle see the following:
 <p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/presley-reg' | relative_url }}">Presley, Reg</a> in his “<a href="{{ '/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us' | relative_url }}">Wild Things (They Don’t Tell Us)</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/184358073X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/184358073X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55-56 (in Chapter 3) of the Metro hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/presley-reg' | relative_url }}">Presley, Reg</a> in his “<a href="{{ '/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us' | relative_url }}">Wild Things (They Don’t Tell Us)</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="https://www.amazon.com/dp/184358073X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/184358073X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55-56 (in Chapter 3) of the Metro hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -124,7 +124,7 @@ For discussion of the Mandelbrot set crop circle see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-quest' | relative_url }}">UFO Quest</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in Chapter 1), 142-144 (in Chapter 14) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-quest' | relative_url }}">UFO Quest</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in Chapter 1), 142-144 (in Chapter 14) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -135,7 +135,7 @@ For discussion of the Mandelbrot set crop circle see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-visitation' | relative_url }}">UFO Visitation</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-176 (in Chapter 17) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-visitation' | relative_url }}">UFO Visitation</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/0713726008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713726008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-176 (in Chapter 17) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

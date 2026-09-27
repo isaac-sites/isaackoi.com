@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john-wallace' | relative_url }}">Spencer, John Wallace</a> “<a href="{{ '/ufo-history/ufo-books/spencer-john-wallace-limbo-of-the-lost' | relative_url }}">Limbo of the Lost</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000GE5320/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GE5320/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john-wallace' | relative_url }}">Spencer, John Wallace</a> “<a href="{{ '/ufo-history/ufo-books/spencer-john-wallace-limbo-of-the-lost' | relative_url }}">Limbo of the Lost</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="https://www.amazon.com/dp/B000GE5320/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000GE5320/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john-wallace' | relative_url }}">Spencer, John Wallace</a> “<a href="{{ '/ufo-history/ufo-books/spencer-john-wallace-no-earthly-explanation' | relative_url }}">No Earthly Explanation</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0686101685/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0686101685/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john-wallace' | relative_url }}">Spencer, John Wallace</a> “<a href="{{ '/ufo-history/ufo-books/spencer-john-wallace-no-earthly-explanation' | relative_url }}">No Earthly Explanation</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="https://www.amazon.com/dp/0686101685/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0686101685/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

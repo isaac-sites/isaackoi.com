@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["3931652319"], "cover_image": "/book-covers/3931652319.jpg", "cover_source": "local-cache", "primary_isbn": "3931652319"}
 ---
 
-Brief review to be added of “[Humanity's Extraterrestrial Origins]({{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/3931652319/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/3931652319/?&tag=ufot-21)) by Arthur D Horn and Lynette M Horn.
+Brief review to be added of “[Humanity's Extraterrestrial Origins]({{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/3931652319/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/3931652319/?&tag=ufot-21)) by Arthur D Horn and Lynette M Horn.
 
 1. [Web Resources](#web)
 

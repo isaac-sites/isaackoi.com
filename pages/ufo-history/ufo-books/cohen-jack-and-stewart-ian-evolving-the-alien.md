@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0091879272"], "cover_image": "/book-covers/0091879272.jpg", "cover_source": "local-cache", "primary_isbn": "0091879272"}
 ---
 
-Brief review to be added of Jack Cohen and Ian Stewart's book “[Evolving the Alien]({{ '/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0091879272/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0091879272/?&tag=ufot-21))
+Brief review to be added of Jack Cohen and Ian Stewart's book “[Evolving the Alien]({{ '/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0091879272/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0091879272/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

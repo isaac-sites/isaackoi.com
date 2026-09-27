@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/o-leary-brian' | relative_url }}">O’ Leary, Brian</a> “<a href="{{ '/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations' | relative_url }}">Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1893157199/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893157199/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/o-leary-brian' | relative_url }}">O’ Leary, Brian</a> “<a href="{{ '/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations' | relative_url }}">Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/1893157199/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1893157199/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

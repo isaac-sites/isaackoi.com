@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B0000CMM17", "0312877854"], "cover_image": "/book-covers/0312877854.jpg", "cover_source": "local-cache", "primary_isbn": "0312877854"}
 ---
 
-Brief review to be added of James Strong's book “[Flight to the Stars: An Enquiry into the Feasibility of Interstellar Flight]({{ '/ufo-history/ufo-books/strong-james-flight-to-the-stars-an-enquiry-into-the-feasibility-of-interstellar-flight' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0000CMM17/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0000CMM17/?&tag=ufot-21))
+Brief review to be added of James Strong's book “[Flight to the Stars: An Enquiry into the Feasibility of Interstellar Flight]({{ '/ufo-history/ufo-books/strong-james-flight-to-the-stars-an-enquiry-into-the-feasibility-of-interstellar-flight' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CMM17/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CMM17/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> in his “The Giant Leap” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312877854/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312877854/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 25 (in Chapter 2) of the revised Headline softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> in his “The Giant Leap” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0312877854/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0312877854/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 25 (in Chapter 2) of the revised Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

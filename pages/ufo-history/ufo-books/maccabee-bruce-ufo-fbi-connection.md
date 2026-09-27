@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1567184936"], "cover_image": "/book-covers/1567184936.jpg", "cover_source": "local-cache", "primary_isbn": "1567184936"}
 ---
 
-Brief review to be added of [Bruce Maccabee]({{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }})'s book “[UFO-FBI Connection]({{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1567184936/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1567184936/?&tag=ufot-21))
+Brief review to be added of [Bruce Maccabee]({{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }})'s book “[UFO-FBI Connection]({{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1567184936/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1567184936/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in <a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Bruce Maccabee</a>’s “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xiii (in the Foreword) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in <a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Bruce Maccabee</a>’s “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xiii (in the Foreword) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

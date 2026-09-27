@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/mcdonough-thomas-r' | relative_url }}">McDonough, Thomas R</a> “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonough-thomas-r' | relative_url }}">McDonough, Thomas R</a> “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/0471846848/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0471846848/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>
@@ -62,7 +62,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Thomas R McDonough was Interviewed in “[The UFO Invasion]({{ '/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (edited by [Kendrick Frazier]({{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}), Barry Karr and [Joe Nickell]({{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1573921319/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573921319/ref=nosim?tag=ufot-21)) at pages 295-302 of the Prometheus hardback edition (in Chapter 39, “Searching for Extraterrestrial Intelligence: Interview with Thomas R McDonough”). The relevant chapter is a reprint of an article in the *Skeptical Inquirer*15 (Spring [1991]({{ '/tags/1991' | relative_url }})).
+Thomas R McDonough was Interviewed in “[The UFO Invasion]({{ '/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (edited by [Kendrick Frazier]({{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}), Barry Karr and [Joe Nickell]({{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1573921319/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1573921319/ref=nosim?tag=ufot-21)) at pages 295-302 of the Prometheus hardback edition (in Chapter 39, “Searching for Extraterrestrial Intelligence: Interview with Thomas R McDonough”). The relevant chapter is a reprint of an article in the *Skeptical Inquirer*15 (Spring [1991]({{ '/tags/1991' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0596000375"], "cover_image": "/book-covers/0596000375.jpg", "cover_source": "local-cache", "primary_isbn": "0596000375"}
 ---
 
-Brief review to be added of Brian McDonnell's book “[Beyond Contact: A Guide to SETI and Communicating with Alien Civilizations]({{ '/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0596000375/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0596000375/?&tag=ufot-21))
+Brief review to be added of Brian McDonnell's book “[Beyond Contact: A Guide to SETI and Communicating with Alien Civilizations]({{ '/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0596000375/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0596000375/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

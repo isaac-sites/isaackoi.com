@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B000IOHL3C", "0521620120", "0521343267", "075241450X", "0446766429"], "cover_image": "/book-covers/0521620120.jpg", "cover_source": "local-cache", "primary_isbn": "0521620120"}
 ---
 
-Brief review to be added of [Hubertus Strughold]({{ '/ufo-history/ufo-personalities/strughold-hubertus' | relative_url }})'s book “[The Green and Red Planet]({{ '/ufo-history/ufo-books/strughold-hubertus-the-green-and-red-planet' | relative_url }})” ([1954]({{ '/tags/1954' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000IOHL3C/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000IOHL3C/?&tag=ufot-21))
+Brief review to be added of [Hubertus Strughold]({{ '/ufo-history/ufo-personalities/strughold-hubertus' | relative_url }})'s book “[The Green and Red Planet]({{ '/ufo-history/ufo-books/strughold-hubertus-the-green-and-red-planet' | relative_url }})” ([1954]({{ '/tags/1954' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000IOHL3C/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000IOHL3C/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion of Strughold’s book see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds' | relative_url }}">Life on Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 54 (in Chapter 2) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds' | relative_url }}">Life on Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 54 (in Chapter 2) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion of Strughold’s book see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-137 (in Chapter 3) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-137 (in Chapter 3) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -82,7 +82,7 @@ For discussion of Strughold’s book see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 115 (in Chapter 11) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 115 (in Chapter 11) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,7 +93,7 @@ For discussion of Strughold’s book see the following:
 <p><a href="{{ '/tags/1955' | relative_url }}">1955</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/leslie-desmond' | relative_url }}">Leslie, Desmond</a> in <a href="{{ '/ufo-history/ufo-personalities/adamski-george' | relative_url }}">George Adamski</a>’s “<a href="{{ '/ufo-history/ufo-books/adamski-george-inside-the-flying-saucers' | relative_url }}">Inside the Flying Saucers</a>” (available <a href="http://www.amazon.com/dp/0446766429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446766429/ref=nosim?tag=ufot-21">on Amazon UK</a>) (Originally entitled “Inside the Space Ships”) (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) at page 23 (in the Foreword) of the Paperback Library paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/leslie-desmond' | relative_url }}">Leslie, Desmond</a> in <a href="{{ '/ufo-history/ufo-personalities/adamski-george' | relative_url }}">George Adamski</a>’s “<a href="{{ '/ufo-history/ufo-books/adamski-george-inside-the-flying-saucers' | relative_url }}">Inside the Flying Saucers</a>” (available <a href="https://www.amazon.com/dp/0446766429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0446766429/ref=nosim?tag=ufot-21">on Amazon UK</a>) (Originally entitled “Inside the Space Ships”) (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) at page 23 (in the Foreword) of the Paperback Library paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,7 +104,7 @@ For discussion of Strughold’s book see the following:
 <p><a href="{{ '/tags/1954' | relative_url }}">1954</a></p>
 </td>
 <td valign="top" width="547">
-<p>Peyton, Green in Hubertus Strughold’s “<a href="{{ '/ufo-history/ufo-books/strughold-hubertus-the-green-and-red-planet' | relative_url }}">The Green and Red Planet</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="http://www.amazon.com/dp/B000IOHL3C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IOHL3C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages vi-ix (in the Foreword) of the Sidgwick and Jackson hardback edition.</p>
+<p>Peyton, Green in Hubertus Strughold’s “<a href="{{ '/ufo-history/ufo-books/strughold-hubertus-the-green-and-red-planet' | relative_url }}">The Green and Red Planet</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="https://www.amazon.com/dp/B000IOHL3C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000IOHL3C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages vi-ix (in the Foreword) of the Sidgwick and Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

@@ -22,7 +22,7 @@ confidence: 0.6
 
 Brief comments to be added on this individual.
 
-Heinlein was the author of numerous science-fiction novels, including “[Stranger in a Strange Land]({{ '/ufo-history/ufo-books/heinlein-robert-stranger-in-a-strange-land' | relative_url }})” ([1961]({{ '/tags/1961' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/034093834X/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/034093834X/ref=nosim?tag=ufot-21)).
+Heinlein was the author of numerous science-fiction novels, including “[Stranger in a Strange Land]({{ '/ufo-history/ufo-books/heinlein-robert-stranger-in-a-strange-land' | relative_url }})” ([1961]({{ '/tags/1961' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/034093834X/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/034093834X/ref=nosim?tag=ufot-21)).
 
 Sections below:
 
@@ -67,7 +67,7 @@ For discussion of Robert Heinlein see the following:
 <p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Aldiss, Brian in his “Billion Year Spree” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 269-274 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
+<p>Aldiss, Brian in his “Billion Year Spree” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="https://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 269-274 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -78,7 +78,7 @@ For discussion of Robert Heinlein see the following:
 <p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 198 (in Chapter 7) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="https://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 198 (in Chapter 7) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,7 +89,7 @@ For discussion of Robert Heinlein see the following:
 <p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kaveney, Roz in her “<a href="{{ '/ufo-history/ufo-books/kaveney-roz-from-alien-to-the-matrix-reading-science-fiction-film' | relative_url }}">From Alien to The Matrix: Reading Science Fiction Film</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/1850438064/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1850438064/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-11, 13 (in Chapter 2), 109 (in Chapter 8) of the I B Taurus softcover edition.</p>
+<p>Kaveney, Roz in her “<a href="{{ '/ufo-history/ufo-books/kaveney-roz-from-alien-to-the-matrix-reading-science-fiction-film' | relative_url }}">From Alien to The Matrix: Reading Science Fiction Film</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="https://www.amazon.com/dp/1850438064/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1850438064/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-11, 13 (in Chapter 2), 109 (in Chapter 8) of the I B Taurus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -100,7 +100,7 @@ For discussion of Robert Heinlein see the following:
 <p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Washburn, Mark in his “<a href="{{ '/ufo-history/ufo-books/washburn-mark-mars-at-last' | relative_url }}">Mars at Last!</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0399119353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399119353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-61 (in Chapter 5) of the Abacus paperback edition.</p>
+<p>Washburn, Mark in his “<a href="{{ '/ufo-history/ufo-books/washburn-mark-mars-at-last' | relative_url }}">Mars at Last!</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="https://www.amazon.com/dp/0399119353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0399119353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-61 (in Chapter 5) of the Abacus paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

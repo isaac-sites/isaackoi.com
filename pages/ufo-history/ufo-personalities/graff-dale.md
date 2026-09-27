@@ -44,7 +44,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/graff-dale' | relative_url }}">Graff, Dale</a> “<a href="{{ '/ufo-history/ufo-books/graff-dale-tracks-in-the-psychic-wilderness-an-exploration-of-esp-remote-viewing-precognitive-dreaming-and-synchronicity' | relative_url }}">Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1843337312/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1843337312/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/graff-dale' | relative_url }}">Graff, Dale</a> “<a href="{{ '/ufo-history/ufo-books/graff-dale-tracks-in-the-psychic-wilderness-an-exploration-of-esp-remote-viewing-precognitive-dreaming-and-synchronicity' | relative_url }}">Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/1843337312/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1843337312/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -93,7 +93,7 @@ For discussion of Dale Graff see the following:
 <p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 193 (in Chapter 6), 280 (in the Epilogue) of the New Page Books softcover edition.<strong> </strong></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="https://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 193 (in Chapter 6), 280 (in the Epilogue) of the New Page Books softcover edition.<strong> </strong></p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -104,7 +104,7 @@ For discussion of Dale Graff see the following:
 <p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>) in “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 7, 8 (in Section 1, Chapter 1), 103, 104 (in Section 2, Chapter 4) of the Peregrine Communications softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>) in “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="https://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 7, 8 (in Section 1, Chapter 1), 103, 104 (in Section 2, Chapter 4) of the Peregrine Communications softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -115,7 +115,7 @@ For discussion of Dale Graff see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/mitchell-edgar' | relative_url }}">Mitchell, Edgar</a> in Dale Graff’s “<a href="{{ '/ufo-history/ufo-books/graff-dale-tracks-in-the-psychic-wilderness-an-exploration-of-esp-remote-viewing-precognitive-dreaming-and-synchronicity' | relative_url }}">Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1843337312/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1843337312/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page ix (in the Foreword) of the Vega softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mitchell-edgar' | relative_url }}">Mitchell, Edgar</a> in Dale Graff’s “<a href="{{ '/ufo-history/ufo-books/graff-dale-tracks-in-the-psychic-wilderness-an-exploration-of-esp-remote-viewing-precognitive-dreaming-and-synchronicity' | relative_url }}">Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/1843337312/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1843337312/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page ix (in the Foreword) of the Vega softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -126,7 +126,7 @@ For discussion of Dale Graff see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206, 209 (in Chapter 14), 217-219, 224, 227-228 (in Chapter 15), 284 (in Chapter 18), 334, 337-338, 347 (in Chapter 21), 351, 356, 367-368 (in Chapter 22), 381, 387 (in the Epilogue) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206, 209 (in Chapter 14), 217-219, 224, 227-228 (in Chapter 15), 284 (in Chapter 18), 334, 337-338, 347 (in Chapter 21), 351, 356, 367-368 (in Chapter 22), 381, 387 (in the Epilogue) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>19</p>
@@ -137,7 +137,7 @@ For discussion of Dale Graff see the following:
 <p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85, 89, 100-102, 270, 300, 329, 373, 375-376, 377, 385, 401, 402, 419, 420-421, 429-430, 432, 434, 435, 450, 454, 468 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="https://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85, 89, 100-102, 270, 300, 329, 373, 375-376, 377, 385, 401, 402, 419, 420-421, 429-430, 432, 434, 435, 450, 454, 468 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>26</p>

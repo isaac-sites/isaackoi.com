@@ -38,7 +38,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Partial text from this letter presented by [Steiger, Brad]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) in his “[Project Blue Book]({{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }})“ ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 324-327 (forming part of Chapter 13) of the Ballantine Books paperback edition.
+Partial text from this letter presented by [Steiger, Brad]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) in his “[Project Blue Book]({{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }})“ ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 324-327 (forming part of Chapter 13) of the Ballantine Books paperback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -67,7 +67,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-here-and-now' | relative_url }}">Flying Saucers – Here and Now!</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0000CODS3/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CODS3/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 177-185 (in Chapter 9) of the Lyle Stuart hardback edition, at pages 104-110 of the Bantam paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-here-and-now' | relative_url }}">Flying Saucers – Here and Now!</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/B0000CODS3/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0000CODS3/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 177-185 (in Chapter 9) of the Lyle Stuart hardback edition, at pages 104-110 of the Bantam paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -78,7 +78,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas' | relative_url }}">UFOs over the Americas</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B00005X1IY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X1IY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 74 (in Chapter 5) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas' | relative_url }}">UFOs over the Americas</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/B00005X1IY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B00005X1IY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 74 (in Chapter 5) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,7 +89,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82-83 (in the unnumbered chapter entitled “A Challenge to Science”) of the Berkley paperback edition.</p>
+<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="https://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82-83 (in the unnumbered chapter entitled “A Challenge to Science”) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

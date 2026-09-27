@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0747236038"], "cover_image": "/book-covers/0747236038.jpg", "cover_source": "local-cache", "primary_isbn": "0747236038"}
 ---
 
-Brief review to be added of Stuart Gordon's book “[The Paranormal - An Illustrated Encyclopedia]({{ '/ufo-history/ufo-books/gordon-stuart-the-paranormal-an-illustrated-encyclopedia' | relative_url }})” (available [on Amazon USA](http://www.amazon.com/dp/0747236038/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0747236038/?&tag=ufot-21))
+Brief review to be added of Stuart Gordon's book “[The Paranormal - An Illustrated Encyclopedia]({{ '/ufo-history/ufo-books/gordon-stuart-the-paranormal-an-illustrated-encyclopedia' | relative_url }})” (available [on Amazon USA](https://www.amazon.com/dp/0747236038/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0747236038/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

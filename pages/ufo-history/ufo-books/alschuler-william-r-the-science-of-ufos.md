@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0312262256"], "cover_image": "/book-covers/0312262256.jpg", "cover_source": "local-cache", "primary_isbn": "0312262256"}
 ---
 
-Brief review to be added of William R Alschuler 's book “[The Science of UFOs]({{ '/ufo-history/ufo-books/alschuler-william-r-the-science-of-ufos' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0312262256/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312262256/?&tag=ufot-21))
+Brief review to be added of William R Alschuler 's book “[The Science of UFOs]({{ '/ufo-history/ufo-books/alschuler-william-r-the-science-of-ufos' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0312262256/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0312262256/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

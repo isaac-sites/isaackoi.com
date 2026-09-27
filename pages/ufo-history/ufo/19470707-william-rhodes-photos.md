@@ -69,7 +69,7 @@ For discussion of the Rhodes photographs see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/bloecher-ted' | relative_url }}">Bloecher, Ted</a> in his “<a href="{{ '/ufo-history/ufo-books/bloecher-ted-report-on-the-ufo-wave-of-1947' | relative_url }}">Report on the UFO Wave of 1947</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000E4AMK0/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000E4AMK0/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages I_11 (in Section I), IV-4, IV-5 (in Section IV), Case 675 (in Section V) of the privately published paperbound edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bloecher-ted' | relative_url }}">Bloecher, Ted</a> in his “<a href="{{ '/ufo-history/ufo-books/bloecher-ted-report-on-the-ufo-wave-of-1947' | relative_url }}">Report on the UFO Wave of 1947</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/B000E4AMK0/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000E4AMK0/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages I_11 (in Section I), IV-4, IV-5 (in Section IV), Case 675 (in Section V) of the privately published paperbound edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -80,7 +80,7 @@ For discussion of the Rhodes photographs see the following:
 <p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 852-853 (in Section 5, Chapter 2 “UFOs: <a href="{{ '/tags/1947' | relative_url }}">1947</a>-<a href="{{ '/tags/1968' | relative_url }}">1968</a>”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 508 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="https://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 852-853 (in Section 5, Chapter 2 “UFOs: <a href="{{ '/tags/1947' | relative_url }}">1947</a>-<a href="{{ '/tags/1968' | relative_url }}">1968</a>”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 508 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
 <p><a href="http://ncas.sawco.com/condon/text/contents.htm">http://ncas.sawco.com/condon/text/contents.htm</a></p>
 <p><a href="http://www.project1947.com/shg/condon/contents.html">http://www.project1947.com/shg/condon/contents.html</a></p>
 </td>
@@ -93,7 +93,7 @@ For discussion of the Rhodes photographs see the following:
 <p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Dedera, Don in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 264-265 (in an entry entitled “Phoenix (Arizona) photos”) of the NEL hardback edition.</p>
+<p>Dedera, Don in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="https://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 264-265 (in an entry entitled “Phoenix (Arizona) photos”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -104,7 +104,7 @@ For discussion of the Rhodes photographs see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in Chapter 2) of the Keyhole softcover edition, at page 31 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in Chapter 2) of the Keyhole softcover edition, at page 31 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -115,7 +115,7 @@ For discussion of the Rhodes photographs see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56, 90 (in Chapter 2) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56, 90 (in Chapter 2) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -126,7 +126,7 @@ For discussion of the Rhodes photographs see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 11 (in Chapter 2) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 11 (in Chapter 2) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -137,7 +137,7 @@ For discussion of the Rhodes photographs see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/palmer-raymond-a' | relative_url }}">Palmer, Raymond A</a> in his “<a href="{{ '/ufo-history/ufo-books/palmer-raymond-a-the-real-ufo-invasion' | relative_url }}">The Real UFO Invasion</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0007FMB0A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FMB0A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32, 33 (in Chapter 2), 179-183 (in Chapter 7 generally), 183-189 (in Chapter 8) of the Greenleaf paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/palmer-raymond-a' | relative_url }}">Palmer, Raymond A</a> in his “<a href="{{ '/ufo-history/ufo-books/palmer-raymond-a-the-real-ufo-invasion' | relative_url }}">The Real UFO Invasion</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/B0007FMB0A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0007FMB0A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32, 33 (in Chapter 2), 179-183 (in Chapter 7 generally), 183-189 (in Chapter 8) of the Greenleaf paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -148,7 +148,7 @@ For discussion of the Rhodes photographs see the following:
 <p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/stevens-wendelle' | relative_url }}">Stevens, Wendelle</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-august' | relative_url }}">Roberts, August</a> in their “UFO Photographs: Around The World: Vol. 1” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/0934269009/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0934269009/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 223 (in the unnumbered chapter entitled “Appendix 1 : Catalogue of UFO Photographic Reports”) of the UFO Photo Archives hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stevens-wendelle' | relative_url }}">Stevens, Wendelle</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-august' | relative_url }}">Roberts, August</a> in their “UFO Photographs: Around The World: Vol. 1” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="https://www.amazon.com/dp/0934269009/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0934269009/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 223 (in the unnumbered chapter entitled “Appendix 1 : Catalogue of UFO Photographic Reports”) of the UFO Photo Archives hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

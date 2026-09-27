@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["184358073X"], "cover_image": "/book-covers/184358073X.jpg", "cover_source": "local-cache", "primary_isbn": "184358073X"}
 ---
 
-Brief review to be added of [Reg Presley]({{ '/ufo-history/ufo-personalities/presley-reg' | relative_url }})'s book “[Wild Things (They Don’t Tell Us)]({{ '/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/184358073X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/184358073X/?&tag=ufot-21))
+Brief review to be added of [Reg Presley]({{ '/ufo-history/ufo-personalities/presley-reg' | relative_url }})'s book “[Wild Things (They Don’t Tell Us)]({{ '/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/184358073X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/184358073X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

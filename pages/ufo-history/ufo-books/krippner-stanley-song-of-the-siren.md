@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0060647868"], "cover_image": "/book-covers/0060647868.jpg", "cover_source": "local-cache", "primary_isbn": "0060647868"}
 ---
 
-Brief review to be added of Stanley Krippner's book “[Song of the Siren]({{ '/ufo-history/ufo-books/krippner-stanley-song-of-the-siren' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0060647868/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0060647868/?&tag=ufot-21))
+Brief review to be added of Stanley Krippner's book “[Song of the Siren]({{ '/ufo-history/ufo-books/krippner-stanley-song-of-the-siren' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0060647868/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0060647868/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

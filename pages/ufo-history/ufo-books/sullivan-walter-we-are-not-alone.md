@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B00005X52F", "0963916122", "075241450X", "0815970005", "B0006VZSJ6"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0963916122"}
 ---
 
-Brief review to be added of [Walter Sullivan]({{ '/ufo-history/ufo-personalities/sullivan-walter' | relative_url }})'s book “[We Are Not Alone]({{ '/ufo-history/ufo-books/sullivan-walter-we-are-not-alone' | relative_url }})” ([1964]({{ '/tags/1964' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B00005X52F/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B00005X52F/?&tag=ufot-21))
+Brief review to be added of [Walter Sullivan]({{ '/ufo-history/ufo-personalities/sullivan-walter' | relative_url }})'s book “[We Are Not Alone]({{ '/ufo-history/ufo-books/sullivan-walter-we-are-not-alone' | relative_url }})” ([1964]({{ '/tags/1964' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B00005X52F/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B00005X52F/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 344-345 (in Section 5) with a one sentence summary at page 378 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 344-345 (in Section 5) with a one sentence summary at page 378 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -82,7 +82,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in Chapter 11) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in Chapter 11) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,7 +93,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 238 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="https://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 238 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,7 +104,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/sendy-jean' | relative_url }}">Sendy, Jean</a> in his “<a href="{{ '/ufo-history/ufo-books/sendy-jean-those-gods-who-made-heaven-and-earth' | relative_url }}">Those Gods Who Made Heaven and Earth</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B0006VZSJ6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006VZSJ6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 57, 58 (in Chapter 10) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sendy-jean' | relative_url }}">Sendy, Jean</a> in his “<a href="{{ '/ufo-history/ufo-books/sendy-jean-those-gods-who-made-heaven-and-earth' | relative_url }}">Those Gods Who Made Heaven and Earth</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="https://www.amazon.com/dp/B0006VZSJ6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0006VZSJ6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 57, 58 (in Chapter 10) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

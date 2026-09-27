@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0791423301", "0801484685"], "cover_image": "/book-covers/0791423301.jpg", "cover_source": "local-cache", "primary_isbn": "0791423301"}
 ---
 
-Brief review to be added of “[The Gods Have Landed – New Religions from Other Worlds]({{ '/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (edited by James Lewis) (available [on Amazon USA](http://www.amazon.com/dp/0791423301/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0791423301/?&tag=ufot-21))
+Brief review to be added of “[The Gods Have Landed – New Religions from Other Worlds]({{ '/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (edited by James Lewis) (available [on Amazon USA](https://www.amazon.com/dp/0791423301/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0791423301/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 209 (in the Notes) of the Cornell University softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 209 (in the Notes) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

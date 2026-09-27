@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1950' | relative_url }}">1950</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/scully-frank' | relative_url }}">Scully, Frank</a> “<a href="{{ '/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers' | relative_url }}">Behind the Flying Saucers</a>” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>) (available <a href="http://www.amazon.com/dp/B000O3MUVK/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000O3MUVK/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/scully-frank' | relative_url }}">Scully, Frank</a> “<a href="{{ '/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers' | relative_url }}">Behind the Flying Saucers</a>” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>) (available <a href="https://www.amazon.com/dp/B000O3MUVK/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000O3MUVK/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

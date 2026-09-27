@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["073871383X"], "cover_image": "/book-covers/073871383X.jpg", "cover_source": "local-cache", "primary_isbn": "073871383X"}
 ---
 
-Brief review to be added of [J Allan Danelek]({{ '/ufo-history/ufo-personalities/danelek-j-allan' | relative_url }})'s book “[UFOs: The Great Debate]({{ '/ufo-history/ufo-books/danelek-j-allan-ufos-the-great-debate' | relative_url }})” ([2008]({{ '/tags/2008' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/073871383X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/073871383X/?&tag=ufot-21))
+Brief review to be added of [J Allan Danelek]({{ '/ufo-history/ufo-personalities/danelek-j-allan' | relative_url }})'s book “[UFOs: The Great Debate]({{ '/ufo-history/ufo-books/danelek-j-allan-ufos-the-great-debate' | relative_url }})” ([2008]({{ '/tags/2008' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/073871383X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/073871383X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

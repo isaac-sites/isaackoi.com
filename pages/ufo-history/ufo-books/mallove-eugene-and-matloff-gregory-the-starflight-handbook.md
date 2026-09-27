@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0471619124", "0520224531", "0312877854", "185233097X"], "cover_image": "/book-covers/0471619124.jpg", "cover_source": "local-cache", "primary_isbn": "0471619124"}
 ---
 
-Brief review to be added of “[The Starflight Handbook]({{ '/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0471619124/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0471619124/?&tag=ufot-21)) by Eugene Mallove and Gregory Matloff.
+Brief review to be added of “[The Starflight Handbook]({{ '/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0471619124/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0471619124/?&tag=ufot-21)) by Eugene Mallove and Gregory Matloff.
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension' | relative_url }}">Spacefaring : The Human Dimension</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 243 (in Chapter 14) of the California softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension' | relative_url }}">Spacefaring : The Human Dimension</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 243 (in Chapter 14) of the California softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> in his “The Giant Leap” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312877854/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312877854/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 25-26 (in Chapter 2) of the revised Headline softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> in his “The Giant Leap” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0312877854/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0312877854/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 25-26 (in Chapter 2) of the revised Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -82,7 +82,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Stuart in his “<a href="{{ '/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it' | relative_url }}">Life on Other Worlds and How to Find It</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 150 (in Chapter 11) of the Springer hardback edition.</p>
+<p>Clark, Stuart in his “<a href="{{ '/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it' | relative_url }}">Life on Other Worlds and How to Find It</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 150 (in Chapter 11) of the Springer hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

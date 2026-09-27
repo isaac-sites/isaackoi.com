@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0785271821"], "cover_image": "/book-covers/0785271821.jpg", "cover_source": "local-cache", "primary_isbn": "0785271821"}
 ---
 
-Brief review to be added of Bob Larson's book “[UFOs and the Alien Agenda]({{ '/ufo-history/ufo-books/larson-bob-ufos-and-the-alien-agenda' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0785271821/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0785271821/?&tag=ufot-21))
+Brief review to be added of Bob Larson's book “[UFOs and the Alien Agenda]({{ '/ufo-history/ufo-books/larson-bob-ufos-and-the-alien-agenda' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0785271821/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0785271821/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

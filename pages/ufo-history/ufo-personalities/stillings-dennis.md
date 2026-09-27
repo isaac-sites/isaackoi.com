@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/stillings-dennis' | relative_url }}">Stillings, Dennis</a> (Ed.) “<a href="{{ '/ufo-history/ufo-books/stillings-dennis-editor-cyberbiological-studies-of-the-imaginal-component-in-the-ufo-contact-experience' | relative_url }}">Cyberbiological studies of the imaginal component in the UFO contact experience</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/B000JQ5DW0/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JQ5DW0/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stillings-dennis' | relative_url }}">Stillings, Dennis</a> (Ed.) “<a href="{{ '/ufo-history/ufo-books/stillings-dennis-editor-cyberbiological-studies-of-the-imaginal-component-in-the-ufo-contact-experience' | relative_url }}">Cyberbiological studies of the imaginal component in the UFO contact experience</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="https://www.amazon.com/dp/B000JQ5DW0/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000JQ5DW0/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

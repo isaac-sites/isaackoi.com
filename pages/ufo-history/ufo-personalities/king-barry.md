@@ -67,7 +67,7 @@ For discussion of Barry King see the following:
 <p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> in his “UFO Magic in Motion” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0722178085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722178085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192-195 (in Chapter 10) of the Sphere paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> in his “UFO Magic in Motion” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="https://www.amazon.com/dp/0722178085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0722178085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192-195 (in Chapter 10) of the Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -78,7 +78,7 @@ For discussion of Barry King see the following:
 <p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 226-227 (in Chapter 20), 280-282 (in Chapter 25) of the ABC softcover edition.</p>
+<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="https://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 226-227 (in Chapter 20), 280-282 (in Chapter 25) of the ABC softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

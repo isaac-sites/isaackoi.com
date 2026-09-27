@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0646159968"], "primary_isbn": "0646159968", "cover_image": "https://covers.openlibrary.org/b/isbn/0646159968-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Michel Desmarquet's book “[Abduction to the Ninth Planet]({{ '/ufo-history/ufo-books/desmarquet-michel-abduction-to-the-ninth-planet' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0646159968/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0646159968/?&tag=ufot-21))
+Brief review to be added of Michel Desmarquet's book “[Abduction to the Ninth Planet]({{ '/ufo-history/ufo-books/desmarquet-michel-abduction-to-the-ninth-planet' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0646159968/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0646159968/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -58,7 +58,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hencke, Howard in Michel Desmarquet’s “<a href="{{ '/ufo-history/ufo-books/desmarquet-michel-abduction-to-the-ninth-planet' | relative_url }}">Abduction to the Ninth Planet</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0646159968/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0646159968/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages v-vi (in the Foreword) of the Arafura softcover edition.</p>
+<p>Hencke, Howard in Michel Desmarquet’s “<a href="{{ '/ufo-history/ufo-books/desmarquet-michel-abduction-to-the-ninth-planet' | relative_url }}">Abduction to the Ninth Planet</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="https://www.amazon.com/dp/0646159968/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0646159968/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages v-vi (in the Foreword) of the Arafura softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

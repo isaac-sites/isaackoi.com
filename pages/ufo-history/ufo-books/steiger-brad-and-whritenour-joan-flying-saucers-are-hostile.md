@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B0000CO47Z", "0896960404", "0762101083", "074810142X"], "cover_image": "/book-covers/0762101083.jpg", "cover_source": "local-cache", "primary_isbn": "0896960404"}
 ---
 
-Brief review to be added of “[Flying Saucers are Hostile]({{ '/ufo-history/ufo-books/steiger-brad-and-whritenour-joan-flying-saucers-are-hostile' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0000CO47Z/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0000CO47Z/?&tag=ufot-21)) by [Brad Steiger]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) and Joan Whritenour.
+Brief review to be added of “[Flying Saucers are Hostile]({{ '/ufo-history/ufo-books/steiger-brad-and-whritenour-joan-flying-saucers-are-hostile' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CO47Z/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CO47Z/?&tag=ufot-21)) by [Brad Steiger]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) and Joan Whritenour.
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }}">Holroyd, Stuart</a> in his “Alien Intelligence” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 197 (in Chapter 7) of the David &amp; Charles hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }}">Holroyd, Stuart</a> in his “Alien Intelligence” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="https://www.amazon.com/dp/0896960404/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0896960404/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 197 (in Chapter 7) of the David &amp; Charles hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-from-other-worlds' | relative_url }}">From Other Worlds</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 105 (in Chapter 4) of the Carlton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-from-other-worlds' | relative_url }}">From Other Worlds</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 105 (in Chapter 4) of the Carlton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,7 +82,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-ufos-where-do-they-come-from' | relative_url }}">UFOs: Where Do They Come From?</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/074810142X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074810142X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-63 (in the unnumbered chapter entitled “Saucers of Satan”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-ufos-where-do-they-come-from' | relative_url }}">UFOs: Where Do They Come From?</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="https://www.amazon.com/dp/074810142X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/074810142X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-63 (in the unnumbered chapter entitled “Saucers of Satan”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

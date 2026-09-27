@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B0007J479O"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
 ---
 
-Brief review to be added of “[Flying Saucers on the Moon]({{ '/ufo-history/ufo-books/wilkins-harold-flying-saucers-on-the-moon' | relative_url }})” ([1954]({{ '/tags/1954' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0007J479O/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007J479O/?&tag=ufot-21)) by [Harold Wilkins]({{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}).
+Brief review to be added of “[Flying Saucers on the Moon]({{ '/ufo-history/ufo-books/wilkins-harold-flying-saucers-on-the-moon' | relative_url }})” ([1954]({{ '/tags/1954' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0007J479O/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0007J479O/?&tag=ufot-21)) by [Harold Wilkins]({{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}).
 
 Published in the USA as “Flying Saucers on the Attack”.
 

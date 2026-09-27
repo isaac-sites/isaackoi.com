@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0198507070"], "cover_image": "/book-covers/0198507070.jpg", "cover_source": "local-cache", "primary_isbn": "0198507070"}
 ---
 
-Brief review to be added of Walter Gratzer's book “[The Undergrowth of Science: Delusion, Self-deception and human frailty]({{ '/ufo-history/ufo-books/gratzer-walter-the-undergrowth-of-science' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0198507070/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0198507070/?&tag=ufot-21)
+Brief review to be added of Walter Gratzer's book “[The Undergrowth of Science: Delusion, Self-deception and human frailty]({{ '/ufo-history/ufo-books/gratzer-walter-the-undergrowth-of-science' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0198507070/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0198507070/?&tag=ufot-21)
 
 1. [Web Resources](#web)
 

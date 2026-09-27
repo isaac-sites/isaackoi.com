@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0762406194"], "cover_image": "/book-covers/0762406194.jpg", "cover_source": "local-cache", "primary_isbn": "0762406194"}
 ---
 
-Brief review to be added of Craig Glenday's book “[The UFO Investigator’s Handbook]({{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0762406194/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0762406194/?&tag=ufot-21))
+Brief review to be added of Craig Glenday's book “[The UFO Investigator’s Handbook]({{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0762406194/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0762406194/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in Craig Glenday’s “<a href="{{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }}">The UFO Investigator’s Handbook</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 7 (in the Foreword) of the Running Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in Craig Glenday’s “<a href="{{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }}">The UFO Investigator’s Handbook</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 7 (in the Foreword) of the Running Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

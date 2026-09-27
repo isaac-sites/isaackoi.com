@@ -42,7 +42,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by [Pope, Nick]({{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}) in his “[The Uninvited]({{ '/ufo-history/ufo-books/pope-nick-the-uninvited' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21)) at page 75 (in Chapter 4) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.
+Discussed by [Pope, Nick]({{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}) in his “[The Uninvited]({{ '/ufo-history/ufo-books/pope-nick-the-uninvited' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21)) at page 75 (in Chapter 4) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.
 
 <a id="other"></a>
 ### Other Material

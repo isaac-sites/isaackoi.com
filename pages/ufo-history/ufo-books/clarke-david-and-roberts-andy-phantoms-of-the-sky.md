@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0709040865", "0816038007"], "cover_image": "/book-covers/0816038007.jpg", "cover_source": "local-cache", "primary_isbn": "0709040865"}
 ---
 
-Brief review to be added of [David Clarke]({{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}) and [Andy Roberts]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }})' book “[Phantoms of the Sky]({{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0709040865/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0709040865/?&tag=ufot-21))
+Brief review to be added of [David Clarke]({{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}) and [Andy Roberts]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }})' book “[Phantoms of the Sky]({{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0709040865/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0709040865/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -58,7 +58,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in Chapter 7) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in Chapter 7) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

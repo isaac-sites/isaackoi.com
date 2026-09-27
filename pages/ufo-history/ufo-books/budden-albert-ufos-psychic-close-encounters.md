@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0713724218", "1899071008"], "cover_image": "/book-covers/0713724218.jpg", "cover_source": "local-cache", "primary_isbn": "0713724218"}
 ---
 
-Brief review to be added of [Budden, Albert]({{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }})'s book “[UFOs: Psychic Close Encounters]({{ '/ufo-history/ufo-books/budden-albert-ufos-psychic-close-encounters' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0713724218/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0713724218/?&tag=ufot-21))
+Brief review to be added of [Budden, Albert]({{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }})'s book “[UFOs: Psychic Close Encounters]({{ '/ufo-history/ufo-books/budden-albert-ufos-psychic-close-encounters' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0713724218/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0713724218/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -58,7 +58,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }}">Budden, Albert</a> in his “<a href="{{ '/ufo-history/ufo-books/budden-albert-allergies-and-aliens' | relative_url }}">Allergies and Aliens</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1899071008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1899071008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in the Introduction) of the Discovery Times softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }}">Budden, Albert</a> in his “<a href="{{ '/ufo-history/ufo-books/budden-albert-allergies-and-aliens' | relative_url }}">Allergies and Aliens</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/1899071008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1899071008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in the Introduction) of the Discovery Times softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

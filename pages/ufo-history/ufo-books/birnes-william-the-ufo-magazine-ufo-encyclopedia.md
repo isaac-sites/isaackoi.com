@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0743466748"], "cover_image": "/book-covers/0743466748.jpg", "cover_source": "local-cache", "primary_isbn": "0743466748"}
 ---
 
-Brief review to be added of [Birnes, William]({{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}) “[The UFO Magazine UFO Encyclopedia]({{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }})” ([2004]({{ '/tags/2004' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0743466748/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743466748/?&tag=ufot-21))
+Brief review to be added of [Birnes, William]({{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}) “[The UFO Magazine UFO Encyclopedia]({{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }})” ([2004]({{ '/tags/2004' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0743466748/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0743466748/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

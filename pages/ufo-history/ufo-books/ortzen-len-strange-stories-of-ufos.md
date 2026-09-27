@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0340242639"], "primary_isbn": "0340242639", "cover_image": "https://covers.openlibrary.org/b/isbn/0340242639-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Len Ortzen's book “[Strange Stories of UFOs]({{ '/ufo-history/ufo-books/ortzen-len-strange-stories-of-ufos' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0340242639/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0340242639/?&tag=ufot-21)).
+Brief review to be added of Len Ortzen's book “[Strange Stories of UFOs]({{ '/ufo-history/ufo-books/ortzen-len-strange-stories-of-ufos' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0340242639/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0340242639/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 

@@ -69,7 +69,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hancock-graham' | relative_url }}">Hancock, Graham</a> in his “<a href="{{ '/ufo-history/ufo-books/hancock-graham-the-mars-mystery' | relative_url }}">The Mars Mystery</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0609600869/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0609600869/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 126-127 (in Chapter 14) of the Crown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hancock-graham' | relative_url }}">Hancock, Graham</a> in his “<a href="{{ '/ufo-history/ufo-books/hancock-graham-the-mars-mystery' | relative_url }}">The Mars Mystery</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0609600869/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0609600869/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 126-127 (in Chapter 14) of the Crown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -80,7 +80,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Strange, James in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 244-246 (in Chapter 13) of the Syracuse University Press softcover edition.</p>
+<p>Strange, James in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="https://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 244-246 (in Chapter 13) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

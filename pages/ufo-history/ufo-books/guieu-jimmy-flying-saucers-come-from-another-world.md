@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B0000CJCUL", "0815608586"], "cover_image": "/book-covers/0815608586.jpg", "cover_source": "local-cache", "primary_isbn": "0815608586"}
 ---
 
-Brief review to be added of [Jimmy Guieu]({{ '/ufo-history/ufo-personalities/guieu-jimmy' | relative_url }})'s book “[Flying Saucers Come From Another World]({{ '/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world' | relative_url }})” ([1956]({{ '/tags/1956' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0000CJCUL/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0000CJCUL/?&tag=ufot-21))
+Brief review to be added of [Jimmy Guieu]({{ '/ufo-history/ufo-personalities/guieu-jimmy' | relative_url }})'s book “[Flying Saucers Come From Another World]({{ '/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world' | relative_url }})” ([1956]({{ '/tags/1956' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CJCUL/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CJCUL/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -58,7 +58,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 166-167 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
+<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="https://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 166-167 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -69,7 +69,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p>Thirouin, Marc in Jimmy Guieu’s “<a href="{{ '/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world' | relative_url }}">Flying Saucers Come From Another World</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/B0000CJCUL/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CJCUL/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-12 (in the Preface) of the Hutchinson hardback edition.</p>
+<p>Thirouin, Marc in Jimmy Guieu’s “<a href="{{ '/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world' | relative_url }}">Flying Saucers Come From Another World</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="https://www.amazon.com/dp/B0000CJCUL/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0000CJCUL/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-12 (in the Preface) of the Hutchinson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

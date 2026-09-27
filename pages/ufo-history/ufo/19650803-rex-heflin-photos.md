@@ -89,7 +89,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/apro' | relative_url }}">APRO</a> and <a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-167 (in an entry entitled “Heflin photos”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/apro' | relative_url }}">APRO</a> and <a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="https://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-167 (in an entry entitled “Heflin photos”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -111,7 +111,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p>Chambers, Howard in his “<a href="{{ '/ufo-history/ufo-books/chambers-howard-ufos-for-the-millions' | relative_url }}">UFOs for the millions</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/054838844X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/054838844X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 31 (in Chapter 3) of the Bell hardcover edition.</p>
+<p>Chambers, Howard in his “<a href="{{ '/ufo-history/ufo-books/chambers-howard-ufos-for-the-millions' | relative_url }}">UFOs for the millions</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/054838844X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/054838844X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 31 (in Chapter 3) of the Bell hardcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -122,7 +122,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/cohen-daniel' | relative_url }}">Cohen, Daniel</a> in his “The Encyclopedia of Monsters” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="http://www.amazon.com/dp/0880294426/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880294426/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-211 (in Chapter 7) of the Guild Publishing hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cohen-daniel' | relative_url }}">Cohen, Daniel</a> in his “The Encyclopedia of Monsters” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="https://www.amazon.com/dp/0880294426/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0880294426/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-211 (in Chapter 7) of the Guild Publishing hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -145,7 +145,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/craig-roy' | relative_url }}">Craig, Roy</a> in his “<a href="{{ '/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view' | relative_url }}">UFOs – An Insider’s View</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0929398947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159, 162-163 (in Chapter 10) of the UNT softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/craig-roy' | relative_url }}">Craig, Roy</a> in his “<a href="{{ '/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view' | relative_url }}">UFOs – An Insider’s View</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/0929398947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0929398947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159, 162-163 (in Chapter 10) of the UNT softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -156,7 +156,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p>Dione, R L in “<a href="{{ '/ufo-history/ufo-books/dione-r-l-god-drives-a-flying-saucer' | relative_url }}">God Drives a Flying Saucer</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000IEB1QU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IEB1QU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-9 (in Chapter 2) of the Corgi paperback edition.</p>
+<p>Dione, R L in “<a href="{{ '/ufo-history/ufo-books/dione-r-l-god-drives-a-flying-saucer' | relative_url }}">God Drives a Flying Saucer</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="https://www.amazon.com/dp/B000IEB1QU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000IEB1QU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-9 (in Chapter 2) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -167,7 +167,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 378 (in Chapter 7) of the Keyhole softcover edition, at pages 286-287 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 378 (in Chapter 7) of the Keyhole softcover edition, at pages 286-287 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -178,7 +178,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 271 (in Chapter 11), 287-309, 322-324 (in Chapter 12) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="https://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 271 (in Chapter 11), 287-309, 322-324 (in Chapter 12) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>27</p>
@@ -189,7 +189,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-here-and-now' | relative_url }}">Flying Saucers – Here and Now!</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0000CODS3/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CODS3/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 173-174 (in Chapter 9) of the Lyle Stuart hardback edition, at page 102 of the Bantam paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-here-and-now' | relative_url }}">Flying Saucers – Here and Now!</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/B0000CODS3/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0000CODS3/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 173-174 (in Chapter 9) of the Lyle Stuart hardback edition, at page 102 of the Bantam paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -200,7 +200,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }}">Flying Saucers – Serious Business</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 173-175 (in Chapter 13) of the Bantam paperback edition, at pages 179-181 of the Mayflower-Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }}">Flying Saucers – Serious Business</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="https://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 173-175 (in Chapter 13) of the Bantam paperback edition, at pages 179-181 of the Mayflower-Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -211,7 +211,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/fuller-john-g' | relative_url }}">Fuller, John</a> in his “<a href="{{ '/ufo-history/ufo-books/fuller-john-aliens-in-the-skies' | relative_url }}">Aliens in the Skies</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000HLWN6Q/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000HLWN6Q/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in the Introduction) of the Putnam hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fuller-john-g' | relative_url }}">Fuller, John</a> in his “<a href="{{ '/ufo-history/ufo-books/fuller-john-aliens-in-the-skies' | relative_url }}">Aliens in the Skies</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="https://www.amazon.com/dp/B000HLWN6Q/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000HLWN6Q/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in the Introduction) of the Putnam hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -222,7 +222,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gelman, Rita and Seligson, Marcia in their “UFO Encounters” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/B000VASD44/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000VASD44/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-38 (in Chapter 6) of the Scholastic softcover edition.</p>
+<p>Gelman, Rita and Seligson, Marcia in their “UFO Encounters” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="https://www.amazon.com/dp/B000VASD44/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000VASD44/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-38 (in Chapter 6) of the Scholastic softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -233,7 +233,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p>Goldberg, Bruce in his “<a href="{{ '/ufo-history/ufo-books/goldberg-bruce-time-travelers-from-our-future-an-explanation-of-alien-abduction' | relative_url }}">Time Travelers from our Future: An explanation of alien abduction</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/1567183077/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567183077/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-102 (in Chapter 6) of the Llewellyn softcover edition.</p>
+<p>Goldberg, Bruce in his “<a href="{{ '/ufo-history/ufo-books/goldberg-bruce-time-travelers-from-our-future-an-explanation-of-alien-abduction' | relative_url }}">Time Travelers from our Future: An explanation of alien abduction</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="https://www.amazon.com/dp/1567183077/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1567183077/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-102 (in Chapter 6) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -255,7 +255,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gurney, Gene (USAF Lt Col) and Clare Gurney in their “Unidentified Flying Objects” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0200716778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0200716778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80-83 (in Chapter 6) of the Abelard-Schuman hardback edition.</p>
+<p>Gurney, Gene (USAF Lt Col) and Clare Gurney in their “Unidentified Flying Objects” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="https://www.amazon.com/dp/0200716778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0200716778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80-83 (in Chapter 6) of the Abelard-Schuman hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -266,7 +266,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in “<a href="{{ '/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report' | relative_url }}">The UFO Evidence: Volume 2 – A Thirty Year Report</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0810838818/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810838818/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 4 (in the unnumbered chapter entitled “Master Chronology”), 284-286 (in Section 7) of the Scarecrow Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in “<a href="{{ '/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report' | relative_url }}">The UFO Evidence: Volume 2 – A Thirty Year Report</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Richard Hall</a>) (available <a href="https://www.amazon.com/dp/0810838818/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0810838818/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 4 (in the unnumbered chapter entitled “Master Chronology”), 284-286 (in Section 7) of the Scarecrow Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -277,7 +277,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hartmann, William K in “<a href="{{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }}">UFO's: A Scientific Debate</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 13 (in Chapter 2) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
+<p>Hartmann, William K in “<a href="{{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }}">UFO's: A Scientific Debate</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Thornton Page</a>) (available <a href="https://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 13 (in Chapter 2) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -299,7 +299,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-our-haunted-planet' | relative_url }}">Our Haunted Planet</a>” (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/1880090163/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090163/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107-108 (in Chapter 9) of the Fawcett paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-our-haunted-planet' | relative_url }}">Our Haunted Planet</a>” (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="https://www.amazon.com/dp/1880090163/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1880090163/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107-108 (in Chapter 9) of the Fawcett paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -310,7 +310,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> in his “Casebook on the Men in Black” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1881532119/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881532119/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-69 (in Chapter 5) of the I-Net softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> in his “Casebook on the Men in Black” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1881532119/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1881532119/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-69 (in Chapter 5) of the I-Net softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -321,7 +321,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Knight, David C in his “UFOs: A pictorial history from antiquity to the present” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0070351031/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070351031/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 124-127 (in Part 4) of the McGraw Hill hardback edition.</p>
+<p>Knight, David C in his “UFOs: A pictorial history from antiquity to the present” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="https://www.amazon.com/dp/0070351031/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0070351031/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 124-127 (in Part 4) of the McGraw Hill hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -332,7 +332,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/lore-gordon' | relative_url }}">Lore, Gordon</a> and <a href="{{ '/ufo-history/ufo-personalities/deneault-harold' | relative_url }}">Deneault, Harold</a> in their “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 175 (in the Epilogue) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lore-gordon' | relative_url }}">Lore, Gordon</a> and <a href="{{ '/ufo-history/ufo-personalities/deneault-harold' | relative_url }}">Deneault, Harold</a> in their “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 175 (in the Epilogue) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -343,7 +343,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas' | relative_url }}">UFOs over the Americas</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B00005X1IY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X1IY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 194-195 (in Chapter 10) of the Signet paperback edition and the first 3 pages of the photographic section.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas' | relative_url }}">UFOs over the Americas</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/B00005X1IY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B00005X1IY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 194-195 (in Chapter 10) of the Signet paperback edition and the first 3 pages of the photographic section.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -354,7 +354,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and Taves, Ernest in their “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0385035969/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385035969/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-112 (in Chapter 8, “The [Condon Report’s] ‘Unexplained Cases”) of the Doubleday hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and Taves, Ernest in their “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="https://www.amazon.com/dp/0385035969/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0385035969/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-112 (in Chapter 8, “The [Condon Report’s] ‘Unexplained Cases”) of the Doubleday hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -365,7 +365,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/oberg-james-e' | relative_url }}">Oberg, James</a> in his “<a href="{{ '/ufo-history/ufo-books/oberg-james-e-ufos-and-outer-space-mysteries' | relative_url }}">UFOs and Outer Space Mysteries</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="http://www.amazon.com/dp/0898651026/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0898651026/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Chapter 5) of the Donning paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/oberg-james-e' | relative_url }}">Oberg, James</a> in his “<a href="{{ '/ufo-history/ufo-books/oberg-james-e-ufos-and-outer-space-mysteries' | relative_url }}">UFOs and Outer Space Mysteries</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="https://www.amazon.com/dp/0898651026/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0898651026/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Chapter 5) of the Donning paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -376,7 +376,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ortzen, Len in his “<a href="{{ '/ufo-history/ufo-books/ortzen-len-strange-stories-of-ufos' | relative_url }}">Strange Stories of UFOs</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0340242639/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340242639/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-50 (in Chapter 6) of the Coronet paperback edition.</p>
+<p>Ortzen, Len in his “<a href="{{ '/ufo-history/ufo-books/ortzen-len-strange-stories-of-ufos' | relative_url }}">Strange Stories of UFOs</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="https://www.amazon.com/dp/0340242639/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0340242639/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-50 (in Chapter 6) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -387,7 +387,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 84-86 (in Chapter 2), 276 (in Chapter 4) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 84-86 (in Chapter 2), 276 (in Chapter 4) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -398,7 +398,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-spaceships-of-the-visitors' | relative_url }}">Spaceships of the Visitors</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684857391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684857391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-160 (in Part 3) of the Fireside softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-spaceships-of-the-visitors' | relative_url }}">Spaceships of the Visitors</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/0684857391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0684857391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-160 (in Part 3) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -409,7 +409,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-scientific-ufology' | relative_url }}">Scientific Ufology</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0380813831/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380813831/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 114-125, 126-127 (in Chapter 4) of the Avon softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-scientific-ufology' | relative_url }}">Scientific Ufology</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0380813831/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0380813831/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 114-125, 126-127 (in Chapter 4) of the Avon softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -420,7 +420,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-the-october-scenario' | relative_url }}">The October Scenario</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0934523355/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0934523355/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120-122 (in Part 3, unnumbered section entitled “The Modern Era”), 132 (in Part 3, unnumbered section entitled “Solutions and Theories”) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-the-october-scenario' | relative_url }}">The October Scenario</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="https://www.amazon.com/dp/0934523355/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0934523355/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120-122 (in Part 3, unnumbered section entitled “The Modern Era”), 132 (in Part 3, unnumbered section entitled “Solutions and Theories”) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -431,7 +431,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained' | relative_url }}">Encyclopedia of the Unexplained</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 166-167 (in the unnumbered chapter entitled “Strange Beings”) of the Brockhampton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained' | relative_url }}">Encyclopedia of the Unexplained</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 166-167 (in the unnumbered chapter entitled “Strange Beings”) of the Brockhampton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -442,7 +442,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib' | relative_url }}">Investigating the Truth Behind MIB</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-94 (in Chapter 8) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib' | relative_url }}">Investigating the Truth Behind MIB</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-94 (in Chapter 8) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -453,7 +453,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-reality' | relative_url }}">UFO Reality</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/070901080X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/070901080X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185 (in Chapter 13) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-reality' | relative_url }}">UFO Reality</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="https://www.amazon.com/dp/070901080X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/070901080X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185 (in Chapter 13) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -464,7 +464,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/rickard-robert' | relative_url }}">Rickard, Robert</a> and Kelly, Richard in their “Photographs of the Unknown” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0450049914/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0450049914/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in the unnumbered chapter entitled “UFOs”) of the NEL softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rickard-robert' | relative_url }}">Rickard, Robert</a> and Kelly, Richard in their “Photographs of the Unknown” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="https://www.amazon.com/dp/0450049914/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0450049914/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in the unnumbered chapter entitled “UFOs”) of the NEL softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -475,7 +475,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 280-281 (in an entry entitled “Santa Ana, California”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="https://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 280-281 (in an entry entitled “Santa Ana, California”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -486,7 +486,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict' | relative_url }}">The UFO Verdict</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55-57 (in Chapter 6) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict' | relative_url }}">The UFO Verdict</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="https://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55-57 (in Chapter 6) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -497,7 +497,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 91-93 (in Chapter 6) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 91-93 (in Chapter 6) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -508,7 +508,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 142 (in an entry entitled “Heflin, Rex”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 162 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="https://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 142 (in an entry entitled “Heflin, Rex”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 162 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -519,7 +519,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> and Whritenour, Joan in their “<a href="{{ '/ufo-history/ufo-books/steiger-brad-and-whritenour-joan-the-new-ufo-breakthrough' | relative_url }}">The New UFO Breakthrough</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000AV48KC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000AV48KC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 12 (in Chapter 1) of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> and Whritenour, Joan in their “<a href="{{ '/ufo-history/ufo-books/steiger-brad-and-whritenour-joan-the-new-ufo-breakthrough' | relative_url }}">The New UFO Breakthrough</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/B000AV48KC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000AV48KC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 12 (in Chapter 1) of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -530,7 +530,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stemman, Roy in his “Mysteries of the Universe: Great Mysteries” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/1854710559/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854710559/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 217-220 (in Chapter 11) of the Book Club Associates hardback edition.</p>
+<p>Stemman, Roy in his “Mysteries of the Universe: Great Mysteries” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="https://www.amazon.com/dp/1854710559/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1854710559/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 217-220 (in Chapter 11) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -541,7 +541,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Time-Life (Editors of) in “<a href="{{ '/ufo-history/ufo-books/time-life-editors-of-the-ufo-phenomenon-mysteries-of-the-unknown' | relative_url }}">The UFO phenomenon: Mysteries of the Unknown</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0809463245/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809463245/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 88 (in Chapter 3) of the Time-Life Book hardback edition.</p>
+<p>Time-Life (Editors of) in “<a href="{{ '/ufo-history/ufo-books/time-life-editors-of-the-ufo-phenomenon-mysteries-of-the-unknown' | relative_url }}">The UFO phenomenon: Mysteries of the Unknown</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/0809463245/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0809463245/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 88 (in Chapter 3) of the Time-Life Book hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -552,7 +552,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> and <a href="{{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}">Childress, David Hatcher</a> in their “<a href="{{ '/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression' | relative_url }}">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 348-349 (in Chapter 10) of the AUP softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> and <a href="{{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}">Childress, David Hatcher</a> in their “<a href="{{ '/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression' | relative_url }}">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/0932813232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0932813232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 348-349 (in Chapter 10) of the AUP softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -563,7 +563,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Dale in his “<a href="{{ '/ufo-history/ufo-books/white-dale-is-something-up-there' | relative_url }}">Is Something Up There?</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 113-114 (in Chapter 10) of the Scholastic Book Services paperback edition.</p>
+<p>White, Dale in his “<a href="{{ '/ufo-history/ufo-books/white-dale-is-something-up-there' | relative_url }}">Is Something Up There?</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 113-114 (in Chapter 10) of the Scholastic Book Services paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -585,7 +585,7 @@ For discussion of the Rex Heflin photographs see the following:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/young-mort' | relative_url }}">Young, Mort</a> in his “<a href="{{ '/ufo-history/ufo-books/young-mort-ufo-top-secret' | relative_url }}">UFO Top Secret</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/0671102125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671102125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 30-40 (in Chapter 3), 107 (in Chapter 7), 130 (in Chapter 9), 138-146 (in Appendix 2) of the Essandess softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/young-mort' | relative_url }}">Young, Mort</a> in his “<a href="{{ '/ufo-history/ufo-books/young-mort-ufo-top-secret' | relative_url }}">UFO Top Secret</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/0671102125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0671102125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 30-40 (in Chapter 3), 107 (in Chapter 7), 130 (in Chapter 9), 138-146 (in Appendix 2) of the Essandess softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>22</p>

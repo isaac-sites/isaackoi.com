@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B000JQ5DW0"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
 ---
 
-Brief review to be added of “[Cyberbiological studies of the imaginal component in the UFO contact experience]({{ '/ufo-history/ufo-books/stillings-dennis-editor-cyberbiological-studies-of-the-imaginal-component-in-the-ufo-contact-experience' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000JQ5DW0/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000JQ5DW0/?&tag=ufot-21)) edited by [Dennis Stillings]({{ '/ufo-history/ufo-personalities/stillings-dennis' | relative_url }}).
+Brief review to be added of “[Cyberbiological studies of the imaginal component in the UFO contact experience]({{ '/ufo-history/ufo-books/stillings-dennis-editor-cyberbiological-studies-of-the-imaginal-component-in-the-ufo-contact-experience' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000JQ5DW0/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000JQ5DW0/?&tag=ufot-21)) edited by [Dennis Stillings]({{ '/ufo-history/ufo-personalities/stillings-dennis' | relative_url }}).
 
 1. [Web Resources](#web)
 

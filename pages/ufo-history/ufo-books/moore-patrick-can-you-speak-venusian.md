@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0352397764"], "cover_image": "/book-covers/0352397764.jpg", "cover_source": "local-cache", "primary_isbn": "0352397764"}
 ---
 
-Brief review to be added of [Patrick Moore]({{ '/ufo-history/ufo-personalities/moore-patrick' | relative_url }})'s book “[Can you speak Venusian?]({{ '/ufo-history/ufo-books/moore-patrick-can-you-speak-venusian' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0352397764/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0352397764/?&tag=ufot-21))
+Brief review to be added of [Patrick Moore]({{ '/ufo-history/ufo-personalities/moore-patrick' | relative_url }})'s book “[Can you speak Venusian?]({{ '/ufo-history/ufo-books/moore-patrick-can-you-speak-venusian' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0352397764/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0352397764/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -80,7 +80,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }}">Budden, Albert</a> in his “<a href="{{ '/ufo-history/ufo-books/budden-albert-ufos-psychic-close-encounters' | relative_url }}">UFOs : Psychic Close Encounters</a> : The Electromagnetic Indictment” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713724218/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724218/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 201-202 (in Chapter 6) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }}">Budden, Albert</a> in his “<a href="{{ '/ufo-history/ufo-books/budden-albert-ufos-psychic-close-encounters' | relative_url }}">UFOs : Psychic Close Encounters</a> : The Electromagnetic Indictment” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/0713724218/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713724218/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 201-202 (in Chapter 6) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -91,7 +91,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cassirer, Manfred in his “<a href="{{ '/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment' | relative_url }}">Dimensions of Enchantment</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0947533893/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0947533893/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 291 (in Chapter 13) of the Breese Books softcover edition.</p>
+<p>Cassirer, Manfred in his “<a href="{{ '/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment' | relative_url }}">Dimensions of Enchantment</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/0947533893/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0947533893/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 291 (in Chapter 13) of the Breese Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -102,7 +102,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/devereux-paul-earth-lights-revelation' | relative_url }}">Earth Lights Revelation</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0713722096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713722096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 205-207 (in Chapter 8) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/devereux-paul-earth-lights-revelation' | relative_url }}">Earth Lights Revelation</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="https://www.amazon.com/dp/0713722096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713722096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 205-207 (in Chapter 8) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -113,7 +113,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> and Kalman, Moyshe in their “<a href="{{ '/ufo-history/ufo-books/hough-peter-and-kalman-moyshe-the-ufo-files-alien-abductions' | relative_url }}">The UFO Files: Alien Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (previously published under the title “The Truth About Alien Abductions) (available <a href="http://www.amazon.com/dp/0713727977/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727977/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 155 (in Chapter 13) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> and Kalman, Moyshe in their “<a href="{{ '/ufo-history/ufo-books/hough-peter-and-kalman-moyshe-the-ufo-files-alien-abductions' | relative_url }}">The UFO Files: Alien Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (previously published under the title “The Truth About Alien Abductions) (available <a href="https://www.amazon.com/dp/0713727977/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713727977/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 155 (in Chapter 13) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -124,7 +124,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> and Nagaitis, Carl in their “<a href="{{ '/ufo-history/ufo-books/mantle-philip-and-nagaitis-carl-without-consent' | relative_url }}">Without Consent</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/156924720X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156924720X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 135-136 (in the unnumbered chapter entitled “Is it all in the mind?”) of the Ringpull hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> and Nagaitis, Carl in their “<a href="{{ '/ufo-history/ufo-books/mantle-philip-and-nagaitis-carl-without-consent' | relative_url }}">Without Consent</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/156924720X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/156924720X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 135-136 (in the unnumbered chapter entitled “Is it all in the mind?”) of the Ringpull hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -135,7 +135,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Moore, Robert in “<a href="{{ '/ufo-history/ufo-books/barclay-david-and-barclay-theresa-ufos-the-final-answer' | relative_url }}">UFOs: The Final Answer?</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (edited by David Barclay and Therese Marie Barclay) (available <a href="http://www.amazon.com/dp/0713723629/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713723629/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 89 (in Chapter 4) of the Blandford softcover edition.</p>
+<p>Moore, Robert in “<a href="{{ '/ufo-history/ufo-books/barclay-david-and-barclay-theresa-ufos-the-final-answer' | relative_url }}">UFOs: The Final Answer?</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (edited by David Barclay and Therese Marie Barclay) (available <a href="https://www.amazon.com/dp/0713723629/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713723629/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 89 (in Chapter 4) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -146,7 +146,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Phillips, Ken in “<a href="{{ '/ufo-history/ufo-books/barclay-david-and-barclay-theresa-ufos-the-final-answer' | relative_url }}">UFOs: The Final Answer?</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (edited by David Barclay and Therese Marie Barclay) (available <a href="http://www.amazon.com/dp/0713723629/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713723629/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-51, 63 (in Chapter 3) of the Blandford softcover edition.</p>
+<p>Phillips, Ken in “<a href="{{ '/ufo-history/ufo-books/barclay-david-and-barclay-theresa-ufos-the-final-answer' | relative_url }}">UFOs: The Final Answer?</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (edited by David Barclay and Therese Marie Barclay) (available <a href="https://www.amazon.com/dp/0713723629/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713723629/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-51, 63 (in Chapter 3) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -168,7 +168,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-the-uninvited' | relative_url }}">The Uninvited</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-91 (in Chapter 5) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-the-uninvited' | relative_url }}">The Uninvited</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-91 (in Chapter 5) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -179,7 +179,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185 (in Chapter 12) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="https://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185 (in Chapter 12) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -190,7 +190,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 205-206 (in Chapter 10) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="https://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 205-206 (in Chapter 10) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -201,7 +201,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-gifts-of-the-gods' | relative_url }}">Gifts of the Gods?</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0863698212/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0863698212/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-168 (in Chapter 15) of the Virgin paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-gifts-of-the-gods' | relative_url }}">Gifts of the Gods?</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/0863698212/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0863698212/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-168 (in Chapter 15) of the Virgin paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -212,7 +212,7 @@ For discussion of the Anamnesis Project and/or Ken Phillips see the following:
 <p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in an entry entitled “Anamnesis Project”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at pages 17-18 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="https://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in an entry entitled “Anamnesis Project”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at pages 17-18 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1959' | relative_url }}">1959</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/jung-carl-g' | relative_url }}">Jung, Carl G</a> “<a href="{{ '/ufo-history/ufo-books/jung-carl-g-flying-saucers-a-modern-myth-of-things-seen-in-the-sky' | relative_url }}">Flying Saucers, A Modern Myth of Things Seen in the Sky</a>” (<a href="{{ '/tags/1959' | relative_url }}">1959</a>) (available <a href="http://www.amazon.com/dp/B000XN99E2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000XN99E2/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jung-carl-g' | relative_url }}">Jung, Carl G</a> “<a href="{{ '/ufo-history/ufo-books/jung-carl-g-flying-saucers-a-modern-myth-of-things-seen-in-the-sky' | relative_url }}">Flying Saucers, A Modern Myth of Things Seen in the Sky</a>” (<a href="{{ '/tags/1959' | relative_url }}">1959</a>) (available <a href="https://www.amazon.com/dp/B000XN99E2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000XN99E2/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

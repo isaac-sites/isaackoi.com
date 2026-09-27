@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0879757655"], "cover_image": "/book-covers/0879757655.jpg", "cover_source": "local-cache", "primary_isbn": "0879757655"}
 ---
 
-Brief review to be added of “[Mysterious Realms]({{ '/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0879757655/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0879757655/?&tag=ufot-21)) by [Joe Nickell]({{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}) and John F Fischer.
+Brief review to be added of “[Mysterious Realms]({{ '/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0879757655/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0879757655/?&tag=ufot-21)) by [Joe Nickell]({{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}) and John F Fischer.
 
 1. [Web Resources](#web)
 

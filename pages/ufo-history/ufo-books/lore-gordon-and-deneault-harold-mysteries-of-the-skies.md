@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B000IYEI9C"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
 ---
 
-Brief review to be added of “[Mysteries of the Skies]({{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000IYEI9C/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000IYEI9C/?&tag=ufot-21)) by [Gordon Lore]({{ '/ufo-history/ufo-personalities/lore-gordon' | relative_url }}) and [Harold Deneault]({{ '/ufo-history/ufo-personalities/deneault-harold' | relative_url }})
+Brief review to be added of “[Mysteries of the Skies]({{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000IYEI9C/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000IYEI9C/?&tag=ufot-21)) by [Gordon Lore]({{ '/ufo-history/ufo-personalities/lore-gordon' | relative_url }}) and [Harold Deneault]({{ '/ufo-history/ufo-personalities/deneault-harold' | relative_url }})
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hartranft, J B in Gordon Lore and Harold Deneault’s “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages vii-viii (in the Introduction) of the Prentice-Hall hardback edition.</p>
+<p>Hartranft, J B in Gordon Lore and Harold Deneault’s “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages vii-viii (in the Introduction) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in Gordon Lore and Harold Deneault’s “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xi (in the Preface) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in Gordon Lore and Harold Deneault’s “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xi (in the Preface) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

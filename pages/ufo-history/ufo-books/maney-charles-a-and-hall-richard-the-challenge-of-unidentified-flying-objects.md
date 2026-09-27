@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B00117X9ZO", "0815970005"], "cover_image": "/book-covers/0815970005.jpg", "cover_source": "local-cache", "primary_isbn": "0815970005"}
 ---
 
-Brief review to be added of "[The Challenge of Unidentified Flying Objects]({{ '/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects' | relative_url }})” ([1961]({{ '/tags/1961' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B00117X9ZO/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B00117X9ZO/?&tag=ufot-21)) by [Charles A Maney]({{ '/ufo-history/ufo-personalities/maney-charles-a' | relative_url }}) and [Richard Hall]({{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}).
+Brief review to be added of "[The Challenge of Unidentified Flying Objects]({{ '/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects' | relative_url }})” ([1961]({{ '/tags/1961' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B00117X9ZO/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B00117X9ZO/?&tag=ufot-21)) by [Charles A Maney]({{ '/ufo-history/ufo-personalities/maney-charles-a' | relative_url }}) and [Richard Hall]({{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 226 (in the Appendix entitled “The Literature of Ufology”), 236 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="https://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 226 (in the Appendix entitled “The Literature of Ufology”), 236 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

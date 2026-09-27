@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0201569493"], "cover_image": "/book-covers/0201569493.jpg", "cover_source": "local-cache", "primary_isbn": "0201569493"}
 ---
 
-Brief review to be added of [Goldsmith, Donald]({{ '/ufo-history/ufo-personalities/goldsmith-donald' | relative_url }}) and Owen, Tobias “[The Search for Life in the Universe]({{ '/ufo-history/ufo-books/goldsmith-donald-and-owen-tobias-the-search-for-life-in-the-universe' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0201569493/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0201569493/?&tag=ufot-21))
+Brief review to be added of [Goldsmith, Donald]({{ '/ufo-history/ufo-personalities/goldsmith-donald' | relative_url }}) and Owen, Tobias “[The Search for Life in the Universe]({{ '/ufo-history/ufo-books/goldsmith-donald-and-owen-tobias-the-search-for-life-in-the-universe' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0201569493/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0201569493/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

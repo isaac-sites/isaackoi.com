@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/olsen-thomas-m' | relative_url }}">Olsen, Thomas M</a> “<a href="{{ '/ufo-history/ufo-books/olsen-thomas-m-the-reference-for-outstanding-ufo-sighting-reports' | relative_url }}">The Reference for Outstanding UFO Sighting Reports</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000VK61WA/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000VK61WA/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/olsen-thomas-m' | relative_url }}">Olsen, Thomas M</a> “<a href="{{ '/ufo-history/ufo-books/olsen-thomas-m-the-reference-for-outstanding-ufo-sighting-reports' | relative_url }}">The Reference for Outstanding UFO Sighting Reports</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="https://www.amazon.com/dp/B000VK61WA/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000VK61WA/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -89,7 +89,7 @@ For discussion of Olsen see the following:
 <p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 254-255 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/olsen-thomas-m' | relative_url }}">Olsen, Thomas M</a>[arshall]”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="https://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 254-255 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/olsen-thomas-m' | relative_url }}">Olsen, Thomas M</a>[arshall]”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

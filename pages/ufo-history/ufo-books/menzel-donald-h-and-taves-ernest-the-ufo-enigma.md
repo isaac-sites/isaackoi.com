@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0385035969", "0399124217"], "cover_image": "/book-covers/0385035969.jpg", "cover_source": "local-cache", "primary_isbn": "0385035969"}
 ---
 
-Brief review to be added of “[The UFO Enigma]({{ '/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0385035969/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0385035969/?&tag=ufot-21)) by [Donald H Menzel]({{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}) and Ernest Taves.
+Brief review to be added of “[The UFO Enigma]({{ '/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0385035969/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0385035969/?&tag=ufot-21)) by [Donald H Menzel]({{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}) and Ernest Taves.
 
 1. [Web Resources](#web)
 
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/magor-john' | relative_url }}">Magor, John</a> Ferguson”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="https://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/magor-john' | relative_url }}">Magor, John</a> Ferguson”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0812885236"], "cover_image": "/book-covers/0812885236.jpg", "cover_source": "local-cache", "primary_isbn": "0812885236"}
 ---
 
-Brief review to be added of John W Macvey's book “[Interstellar Travel]({{ '/ufo-history/ufo-books/macvey-john-w-interstellar-travel' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0812885236/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0812885236/?&tag=ufot-21))
+Brief review to be added of John W Macvey's book “[Interstellar Travel]({{ '/ufo-history/ufo-books/macvey-john-w-interstellar-travel' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0812885236/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0812885236/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

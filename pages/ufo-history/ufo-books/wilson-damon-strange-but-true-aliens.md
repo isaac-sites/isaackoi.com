@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0806905719"], "cover_image": "/book-covers/0806905719.jpg", "cover_source": "local-cache", "primary_isbn": "0806905719"}
 ---
 
-Brief review to be added of Damon Wilson's book “[Strange But True: Aliens]({{ '/ufo-history/ufo-books/wilson-damon-strange-but-true-aliens' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0806905719/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0806905719/?&tag=ufot-21))
+Brief review to be added of Damon Wilson's book “[Strange But True: Aliens]({{ '/ufo-history/ufo-books/wilson-damon-strange-but-true-aliens' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0806905719/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0806905719/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

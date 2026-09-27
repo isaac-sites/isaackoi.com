@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1854550373"], "primary_isbn": "1854550373", "cover_image": "https://covers.openlibrary.org/b/isbn/1854550373-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Robert Price's book “[UFOs Over Hampshire and the Isle of Wight]({{ '/ufo-history/ufo-books/price-robert-ufos-over-hampshire-and-the-isle-of-wight' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1854550373/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1854550373/?&tag=ufot-21))
+Brief review to be added of Robert Price's book “[UFOs Over Hampshire and the Isle of Wight]({{ '/ufo-history/ufo-books/price-robert-ufos-over-hampshire-and-the-isle-of-wight' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1854550373/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1854550373/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/fuller-paul' | relative_url }}">Fuller, Paul</a> in Robert Price’s “<a href="{{ '/ufo-history/ufo-books/price-robert-ufos-over-hampshire-and-the-isle-of-wight' | relative_url }}">UFOs Over Hampshire and the Isle of Wight</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1854550373/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854550373/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 7-8 (in the Foreword) of the Halsgrove softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fuller-paul' | relative_url }}">Fuller, Paul</a> in Robert Price’s “<a href="{{ '/ufo-history/ufo-books/price-robert-ufos-over-hampshire-and-the-isle-of-wight' | relative_url }}">UFOs Over Hampshire and the Isle of Wight</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/1854550373/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1854550373/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 7-8 (in the Foreword) of the Halsgrove softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

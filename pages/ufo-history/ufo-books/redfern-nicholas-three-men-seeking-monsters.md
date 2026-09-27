@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0743482549"], "cover_image": "/book-covers/0743482549.jpg", "cover_source": "local-cache", "primary_isbn": "0743482549"}
 ---
 
-Brief review to be added of [Nicholas Redfern]({{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }})'s book “[Three Men Seeking Monsters]({{ '/ufo-history/ufo-books/redfern-nicholas-three-men-seeking-monsters' | relative_url }})” ([2004]({{ '/tags/2004' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0743482549/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743482549/?&tag=ufot-21))
+Brief review to be added of [Nicholas Redfern]({{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }})'s book “[Three Men Seeking Monsters]({{ '/ufo-history/ufo-books/redfern-nicholas-three-men-seeking-monsters' | relative_url }})” ([2004]({{ '/tags/2004' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0743482549/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0743482549/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

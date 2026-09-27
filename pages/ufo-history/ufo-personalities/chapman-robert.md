@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/chapman-robert' | relative_url }}">Chapman, Robert</a> “<a href="{{ '/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain' | relative_url }}">UFO : Flying Saucers Over Britain?</a>” (also published as “Unidentified Flying Objects”) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000C0L3W2/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000C0L3W2/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chapman-robert' | relative_url }}">Chapman, Robert</a> “<a href="{{ '/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain' | relative_url }}">UFO : Flying Saucers Over Britain?</a>” (also published as “Unidentified Flying Objects”) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="https://www.amazon.com/dp/B000C0L3W2/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000C0L3W2/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

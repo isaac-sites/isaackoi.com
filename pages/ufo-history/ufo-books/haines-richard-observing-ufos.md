@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0882295403", "0926524429", "0810812282", "0631135634", "1570714274"], "cover_image": "/book-covers/0882295403.jpg", "cover_source": "local-cache", "primary_isbn": "0882295403"}
 ---
 
-Brief review to be added of [Richard Haines]({{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }})'s book “[Observing UFOs]({{ '/ufo-history/ufo-books/haines-richard-observing-ufos' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0882295403/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0882295403/?&tag=ufot-21))
+Brief review to be added of [Richard Haines]({{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }})'s book “[Observing UFOs]({{ '/ufo-history/ufo-books/haines-richard-observing-ufos' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0882295403/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0882295403/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 81 (in Chapter 5) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="https://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 81 (in Chapter 5) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }}">Haines, Richard</a> F in “<a href="{{ '/ufo-history/ufo-books/haines-richard-ufo-phenomena-and-the-behavioral-scientist' | relative_url }}">UFO Phenomena and the Behavioral Scientist</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (edited by Richard F Haines) (available <a href="http://www.amazon.com/dp/0810812282/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810812282/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xiv (in the Prologue) of the Scarebrow Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }}">Haines, Richard</a> F in “<a href="{{ '/ufo-history/ufo-books/haines-richard-ufo-phenomena-and-the-behavioral-scientist' | relative_url }}">UFO Phenomena and the Behavioral Scientist</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (edited by Richard F Haines) (available <a href="https://www.amazon.com/dp/0810812282/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0810812282/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xiv (in the Prologue) of the Scarebrow Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,7 +93,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 130 (in Chapter 10) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="https://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 130 (in Chapter 10) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,7 +104,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/rodeghier-mark' | relative_url }}">Rodeghier, Mark</a> in <a href="{{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }}">Richard Haines</a>’s “<a href="{{ '/ufo-history/ufo-books/haines-richard-ce-5-close-encounters-of-the-fifth-kind' | relative_url }}">CE-5 : Close Encounters of the Fifth Kind</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/1570714274/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1570714274/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 (in the Foreword to Part 1) of the Sourcebooks softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rodeghier-mark' | relative_url }}">Rodeghier, Mark</a> in <a href="{{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }}">Richard Haines</a>’s “<a href="{{ '/ufo-history/ufo-books/haines-richard-ce-5-close-encounters-of-the-fifth-kind' | relative_url }}">CE-5 : Close Encounters of the Fifth Kind</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/1570714274/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1570714274/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 (in the Foreword to Part 1) of the Sourcebooks softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

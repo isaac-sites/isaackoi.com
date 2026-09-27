@@ -69,7 +69,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Smith, Angela Thompson in her “Diary Of An Abduction” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1571742018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571742018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 272 (in Chapter 15) of the Hampton Roads softcover edition.</p>
+<p>Smith, Angela Thompson in her “Diary Of An Abduction” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/1571742018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1571742018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 272 (in Chapter 15) of the Hampton Roads softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

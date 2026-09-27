@@ -44,7 +44,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Lengthy extract of text presented by [Peebles, Curtis]({{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}) in his “[Watch the Skies!]({{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21)) at pages 76-77 (in Chapter 6, “The Robertson Panel” – in part of the section entitled “CIA Involvement”) of the Smithsonian hardback edition, pages 91-92 of the Berkley paperback edition.
+Lengthy extract of text presented by [Peebles, Curtis]({{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}) in his “[Watch the Skies!]({{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21)) at pages 76-77 (in Chapter 6, “The Robertson Panel” – in part of the section entitled “CIA Involvement”) of the Smithsonian hardback edition, pages 91-92 of the Berkley paperback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -73,7 +73,7 @@ For discussion of this CIA briefing paper see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files' | relative_url }}">UFO: The Government Files</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 38 (in Chapter 2) of the Parragon hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files' | relative_url }}">UFO: The Government Files</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 38 (in Chapter 2) of the Parragon hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -84,7 +84,7 @@ For discussion of this CIA briefing paper see the following:
 <p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in “<a href="{{ '/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion' | relative_url }}">The UFO Invasion</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}">Kendrick Frazier</a>, Barry Karr and <a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Joe Nickell</a>) (available <a href="http://www.amazon.com/dp/1573921319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 70 (in Chapter 6) of the Prometheus hardback edition. The relevant chapter is a reprint of an article in the <em>Skeptical Inquirer </em>10 (Spring <a href="{{ '/tags/1986' | relative_url }}">1986</a>).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in “<a href="{{ '/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion' | relative_url }}">The UFO Invasion</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}">Kendrick Frazier</a>, Barry Karr and <a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Joe Nickell</a>) (available <a href="https://www.amazon.com/dp/1573921319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1573921319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 70 (in Chapter 6) of the Prometheus hardback edition. The relevant chapter is a reprint of an article in the <em>Skeptical Inquirer </em>10 (Spring <a href="{{ '/tags/1986' | relative_url }}">1986</a>).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -95,7 +95,7 @@ For discussion of this CIA briefing paper see the following:
 <p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived' | relative_url }}">UFOs – The Public Deceived</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18-20 (in Chapter 2) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived' | relative_url }}">UFOs – The Public Deceived</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="https://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18-20 (in Chapter 2) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -106,7 +106,7 @@ For discussion of this CIA briefing paper see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in his “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup' | relative_url }}">The Real Roswell Crashed-Saucer Coverup</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1573921645/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921645/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 52-53 (in Chapter 6), 205 (in Chapter 26) of the Prometheus Books hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in his “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup' | relative_url }}">The Real Roswell Crashed-Saucer Coverup</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1573921645/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1573921645/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 52-53 (in Chapter 6), 205 (in Chapter 26) of the Prometheus Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -117,7 +117,7 @@ For discussion of this CIA briefing paper see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> (with lengthy extract) in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 76-77 of the Smithsonian hardback edition, pages 91-92 of the Berkley paperback edition (Chapter 6, “The Robertson Panel” – in part of the section entitled “CIA Involvement”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> (with lengthy extract) in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 76-77 of the Smithsonian hardback edition, pages 91-92 of the Berkley paperback edition (Chapter 6, “The Robertson Panel” – in part of the section entitled “CIA Involvement”).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -128,7 +128,7 @@ For discussion of this CIA briefing paper see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl T</a> in his “<a href="{{ '/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe' | relative_url }}">Roswell: Inconvenient Facts and the Will to Believe</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in Chapter 15) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl T</a> in his “<a href="{{ '/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe' | relative_url }}">Roswell: Inconvenient Facts and the Will to Believe</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in Chapter 15) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/wilson-don' | relative_url }}">Wilson, Don</a> “<a href="{{ '/ufo-history/ufo-books/wilson-don-our-mysterious-spaceship-moon' | relative_url }}">Our Mysterious Spaceship Moon</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0722192061/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722192061/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-don' | relative_url }}">Wilson, Don</a> “<a href="{{ '/ufo-history/ufo-books/wilson-don-our-mysterious-spaceship-moon' | relative_url }}">Our Mysterious Spaceship Moon</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="https://www.amazon.com/dp/0722192061/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0722192061/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0816511195", "0446525650"], "cover_image": "/book-covers/0446525650.jpg", "cover_source": "local-cache", "primary_isbn": "0816511195"}
 ---
 
-Brief review to be added of David W Swift's book “[SETI Pioneers: Scientists Talk About Their Search for Extraterrestrial Intelligence]({{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0816511195/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0816511195/?&tag=ufot-21))
+Brief review to be added of David W Swift's book “[SETI Pioneers: Scientists Talk About Their Search for Extraterrestrial Intelligence]({{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0816511195/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0816511195/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/sturrock-peter-a' | relative_url }}">Sturrock, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0446525650/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446525650/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159-161 (in Chapter 24) of the Warner Aspect hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sturrock-peter-a' | relative_url }}">Sturrock, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0446525650/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0446525650/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159-161 (in Chapter 24) of the Warner Aspect hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

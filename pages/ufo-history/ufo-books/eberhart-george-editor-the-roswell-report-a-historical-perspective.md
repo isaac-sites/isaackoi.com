@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["092934359X"], "primary_isbn": "092934359X", "cover_image": "https://covers.openlibrary.org/b/isbn/092934359X-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of "[The Roswell Report: A Historical Perspective]({{ '/ufo-history/ufo-books/eberhart-george-editor-the-roswell-report-a-historical-perspective' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/092934359X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/092934359X/?&tag=ufot-21)) edited by [George Eberhart]({{ '/ufo-history/ufo-personalities/eberhart-george' | relative_url }}).
+Brief review to be added of "[The Roswell Report: A Historical Perspective]({{ '/ufo-history/ufo-books/eberhart-george-editor-the-roswell-report-a-historical-perspective' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/092934359X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/092934359X/?&tag=ufot-21)) edited by [George Eberhart]({{ '/ufo-history/ufo-personalities/eberhart-george' | relative_url }}).
 
 1. [Web Resources](#web)
 

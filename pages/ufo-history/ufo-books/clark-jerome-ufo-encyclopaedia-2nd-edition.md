@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0780800974"], "cover_image": "/book-covers/0780800974.jpg", "cover_source": "local-cache", "primary_isbn": "0780800974"}
 ---
 
-Brief review to be added of [Jerome Clark]({{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }})'s book “[UFO Encyclopaedia: 2nd Edition]({{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0780800974/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0780800974/?&tag=ufot-21))
+Brief review to be added of [Jerome Clark]({{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }})'s book “[UFO Encyclopaedia: 2nd Edition]({{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0780800974/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0780800974/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

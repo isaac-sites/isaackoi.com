@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B00005X1IY", "0963916122"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0963916122"}
 ---
 
-Brief review to be added of [Coral Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }})'s book “[UFOs over the Americas]({{ '/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B00005X1IY/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B00005X1IY/?&tag=ufot-21))
+Brief review to be added of [Coral Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }})'s book “[UFOs over the Americas]({{ '/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B00005X1IY/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B00005X1IY/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125-126 (in Section 2) with a one sentence summary at page 371 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125-126 (in Section 2) with a one sentence summary at page 371 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

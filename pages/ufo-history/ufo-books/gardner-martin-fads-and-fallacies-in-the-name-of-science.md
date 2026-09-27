@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0486203948", "0471395366", "0520224329", "0451204247", "1841196134", "0963916122", "0813322006", "0345409469", "0805077081", "0195143264"], "cover_image": "/book-covers/0486203948.jpg", "cover_source": "local-cache", "primary_isbn": "0486203948"}
 ---
 
-Brief review to be added of [Martin Gardner]({{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }})'s book “[Fads and Fallacies in the Name of Science]({{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }})” ([1957]({{ '/tags/1957' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0486203948/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0486203948/?&tag=ufot-21)). (Enlarged Revision of “In the Name of Science” ([1952]({{ '/tags/1952' | relative_url }}).0000))
+Brief review to be added of [Martin Gardner]({{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }})'s book “[Fads and Fallacies in the Name of Science]({{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }})” ([1957]({{ '/tags/1957' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0486203948/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0486203948/?&tag=ufot-21)). (Enlarged Revision of “In the Name of Science” ([1952]({{ '/tags/1952' | relative_url }}).0000))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion of “[Fads and Fallacies in the Name of Science]({{ '/ufo-histor
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 65 (in Chapter 3) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 65 (in Chapter 3) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion of “[Fads and Fallacies in the Name of Science]({{ '/ufo-histor
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }}">Denzler, Brenda</a> in her “<a href="{{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }}">The Lure of the Edge</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 77 (in Chapter 3) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }}">Denzler, Brenda</a> in her “<a href="{{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }}">The Lure of the Edge</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 77 (in Chapter 3) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,7 +82,7 @@ For discussion of “[Fads and Fallacies in the Name of Science]({{ '/ufo-histor
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 185-186 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>”) of the New American Library softcover edition, at pages 182-183 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="https://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 185-186 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>”) of the New American Library softcover edition, at pages 182-183 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -93,7 +93,7 @@ For discussion of “[Fads and Fallacies in the Name of Science]({{ '/ufo-histor
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 223 (in an entry entitled“<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="https://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 223 (in an entry entitled“<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,7 +104,7 @@ For discussion of “[Fads and Fallacies in the Name of Science]({{ '/ufo-histor
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 293 (in Section 4) with a one sentence summary at page 376 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 293 (in Section 4) with a one sentence summary at page 376 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -115,7 +115,7 @@ For discussion of “[Fads and Fallacies in the Name of Science]({{ '/ufo-histor
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Friedlander, Michael W in his “<a href="{{ '/ufo-history/ufo-books/friedlander-michael-w-at-the-fringes-of-science' | relative_url }}">At the Fringes of Science</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0813322006/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0813322006/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 89 (in Chapter 8) of the Westview hardback edition.</p>
+<p>Friedlander, Michael W in his “<a href="{{ '/ufo-history/ufo-books/friedlander-michael-w-at-the-fringes-of-science' | relative_url }}">At the Fringes of Science</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/0813322006/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0813322006/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 89 (in Chapter 8) of the Westview hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -126,7 +126,7 @@ For discussion of “[Fads and Fallacies in the Name of Science]({{ '/ufo-histor
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-the-demon-haunted-world' | relative_url }}">The Demon Haunted World</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0345409469/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345409469/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-68 (in Chapter 4) of the Headline softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-the-demon-haunted-world' | relative_url }}">The Demon Haunted World</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/0345409469/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0345409469/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-68 (in Chapter 4) of the Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -137,7 +137,7 @@ For discussion of “[Fads and Fallacies in the Name of Science]({{ '/ufo-histor
 <p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> in his “Science Friction : Where the known meets the unknown” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0805077081/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805077081/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59, 60-61 (in Chapter 4) of the Times Books hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> in his “Science Friction : Where the known meets the unknown” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="https://www.amazon.com/dp/0805077081/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0805077081/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59, 60-61 (in Chapter 4) of the Times Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -148,7 +148,7 @@ For discussion of “[Fads and Fallacies in the Name of Science]({{ '/ufo-histor
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/shermer-michael-the-borderlands-of-science' | relative_url }}">The Borderlands of Science</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0195143264/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195143264/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50-51, 54-56 (in Chapter 2) of the Oxford University Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/shermer-michael-the-borderlands-of-science' | relative_url }}">The Borderlands of Science</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/0195143264/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0195143264/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50-51, 54-56 (in Chapter 2) of the Oxford University Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

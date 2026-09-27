@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/bernard-raymond' | relative_url }}">Bernard, Raymond</a> (pseudonym for Siegmeister, Walter) “<a href="{{ '/ufo-history/ufo-books/bernard-raymond-the-hollow-earth' | relative_url }}">The Hollow Earth</a>” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (available <a href="http://www.amazon.com/dp/0787300977/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0787300977/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bernard-raymond' | relative_url }}">Bernard, Raymond</a> (pseudonym for Siegmeister, Walter) “<a href="{{ '/ufo-history/ufo-books/bernard-raymond-the-hollow-earth' | relative_url }}">The Hollow Earth</a>” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (available <a href="https://www.amazon.com/dp/0787300977/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0787300977/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>

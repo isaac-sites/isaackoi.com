@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1883319617", "0871318563"], "cover_image": "/book-covers/1883319617.jpg", "cover_source": "local-cache", "primary_isbn": "1883319617"}
 ---
 
-Brief review to be added of [Bruce Rux]({{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }})'s book “[Hollywood Vs. the Aliens]({{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1883319617/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1883319617/?&tag=ufot-21))
+Brief review to be added of [Bruce Rux]({{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }})'s book “[Hollywood Vs. the Aliens]({{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1883319617/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1883319617/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-192 (in Chapter 6), 196 (in Chapter 7) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-192 (in Chapter 6), 196 (in Chapter 7) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

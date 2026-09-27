@@ -63,7 +63,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in the entry entitled “Bernal, J(ohn) D(esmond) (<a href="{{ '/tags/1901' | relative_url }}">1901</a>-<a href="{{ '/tags/1971' | relative_url }}">1971</a>)”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in the entry entitled “Bernal, J(ohn) D(esmond) (<a href="{{ '/tags/1901' | relative_url }}">1901</a>-<a href="{{ '/tags/1971' | relative_url }}">1971</a>)”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -86,7 +86,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gratzer, Walter in his “<a href="{{ '/ufo-history/ufo-books/gratzer-walter-the-undergrowth-of-science' | relative_url }}">The Undergrowth of Science: Delusion, Self-deception and human frailty</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0198507070/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0198507070/ref=nosim?tag=ufot-21">on Amazon UK</a>)at pages 87-88 (in Chapter 4) of the Oxford University Press softcover edition.</p>
+<p>Gratzer, Walter in his “<a href="{{ '/ufo-history/ufo-books/gratzer-walter-the-undergrowth-of-science' | relative_url }}">The Undergrowth of Science: Delusion, Self-deception and human frailty</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/0198507070/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0198507070/ref=nosim?tag=ufot-21">on Amazon UK</a>)at pages 87-88 (in Chapter 4) of the Oxford University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

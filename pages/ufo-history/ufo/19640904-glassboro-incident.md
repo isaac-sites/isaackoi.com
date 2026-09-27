@@ -69,7 +69,7 @@ For discussion of the Glassboro incident see the following:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/lore-gordon' | relative_url }}">Lore, Gordon</a> and <a href="{{ '/ufo-history/ufo-personalities/deneault-harold' | relative_url }}">Deneault, Harold</a> in their “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 170 (in the Epilogue) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lore-gordon' | relative_url }}">Lore, Gordon</a> and <a href="{{ '/ufo-history/ufo-personalities/deneault-harold' | relative_url }}">Deneault, Harold</a> in their “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 170 (in the Epilogue) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -80,7 +80,7 @@ For discussion of the Glassboro incident see the following:
 <p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Machlin, Milt in his “<a href="{{ '/ufo-history/ufo-books/machlin-milt-the-total-ufo-story' | relative_url }}">The Total UFO Story</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 221-224 (in Chapter 11) of the Dale paperback edition.</p>
+<p>Machlin, Milt in his “<a href="{{ '/ufo-history/ufo-books/machlin-milt-the-total-ufo-story' | relative_url }}">The Total UFO Story</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="https://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 221-224 (in Chapter 11) of the Dale paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -91,7 +91,7 @@ For discussion of the Glassboro incident see the following:
 <p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/phillips-ted' | relative_url }}">Phillips, Ted</a> in his “<a href="{{ '/ufo-history/ufo-books/phillips-ted-physical-traces-associated-with-ufo-sightings' | relative_url }}">Physical Traces associated with UFO Sightings</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/B0006CM7F8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CM7F8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Part C) of the <a href="{{ '/ufo-history/ufo-personalities/cufos' | relative_url }}">CUFOS</a> paperbound edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/phillips-ted' | relative_url }}">Phillips, Ted</a> in his “<a href="{{ '/ufo-history/ufo-books/phillips-ted-physical-traces-associated-with-ufo-sightings' | relative_url }}">Physical Traces associated with UFO Sightings</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="https://www.amazon.com/dp/B0006CM7F8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0006CM7F8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Part C) of the <a href="{{ '/ufo-history/ufo-personalities/cufos' | relative_url }}">CUFOS</a> paperbound edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -102,7 +102,7 @@ For discussion of the Glassboro incident see the following:
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook' | relative_url }}">The UFO Casebook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0446357154/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446357154/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-129 (in the entry entitled “September 4, <a href="{{ '/tags/1964' | relative_url }}">1964</a>: Glassboro, New Jersey”) of the Warner Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook' | relative_url }}">The UFO Casebook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="https://www.amazon.com/dp/0446357154/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0446357154/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-129 (in the entry entitled “September 4, <a href="{{ '/tags/1964' | relative_url }}">1964</a>: Glassboro, New Jersey”) of the Warner Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -113,7 +113,7 @@ For discussion of the Glassboro incident see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld' | relative_url }}">Architects of the Underworld</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-50 (in Chapter 2) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld' | relative_url }}">Architects of the Underworld</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-50 (in Chapter 2) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -124,7 +124,7 @@ For discussion of the Glassboro incident see the following:
 <p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a> in his “<a href="{{ '/ufo-history/ufo-books/schwarz-berthold-e-ufo-dynamics-psychiatric-and-psychic-aspects-of-the-ufo-syndrome' | relative_url }}">UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0935834648/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935834648/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 351-352 (in Chapter 18) of the <a href="{{ '/tags/1988' | relative_url }}">1988</a> revised Rainbow Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a> in his “<a href="{{ '/ufo-history/ufo-books/schwarz-berthold-e-ufo-dynamics-psychiatric-and-psychic-aspects-of-the-ufo-syndrome' | relative_url }}">UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="https://www.amazon.com/dp/0935834648/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0935834648/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 351-352 (in Chapter 18) of the <a href="{{ '/tags/1988' | relative_url }}">1988</a> revised Rainbow Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

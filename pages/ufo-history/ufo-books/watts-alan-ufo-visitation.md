@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0713726008"], "primary_isbn": "0713726008", "cover_image": "https://covers.openlibrary.org/b/isbn/0713726008-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[UFO Visitation]({{ '/ufo-history/ufo-books/watts-alan-ufo-visitation' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0713726008/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0713726008/?&tag=ufot-21)) by [Alan Watts]({{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}).
+Brief review to be added of “[UFO Visitation]({{ '/ufo-history/ufo-books/watts-alan-ufo-visitation' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0713726008/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0713726008/?&tag=ufot-21)) by [Alan Watts]({{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}).
 
 1. [Web Resources](#web)
 

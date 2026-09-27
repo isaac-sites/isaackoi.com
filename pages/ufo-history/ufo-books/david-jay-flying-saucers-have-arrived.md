@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B000EH5018"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
 ---
 
-Brief review to be added of “[Flying Saucers Have Arrived!]({{ '/ufo-history/ufo-books/david-jay-flying-saucers-have-arrived' | relative_url }})” ([1970]({{ '/tags/1970' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000EH5018/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EH5018/?&tag=ufot-21)) edited by [Jay David]({{ '/ufo-history/ufo-personalities/david-jay' | relative_url }})
+Brief review to be added of “[Flying Saucers Have Arrived!]({{ '/ufo-history/ufo-books/david-jay-flying-saucers-have-arrived' | relative_url }})” ([1970]({{ '/tags/1970' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000EH5018/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000EH5018/?&tag=ufot-21)) edited by [Jay David]({{ '/ufo-history/ufo-personalities/david-jay' | relative_url }})
 
 1. [Web Resources](#web)
 

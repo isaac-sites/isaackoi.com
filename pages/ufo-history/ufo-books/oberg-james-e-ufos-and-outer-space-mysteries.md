@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0898651026", "051757165X", "0631135634", "0850303621"], "cover_image": "/book-covers/0898651026.jpg", "cover_source": "local-cache", "primary_isbn": "0898651026"}
 ---
 
-Brief review to be added of “[UFOs and Outer Space Mysteries]({{ '/ufo-history/ufo-books/oberg-james-e-ufos-and-outer-space-mysteries' | relative_url }})” ([1982]({{ '/tags/1982' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0898651026/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0898651026/?&tag=ufot-21)) by [James E Oberg]({{ '/ufo-history/ufo-personalities/oberg-james-e' | relative_url }}).
+Brief review to be added of “[UFOs and Outer Space Mysteries]({{ '/ufo-history/ufo-books/oberg-james-e-ufos-and-outer-space-mysteries' | relative_url }})” ([1982]({{ '/tags/1982' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0898651026/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0898651026/?&tag=ufot-21)) by [James E Oberg]({{ '/ufo-history/ufo-personalities/oberg-james-e' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Schultz, Ted in “<a href="{{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }}">The Fringes of Reason</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (edited by Ted Schultz) (available <a href="http://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 160 of the Harmony Books softcover edition.</p>
+<p>Schultz, Ted in “<a href="{{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }}">The Fringes of Reason</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (edited by Ted Schultz) (available <a href="https://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 160 of the Harmony Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 203-204 (in the Bibliography) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="https://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 203-204 (in the Bibliography) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -82,7 +82,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/rimmer-john' | relative_url }}">Rimmer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/rimmer-john-the-evidence-for-alien-abductions' | relative_url }}">The Evidence for Alien Abductions</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0850303621/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303621/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-119 (in Chapter 5) of the Aquarian softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rimmer-john' | relative_url }}">Rimmer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/rimmer-john-the-evidence-for-alien-abductions' | relative_url }}">The Evidence for Alien Abductions</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="https://www.amazon.com/dp/0850303621/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0850303621/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-119 (in Chapter 5) of the Aquarian softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

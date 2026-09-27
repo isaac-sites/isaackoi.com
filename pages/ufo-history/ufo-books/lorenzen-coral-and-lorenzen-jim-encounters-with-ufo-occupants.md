@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0425030938"], "primary_isbn": "0425030938", "cover_image": "https://covers.openlibrary.org/b/isbn/0425030938-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[Encounters with UFO Occupants]({{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0425030938/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0425030938/?&tag=ufot-21)) by [Coral Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}) and [Jim Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}).
+Brief review to be added of “[Encounters with UFO Occupants]({{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0425030938/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0425030938/?&tag=ufot-21)) by [Coral Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}) and [Jim Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}).
 
 1. [Web Resources](#web)
 

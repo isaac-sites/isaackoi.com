@@ -46,11 +46,11 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 
 Image of letter appears in Leon Davidson’s “[Flying Saucers: An Analysis of the Air Force Project Blue Book Special Report No. 14]({{ '/ufo-history/ufo-books/davidson-leon-flying-saucers-an-analysis-of-the-air-force-project-blue-book-special-report-no-14' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }}).0700) at pages numbered X1-X4 (handwritten in the top outer corner) of the Ramsey-Wallace paperbound 3<sup>rd</sup> Edition.
 
-Image of letter presented by [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}) in his “[Beyond Top Secret]({{ '/ufo-history/ufo-books/good-timothy-beyond-top-secret' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21)) at pages 344-347 (in Chapter 15), of the Sidgwick & Jackson hardback edition (with the same page numbering in the Pan paperback edition).
+Image of letter presented by [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}) in his “[Beyond Top Secret]({{ '/ufo-history/ufo-books/good-timothy-beyond-top-secret' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21)) at pages 344-347 (in Chapter 15), of the Sidgwick & Jackson hardback edition (with the same page numbering in the Pan paperback edition).
 
-Image of letter presented by [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}) in his “[Above Top Secret]({{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21)) at pages 485-488 (in the Appendix) of the Sidgwick & Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).
+Image of letter presented by [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}) in his “[Above Top Secret]({{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21)) at pages 485-488 (in the Appendix) of the Sidgwick & Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).
 
-Text presented by [Keyhoe, Donald E]({{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}) in his “[The Flying Saucer Conspiracy]({{ '/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucer-conspiracy' | relative_url }})” ([1955]({{ '/tags/1955' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000NPBT9S/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000NPBT9S/ref=nosim?tag=ufot-21)) at pages 245-248 of the Hutchinson hardback edition (in Appendix 5).
+Text presented by [Keyhoe, Donald E]({{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}) in his “[The Flying Saucer Conspiracy]({{ '/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucer-conspiracy' | relative_url }})” ([1955]({{ '/tags/1955' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000NPBT9S/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000NPBT9S/ref=nosim?tag=ufot-21)) at pages 245-248 of the Hutchinson hardback edition (in Appendix 5).
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -79,7 +79,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }}">Denzler, Brenda</a> in her “<a href="{{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }}">The Lure of the Edge</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 14 (in Chapter 1) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }}">Denzler, Brenda</a> in her “<a href="{{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }}">The Lure of the Edge</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 14 (in Chapter 1) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -90,7 +90,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }}">Above Top Secret</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 273 (in Chapter 12), with image of complete letter at pages 485-488 (in the Appendix), of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }}">Above Top Secret</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 273 (in Chapter 12), with image of complete letter at pages 485-488 (in the Appendix), of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -101,7 +101,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-beyond-top-secret' | relative_url }}">Beyond Top Secret</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 343, 348 (in Chapter 15), with image of complete letter at pages 344-347 (in Chapter 15), of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-beyond-top-secret' | relative_url }}">Beyond Top Secret</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 343, 348 (in Chapter 15), with image of complete letter at pages 344-347 (in Chapter 15), of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -124,7 +124,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }}">Matthews, Tim</a> in his “<a href="{{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }}">UFO Revelation</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 66 (in Chapter 5) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }}">Matthews, Tim</a> in his “<a href="{{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }}">UFO Revelation</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 66 (in Chapter 5) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

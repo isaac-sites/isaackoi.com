@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/sendy-jean' | relative_url }}">Sendy, Jean</a> “<a href="{{ '/ufo-history/ufo-books/sendy-jean-those-gods-who-made-heaven-and-earth' | relative_url }}">Those Gods Who Made Heaven and Earth</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B0006VZSJ6/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006VZSJ6/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sendy-jean' | relative_url }}">Sendy, Jean</a> “<a href="{{ '/ufo-history/ufo-books/sendy-jean-those-gods-who-made-heaven-and-earth' | relative_url }}">Those Gods Who Made Heaven and Earth</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="https://www.amazon.com/dp/B0006VZSJ6/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0006VZSJ6/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Briazack, Norman and Mennick, Simon in their “<a href="{{ '/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook' | relative_url }}">The UFO Guidebook</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0806507632/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806507632/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-189 (in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/sendy-jean' | relative_url }}">Sendy, Jean</a>”) of the Citadel softcover edition.</p>
+<p>Briazack, Norman and Mennick, Simon in their “<a href="{{ '/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook' | relative_url }}">The UFO Guidebook</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="https://www.amazon.com/dp/0806507632/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0806507632/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-189 (in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/sendy-jean' | relative_url }}">Sendy, Jean</a>”) of the Citadel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

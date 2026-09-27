@@ -78,7 +78,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Commander X is discussed by [Baker, Alan]({{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}) in his “[The Encyclopaedia of Alien Encounters]({{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21)) at page 259 (in an entry entitled “[X, Commander]({{ '/ufo-history/ufo-personalities/x-commander' | relative_url }})”) of the Virgin hardback edition.
+Commander X is discussed by [Baker, Alan]({{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}) in his “[The Encyclopaedia of Alien Encounters]({{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21)) at page 259 (in an entry entitled “[X, Commander]({{ '/ufo-history/ufo-personalities/x-commander' | relative_url }})”) of the Virgin hardback edition.
 
 <a id="other"></a>
 ### Other Material

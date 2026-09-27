@@ -46,7 +46,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Text of relevant report printed in “The Roswell Dig Diaries - Sci Fi Declassified” ([2004]({{ '/tags/2004' | relative_url }})) (edited by Mike McAvennie) (available [on Amazon USA](http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21)) at pages 147-151 (in Chapter 4) of the Pocket Books softcover edition.
+Text of relevant report printed in “The Roswell Dig Diaries - Sci Fi Declassified” ([2004]({{ '/tags/2004' | relative_url }})) (edited by Mike McAvennie) (available [on Amazon USA](https://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21)) at pages 147-151 (in Chapter 4) of the Pocket Books softcover edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -75,7 +75,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p>McAvennie, Mike in “The Roswell Dig Diaries - Sci Fi Declassified” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (edited by Mike McAvennie) (available <a href="http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 146 (in Chapter 4) of the Pocket Books softcover edition.</p>
+<p>McAvennie, Mike in “The Roswell Dig Diaries - Sci Fi Declassified” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (edited by Mike McAvennie) (available <a href="https://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 146 (in Chapter 4) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

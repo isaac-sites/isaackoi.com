@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1601630662"], "cover_image": "/book-covers/1601630662.jpg", "cover_source": "local-cache", "primary_isbn": "1601630662"}
 ---
 
-Brief review to be added of “[Witness to Roswell: Unmasking the Government’s Biggest Cover-up]({{ '/ufo-history/ufo-books/carey-thomas-j-and-schmitt-donald-witness-to-roswell' | relative_url }})” ([2009]({{ '/tags/2009' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1601630662/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1601630662/?&tag=ufot-21)) by Thomas J Carey and [Donald Schmitt]({{ '/ufo-history/ufo-personalities/schmitt-donald-r' | relative_url }}).
+Brief review to be added of “[Witness to Roswell: Unmasking the Government’s Biggest Cover-up]({{ '/ufo-history/ufo-books/carey-thomas-j-and-schmitt-donald-witness-to-roswell' | relative_url }})” ([2009]({{ '/tags/2009' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1601630662/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1601630662/?&tag=ufot-21)) by Thomas J Carey and [Donald Schmitt]({{ '/ufo-history/ufo-personalities/schmitt-donald-r' | relative_url }}).
 
 1. [Web Resources](#web)
 

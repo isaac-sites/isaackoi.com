@@ -50,7 +50,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by [Barkun, Michael]({{ '/ufo-history/ufo-personalities/barkun-michael' | relative_url }}) in his “[A Culture of Conspiracy: Apocalyptic Visions in Contemporary America]({{ '/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0520248120/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0520248120/ref=nosim?tag=ufot-21)) at pages 33-34 (in Chapter 2), 181 (in Chapter 11) of the California hardback edition.
+Discussed by [Barkun, Michael]({{ '/ufo-history/ufo-personalities/barkun-michael' | relative_url }}) in his “[A Culture of Conspiracy: Apocalyptic Visions in Contemporary America]({{ '/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0520248120/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0520248120/ref=nosim?tag=ufot-21)) at pages 33-34 (in Chapter 2), 181 (in Chapter 11) of the California hardback edition.
 
 <a id="other"></a>
 ### Other Material

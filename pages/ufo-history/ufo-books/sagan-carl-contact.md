@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0671004107"], "cover_image": "/book-covers/0671004107.jpg", "cover_source": "local-cache", "primary_isbn": "0671004107"}
 ---
 
-Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[Contact]({{ '/ufo-history/ufo-books/sagan-carl-contact' | relative_url }})” ([1985]({{ '/tags/1985' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0671004107/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0671004107/?&tag=ufot-21)).
+Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[Contact]({{ '/ufo-history/ufo-books/sagan-carl-contact' | relative_url }})” ([1985]({{ '/tags/1985' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0671004107/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0671004107/?&tag=ufot-21)).
 
 See references provided in relation to the entry for the movie “Contact” ([1997]({{ '/tags/1997' | relative_url }})).
 

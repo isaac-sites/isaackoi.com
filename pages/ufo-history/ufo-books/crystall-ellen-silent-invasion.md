@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0312959354", "092652433X", "1567183611", "0679456511"], "cover_image": "/book-covers/0312959354.jpg", "cover_source": "local-cache", "primary_isbn": "0312959354"}
 ---
 
-Brief review to be added of Ellen Crystall's book “[Silent Invasion]({{ '/ufo-history/ufo-books/crystall-ellen-silent-invasion' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0312959354/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312959354/?&tag=ufot-21))
+Brief review to be added of Ellen Crystall's book “[Silent Invasion]({{ '/ufo-history/ufo-books/crystall-ellen-silent-invasion' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0312959354/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0312959354/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion Ellen Crystall and/or her book “[Silent Invasion]({{ '/ufo-hist
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/dennett-preston' | relative_url }}">Dennett, Preston</a> E in his “<a href="{{ '/ufo-history/ufo-books/dennett-preston-e-ufo-healings' | relative_url }}">UFO Healings</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 47 (in Chapter 4) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dennett-preston' | relative_url }}">Dennett, Preston</a> E in his “<a href="{{ '/ufo-history/ufo-books/dennett-preston-e-ufo-healings' | relative_url }}">UFO Healings</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 47 (in Chapter 4) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion Ellen Crystall and/or her book “[Silent Invasion]({{ '/ufo-hist
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/imbrogno-philip' | relative_url }}">Imbrogno, Philip</a> and Horrigan, Marianne in their “Contact of the 5th Kind: The <a href="{{ '/ufo-history/ufo-books/crystall-ellen-silent-invasion' | relative_url }}">Silent Invasion</a> Has Begun” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1567183611/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567183611/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 206 (in Chapter 10) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/imbrogno-philip' | relative_url }}">Imbrogno, Philip</a> and Horrigan, Marianne in their “Contact of the 5th Kind: The <a href="{{ '/ufo-history/ufo-books/crystall-ellen-silent-invasion' | relative_url }}">Silent Invasion</a> Has Begun” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1567183611/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1567183611/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 206 (in Chapter 10) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,7 +82,7 @@ For discussion Ellen Crystall and/or her book “[Silent Invasion]({{ '/ufo-hist
 <p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/imbrogno-philip' | relative_url }}">Imbrogno, Philip</a> in Ellen Crystall’s “<a href="{{ '/ufo-history/ufo-books/crystall-ellen-silent-invasion' | relative_url }}">Silent Invasion</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0312959354/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312959354/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xii-xiii (in the Foreword) of the Paragon softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/imbrogno-philip' | relative_url }}">Imbrogno, Philip</a> in Ellen Crystall’s “<a href="{{ '/ufo-history/ufo-books/crystall-ellen-silent-invasion' | relative_url }}">Silent Invasion</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="https://www.amazon.com/dp/0312959354/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0312959354/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xii-xiii (in the Foreword) of the Paragon softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -93,7 +93,7 @@ For discussion Ellen Crystall and/or her book “[Silent Invasion]({{ '/ufo-hist
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Patton, Phil in his “<a href="{{ '/ufo-history/ufo-books/patton-phil-travels-in-dreamland' | relative_url }}">Travels in Dreamland</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0679456511/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0679456511/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 241-242 (in Chapter 22) of the Orion Media hardback edition.</p>
+<p>Patton, Phil in his “<a href="{{ '/ufo-history/ufo-books/patton-phil-travels-in-dreamland' | relative_url }}">Travels in Dreamland</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/0679456511/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0679456511/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 241-242 (in Chapter 22) of the Orion Media hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

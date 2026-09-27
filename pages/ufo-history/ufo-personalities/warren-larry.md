@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/warren-larry' | relative_url }}">Warren, Larry</a> and <a href="{{ '/ufo-history/ufo-personalities/robbins-peter' | relative_url }}">Robbins, Peter</a> “<a href="{{ '/ufo-history/ufo-books/warren-larry-and-robbins-peter-left-at-east-gate' | relative_url }}">Left at East Gate</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/159605753X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/159605753X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/warren-larry' | relative_url }}">Warren, Larry</a> and <a href="{{ '/ufo-history/ufo-personalities/robbins-peter' | relative_url }}">Robbins, Peter</a> “<a href="{{ '/ufo-history/ufo-books/warren-larry-and-robbins-peter-left-at-east-gate' | relative_url }}">Left at East Gate</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/159605753X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/159605753X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

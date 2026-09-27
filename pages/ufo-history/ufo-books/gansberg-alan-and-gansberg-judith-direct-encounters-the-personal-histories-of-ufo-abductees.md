@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0802706398", "0964491702", "0631135634"], "cover_image": "/book-covers/0802706398.jpg", "cover_source": "local-cache", "primary_isbn": "0802706398"}
 ---
 
-Brief review to be added of “[Direct Encounters: The Personal Histories of UFO Abductees]({{ '/ufo-history/ufo-books/gansberg-alan-and-gansberg-judith-direct-encounters-the-personal-histories-of-ufo-abductees' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0802706398/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0802706398/?&tag=ufot-21)) by Alan Gansberg and Judith Gansberg.
+Brief review to be added of “[Direct Encounters: The Personal Histories of UFO Abductees]({{ '/ufo-history/ufo-books/gansberg-alan-and-gansberg-judith-direct-encounters-the-personal-histories-of-ufo-abductees' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0802706398/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0802706398/?&tag=ufot-21)) by Alan Gansberg and Judith Gansberg.
 
 1. [Web Resources](#web)
 
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/harder-james-a' | relative_url }}">Harder, James A</a> in “<a href="{{ '/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t' | relative_url }}">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in Chapter 1, unnumbered sub-chapter entitled “Sampling Bias in Close Encounter Investigations”) of the North Cambridge Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harder-james-a' | relative_url }}">Harder, James A</a> in “<a href="{{ '/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t' | relative_url }}">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="https://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in Chapter 1, unnumbered sub-chapter entitled “Sampling Bias in Close Encounter Investigations”) of the North Cambridge Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,7 +82,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 140-141 (in Chapter 10) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="https://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 140-141 (in Chapter 10) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

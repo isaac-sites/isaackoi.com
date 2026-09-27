@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0713724498"], "cover_image": "/book-covers/0713724498.jpg", "cover_source": "local-cache", "primary_isbn": "0713724498"}
 ---
 
-Brief review to be added of “[UFO Quest]({{ '/ufo-history/ufo-books/watts-alan-ufo-quest' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0713724498/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0713724498/?&tag=ufot-21)) by [Alan Watts]({{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}).
+Brief review to be added of “[UFO Quest]({{ '/ufo-history/ufo-books/watts-alan-ufo-quest' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0713724498/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0713724498/?&tag=ufot-21)) by [Alan Watts]({{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}).
 
 1. [Web Resources](#web)
 

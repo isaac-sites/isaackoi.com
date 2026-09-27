@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["087542001X", "0520248120", "0688088643", "1578590299"], "cover_image": "/book-covers/087542001X.jpg", "cover_source": "local-cache", "primary_isbn": "087542001X"}
 ---
 
-Brief review to be added of [George C Andrews]({{ '/ufo-history/ufo-personalities/andrews-george-c' | relative_url }})' book “[Extra-Terrestrials Among Us]({{ '/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us' | relative_url }})” ([1986]({{ '/tags/1986' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/087542001X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/087542001X/?&tag=ufot-21))
+Brief review to be added of [George C Andrews]({{ '/ufo-history/ufo-personalities/andrews-george-c' | relative_url }})' book “[Extra-Terrestrials Among Us]({{ '/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us' | relative_url }})” ([1986]({{ '/tags/1986' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/087542001X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/087542001X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -58,7 +58,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/barkun-michael' | relative_url }}">Barkun, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america' | relative_url }}">A Culture of Conspiracy : Apocalyptic Visions in Contemporary America</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0520248120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520248120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 88 (in Chapter 5) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/barkun-michael' | relative_url }}">Barkun, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america' | relative_url }}">A Culture of Conspiracy : Apocalyptic Visions in Contemporary America</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="https://www.amazon.com/dp/0520248120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0520248120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 88 (in Chapter 5) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -80,7 +80,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/conroy-ed' | relative_url }}">Conroy, Ed</a> in his “<a href="{{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }}">Report on Communion</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 264-265 (in Chapter 7) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/conroy-ed' | relative_url }}">Conroy, Ed</a> in his “<a href="{{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }}">Report on Communion</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="https://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 264-265 (in Chapter 7) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -91,7 +91,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 of the Visible Ink Press softcover edition in an entry entitled “Extraterrestrial Hypothesis and Ufology”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 of the Visible Ink Press softcover edition in an entry entitled “Extraterrestrial Hypothesis and Ufology”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

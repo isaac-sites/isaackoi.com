@@ -65,7 +65,7 @@ For discussion of Hella Hammid see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Graff, Dale in his “<a href="{{ '/ufo-history/ufo-books/graff-dale-tracks-in-the-psychic-wilderness-an-exploration-of-esp-remote-viewing-precognitive-dreaming-and-synchronicity' | relative_url }}">Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1843337312/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1843337312/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-30 (in Chapter 1), 147-150 (in Chapter 17) of the Vega softcover edition.</p>
+<p>Graff, Dale in his “<a href="{{ '/ufo-history/ufo-books/graff-dale-tracks-in-the-psychic-wilderness-an-exploration-of-esp-remote-viewing-precognitive-dreaming-and-synchronicity' | relative_url }}">Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/1843337312/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1843337312/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-30 (in Chapter 1), 147-150 (in Chapter 17) of the Vega softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -76,7 +76,7 @@ For discussion of Hella Hammid see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/marks-david' | relative_url }}">Marks, David</a> in his “<a href="{{ '/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition' | relative_url }}">The Psychology of the Psychic: Second Edition</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1573927988/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573927988/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34 (in Chapter 2), 50-52 (in Chapter 3) of the Prometheus Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marks-david' | relative_url }}">Marks, David</a> in his “<a href="{{ '/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition' | relative_url }}">The Psychology of the Psychic: Second Edition</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/1573927988/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1573927988/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34 (in Chapter 2), 50-52 (in Chapter 3) of the Prometheus Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -87,7 +87,7 @@ For discussion of Hella Hammid see the following:
 <p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 115 (in Chapter 4) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="https://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 115 (in Chapter 4) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,7 +98,7 @@ For discussion of Hella Hammid see the following:
 <p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}">Puthoff, Hal</a> and <a href="{{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }}">Targ, Russell</a> in their “<a href="{{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }}">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-79, 101 (in Chapter 4), 111-118 (in Chapter 5), 131-132 (in Chapter 6) of the Jonathan Cape hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}">Puthoff, Hal</a> and <a href="{{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }}">Targ, Russell</a> in their “<a href="{{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }}">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="https://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-79, 101 (in Chapter 4), 111-118 (in Chapter 5), 131-132 (in Chapter 6) of the Jonathan Cape hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>18</p>
@@ -109,7 +109,7 @@ For discussion of Hella Hammid see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-156 (in Chapter 10), 207-209 (in Chapter 14), 216 (in Chapter 15), 256 (in Chapter 16), 262-263 (in Chapter 17), 292 (in Chapter 19), 325 (in Chapter 20) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-156 (in Chapter 10), 207-209 (in Chapter 14), 216 (in Chapter 15), 256 (in Chapter 16), 262-263 (in Chapter 17), 292 (in Chapter 19), 325 (in Chapter 20) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>13</p>

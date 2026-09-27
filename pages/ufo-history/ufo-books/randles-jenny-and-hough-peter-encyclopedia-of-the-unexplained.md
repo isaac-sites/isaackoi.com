@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1860194095"], "primary_isbn": "1860194095", "cover_image": "https://covers.openlibrary.org/b/isbn/1860194095-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[Encyclopedia of the Unexplained]({{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1860194095/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1860194095/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Peter Hough]({{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}).
+Brief review to be added of “[Encyclopedia of the Unexplained]({{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1860194095/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1860194095/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Peter Hough]({{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}).
 
 1. [Web Resources](#web)
 

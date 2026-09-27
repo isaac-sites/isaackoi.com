@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0340708220"], "cover_image": "/book-covers/0340708220.jpg", "cover_source": "local-cache", "primary_isbn": "0340708220"}
 ---
 
-Brief review to be added of [Jon King]({{ '/ufo-history/ufo-personalities/king-jon' | relative_url }})'s book “[Cosmic Top Secret]({{ '/ufo-history/ufo-books/king-jon-cosmic-top-secret' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0340708220/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0340708220/?&tag=ufot-21))
+Brief review to be added of [Jon King]({{ '/ufo-history/ufo-personalities/king-jon' | relative_url }})'s book “[Cosmic Top Secret]({{ '/ufo-history/ufo-books/king-jon-cosmic-top-secret' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0340708220/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0340708220/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

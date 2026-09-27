@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0520248120"], "cover_image": "/book-covers/0520248120.jpg", "cover_source": "local-cache", "primary_isbn": "0520248120"}
 ---
 
-Brief review to be added of [Michael Barkun]({{ '/ufo-history/ufo-personalities/barkun-michael' | relative_url }})'s book “[A Culture of Conspiracy: Apocalyptic Visions in Contemporary America]({{ '/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0520248120/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0520248120/?&tag=ufot-21))
+Brief review to be added of [Michael Barkun]({{ '/ufo-history/ufo-personalities/barkun-michael' | relative_url }})'s book “[A Culture of Conspiracy: Apocalyptic Visions in Contemporary America]({{ '/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0520248120/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0520248120/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

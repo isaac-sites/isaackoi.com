@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0553107224"], "cover_image": "/book-covers/0553107224.jpg", "cover_source": "local-cache", "primary_isbn": "0553107224"}
 ---
 
-Brief review to be added of [Alan Landsburg]({{ '/ufo-history/ufo-personalities/landsburg-alan' | relative_url }})'s book “[In Search of Extraterrestrials]({{ '/ufo-history/ufo-books/landsburg-alan-in-search-of-extraterrestrials' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0553107224/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0553107224/?&tag=ufot-21))
+Brief review to be added of [Alan Landsburg]({{ '/ufo-history/ufo-personalities/landsburg-alan' | relative_url }})'s book “[In Search of Extraterrestrials]({{ '/ufo-history/ufo-books/landsburg-alan-in-search-of-extraterrestrials' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0553107224/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0553107224/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nimoy, Leonard in Alan Landsburg’s “<a href="{{ '/ufo-history/ufo-books/landsburg-alan-in-search-of-extraterrestrials' | relative_url }}">In Search of Extraterrestrials</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0553107224/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553107224/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-x (in the Foreword) of the Corgi paperback edition.</p>
+<p>Nimoy, Leonard in Alan Landsburg’s “<a href="{{ '/ufo-history/ufo-books/landsburg-alan-in-search-of-extraterrestrials' | relative_url }}">In Search of Extraterrestrials</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="https://www.amazon.com/dp/0553107224/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0553107224/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-x (in the Foreword) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

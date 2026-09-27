@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0962057010"], "cover_image": "/book-covers/0962057010.jpg", "cover_source": "local-cache", "primary_isbn": "0962057010"}
 ---
 
-Brief review to be added of [Linda Moulton Howe]({{ '/ufo-history/ufo-personalities/howe-linda-moulton' | relative_url }})'s book “[An Alien Harvest]({{ '/ufo-history/ufo-books/howe-linda-moulton-an-alien-harvest' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0962057010/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0962057010/?&tag=ufot-21))
+Brief review to be added of [Linda Moulton Howe]({{ '/ufo-history/ufo-personalities/howe-linda-moulton' | relative_url }})'s book “[An Alien Harvest]({{ '/ufo-history/ufo-books/howe-linda-moulton-an-alien-harvest' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0962057010/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0962057010/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

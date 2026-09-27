@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> “<a href="{{ '/ufo-history/ufo-books/shuttlewood-arthur-the-warminster-mystery' | relative_url }}">The Warminster Mystery</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/0426127307/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0426127307/?&amp;tag=ufot-21">on Amazon UK</a>). First of several books on sightings in and around Warminster from <a href="{{ '/tags/1962' | relative_url }}">1962</a> to the late <a href="{{ '/tags/1970' | relative_url }}">1970</a>s. Photograph of the so-called “Warminster Thing”, taken by Gordon Faulkner, reproduced on front cover.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> “<a href="{{ '/ufo-history/ufo-books/shuttlewood-arthur-the-warminster-mystery' | relative_url }}">The Warminster Mystery</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="https://www.amazon.com/dp/0426127307/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0426127307/?&amp;tag=ufot-21">on Amazon UK</a>). First of several books on sightings in and around Warminster from <a href="{{ '/tags/1962' | relative_url }}">1962</a> to the late <a href="{{ '/tags/1970' | relative_url }}">1970</a>s. Photograph of the so-called “Warminster Thing”, taken by Gordon Faulkner, reproduced on front cover.</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> “<a href="{{ '/ufo-history/ufo-books/shuttlewood-arthur-warnings-from-flying-friends' | relative_url }}">Warnings from Flying Friends</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/0900599006/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0900599006/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> “<a href="{{ '/ufo-history/ufo-books/shuttlewood-arthur-warnings-from-flying-friends' | relative_url }}">Warnings from Flying Friends</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/0900599006/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0900599006/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> “The Flying Saucerers” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0722178077/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722178077/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> “The Flying Saucerers” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="https://www.amazon.com/dp/0722178077/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0722178077/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125 (in Chapter 8), 150-152, 153 (in Chapter 9) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="https://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125 (in Chapter 8), 150-152, 153 (in Chapter 9) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -124,7 +124,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos' | relative_url }}">Fifty Years of UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-60 (in the unnumbered chapter entitled “<a href="{{ '/tags/1957' | relative_url }}">1957</a>-<a href="{{ '/tags/1967' | relative_url }}">1967</a>”) of the Boxtree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos' | relative_url }}">Fifty Years of UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-60 (in the unnumbered chapter entitled “<a href="{{ '/tags/1957' | relative_url }}">1957</a>-<a href="{{ '/tags/1967' | relative_url }}">1967</a>”) of the Boxtree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -135,7 +135,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/chapman-robert' | relative_url }}">Chapman, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain' | relative_url }}">UFO : Flying Saucers Over Britain?</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (also published as “Unidentified Flying Objects”) (available <a href="http://www.amazon.com/dp/B000C0L3W2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000C0L3W2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-65, 68 (in Chapter 5) of the Mayflower paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chapman-robert' | relative_url }}">Chapman, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain' | relative_url }}">UFO : Flying Saucers Over Britain?</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (also published as “Unidentified Flying Objects”) (available <a href="https://www.amazon.com/dp/B000C0L3W2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000C0L3W2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-65, 68 (in Chapter 5) of the Mayflower paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -146,7 +146,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }}">Round in Circles</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 24 (in Chapter 2) of the Hamish Hamilton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }}">Round in Circles</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="https://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 24 (in Chapter 2) of the Hamish Hamilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

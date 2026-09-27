@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0963132008", "1576072495", "3931652319", "1862041350"], "cover_image": "/book-covers/0963132008.jpg", "cover_source": "local-cache", "primary_isbn": "0963132008"}
 ---
 
-Brief review to be added of “[The Prism of Lyra]({{ '/ufo-history/ufo-books/royal-lyssa-and-priest-keith-the-prism-of-lyra' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0963132008/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0963132008/?&tag=ufot-21)) by Lyssa Royal and Keith Priest.
+Brief review to be added of “[The Prism of Lyra]({{ '/ufo-history/ufo-books/royal-lyssa-and-priest-keith-the-prism-of-lyra' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0963132008/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0963132008/?&tag=ufot-21)) by Lyssa Royal and Keith Priest.
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 211 (in an entry entitled “Raydia”) of the ABC-Clio hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 211 (in an entry entitled “Raydia”) of the ABC-Clio hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Horn, Arthur D and Horn, Lynette M in their “<a href="{{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }}">Humanity's Extraterrestrial Origins</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-73 (in Chapter 4) of the Silberschnur softcover edition.</p>
+<p>Horn, Arthur D and Horn, Lynette M in their “<a href="{{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }}">Humanity's Extraterrestrial Origins</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-73 (in Chapter 4) of the Silberschnur softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -82,7 +82,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Van Dyk, Gregory in his “<a href="{{ '/ufo-history/ufo-books/van-dyk-gregory-the-alien-files' | relative_url }}">The Alien Files</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1862041350/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1862041350/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 146, 148, 149, 150 (in Chapter 6) and at the final page of the photographic section of the Element paperback edition.</p>
+<p>Van Dyk, Gregory in his “<a href="{{ '/ufo-history/ufo-books/van-dyk-gregory-the-alien-files' | relative_url }}">The Alien Files</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1862041350/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1862041350/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 146, 148, 149, 150 (in Chapter 6) and at the final page of the photographic section of the Element paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

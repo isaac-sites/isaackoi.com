@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0926524267"], "cover_image": "/book-covers/0926524267.jpg", "cover_source": "local-cache", "primary_isbn": "0926524267"}
 ---
 
-Brief review to be added of [Richard J Boylan]({{ '/ufo-history/ufo-personalities/boylan-richard-j' | relative_url }}) and Lee K Boylan's book “[Close Extraterrestrial Encounters: Positive Experiences With Mysteries Visitors]({{ '/ufo-history/ufo-books/boylan-richard-j-and-boylan-lee-k-close-extraterrestrial-encounters-positive-experiences-with-mysteries-visitors' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0926524267/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0926524267/?&tag=ufot-21))
+Brief review to be added of [Richard J Boylan]({{ '/ufo-history/ufo-personalities/boylan-richard-j' | relative_url }}) and Lee K Boylan's book “[Close Extraterrestrial Encounters: Positive Experiences With Mysteries Visitors]({{ '/ufo-history/ufo-books/boylan-richard-j-and-boylan-lee-k-close-extraterrestrial-encounters-positive-experiences-with-mysteries-visitors' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0926524267/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0926524267/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

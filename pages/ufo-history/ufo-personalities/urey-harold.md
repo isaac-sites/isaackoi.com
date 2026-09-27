@@ -63,7 +63,7 @@ For discussion of [Harold Urey]({{ '/ufo-history/ufo-personalities/urey-harold' 
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 437 (in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/urey-harold' | relative_url }}">Urey, Harold</a> Clayton (1893-<a href="{{ '/tags/1981' | relative_url }}">1981</a>)”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 437 (in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/urey-harold' | relative_url }}">Urey, Harold</a> Clayton (1893-<a href="{{ '/tags/1981' | relative_url }}">1981</a>)”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,7 +85,7 @@ For discussion of [Harold Urey]({{ '/ufo-history/ufo-personalities/urey-harold' 
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62, 64, 75 (in Chapter 3), 99 (in Chapter 4), 198, 201-204 (in Chapter 7), 224 (in Chapter 8), 267-268 (in Chapter 9), 443 (in the Notes) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62, 64, 75 (in Chapter 3), 99 (in Chapter 4), 198, 201-204 (in Chapter 7), 224 (in Chapter 8), 267-268 (in Chapter 9), 443 (in the Notes) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -96,7 +96,7 @@ For discussion of [Harold Urey]({{ '/ufo-history/ufo-personalities/urey-harold' 
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/jastrow-robert' | relative_url }}">Jastrow, Robert</a> in his “Journey to the Stars: Space Exploration - Tomorrow and Beyond” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0553053868/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553053868/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in Chapter 1) of the Bantam softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jastrow-robert' | relative_url }}">Jastrow, Robert</a> in his “Journey to the Stars: Space Exploration - Tomorrow and Beyond” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="https://www.amazon.com/dp/0553053868/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0553053868/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in Chapter 1) of the Bantam softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,7 +107,7 @@ For discussion of [Harold Urey]({{ '/ufo-history/ufo-personalities/urey-harold' 
 <p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}">Moseley, James</a> and <a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl</a> in their “<a href="{{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }}">Shockingly Close to the Truth!</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Chapter 4) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}">Moseley, James</a> and <a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl</a> in their “<a href="{{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }}">Shockingly Close to the Truth!</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="https://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Chapter 4) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,7 +118,7 @@ For discussion of [Harold Urey]({{ '/ufo-history/ufo-personalities/urey-harold' 
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 23, 25, 27 (in the chapter entitled “Chicago <a href="{{ '/tags/1951' | relative_url }}">1951</a>-60”), 61, 62, 63 (in the chapter entitled “Berkeley <a href="{{ '/tags/1960' | relative_url }}">1960</a>-<a href="{{ '/tags/1963' | relative_url }}">1963</a>”), 128, 171-173 (in the chapter entitled “Ithaca <a href="{{ '/tags/1968' | relative_url }}">1968</a>-76”), 266-267 (in the chapter entitled “Los Angeles <a href="{{ '/tags/1978' | relative_url }}">1978</a>-81”) of the Owl Books softcover edition.</p>
+<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 23, 25, 27 (in the chapter entitled “Chicago <a href="{{ '/tags/1951' | relative_url }}">1951</a>-60”), 61, 62, 63 (in the chapter entitled “Berkeley <a href="{{ '/tags/1960' | relative_url }}">1960</a>-<a href="{{ '/tags/1963' | relative_url }}">1963</a>”), 128, 171-173 (in the chapter entitled “Ithaca <a href="{{ '/tags/1968' | relative_url }}">1968</a>-76”), 266-267 (in the chapter entitled “Los Angeles <a href="{{ '/tags/1978' | relative_url }}">1978</a>-81”) of the Owl Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>

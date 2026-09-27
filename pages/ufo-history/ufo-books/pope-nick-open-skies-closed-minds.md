@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0684816644"], "cover_image": "/book-covers/0684816644.jpg", "cover_source": "local-cache", "primary_isbn": "0684816644"}
 ---
 
-Brief review to be added of [Nick Pope]({{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }})'s book “[Open Skies, Closed Minds]({{ '/ufo-history/ufo-books/pope-nick-open-skies-closed-minds' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0684816644/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0684816644/?&tag=ufot-21))
+Brief review to be added of [Nick Pope]({{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }})'s book “[Open Skies, Closed Minds]({{ '/ufo-history/ufo-books/pope-nick-open-skies-closed-minds' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0684816644/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0684816644/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

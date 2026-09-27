@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0961808209"], "cover_image": "/book-covers/0961808209.jpg", "cover_source": "local-cache", "primary_isbn": "0961808209"}
 ---
 
-Brief review to be added of [Richard Haines]({{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }})'s book “[Melbourne Episode: Case Study of a Missing Pilot]({{ '/ufo-history/ufo-books/haines-richard-melbourne-episode-case-study-of-a-missing-pilot' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0961808209/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0961808209/?&tag=ufot-21))
+Brief review to be added of [Richard Haines]({{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }})'s book “[Melbourne Episode: Case Study of a Missing Pilot]({{ '/ufo-history/ufo-books/haines-richard-melbourne-episode-case-study-of-a-missing-pilot' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0961808209/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0961808209/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in <a href="{{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }}">Richard Haines</a>’ “<a href="{{ '/ufo-history/ufo-books/haines-richard-melbourne-episode-case-study-of-a-missing-pilot' | relative_url }}">Melbourne Episode: Case Study of a Missing Pilot</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0961808209/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0961808209/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2-4 (in the Foreword) of the LDA softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in <a href="{{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }}">Richard Haines</a>’ “<a href="{{ '/ufo-history/ufo-books/haines-richard-melbourne-episode-case-study-of-a-missing-pilot' | relative_url }}">Melbourne Episode: Case Study of a Missing Pilot</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/0961808209/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0961808209/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2-4 (in the Foreword) of the LDA softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

@@ -22,7 +22,7 @@ confidence: 0.6
 
 Brief comments to be added on this individual.
 
-Frank Herbert was the author of numerous science-fiction novels, including “[Dune]({{ '/ufo-history/ufo-books/herbert-frank-dune' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0450011844/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0450011844/?&tag=ufot-21)).
+Frank Herbert was the author of numerous science-fiction novels, including “[Dune]({{ '/ufo-history/ufo-books/herbert-frank-dune' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0450011844/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0450011844/?&tag=ufot-21)).
 
 Sections below:
 
@@ -67,7 +67,7 @@ For discussion of Frank Herbert see the following:
 <p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Aldiss, Brian in his “Billion Year Spree” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 274-276 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
+<p>Aldiss, Brian in his “Billion Year Spree” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="https://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 274-276 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

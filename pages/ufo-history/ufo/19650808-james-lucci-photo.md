@@ -92,7 +92,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rehn, K Gosta in his “UFOs Here and Now” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/020072195X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/020072195X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-35 (in the unnumbered chapter entitled “The Condon-Colorado Report”) of the Abelard-Schuman hardback edition.</p>
+<p>Rehn, K Gosta in his “UFOs Here and Now” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="https://www.amazon.com/dp/020072195X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/020072195X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-35 (in the unnumbered chapter entitled “The Condon-Colorado Report”) of the Abelard-Schuman hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -103,7 +103,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Dale in his “<a href="{{ '/ufo-history/ufo-books/white-dale-is-something-up-there' | relative_url }}">Is Something Up There?</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Chapter 10) of the Scholastic Book Services paperback edition.</p>
+<p>White, Dale in his “<a href="{{ '/ufo-history/ufo-books/white-dale-is-something-up-there' | relative_url }}">Is Something Up There?</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="https://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Chapter 10) of the Scholastic Book Services paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

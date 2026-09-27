@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["033039021X"], "cover_image": "/book-covers/033039021X.jpg", "cover_source": "local-cache", "primary_isbn": "033039021X"}
 ---
 
-Brief review to be added of [Georgina Bruni]({{ '/ufo-history/ufo-personalities/bruni-georgina' | relative_url }})'s book “[You Can’t Tell the People]({{ '/ufo-history/ufo-books/bruni-georgina-you-cant-tell-the-people' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/033039021X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/033039021X/?&tag=ufot-21))
+Brief review to be added of [Georgina Bruni]({{ '/ufo-history/ufo-personalities/bruni-georgina' | relative_url }})'s book “[You Can’t Tell the People]({{ '/ufo-history/ufo-books/bruni-georgina-you-cant-tell-the-people' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/033039021X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/033039021X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -58,7 +58,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in Georgina Bruni’s “<a href="{{ '/ufo-history/ufo-books/bruni-georgina-you-cant-tell-the-people' | relative_url }}">You Can’t Tell the People</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/033039021X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/033039021X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiv-xviii (the Foreword) of the Sidgwick &amp; Jackson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in Georgina Bruni’s “<a href="{{ '/ufo-history/ufo-books/bruni-georgina-you-cant-tell-the-people' | relative_url }}">You Can’t Tell the People</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/033039021X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/033039021X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiv-xviii (the Foreword) of the Sidgwick &amp; Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

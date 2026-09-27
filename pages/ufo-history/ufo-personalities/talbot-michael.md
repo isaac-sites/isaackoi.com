@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/talbot-michael' | relative_url }}">Talbot, Michael</a> “<a href="{{ '/ufo-history/ufo-books/talbot-michael-the-holographic-universe' | relative_url }}">The Holographic Universe</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0060922583/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060922583/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/talbot-michael' | relative_url }}">Talbot, Michael</a> “<a href="{{ '/ufo-history/ufo-books/talbot-michael-the-holographic-universe' | relative_url }}">The Holographic Universe</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="https://www.amazon.com/dp/0060922583/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0060922583/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1416516778"], "cover_image": "/book-covers/1416516778.jpg", "cover_source": "local-cache", "primary_isbn": "1416516778"}
 ---
 
-Brief review to be added of [Dean Radin]({{ '/ufo-history/ufo-personalities/radin-dean' | relative_url }})'s book “[Entangled Minds: Extrasensory Experiences in a Quantum Reality]({{ '/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality' | relative_url }})” ([2006]({{ '/tags/2006' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1416516778/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1416516778/?&tag=ufot-21))
+Brief review to be added of [Dean Radin]({{ '/ufo-history/ufo-personalities/radin-dean' | relative_url }})'s book “[Entangled Minds: Extrasensory Experiences in a Quantum Reality]({{ '/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality' | relative_url }})” ([2006]({{ '/tags/2006' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1416516778/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1416516778/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

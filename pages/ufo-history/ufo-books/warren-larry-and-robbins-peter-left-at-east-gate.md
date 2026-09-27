@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["159605753X", "0713726555"], "cover_image": "/book-covers/159605753X.jpg", "cover_source": "local-cache", "primary_isbn": "159605753X"}
 ---
 
-Brief review to be added of “[Left at East Gate]({{ '/ufo-history/ufo-books/warren-larry-and-robbins-peter-left-at-east-gate' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/159605753X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/159605753X/?&tag=ufot-21)) by [Larry Warren]({{ '/ufo-history/ufo-personalities/warren-larry' | relative_url }}) and [Peter Robbins]({{ '/ufo-history/ufo-personalities/robbins-peter' | relative_url }}).
+Brief review to be added of “[Left at East Gate]({{ '/ufo-history/ufo-books/warren-larry-and-robbins-peter-left-at-east-gate' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/159605753X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/159605753X/?&tag=ufot-21)) by [Larry Warren]({{ '/ufo-history/ufo-personalities/warren-larry' | relative_url }}) and [Peter Robbins]({{ '/ufo-history/ufo-personalities/robbins-peter' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “UFO Crash Landing? Friend or Foe?” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0713726555/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726555/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 104-106 (in Chapter 9), 118-119 (in Chapter 10) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “UFO Crash Landing? Friend or Foe?” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0713726555/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713726555/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 104-106 (in Chapter 9), 118-119 (in Chapter 10) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

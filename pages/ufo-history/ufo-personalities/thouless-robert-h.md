@@ -62,7 +62,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by [Randi, James]({{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}) in his “[The Supernatural A-Z: The Truth and the Lies]({{ '/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1860197949/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1860197949/ref=nosim?tag=ufot-21)) at pages 309-311 (in the entry entitled “[Thouless, Robert H]({{ '/ufo-history/ufo-personalities/thouless-robert-h' | relative_url }})enry”) of the Brockhampton Press hardback edition.
+Discussed by [Randi, James]({{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}) in his “[The Supernatural A-Z: The Truth and the Lies]({{ '/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1860197949/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1860197949/ref=nosim?tag=ufot-21)) at pages 309-311 (in the entry entitled “[Thouless, Robert H]({{ '/ufo-history/ufo-personalities/thouless-robert-h' | relative_url }})enry”) of the Brockhampton Press hardback edition.
 
 <a id="other"></a>
 ### Other Material

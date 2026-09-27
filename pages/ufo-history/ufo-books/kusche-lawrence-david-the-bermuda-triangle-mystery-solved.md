@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0879759712", "0385111398", "1576072495", "1860660223", "0449135691", "0684166550", "051757165X", "0385035969", "1560983434", "1860194095"], "cover_image": "/book-covers/0879759712.jpg", "cover_source": "local-cache", "primary_isbn": "0879759712"}
 ---
 
-Brief review to be added of [Lawrence David Kusche]({{ '/ufo-history/ufo-personalities/kusche-lawrence-david' | relative_url }})'s book “[The Bermuda Triangle Mystery – Solved]({{ '/ufo-history/ufo-books/kusche-lawrence-david-the-bermuda-triangle-mystery-solved' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0879759712/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0879759712/?&tag=ufot-21))
+Brief review to be added of [Lawrence David Kusche]({{ '/ufo-history/ufo-personalities/kusche-lawrence-david' | relative_url }})'s book “[The Bermuda Triangle Mystery – Solved]({{ '/ufo-history/ufo-books/kusche-lawrence-david-the-bermuda-triangle-mystery-solved' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0879759712/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0879759712/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> in his “Without a Trace” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0385111398/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385111398/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73-74 (in Chapter 4) of the Souvenir Press hardback edition, at pages 93-94 of the Granada paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> in his “Without a Trace” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="https://www.amazon.com/dp/0385111398/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0385111398/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73-74 (in Chapter 4) of the Souvenir Press hardback edition, at pages 93-94 of the Granada paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -82,7 +82,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in an entry entitled “Bermuda Triangle”) of the ABC-Clio hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in an entry entitled “Bermuda Triangle”) of the ABC-Clio hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,7 +93,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hoggart, Simon &amp; Hutchinson, Mike in their “<a href="{{ '/ufo-history/ufo-books/hoggart-simon-and-hutchinson-mike-bizarre-beliefs' | relative_url }}">Bizarre Beliefs</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860660223/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860660223/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48-49 (in the unnumbered chapter entitled “The Bermuda Triangle”) of the Richard Cohen Books softcover edition.</p>
+<p>Hoggart, Simon &amp; Hutchinson, Mike in their “<a href="{{ '/ufo-history/ufo-books/hoggart-simon-and-hutchinson-mike-bizarre-beliefs' | relative_url }}">Bizarre Beliefs</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/1860660223/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1860660223/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48-49 (in the unnumbered chapter entitled “The Bermuda Triangle”) of the Richard Cohen Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -104,7 +104,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Holzer, Hans in his “<a href="{{ '/ufo-history/ufo-books/holzer-hans-the-ufonauts' | relative_url }}">The UFOnauts</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Chapter 1) of the Fawcett Gold Medal paperback edition.</p>
+<p>Holzer, Hans in his “<a href="{{ '/ufo-history/ufo-books/holzer-hans-the-ufonauts' | relative_url }}">The UFOnauts</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="https://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Chapter 1) of the Fawcett Gold Medal paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -126,7 +126,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/kusche-lawrence-david' | relative_url }}">Kusche, Lawrence David</a> in “<a href="{{ '/ufo-history/ufo-books/abell-george-o-and-singer-barry-ed-science-and-the-paranormal' | relative_url }}">Science and the Paranormal</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (edited by Abell, George O and Singer, Barry) (available <a href="http://www.amazon.com/dp/0684166550/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684166550/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 297-298, 308-309 (in Chapter 17) of the Junction Books hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kusche-lawrence-david' | relative_url }}">Kusche, Lawrence David</a> in “<a href="{{ '/ufo-history/ufo-books/abell-george-o-and-singer-barry-ed-science-and-the-paranormal' | relative_url }}">Science and the Paranormal</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (edited by Abell, George O and Singer, Barry) (available <a href="https://www.amazon.com/dp/0684166550/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0684166550/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 297-298, 308-309 (in Chapter 17) of the Junction Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -137,7 +137,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>MacRobert, Alan M and Scultz, Ted in “<a href="{{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }}">The Fringes of Reason</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (edited by Ted Schultz) (available <a href="http://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in the unnumbered chapter entitled “Reality Shopping: A Consumer’s Guide to New Age Hokum”) of the Harmony Books softcover edition.</p>
+<p>MacRobert, Alan M and Scultz, Ted in “<a href="{{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }}">The Fringes of Reason</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (edited by Ted Schultz) (available <a href="https://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in the unnumbered chapter entitled “Reality Shopping: A Consumer’s Guide to New Age Hokum”) of the Harmony Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -148,7 +148,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and Taves, Ernest in their “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0385035969/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385035969/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 265-269 (in Chapter 21, “The Bermuda Triangle”) of the Doubleday hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and Taves, Ernest in their “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="https://www.amazon.com/dp/0385035969/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0385035969/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 265-269 (in Chapter 21, “The Bermuda Triangle”) of the Doubleday hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -159,7 +159,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 206 (in Chapter 13) of the Smithsonian hardback edition, pages 248-249 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 206 (in Chapter 13) of the Smithsonian hardback edition, pages 248-249 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -170,7 +170,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained' | relative_url }}">Encyclopedia of the Unexplained</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in the unnumbered chapter entitled “The Supernatural Earth”) of the Brockhampton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained' | relative_url }}">Encyclopedia of the Unexplained</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in the unnumbered chapter entitled “The Supernatural Earth”) of the Brockhampton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

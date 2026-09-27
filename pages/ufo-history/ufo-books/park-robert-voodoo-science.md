@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0195147103"], "cover_image": "/book-covers/0195147103.jpg", "cover_source": "local-cache", "primary_isbn": "0195147103"}
 ---
 
-Brief review to be added of [Robert Park]({{ '/ufo-history/ufo-personalities/park-robert' | relative_url }})'s book “[Voodoo Science]({{ '/ufo-history/ufo-books/park-robert-voodoo-science' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0195147103/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0195147103/?&tag=ufot-21))
+Brief review to be added of [Robert Park]({{ '/ufo-history/ufo-personalities/park-robert' | relative_url }})'s book “[Voodoo Science]({{ '/ufo-history/ufo-books/park-robert-voodoo-science' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0195147103/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0195147103/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

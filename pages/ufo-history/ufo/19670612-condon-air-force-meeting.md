@@ -41,7 +41,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 
 ### Book References
 
-An extract from relevant Trip Report by Captain Diver appears, and is discussed, by [Steiger, Brad]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) in his “[Project Blue Book]({{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }})“ ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 327-331 (forming part of Chapter 13) of the Ballantine Books paperback edition.
+An extract from relevant Trip Report by Captain Diver appears, and is discussed, by [Steiger, Brad]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) in his “[Project Blue Book]({{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }})“ ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 327-331 (forming part of Chapter 13) of the Ballantine Books paperback edition.
 
 <a id="other"></a>
 ### Other Material

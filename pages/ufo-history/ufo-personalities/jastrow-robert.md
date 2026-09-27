@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/jastrow-robert' | relative_url }}">Jastrow, Robert</a> “Journey to the Stars: Space Exploration - Tomorrow and Beyond” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0553053868/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553053868/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/astronautics' | relative_url }}">Astronautics</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jastrow-robert' | relative_url }}">Jastrow, Robert</a> “Journey to the Stars: Space Exploration - Tomorrow and Beyond” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="https://www.amazon.com/dp/0553053868/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0553053868/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/astronautics' | relative_url }}">Astronautics</a>:)</p>
 </td>
 </tr>
 </tbody>
@@ -91,7 +91,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 261-263 (in Chapter 10) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 261-263 (in Chapter 10) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

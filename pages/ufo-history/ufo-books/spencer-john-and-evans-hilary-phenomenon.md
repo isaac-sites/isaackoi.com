@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0380706547"], "cover_image": "/book-covers/0380706547.jpg", "cover_source": "local-cache", "primary_isbn": "0380706547"}
 ---
 
-Brief review to be added of "[Phenomenon]({{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0380706547/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380706547/?&tag=ufot-21)) by [John Spencer]({{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}) and [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}).
+Brief review to be added of "[Phenomenon]({{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0380706547/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0380706547/?&tag=ufot-21)) by [John Spencer]({{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}) and [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wall, Patrick in “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10 of the MacDonald hardback edition (in the Foreword).</p>
+<p>Wall, Patrick in “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a>) (available <a href="https://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10 of the MacDonald hardback edition (in the Foreword).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

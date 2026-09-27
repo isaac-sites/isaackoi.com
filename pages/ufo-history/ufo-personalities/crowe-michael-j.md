@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/crowe-michael-j' | relative_url }}">Crowe, Michael J</a> “<a href="{{ '/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900' | relative_url }}">The Extraterrestrial Life Debate, 1750-1900</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/048640675X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/048640675X/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/crowe-michael-j' | relative_url }}">Crowe, Michael J</a> “<a href="{{ '/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900' | relative_url }}">The Extraterrestrial Life Debate, 1750-1900</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="https://www.amazon.com/dp/048640675X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/048640675X/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>

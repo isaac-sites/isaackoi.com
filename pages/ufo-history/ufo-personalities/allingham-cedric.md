@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1954' | relative_url }}">1954</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/allingham-cedric' | relative_url }}">Allingham, Cedric</a> “<a href="{{ '/ufo-history/ufo-books/allingham-cedric-flying-saucers-from-mars' | relative_url }}">Flying Saucers from Mars</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="http://www.amazon.com/dp/B0000CIZ8R/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CIZ8R/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/allingham-cedric' | relative_url }}">Allingham, Cedric</a> “<a href="{{ '/ufo-history/ufo-books/allingham-cedric-flying-saucers-from-mars' | relative_url }}">Flying Saucers from Mars</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="https://www.amazon.com/dp/B0000CIZ8R/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0000CIZ8R/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

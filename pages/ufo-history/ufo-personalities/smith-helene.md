@@ -24,7 +24,7 @@ Brief comments to be added on this individual.
 
 "Helene Smith" (a pseudonym for Catherine Elise Muller) was a Swiss medium. She claimed to have had psychic contact with a Martian intelligence.
 
-Her claims were the focus of Theodore Flourney's book “[From India to the Planet Mars]({{ '/ufo-history/ufo-books/flourney-th-from-india-to-the-planet-mars' | relative_url }})” ([1900]({{ '/tags/1900' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0217697364/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0217697364/ref=nosim?tag=ufot-21)).
+Her claims were the focus of Theodore Flourney's book “[From India to the Planet Mars]({{ '/ufo-history/ufo-books/flourney-th-from-india-to-the-planet-mars' | relative_url }})” ([1900]({{ '/tags/1900' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0217697364/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0217697364/ref=nosim?tag=ufot-21)).
 
 1. [Web Resources](#web)
 

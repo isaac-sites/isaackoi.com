@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0963277642"], "cover_image": "/book-covers/0963277642.jpg", "cover_source": "local-cache", "primary_isbn": "0963277642"}
 ---
 
-Brief review to be added of [Dolores Cannon]({{ '/ufo-history/ufo-personalities/cannon-dolores' | relative_url }})'s book “[Keepers of the Garden]({{ '/ufo-history/ufo-books/cannon-dolores-keepers-of-the-garden' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0963277642/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0963277642/?&tag=ufot-21))
+Brief review to be added of [Dolores Cannon]({{ '/ufo-history/ufo-personalities/cannon-dolores' | relative_url }})'s book “[Keepers of the Garden]({{ '/ufo-history/ufo-books/cannon-dolores-keepers-of-the-garden' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0963277642/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0963277642/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

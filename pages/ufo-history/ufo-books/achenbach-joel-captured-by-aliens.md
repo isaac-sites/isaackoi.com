@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0684848562"], "cover_image": "/book-covers/0684848562.jpg", "cover_source": "local-cache", "primary_isbn": "0684848562"}
 ---
 
-Brief review to be added of Joel Achenbach's book “[Captured by Aliens]({{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0684848562/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0684848562/?&tag=ufot-21))
+Brief review to be added of Joel Achenbach's book “[Captured by Aliens]({{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0684848562/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0684848562/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

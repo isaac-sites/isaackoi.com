@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0901684600"], "primary_isbn": "0901684600", "cover_image": "https://covers.openlibrary.org/b/isbn/0901684600-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Berry, Adrian]({{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}) “[From Apes to Astronauts]({{ '/ufo-history/ufo-books/berry-adrian-from-apes-to-astronauts' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0901684600/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0901684600/?&tag=ufot-21))
+Brief review to be added of [Berry, Adrian]({{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}) “[From Apes to Astronauts]({{ '/ufo-history/ufo-books/berry-adrian-from-apes-to-astronauts' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0901684600/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0901684600/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -46,7 +46,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Edited transcript of symposium published as [NASA]({{ '/ufo-history/ufo-personalities/nasa' | relative_url }}) Special Publication 328 ([NASA]({{ '/ufo-history/ufo-personalities/nasa' | relative_url }}) SP-328) entitled “Life Beyond Earth and the Mind of Man” ([1973]({{ '/tags/1973' | relative_url }})) (edited by Richard Berendzen) (available [on Amazon USA](http://www.amazon.com/dp/B000H8849E/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000H8849E/ref=nosim?tag=ufot-21)).
+Edited transcript of symposium published as [NASA]({{ '/ufo-history/ufo-personalities/nasa' | relative_url }}) Special Publication 328 ([NASA]({{ '/ufo-history/ufo-personalities/nasa' | relative_url }}) SP-328) entitled “Life Beyond Earth and the Mind of Man” ([1973]({{ '/tags/1973' | relative_url }})) (edited by Richard Berendzen) (available [on Amazon USA](https://www.amazon.com/dp/B000H8849E/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000H8849E/ref=nosim?tag=ufot-21)).
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -75,7 +75,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Fletcher, James in <a href="{{ '/ufo-history/ufo-personalities/nasa' | relative_url }}">NASA</a> Special Publication 328 (<a href="{{ '/ufo-history/ufo-personalities/nasa' | relative_url }}">NASA</a> SP-328) entitled “Life Beyond Earth and the Mind of Man” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (edited by Richard Berendzen) (available <a href="http://www.amazon.com/dp/B000H8849E/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000H8849E/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages v-vi (in the Foreword) of the National Aeronautics and Space Administration softcover edition.</p>
+<p>Fletcher, James in <a href="{{ '/ufo-history/ufo-personalities/nasa' | relative_url }}">NASA</a> Special Publication 328 (<a href="{{ '/ufo-history/ufo-personalities/nasa' | relative_url }}">NASA</a> SP-328) entitled “Life Beyond Earth and the Mind of Man” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (edited by Richard Berendzen) (available <a href="https://www.amazon.com/dp/B000H8849E/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000H8849E/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages v-vi (in the Foreword) of the National Aeronautics and Space Administration softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

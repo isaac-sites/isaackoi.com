@@ -69,7 +69,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="547">
-<p>Allen, Tom in his “The Quest: A Report on Extraterrestrial life" (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) (available <a href="http://www.amazon.com/dp/B000ILFSDA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILFSDA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-21 (in Chapter 2) of the Chilton hardback edition.</p>
+<p>Allen, Tom in his “The Quest: A Report on Extraterrestrial life" (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) (available <a href="https://www.amazon.com/dp/B000ILFSDA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000ILFSDA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-21 (in Chapter 2) of the Chilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -80,7 +80,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> in “<a href="{{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }}">UFO's: A Scientific Debate</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 248-253 (in Chapter 12) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> in “<a href="{{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }}">UFO's: A Scientific Debate</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Thornton Page</a>) (available <a href="https://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 248-253 (in Chapter 12) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -102,7 +102,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/drake-w-raymond' | relative_url }}">Drake, W Raymond</a> in his “<a href="{{ '/ufo-history/ufo-books/drake-w-raymond-gods-and-spacemen-throughout-history' | relative_url }}">Gods and Spacemen Throughout History</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0809282836/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809282836/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 1) of the Sphere paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-w-raymond' | relative_url }}">Drake, W Raymond</a> in his “<a href="{{ '/ufo-history/ufo-books/drake-w-raymond-gods-and-spacemen-throughout-history' | relative_url }}">Gods and Spacemen Throughout History</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="https://www.amazon.com/dp/0809282836/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0809282836/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 1) of the Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -113,7 +113,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }}">Flying Saucers – Serious Business</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-88 (in Chapter 6) of the Bantam paperback edition, at pages 94-95 of the Mayflower-Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }}">Flying Saucers – Serious Business</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="https://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-88 (in Chapter 6) of the Bantam paperback edition, at pages 94-95 of the Mayflower-Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -124,7 +124,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1962' | relative_url }}">1962</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “Strangest of All” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>) (available <a href="http://www.amazon.com/dp/B000JIMQ2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JIMQ2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-166 (in the unnumbered chapter entitled “Signals from Space”) of the Ace paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “Strangest of All” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>) (available <a href="https://www.amazon.com/dp/B000JIMQ2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000JIMQ2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-166 (in the unnumbered chapter entitled “Signals from Space”) of the Ace paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -135,7 +135,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 338, 352 (in Section 5) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 338, 352 (in Section 5) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -146,7 +146,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-129 (in Chapter 15) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="https://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-129 (in Chapter 15) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -157,7 +157,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars' | relative_url }}">Messages from the Stars</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152-153 (in Chapter 9) of the Fontana paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars' | relative_url }}">Messages from the Stars</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="https://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152-153 (in Chapter 9) of the Fontana paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -168,7 +168,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1955' | relative_url }}">1955</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold</a> in his “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored' | relative_url }}">Flying Saucers Uncensored</a>” (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) (available <a href="http://www.amazon.com/dp/B000JIJGC6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JIJGC6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in the unnumbered chapter entitled “Messages From Outer Space?”) of Pyramid paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold</a> in his “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored' | relative_url }}">Flying Saucers Uncensored</a>” (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) (available <a href="https://www.amazon.com/dp/B000JIJGC6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000JIJGC6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in the unnumbered chapter entitled “Messages From Outer Space?”) of Pyramid paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -179,7 +179,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold T</a> in “<a href="{{ '/ufo-history/ufo-books/david-jay-flying-saucers-have-arrived' | relative_url }}">Flying Saucers Have Arrived!</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}">Jay David</a>) (available <a href="http://www.amazon.com/dp/B000EH5018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EH5018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 116 (in the unnumbered chapter entitled “Messages From Outer Space?”) of the World hardback edition. The relevant chapter is reprinted from “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored' | relative_url }}">Flying Saucers Uncensored</a>” by Harold T Wilkins.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold T</a> in “<a href="{{ '/ufo-history/ufo-books/david-jay-flying-saucers-have-arrived' | relative_url }}">Flying Saucers Have Arrived!</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}">Jay David</a>) (available <a href="https://www.amazon.com/dp/B000EH5018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B000EH5018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 116 (in the unnumbered chapter entitled “Messages From Outer Space?”) of the World hardback edition. The relevant chapter is reprinted from “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored' | relative_url }}">Flying Saucers Uncensored</a>” by Harold T Wilkins.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -190,7 +190,7 @@ For discussion of the KLEE broadcast see the following:
 <p><a href="{{ '/tags/1953' | relative_url }}">1953</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/williamson-george-hunt' | relative_url }}">Williamson, George Hunt</a> in his “Other Tongues, Other Flesh” (<a href="{{ '/tags/1953' | relative_url }}">1953</a>) (available <a href="http://www.amazon.com/dp/1437520243/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1437520243/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 296-297 (in Chapter 14) of the <a href="{{ '/tags/1990' | relative_url }}">1990</a> BE Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/williamson-george-hunt' | relative_url }}">Williamson, George Hunt</a> in his “Other Tongues, Other Flesh” (<a href="{{ '/tags/1953' | relative_url }}">1953</a>) (available <a href="https://www.amazon.com/dp/1437520243/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1437520243/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 296-297 (in Chapter 14) of the <a href="{{ '/tags/1990' | relative_url }}">1990</a> BE Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

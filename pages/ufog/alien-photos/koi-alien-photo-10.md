@@ -72,7 +72,7 @@ An archive for Art Bell's website as at November 2001 includes [a webpage relati
 
 “Alan Lewis writes: I have been a faithful listener for years and never thought that I would have any content for your show. Recently, my Father passed away and while I always thought that he worked in the "Black Ops Arena", I never thought that he had anything to do with aliens. Certainly, he never mentioned it. While cleaning out his house, I ran across the attached photo. If you look in the bottom right hand corner of the "container", there is an Area 51 badge. I can't provide any proof that this is a genuine photo, however, the original didn't look faked to me.”
 
-Ryan Wood published this photograph in his book “MAJIC Eyes Only” (2005) (available [on Amazon USA](http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21)) at page 45 of the Wood Enterprises hardback edition. His discussion referred to this photograph as being "one of the most intriguing" images of alien entities - without indicating the real background to this image:
+Ryan Wood published this photograph in his book “MAJIC Eyes Only” (2005) (available [on Amazon USA](https://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21)) at page 45 of the Wood Enterprises hardback edition. His discussion referred to this photograph as being "one of the most intriguing" images of alien entities - without indicating the real background to this image:
 
 “… We have no certain photographs [of alien entities], though intriguing images do exist. One of the most intriguing is printed here for the first time in the book’s photo section”.
 
@@ -188,7 +188,7 @@ Kentaro Mori wrote an article on his blog in 2009 entitled "[The Container Alien
 
 "It’s now quite popular. As with most of the alien photos, most people wouldn’t vouch for its authenticity (including the original sender, in this case), but many wonder “what if”.
 
-There’s no if in this case as the alien should be familiar. It’s one of the most readily available alien props. [It can be bought from Amazon for a couple hundred dollars](http://www.amazon.com/Costumes-Occasions-86111-Alien-Flesh/dp/B001BXPRSU).
+There’s no if in this case as the alien should be familiar. It’s one of the most readily available alien props. [It can be bought from Amazon for a couple hundred dollars](https://www.amazon.com/Costumes-Occasions-86111-Alien-Flesh/dp/B001BXPRSU).
 
 Although the identification of the alien as a common latex prop conclusively explains the image to any reasonable person, there’s still the question as to where and who created that exact display.
 

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0395178096"], "cover_image": "/book-covers/0395178096.jpg", "cover_source": "local-cache", "primary_isbn": "0395178096"}
 ---
 
-Brief review to be added of “Interstellar Communication: Scientific Perspectives” ([1974]({{ '/tags/1974' | relative_url }})), edited by Cyril Ponnamperuma and A G W Cameron (available [on Amazon USA](http://www.amazon.com/dp/0395178096/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0395178096/?&tag=ufot-21))
+Brief review to be added of “Interstellar Communication: Scientific Perspectives” ([1974]({{ '/tags/1974' | relative_url }})), edited by Cyril Ponnamperuma and A G W Cameron (available [on Amazon USA](https://www.amazon.com/dp/0395178096/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0395178096/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0415243424"], "cover_image": "/book-covers/0415243424.jpg", "cover_source": "local-cache", "primary_isbn": "0415243424"}
 ---
 
-Brief review to be added of David Lamb's book “[The Search for Extraterrestrial Intelligence: A Philosophical Inquiry]({{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0415243424/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0415243424/?&tag=ufot-21))
+Brief review to be added of David Lamb's book “[The Search for Extraterrestrial Intelligence: A Philosophical Inquiry]({{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0415243424/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0415243424/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

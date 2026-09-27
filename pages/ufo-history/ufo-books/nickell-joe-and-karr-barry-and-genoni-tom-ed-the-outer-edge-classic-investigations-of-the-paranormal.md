@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B00233OCYC"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
 ---
 
-Brief review to be added of “[The Outer Edge: Classic Investigations of the Paranormal]({{ '/ufo-history/ufo-books/nickell-joe-and-karr-barry-and-genoni-tom-ed-the-outer-edge-classic-investigations-of-the-paranormal' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B00233OCYC/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B00233OCYC/?&tag=ufot-21)) edited by [Joe Nickell]({{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}) and Barry Karr and Tom Genoni.
+Brief review to be added of “[The Outer Edge: Classic Investigations of the Paranormal]({{ '/ufo-history/ufo-books/nickell-joe-and-karr-barry-and-genoni-tom-ed-the-outer-edge-classic-investigations-of-the-paranormal' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B00233OCYC/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B00233OCYC/?&tag=ufot-21)) edited by [Joe Nickell]({{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}) and Barry Karr and Tom Genoni.
 
 1. [Web Resources](#web)
 

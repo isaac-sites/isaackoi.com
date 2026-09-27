@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/danelek-j-allan' | relative_url }}">Danelek, J Allan</a> “<a href="{{ '/ufo-history/ufo-books/danelek-j-allan-ufos-the-great-debate' | relative_url }}">UFOs : The Great Debate</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/073871383X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/073871383X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/danelek-j-allan' | relative_url }}">Danelek, J Allan</a> “<a href="{{ '/ufo-history/ufo-books/danelek-j-allan-ufos-the-great-debate' | relative_url }}">UFOs : The Great Debate</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="https://www.amazon.com/dp/073871383X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/073871383X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

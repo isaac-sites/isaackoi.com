@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0345379187", "0471395366"], "cover_image": "/book-covers/0345379187.jpg", "cover_source": "local-cache", "primary_isbn": "0345379187"}
 ---
 
-Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[Billions and Billions]({{ '/ufo-history/ufo-books/sagan-carl-billions-and-billions' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345379187/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345379187/?&tag=ufot-21))
+Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[Billions and Billions]({{ '/ufo-history/ufo-books/sagan-carl-billions-and-billions' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345379187/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345379187/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 416-417 (in Chapter 18) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 416-417 (in Chapter 18) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

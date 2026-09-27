@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/hoagland-richard-c' | relative_url }}">Hoagland, Richard C</a> “<a href="{{ '/ufo-history/ufo-books/hoagland-richard-c-the-monuments-of-mars' | relative_url }}">The Monuments of Mars</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/1583940545/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1583940545/?&amp;tag=ufot-21">on Amazon UK</a>). Focused on the alleged “Face on Mars”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hoagland-richard-c' | relative_url }}">Hoagland, Richard C</a> “<a href="{{ '/ufo-history/ufo-books/hoagland-richard-c-the-monuments-of-mars' | relative_url }}">The Monuments of Mars</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/1583940545/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1583940545/?&amp;tag=ufot-21">on Amazon UK</a>). Focused on the alleged “Face on Mars”.</p>
 </td>
 </tr>
 </tbody>
@@ -91,7 +91,7 @@ For discussion of Richard Hoagland see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 57-59 (in Chapter 5), 377 (in the Notes) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 57-59 (in Chapter 5), 377 (in the Notes) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -102,7 +102,7 @@ For discussion of Richard Hoagland see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-63 (in Chapter 2) of the Orion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-63 (in Chapter 2) of the Orion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -113,7 +113,7 @@ For discussion of Richard Hoagland see the following:
 <p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 269 (in Chapter 10) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="https://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 269 (in Chapter 10) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -124,7 +124,7 @@ For discussion of Richard Hoagland see the following:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Grossinger, Richard in Richard Hoagland’s “<a href="{{ '/ufo-history/ufo-books/hoagland-richard-c-the-monuments-of-mars' | relative_url }}">The Monuments of Mars</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/1583940545/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1583940545/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xxxii-xxxvi (in the Publisher’s Foreword) of the <a href="{{ '/tags/1992' | relative_url }}">1992</a> revised North Atlantic softcover edition.</p>
+<p>Grossinger, Richard in Richard Hoagland’s “<a href="{{ '/ufo-history/ufo-books/hoagland-richard-c-the-monuments-of-mars' | relative_url }}">The Monuments of Mars</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/1583940545/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1583940545/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xxxii-xxxvi (in the Publisher’s Foreword) of the <a href="{{ '/tags/1992' | relative_url }}">1992</a> revised North Atlantic softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -135,7 +135,7 @@ For discussion of Richard Hoagland see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/kanon-gregory-m' | relative_url }}">Kanon, Gregory M</a> in his “The Great UFO Hoax” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1880090414/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090414/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168-169 (in Chapter 10) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kanon-gregory-m' | relative_url }}">Kanon, Gregory M</a> in his “The Great UFO Hoax” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1880090414/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1880090414/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168-169 (in Chapter 10) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -146,7 +146,7 @@ For discussion of Richard Hoagland see the following:
 <p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/tonnies-mac' | relative_url }}">Tonnies, Mac</a> in his “<a href="{{ '/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse' | relative_url }}">After the Martian Apocalypse</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/074348293X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074348293X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82-83 (in Chapter 3), 101, 104, 105, 110 (in Chapter 4), 128-132 (in Chapter 5) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/tonnies-mac' | relative_url }}">Tonnies, Mac</a> in his “<a href="{{ '/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse' | relative_url }}">After the Martian Apocalypse</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="https://www.amazon.com/dp/074348293X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/074348293X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82-83 (in Chapter 3), 101, 104, 105, 110 (in Chapter 4), 128-132 (in Chapter 5) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>

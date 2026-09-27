@@ -42,9 +42,9 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Images of memo presented by [Pflock, Karl T]({{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}) in his “[Roswell: Inconvenient Facts and the Will to Believe]({{ '/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21)) at pages at page 315 (in Appendix I) of the Prometheus hardback edition.
+Images of memo presented by [Pflock, Karl T]({{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}) in his “[Roswell: Inconvenient Facts and the Will to Believe]({{ '/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21)) at pages at page 315 (in Appendix I) of the Prometheus hardback edition.
 
-Complete text presented by [Hall, Michael David]({{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}) in his “[UFOs: A Century of Sightings]({{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21)) at pages 339-340 (in the unnumbered chapter entitled “Recent Revelations”) of the Galde Press softcover edition.
+Complete text presented by [Hall, Michael David]({{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}) in his “[UFOs: A Century of Sightings]({{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21)) at pages 339-340 (in the unnumbered chapter entitled “Recent Revelations”) of the Galde Press softcover edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -73,7 +73,7 @@ For discussion of Cabell’s memo see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 339-340 (in the unnumbered chapter entitled “Recent Revelations”) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 339-340 (in the unnumbered chapter entitled “Recent Revelations”) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -84,7 +84,7 @@ For discussion of Cabell’s memo see the following:
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }}">Matthews, Tim</a> in his “<a href="{{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }}">UFO Revelation</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51-52 (in Chapter 4) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }}">Matthews, Tim</a> in his “<a href="{{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }}">UFO Revelation</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51-52 (in Chapter 4) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -95,7 +95,7 @@ For discussion of Cabell’s memo see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl T</a> in his “<a href="{{ '/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe' | relative_url }}">Roswell: Inconvenient Facts and the Will to Believe</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188, 191 (in Chapter 15) with image of memo at page 315 (in Appendix I) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl T</a> in his “<a href="{{ '/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe' | relative_url }}">Roswell: Inconvenient Facts and the Will to Believe</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188, 191 (in Chapter 15) with image of memo at page 315 (in Appendix I) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

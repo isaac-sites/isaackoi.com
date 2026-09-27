@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0285629999", "0385111398", "0767906284", "1425994024", "0312533187"], "cover_image": "/book-covers/0285629999.jpg", "cover_source": "local-cache", "primary_isbn": "0285629999"}
 ---
 
-Brief review to be added of [Berlitz, Charles]({{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}) and [Moore, Bill]({{ '/ufo-history/ufo-personalities/moore-bill' | relative_url }}) “[The Philadelphia Experiment]({{ '/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0285629999/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0285629999/?&tag=ufot-21)). Focuses on [The Philadelphia Experiment]({{ '/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment' | relative_url }}).
+Brief review to be added of [Berlitz, Charles]({{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}) and [Moore, Bill]({{ '/ufo-history/ufo-personalities/moore-bill' | relative_url }}) “[The Philadelphia Experiment]({{ '/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0285629999/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0285629999/?&tag=ufot-21)). Focuses on [The Philadelphia Experiment]({{ '/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -69,7 +69,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> in his “Without a Trace” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0385111398/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385111398/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 164-175 (in Chapter 10 generally) of the Souvenir Press hardback edition, at pages 202-216 of the Granada paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> in his “Without a Trace” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="https://www.amazon.com/dp/0385111398/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0385111398/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 164-175 (in Chapter 10 generally) of the Souvenir Press hardback edition, at pages 202-216 of the Granada paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -80,7 +80,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/cook-nick' | relative_url }}">Cook, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point' | relative_url }}">The Hunt for Zero Point</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 25-29 (in Chapter 3), 130 (in Chapter 12), 137-138, 139 (in Chapter 13) of the Century hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cook-nick' | relative_url }}">Cook, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point' | relative_url }}">The Hunt for Zero Point</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/0767906284/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0767906284/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 25-29 (in Chapter 3), 130 (in Chapter 12), 137-138, 139 (in Chapter 13) of the Century hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -102,7 +102,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 91-105 (in Section 2) of the Author House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="https://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 91-105 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>15</p>
@@ -113,7 +113,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p>McRae, Ronald in his “<a href="{{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }}">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in Chapter 2) of the St Martin’s Press hardback edition.</p>
+<p>McRae, Ronald in his “<a href="{{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }}">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="https://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in Chapter 2) of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

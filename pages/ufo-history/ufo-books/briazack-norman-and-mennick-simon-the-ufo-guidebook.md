@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0806507632"], "primary_isbn": "0806507632", "cover_image": "https://covers.openlibrary.org/b/isbn/0806507632-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Norman Briazack and Simon Mennick's book “[The UFO Guidebook]({{ '/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook' | relative_url }})” (available [on Amazon USA](http://www.amazon.com/dp/0806507632/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0806507632/?&tag=ufot-21))
+Brief review to be added of Norman Briazack and Simon Mennick's book “[The UFO Guidebook]({{ '/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook' | relative_url }})” (available [on Amazon USA](https://www.amazon.com/dp/0806507632/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0806507632/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

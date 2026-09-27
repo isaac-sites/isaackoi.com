@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/webb-david' | relative_url }}">Webb, David</a> “<a href="{{ '/ufo-history/ufo-books/webb-david-1973-the-year-of-the-humanoid' | relative_url }}">1973 – The Year of the Humanoid</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/B0006CL3G2/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CL3G2/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/webb-david' | relative_url }}">Webb, David</a> “<a href="{{ '/ufo-history/ufo-books/webb-david-1973-the-year-of-the-humanoid' | relative_url }}">1973 – The Year of the Humanoid</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="https://www.amazon.com/dp/B0006CL3G2/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0006CL3G2/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -62,7 +62,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-David Webb is discussed by [Story, Ronald]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}) in “[The Encyclopedia of UFOs]({{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (edited by [Ronald Story]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21)) at pages 390-391 (in an entry entitled “[Webb, David]({{ '/ufo-history/ufo-personalities/webb-david' | relative_url }}) F”) of the NEL hardback edition.
+David Webb is discussed by [Story, Ronald]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}) in “[The Encyclopedia of UFOs]({{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (edited by [Ronald Story]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21)) at pages 390-391 (in an entry entitled “[Webb, David]({{ '/ufo-history/ufo-personalities/webb-david' | relative_url }}) F”) of the NEL hardback edition.
 
 <a id="other"></a>
 ### Other Material

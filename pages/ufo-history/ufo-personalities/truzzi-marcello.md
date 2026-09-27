@@ -63,7 +63,7 @@ For discussion of [Marcello Truzzi]({{ '/ufo-history/ufo-personalities/truzzi-ma
 <p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Carter, Chris in his “<a href="{{ '/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics' | relative_url }}">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10, 15, 17, 84 of the Paja Books softcover edition.</p>
+<p>Carter, Chris in his “<a href="{{ '/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics' | relative_url }}">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="https://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10, 15, 17, 84 of the Paja Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

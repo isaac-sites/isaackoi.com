@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1860192009"], "cover_image": "/book-covers/1860192009.jpg", "cover_source": "local-cache", "primary_isbn": "1860192009"}
 ---
 
-Brief review to be added of “[The Unexplained: Great Mysteries of the 20th Century]({{ '/ufo-history/ufo-books/randles-jenny-the-unexplained-great-mysteries-of-the-20th-century' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1860192009/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1860192009/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
+Brief review to be added of “[The Unexplained: Great Mysteries of the 20th Century]({{ '/ufo-history/ufo-books/randles-jenny-the-unexplained-great-mysteries-of-the-20th-century' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1860192009/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1860192009/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
 
 1. [Web Resources](#web)
 

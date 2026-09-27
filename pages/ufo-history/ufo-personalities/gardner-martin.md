@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1957' | relative_url }}">1957</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> “<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>” (<a href="{{ '/tags/1957' | relative_url }}">1957</a>) (available <a href="http://www.amazon.com/dp/0486203948/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0486203948/ref=nosim?tag=ufot-21">on Amazon UK</a>). (Enlarged Revision of “In the Name of Science” (<a href="{{ '/tags/1952' | relative_url }}">1952</a>))</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> “<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>” (<a href="{{ '/tags/1957' | relative_url }}">1957</a>) (available <a href="https://www.amazon.com/dp/0486203948/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0486203948/ref=nosim?tag=ufot-21">on Amazon UK</a>). (Enlarged Revision of “In the Name of Science” (<a href="{{ '/tags/1952' | relative_url }}">1952</a>))</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> “<a href="{{ '/ufo-history/ufo-books/gardner-martin-the-new-age-notes-of-a-fringe-watcher' | relative_url }}">The New Age - Notes of a Fringe Watcher</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0879756446/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879756446/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> “<a href="{{ '/ufo-history/ufo-books/gardner-martin-the-new-age-notes-of-a-fringe-watcher' | relative_url }}">The New Age - Notes of a Fringe Watcher</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="https://www.amazon.com/dp/0879756446/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0879756446/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -99,7 +99,7 @@ For discussion of Martin Gardner see the following:
 <p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Carter, Chris in his “<a href="{{ '/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics' | relative_url }}">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 7, 10, 15-18, 69, 167 of the Paja Books softcover edition.</p>
+<p>Carter, Chris in his “<a href="{{ '/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics' | relative_url }}">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="https://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 7, 10, 15-18, 69, 167 of the Paja Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -110,7 +110,7 @@ For discussion of Martin Gardner see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 291-308, 334 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 291-308, 334 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>19</p>
@@ -121,7 +121,7 @@ For discussion of Martin Gardner see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kossy, Donna in her “<a href="{{ '/ufo-history/ufo-books/kossy-donna-kooks' | relative_url }}">Kooks</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0922915679/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0922915679/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8 (in the Introduction), 58-59 (in Part 2, in an unnumbered chapter entitled “The Archive of Useless Research) of the Feral House softcover edition.</p>
+<p>Kossy, Donna in her “<a href="{{ '/ufo-history/ufo-books/kossy-donna-kooks' | relative_url }}">Kooks</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/0922915679/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0922915679/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8 (in the Introduction), 58-59 (in Part 2, in an unnumbered chapter entitled “The Archive of Useless Research) of the Feral House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -132,7 +132,7 @@ For discussion of Martin Gardner see the following:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Playfair, Guy Lyon in “<a href="{{ '/ufo-history/ufo-books/geller-uri-and-playfair-guy-lyon-the-geller-effect' | relative_url }}">The Geller Effect</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0586074309/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586074309/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by Uri Geller and Guy Lyon Playfair) at page 269 (in Chapter 14) of the Arrow paperback edition.</p>
+<p>Playfair, Guy Lyon in “<a href="{{ '/ufo-history/ufo-books/geller-uri-and-playfair-guy-lyon-the-geller-effect' | relative_url }}">The Geller Effect</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/0586074309/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0586074309/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by Uri Geller and Guy Lyon Playfair) at page 269 (in Chapter 14) of the Arrow paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -143,7 +143,7 @@ For discussion of Martin Gardner see the following:
 <p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}">Puthoff, Hal</a> and <a href="{{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }}">Targ, Russell</a> in their “<a href="{{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }}">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-182 (in Chapter 8) of the Jonathan Cape hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}">Puthoff, Hal</a> and <a href="{{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }}">Targ, Russell</a> in their “<a href="{{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }}">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="https://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-182 (in Chapter 8) of the Jonathan Cape hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -154,7 +154,7 @@ For discussion of Martin Gardner see the following:
 <p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Schultz, Ted in “<a href="{{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }}">The Fringes of Reason</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (edited by Ted Schultz) (available <a href="http://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 199 of the Harmony Books softcover edition.</p>
+<p>Schultz, Ted in “<a href="{{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }}">The Fringes of Reason</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (edited by Ted Schultz) (available <a href="https://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 199 of the Harmony Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -165,7 +165,7 @@ For discussion of Martin Gardner see the following:
 <p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/shermer-michael-science-friction-where-the-known-meets-the-unknown' | relative_url }}">Science Friction : Where the known meets the unknown</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0805077081/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805077081/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-61, 65 (in Chapter 4) of the Times Books hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/shermer-michael-science-friction-where-the-known-meets-the-unknown' | relative_url }}">Science Friction : Where the known meets the unknown</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="https://www.amazon.com/dp/0805077081/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0805077081/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-61, 65 (in Chapter 4) of the Times Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

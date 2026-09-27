@@ -79,7 +79,7 @@ Incidentally, a statement on Christopher Kenworthy's website that "Nobody suspec
 
 ![]({{ '/images/stories/ufo_videos/video017_6.JPG' | relative_url }})
 
-Christopher Kenworthy had previously written[a book entitled "Digital Video Production Cookbook"](http://www.amazon.com/exec/obidos/tg/detail/-/0596100310?v=glance)which includes details of compositing techniques. I found that book very interesting, but would have welcomed a longer section about the creation of UFO videos.
+Christopher Kenworthy had previously written[a book entitled "Digital Video Production Cookbook"](https://www.amazon.com/exec/obidos/tg/detail/-/0596100310?v=glance)which includes details of compositing techniques. I found that book very interesting, but would have welcomed a longer section about the creation of UFO videos.
 
 ![]({{ '/images/stories/ufo_videos/video017_5.JPG' | relative_url }})
 

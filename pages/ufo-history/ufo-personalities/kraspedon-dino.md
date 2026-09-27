@@ -44,7 +44,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1959' | relative_url }}">1959</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/kraspedon-dino' | relative_url }}">Kraspedon, Dino</a> (whose real name was Aladino Felix) “<a href="{{ '/ufo-history/ufo-books/kraspedon-dino-whose-real-name-was-aladino-felix-my-contact-with-ufos-formerly-my-contact-with-flying-saucers' | relative_url }}">My Contact With UFOs</a>” (<a href="{{ '/tags/1959' | relative_url }}">1959</a>) (available <a href="http://www.amazon.com/dp/0722153317/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722153317/ref=nosim?tag=ufot-21">on Amazon UK</a>) (Formerly “My contact with Flying Saucers”)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kraspedon-dino' | relative_url }}">Kraspedon, Dino</a> (whose real name was Aladino Felix) “<a href="{{ '/ufo-history/ufo-books/kraspedon-dino-whose-real-name-was-aladino-felix-my-contact-with-ufos-formerly-my-contact-with-flying-saucers' | relative_url }}">My Contact With UFOs</a>” (<a href="{{ '/tags/1959' | relative_url }}">1959</a>) (available <a href="https://www.amazon.com/dp/0722153317/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0722153317/ref=nosim?tag=ufot-21">on Amazon UK</a>) (Formerly “My contact with Flying Saucers”)</p>
 </td>
 </tr>
 </tbody>

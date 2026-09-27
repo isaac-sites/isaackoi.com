@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0938294644", "1852427728", "0743470923"], "cover_image": "/book-covers/0938294644.jpg", "cover_source": "local-cache", "primary_isbn": "0938294644"}
 ---
 
-Brief review to be added of “[Other Voices]({{ '/ufo-history/ufo-books/williamson-george-hunt-with-bailey-alfred-other-voices' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0938294644/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0938294644/?&tag=ufot-21)) by [George Hunt Williamson]({{ '/ufo-history/ufo-personalities/williamson-george-hunt' | relative_url }}) with Alfred Bailey.
+Brief review to be added of “[Other Voices]({{ '/ufo-history/ufo-books/williamson-george-hunt-with-bailey-alfred-other-voices' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0938294644/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0938294644/?&tag=ufot-21)) by [George Hunt Williamson]({{ '/ufo-history/ufo-personalities/williamson-george-hunt' | relative_url }}) with Alfred Bailey.
 
 A reisussed and expanded version of “The Saucers Speak”.
 
@@ -62,7 +62,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davis, Erik in his “TechGnosis: Myth, Magic and Mysticism in the Age of Information” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1852427728/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852427728/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 280 (in Chapter 8) of the Serpents Tail softcover edition.</p>
+<p>Davis, Erik in his “TechGnosis: Myth, Magic and Mysticism in the Age of Information” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="https://www.amazon.com/dp/1852427728/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1852427728/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 280 (in Chapter 8) of the Serpents Tail softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -73,7 +73,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/bishop-greg' | relative_url }}">Bishop, Greg</a> in his “<a href="{{ '/ufo-history/ufo-books/bishop-greg-project-beta' | relative_url }}">Project BETA : The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0743470923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743470923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in Chapter 13) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bishop-greg' | relative_url }}">Bishop, Greg</a> in his “<a href="{{ '/ufo-history/ufo-books/bishop-greg-project-beta' | relative_url }}">Project BETA : The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="https://www.amazon.com/dp/0743470923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0743470923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in Chapter 13) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

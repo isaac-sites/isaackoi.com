@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0028623878"], "cover_image": "/book-covers/0028623878.jpg", "cover_source": "local-cache", "primary_isbn": "0028623878"}
 ---
 
-Brief review to be added of Michael Kurland's book “[The Complete Idiot's Guide to Extraterrestrial Intelligence]({{ '/ufo-history/ufo-books/kurland-michael-the-complete-idiots-guide-to-extraterrestrial-intelligence' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0028623878/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0028623878/?&tag=ufot-21))
+Brief review to be added of Michael Kurland's book “[The Complete Idiot's Guide to Extraterrestrial Intelligence]({{ '/ufo-history/ufo-books/kurland-michael-the-complete-idiots-guide-to-extraterrestrial-intelligence' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0028623878/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0028623878/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

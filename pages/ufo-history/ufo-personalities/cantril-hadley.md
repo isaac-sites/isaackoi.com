@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1940' | relative_url }}">1940</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/cantril-hadley' | relative_url }}">Cantril, Hadley</a> “<a href="{{ '/ufo-history/ufo-books/cantril-hadley-the-invasion-from-mars' | relative_url }}">The Invasion from Mars</a>” (<a href="{{ '/tags/1940' | relative_url }}">1940</a>) (available <a href="http://www.amazon.com/dp/1412804701/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1412804701/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cantril-hadley' | relative_url }}">Cantril, Hadley</a> “<a href="{{ '/ufo-history/ufo-books/cantril-hadley-the-invasion-from-mars' | relative_url }}">The Invasion from Mars</a>” (<a href="{{ '/tags/1940' | relative_url }}">1940</a>) (available <a href="https://www.amazon.com/dp/1412804701/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1412804701/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

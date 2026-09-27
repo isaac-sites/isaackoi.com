@@ -44,7 +44,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p>Ziegler, Charles A and <a href="{{ '/ufo-history/ufo-personalities/moore-charles-b' | relative_url }}">Moore, Charles B</a> “<a href="{{ '/ufo-history/ufo-books/ziegler-charles-a-and-moore-charles-b-ufo-crash-at-roswell-the-genesis-of-a-modern-myth' | relative_url }}">UFO Crash at Roswell: The Genesis of a Modern Myth</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1568527071/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1568527071/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p>Ziegler, Charles A and <a href="{{ '/ufo-history/ufo-personalities/moore-charles-b' | relative_url }}">Moore, Charles B</a> “<a href="{{ '/ufo-history/ufo-books/ziegler-charles-a-and-moore-charles-b-ufo-crash-at-roswell-the-genesis-of-a-modern-myth' | relative_url }}">UFO Crash at Roswell: The Genesis of a Modern Myth</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1568527071/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1568527071/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -91,7 +91,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in Chapter 3), 72 (in Chapterr 4), 133 (in Chapter 6) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="https://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in Chapter 3), 72 (in Chapterr 4), 133 (in Chapter 6) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

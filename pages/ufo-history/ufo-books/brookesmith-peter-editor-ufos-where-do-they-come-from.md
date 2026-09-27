@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["074810142X"], "cover_image": "/book-covers/074810142X.jpg", "cover_source": "local-cache", "primary_isbn": "074810142X"}
 ---
 
-Brief review to be added of “[UFOs: Where Do They Come From?]({{ '/ufo-history/ufo-books/brookesmith-peter-editor-ufos-where-do-they-come-from' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})), edited by [Peter Brookesmith]({{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}) (available [on Amazon USA](http://www.amazon.com/dp/074810142X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/074810142X/?&tag=ufot-21))
+Brief review to be added of “[UFOs: Where Do They Come From?]({{ '/ufo-history/ufo-books/brookesmith-peter-editor-ufos-where-do-they-come-from' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})), edited by [Peter Brookesmith]({{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}) (available [on Amazon USA](https://www.amazon.com/dp/074810142X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/074810142X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

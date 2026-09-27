@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1879181339"], "cover_image": "/book-covers/1879181339.jpg", "cover_source": "local-cache", "primary_isbn": "1879181339"}
 ---
 
-Brief review to be added of Amorah Quan Yin's book “[Pleiadian Perspectives on Human Evolution]({{ '/ufo-history/ufo-books/yin-amorah-quan-pleiadian-perspectives-on-human-evolution' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1879181339/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1879181339/?&tag=ufot-21))
+Brief review to be added of Amorah Quan Yin's book “[Pleiadian Perspectives on Human Evolution]({{ '/ufo-history/ufo-books/yin-amorah-quan-pleiadian-perspectives-on-human-evolution' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1879181339/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1879181339/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clow, Barbara Hand in Yin Amorah Quan’s “<a href="{{ '/ufo-history/ufo-books/yin-amorah-quan-pleiadian-perspectives-on-human-evolution' | relative_url }}">Pleiadian Perspectives on Human Evolution</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1879181339/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1879181339/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-iv (in the Foreword) of the Bear softcover edition.</p>
+<p>Clow, Barbara Hand in Yin Amorah Quan’s “<a href="{{ '/ufo-history/ufo-books/yin-amorah-quan-pleiadian-perspectives-on-human-evolution' | relative_url }}">Pleiadian Perspectives on Human Evolution</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/1879181339/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1879181339/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-iv (in the Foreword) of the Bear softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p> </p>

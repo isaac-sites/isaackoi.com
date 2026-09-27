@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B000S2L0EK"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
 ---
 
-Brief review to be added of “[The Age of the UFO]({{ '/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})), edited by [Peter Brookesmith]({{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}) (available [on Amazon USA](http://www.amazon.com/dp/B000S2L0EK/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000S2L0EK/?&tag=ufot-21))
+Brief review to be added of “[The Age of the UFO]({{ '/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})), edited by [Peter Brookesmith]({{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}) (available [on Amazon USA](https://www.amazon.com/dp/B000S2L0EK/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000S2L0EK/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

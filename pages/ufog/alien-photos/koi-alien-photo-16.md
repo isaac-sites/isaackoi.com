@@ -22,7 +22,7 @@ confidence: 0.6
 
 Koi Alien Photo 16 has appeared on numerous UFO websites since about 2003, usually without any accompanying text or explanation. In some cases, it is just accompanied by the word "Chupacabra". Sometimes some completely bogus story is attached to it, such as [one website's statement next to this photograph](http://www.alien-ufo-pictures.com/alien_pictures10.html)that: “… there will always be those people that are more interested in destroying things they don't understand than in trying to understand them. This alien picture comes from the streets of South America where the locals apparently found an alien body and tore it apart until all the was left was this alien head.”
 
-Koi Alien Photo 16 was in fact an art piece by a graphics artist, [Charlie White](http://en.wikipedia.org/wiki/Charlie_White_(artist)). The piece is entitled "Highland Park" and it formed part of a series entitled “In A Matter of Days” (1999). It has since been published in a book of Charlie White's work entitled "Monsters" (available [on Amazon USA](http://www.amazon.com/dp/1576873692/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1576873692/?&tag=ufot-21)).
+Koi Alien Photo 16 was in fact an art piece by a graphics artist, [Charlie White](http://en.wikipedia.org/wiki/Charlie_White_(artist)). The piece is entitled "Highland Park" and it formed part of a series entitled “In A Matter of Days” (1999). It has since been published in a book of Charlie White's work entitled "Monsters" (available [on Amazon USA](https://www.amazon.com/dp/1576873692/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1576873692/?&tag=ufot-21)).
 
 The photograph features a severed reptilian "alien" head created by artist and sculptor Jordu Schell.
 
@@ -57,7 +57,7 @@ Koi Alien Photo 16 has appeared on numerous UFO websites, usually without any ac
 
 The severed reptilian "alien" head shown in Koi Alien Photo 16 was in fact an art piece by a graphics artist, [Charlie White](http://en.wikipedia.org/wiki/Charlie_White_(artist)).
 
-The piece is entitled "Highland Park" and it formed part of a series entitled “In A Matter of Days” (1999). It has since been published in a book of Charlie White's work entitled "Monsters" (available [on Amazon USA](http://www.amazon.com/dp/1576873692/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1576873692/ref=nosim?tag=ufot-21)).
+The piece is entitled "Highland Park" and it formed part of a series entitled “In A Matter of Days” (1999). It has since been published in a book of Charlie White's work entitled "Monsters" (available [on Amazon USA](https://www.amazon.com/dp/1576873692/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1576873692/ref=nosim?tag=ufot-21)).
 
 [Charlie White's own website](http://www.charliewhite.info/)includes that image in the sample of his work. The section of that website about his books says the following about his book "Monsters", which included the "Highland Park" image:
 

@@ -74,7 +74,7 @@ For discussion of Busty Taylor see the following:
 <p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/michell-john' | relative_url }}">Michell, John</a> in “The <a href="{{ '/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma' | relative_url }}">Crop Circle Enigma</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/noyes-ralph' | relative_url }}">Ralph Noyes</a>) at page 46 (in Part 1, unnumbered chapter entitled “What Mean These Marks?”) of the revised Gateway softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/michell-john' | relative_url }}">Michell, John</a> in “The <a href="{{ '/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma' | relative_url }}">Crop Circle Enigma</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="https://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/noyes-ralph' | relative_url }}">Ralph Noyes</a>) at page 46 (in Part 1, unnumbered chapter entitled “What Mean These Marks?”) of the revised Gateway softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,7 +85,7 @@ For discussion of Busty Taylor see the following:
 <p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }}">Round in Circles</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-33 (in Chapter 3), 62 (in Chapter 6), 115, 118-120 (in Chapter 11), 140 (in Chapter 13), 254, 256 (in Chapter 22), 289-290 (in the Epilogue) of the Hamish Hamilton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }}">Round in Circles</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="https://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-33 (in Chapter 3), 62 (in Chapter 6), 115, 118-120 (in Chapter 11), 140 (in Chapter 13), 254, 256 (in Chapter 22), 289-290 (in the Epilogue) of the Hamish Hamilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>13</p>

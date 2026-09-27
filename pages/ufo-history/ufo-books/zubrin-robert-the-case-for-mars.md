@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0684835509", "0684848562", "0743233433", "0002570300", "0520224531", "0471407356", "1585420360"], "cover_image": "/book-covers/0684835509.jpg", "cover_source": "local-cache", "primary_isbn": "0684835509"}
 ---
 
-Brief review to be added of [Robert Zubrin]({{ '/ufo-history/ufo-personalities/zubrin-robert' | relative_url }})'s book “[The Case for Mars]({{ '/ufo-history/ufo-books/zubrin-robert-the-case-for-mars' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0684835509/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0684835509/?&tag=ufot-21))
+Brief review to be added of [Robert Zubrin]({{ '/ufo-history/ufo-personalities/zubrin-robert' | relative_url }})'s book “[The Case for Mars]({{ '/ufo-history/ufo-books/zubrin-robert-the-case-for-mars' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0684835509/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0684835509/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion of “[The Case for Mars]({{ '/ufo-history/ufo-books/zubrin-rober
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 255-264 (in Chapter 25) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 255-264 (in Chapter 25) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -71,7 +71,7 @@ For discussion of “[The Case for Mars]({{ '/ufo-history/ufo-books/zubrin-rober
 <p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p>Benjamin, Marina in her “<a href="{{ '/ufo-history/ufo-books/benjamin-marina-rocket-dreams' | relative_url }}">Rocket Dreams</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743233433/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743233433/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 77, 78 (in Chapter 2), 161 (in Chapter 4) of the Chatto &amp; Windus hardback edition.</p>
+<p>Benjamin, Marina in her “<a href="{{ '/ufo-history/ufo-books/benjamin-marina-rocket-dreams' | relative_url }}">Rocket Dreams</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="https://www.amazon.com/dp/0743233433/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0743233433/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 77, 78 (in Chapter 2), 161 (in Chapter 4) of the Chatto &amp; Windus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -82,7 +82,7 @@ For discussion of “[The Case for Mars]({{ '/ufo-history/ufo-books/zubrin-rober
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Bergreen, Laurence in his “<a href="{{ '/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars' | relative_url }}">The Quest For Mars</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0002570300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0002570300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 331 (in Chapter 12) of the Harper hardback edition.</p>
+<p>Bergreen, Laurence in his “<a href="{{ '/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars' | relative_url }}">The Quest For Mars</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/0002570300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0002570300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 331 (in Chapter 12) of the Harper hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,7 +104,7 @@ For discussion of “[The Case for Mars]({{ '/ufo-history/ufo-books/zubrin-rober
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension' | relative_url }}">Spacefaring : The Human Dimension</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 226-227, 238 (in Chapter 13) of the California softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension' | relative_url }}">Spacefaring : The Human Dimension</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 226-227, 238 (in Chapter 13) of the California softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -115,7 +115,7 @@ For discussion of “[The Case for Mars]({{ '/ufo-history/ufo-books/zubrin-rober
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/shapiro-robert' | relative_url }}">Shapiro, Robert</a> in his “Planetary Dreams” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471407356/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471407356/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 224 (in Chapter 9) of the Wiley hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shapiro-robert' | relative_url }}">Shapiro, Robert</a> in his “Planetary Dreams” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/0471407356/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0471407356/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 224 (in Chapter 9) of the Wiley hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -126,7 +126,7 @@ For discussion of “[The Case for Mars]({{ '/ufo-history/ufo-books/zubrin-rober
 <p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/zubrin-robert' | relative_url }}">Zubrin, Robert</a> in his “Entering Space: Creating a Spacefaring Civilization” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1585420360/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585420360/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiii (in the Introduction), 119, 120 (in Chapter 6) of the Tarcher Putnam hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/zubrin-robert' | relative_url }}">Zubrin, Robert</a> in his “Entering Space: Creating a Spacefaring Civilization” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="https://www.amazon.com/dp/1585420360/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1585420360/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiii (in the Introduction), 119, 120 (in Chapter 6) of the Tarcher Putnam hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

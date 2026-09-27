@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0977205908"], "cover_image": "/book-covers/0977205908.jpg", "cover_source": "local-cache", "primary_isbn": "0977205908"}
 ---
 
-Brief review to be added of [Ryan Wood's]({{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}) book “[MAJIC Eyes Only]({{ '/ufo-history/ufo-books/wood-ryan-majic-eyes-only' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0977205908/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0977205908/?&tag=ufot-21))
+Brief review to be added of [Ryan Wood's]({{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}) book “[MAJIC Eyes Only]({{ '/ufo-history/ufo-books/wood-ryan-majic-eyes-only' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0977205908/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0977205908/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

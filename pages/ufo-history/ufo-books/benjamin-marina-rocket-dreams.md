@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0743233433"], "cover_image": "/book-covers/0743233433.jpg", "cover_source": "local-cache", "primary_isbn": "0743233433"}
 ---
 
-Brief review to be added of Marina Benjamin's “[Rocket Dreams]({{ '/ufo-history/ufo-books/benjamin-marina-rocket-dreams' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0743233433/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743233433/?&tag=ufot-21))
+Brief review to be added of Marina Benjamin's “[Rocket Dreams]({{ '/ufo-history/ufo-books/benjamin-marina-rocket-dreams' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0743233433/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0743233433/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -58,7 +58,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p>Benjamin, Marina in her “<a href="{{ '/ufo-history/ufo-books/benjamin-marina-rocket-dreams' | relative_url }}">Rocket Dreams</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743233433/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743233433/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 1) of the Chatto &amp; Windus hardback edition.</p>
+<p>Benjamin, Marina in her “<a href="{{ '/ufo-history/ufo-books/benjamin-marina-rocket-dreams' | relative_url }}">Rocket Dreams</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="https://www.amazon.com/dp/0743233433/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0743233433/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 1) of the Chatto &amp; Windus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

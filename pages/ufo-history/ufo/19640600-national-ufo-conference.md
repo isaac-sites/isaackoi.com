@@ -42,7 +42,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by [Moseley, James]({{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}) and [Pflock, Karl]({{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}) in their “[Shockingly Close to the Truth!]({{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21)) at pages 203-204 (in Chapter 9) of the Prometheus hardback edition.
+Discussed by [Moseley, James]({{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}) and [Pflock, Karl]({{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}) in their “[Shockingly Close to the Truth!]({{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21)) at pages 203-204 (in Chapter 9) of the Prometheus hardback edition.
 
 <a id="other"></a>
 ### Other Material

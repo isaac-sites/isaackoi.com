@@ -89,7 +89,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Carter, Chris in his “<a href="{{ '/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics' | relative_url }}">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36, 38-42, 45, 47, 49, 93, 127, 133, 143, 159, 177 of the Paja Books softcover edition.</p>
+<p>Carter, Chris in his “<a href="{{ '/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics' | relative_url }}">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="https://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36, 38-42, 45, 47, 49, 93, 127, 133, 143, 159, 177 of the Paja Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>15</p>
@@ -100,7 +100,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 160 (in Chapter 8) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="https://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 160 (in Chapter 8) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -111,7 +111,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/1957' | relative_url }}">1957</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> in his “<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>” (<a href="{{ '/tags/1957' | relative_url }}">1957</a>) (available <a href="http://www.amazon.com/dp/0486203948/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0486203948/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 299-314 (in Chapter 25 generally), 346 (in the Appendix and Notes) of the Dover softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> in his “<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>” (<a href="{{ '/tags/1957' | relative_url }}">1957</a>) (available <a href="https://www.amazon.com/dp/0486203948/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0486203948/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 299-314 (in Chapter 25 generally), 346 (in the Appendix and Notes) of the Dover softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>17</p>
@@ -122,7 +122,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansel, C E M in his “ESP and Parapsychology : A Critical Reevaluation” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0879751193/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879751193/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-97, 99-101, 190-191 of the Prometheus hardback edition.</p>
+<p>Hansel, C E M in his “ESP and Parapsychology : A Critical Reevaluation” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="https://www.amazon.com/dp/0879751193/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0879751193/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-97, 99-101, 190-191 of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>18</p>
@@ -133,7 +133,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 193-194, 313-315 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 193-194, 313-315 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -144,7 +144,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-63 (in Chapter 2) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="https://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-63 (in Chapter 2) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -155,7 +155,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/moore-patrick' | relative_url }}">Moore, Patrick</a> in his “<a href="{{ '/ufo-history/ufo-books/moore-patrick-can-you-speak-venusian' | relative_url }}">Can you speak Venusian?</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (available <a href="http://www.amazon.com/dp/0352397764/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352397764/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-143 (in Chapter 16) of the Star Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moore-patrick' | relative_url }}">Moore, Patrick</a> in his “<a href="{{ '/ufo-history/ufo-books/moore-patrick-can-you-speak-venusian' | relative_url }}">Can you speak Venusian?</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (available <a href="https://www.amazon.com/dp/0352397764/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0352397764/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-143 (in Chapter 16) of the Star Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -166,7 +166,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/radin-dean' | relative_url }}">Radin, Dean</a> in his “<a href="{{ '/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality' | relative_url }}">Entangled Minds : Extrasensory Experiences in a Quantum Reality</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/1416516778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416516778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 69-70, 72 (in Chapter 4), 83-86 (in Chapter 5) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/radin-dean' | relative_url }}">Radin, Dean</a> in his “<a href="{{ '/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality' | relative_url }}">Entangled Minds : Extrasensory Experiences in a Quantum Reality</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="https://www.amazon.com/dp/1416516778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1416516778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 69-70, 72 (in Chapter 4), 83-86 (in Chapter 5) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -177,7 +177,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}">Randi, James</a> in his “<a href="{{ '/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural' | relative_url }}">An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/031213066X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/031213066X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 201-202 (in the entry entitled “Rhine, Dr Joseph Banks”) of the St Martin’s Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}">Randi, James</a> in his “<a href="{{ '/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural' | relative_url }}">An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/031213066X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/031213066X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 201-202 (in the entry entitled “Rhine, Dr Joseph Banks”) of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -188,7 +188,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}">Randi, James</a> in his “<a href="{{ '/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies' | relative_url }}">The Supernatural A-Z: The Truth and the Lies</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860197949/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860197949/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 264-266 (in the entry entitled “Rhine, Dr Joseph Banks”) of the Brockhampton Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}">Randi, James</a> in his “<a href="{{ '/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies' | relative_url }}">The Supernatural A-Z: The Truth and the Lies</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="https://www.amazon.com/dp/1860197949/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1860197949/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 264-266 (in the entry entitled “Rhine, Dr Joseph Banks”) of the Brockhampton Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -199,7 +199,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 (in Chapter 10), 228 (in Chapter 15) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 (in Chapter 10), 228 (in Chapter 15) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -232,7 +232,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in his “The Eternal Subject” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0285620827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285620827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 83 (in Chapter 13) of the Souvenir Press hardback edition, at page 85 of the Day Book paperback editon (published under the title “Mysterious Visitors: The UFO Story”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in his “The Eternal Subject” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="https://www.amazon.com/dp/0285620827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0285620827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 83 (in Chapter 13) of the Souvenir Press hardback edition, at page 85 of the Day Book paperback editon (published under the title “Mysterious Visitors: The UFO Story”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -243,7 +243,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gratzer, Walter in his “<a href="{{ '/ufo-history/ufo-books/gratzer-walter-the-undergrowth-of-science' | relative_url }}">The Undergrowth of Science: Delusion, Self-deception and human frailty</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0198507070/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0198507070/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 103 (in Chapter 4) of the Oxford University Press softcover edition.</p>
+<p>Gratzer, Walter in his “<a href="{{ '/ufo-history/ufo-books/gratzer-walter-the-undergrowth-of-science' | relative_url }}">The Undergrowth of Science: Delusion, Self-deception and human frailty</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/0198507070/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0198507070/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 103 (in Chapter 4) of the Oxford University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -254,7 +254,7 @@ For discussion of J B Rhine see the following:
 <p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p>Weldon, John and Levitt, Zola in their “<a href="{{ '/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos' | relative_url }}">Encounters With UFOs</a>“ (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (formerly “UFOs, What on Earth is Happening?”) (available <a href="http://www.amazon.com/dp/1930749023/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1930749023/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in Chapter 6) of the Harvest House paperback edition.</p>
+<p>Weldon, John and Levitt, Zola in their “<a href="{{ '/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos' | relative_url }}">Encounters With UFOs</a>“ (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (formerly “UFOs, What on Earth is Happening?”) (available <a href="https://www.amazon.com/dp/1930749023/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1930749023/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in Chapter 6) of the Harvest House paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

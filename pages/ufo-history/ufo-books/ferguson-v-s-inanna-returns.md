@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0964727617"], "cover_image": "/book-covers/0964727617.jpg", "cover_source": "local-cache", "primary_isbn": "0964727617"}
 ---
 
-Brief review to be added of V S Ferguson's “[Inanna Returns]({{ '/ufo-history/ufo-books/ferguson-v-s-inanna-returns' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0964727617/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0964727617/?&tag=ufot-21))
+Brief review to be added of V S Ferguson's “[Inanna Returns]({{ '/ufo-history/ufo-books/ferguson-v-s-inanna-returns' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0964727617/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0964727617/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

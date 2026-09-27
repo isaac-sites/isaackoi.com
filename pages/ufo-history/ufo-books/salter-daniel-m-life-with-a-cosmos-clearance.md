@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1891824376"], "cover_image": "/book-covers/1891824376.jpg", "cover_source": "local-cache", "primary_isbn": "1891824376"}
 ---
 
-Brief review to be added of Daniel M Salter's book “[Life With a Cosmos Clearance]({{ '/ufo-history/ufo-books/salter-daniel-m-life-with-a-cosmos-clearance' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1891824376/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1891824376/?&tag=ufot-21)).
+Brief review to be added of Daniel M Salter's book “[Life With a Cosmos Clearance]({{ '/ufo-history/ufo-books/salter-daniel-m-life-with-a-cosmos-clearance' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1891824376/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1891824376/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 

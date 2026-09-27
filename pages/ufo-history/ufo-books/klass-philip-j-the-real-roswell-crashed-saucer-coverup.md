@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1573921645", "0380798530"], "cover_image": "/book-covers/1573921645.jpg", "cover_source": "local-cache", "primary_isbn": "1573921645"}
 ---
 
-Brief review to be added of "[The Real Roswell Crashed-Saucer Coverup]({{ '/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1573921645/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573921645/?&tag=ufot-21)) by [Philip J Klass]({{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}).
+Brief review to be added of "[The Real Roswell Crashed-Saucer Coverup]({{ '/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1573921645/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1573921645/?&tag=ufot-21)) by [Philip J Klass]({{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia' | relative_url }}">The Roswell Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0380798530/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380798530/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 310-314 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup' | relative_url }}">The Real Roswell Crashed-Saucer Coverup</a> by Philip J Klass”) of the Quill softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia' | relative_url }}">The Roswell Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/0380798530/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0380798530/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 310-314 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup' | relative_url }}">The Real Roswell Crashed-Saucer Coverup</a> by Philip J Klass”) of the Quill softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

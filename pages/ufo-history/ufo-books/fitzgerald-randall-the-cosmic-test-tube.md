@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0963916122"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0963916122"}
 ---
 
-Brief review to be added of [Randall Fitzgerald]({{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }})'s book “[The Cosmic Test Tube]({{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0963916122/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0963916122/?&tag=ufot-21))
+Brief review to be added of [Randall Fitzgerald]({{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }})'s book “[The Cosmic Test Tube]({{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0963916122/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0963916122/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

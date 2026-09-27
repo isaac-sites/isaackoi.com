@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1561719722"], "cover_image": "/book-covers/1561719722.jpg", "cover_source": "local-cache", "primary_isbn": "1561719722"}
 ---
 
-Brief review to be added of [Clifford E Stone]({{ '/ufo-history/ufo-personalities/stone-clifford-e' | relative_url }})'s book “[UFOs are Real]({{ '/ufo-history/ufo-books/stone-clifford-e-ufos-are-real' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1561719722/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1561719722/?&tag=ufot-21))
+Brief review to be added of [Clifford E Stone]({{ '/ufo-history/ufo-personalities/stone-clifford-e' | relative_url }})'s book “[UFOs are Real]({{ '/ufo-history/ufo-books/stone-clifford-e-ufos-are-real' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1561719722/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1561719722/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> T in <a href="{{ '/ufo-history/ufo-personalities/stone-clifford-e' | relative_url }}">Clifford E Stone</a>’s “<a href="{{ '/ufo-history/ufo-books/stone-clifford-e-ufos-are-real' | relative_url }}">UFOs are Real</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1561719722/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1561719722/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xii-xiii (in the Introduction) of the SPI softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> T in <a href="{{ '/ufo-history/ufo-personalities/stone-clifford-e' | relative_url }}">Clifford E Stone</a>’s “<a href="{{ '/ufo-history/ufo-books/stone-clifford-e-ufos-are-real' | relative_url }}">UFOs are Real</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1561719722/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1561719722/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xii-xiii (in the Introduction) of the SPI softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

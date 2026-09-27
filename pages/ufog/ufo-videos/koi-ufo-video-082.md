@@ -97,7 +97,7 @@ Neill Gorton is an award-winning English make-up effects, prosthetics and animat
 
 ![]({{ '/images/stories/ufo_videos/video082_12.JPG' | relative_url }})
 
-The full "Rubber Johnny" video is s[old as a DVD (with a 42 page book) on Amazon](http://www.amazon.co.uk/Rubber-Johnny-Chris-Cunningham-DVD/dp/B0009B0H1C).
+The full "Rubber Johnny" video is s[old as a DVD (with a 42 page book) on Amazon](https://www.amazon.co.uk/Rubber-Johnny-Chris-Cunningham-DVD/dp/B0009B0H1C).
 
 ![]({{ '/images/stories/ufo_videos/video082_9.jpg' | relative_url }})
 

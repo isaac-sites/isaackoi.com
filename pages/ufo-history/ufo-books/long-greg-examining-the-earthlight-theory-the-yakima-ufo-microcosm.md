@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0929343573", "1416505210"], "cover_image": "/book-covers/1416505210.jpg", "cover_source": "local-cache", "primary_isbn": "0929343573"}
 ---
 
-Brief review to be added of [Greg Long]({{ '/ufo-history/ufo-personalities/long-greg' | relative_url }})'s book “[Examining the Earthlight Theory: The Yakima UFO Microcosm]({{ '/ufo-history/ufo-books/long-greg-examining-the-earthlight-theory-the-yakima-ufo-microcosm' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0929343573/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0929343573/?&tag=ufot-21))
+Brief review to be added of [Greg Long]({{ '/ufo-history/ufo-personalities/long-greg' | relative_url }})'s book “[Examining the Earthlight Theory: The Yakima UFO Microcosm]({{ '/ufo-history/ufo-books/long-greg-examining-the-earthlight-theory-the-yakima-ufo-microcosm' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0929343573/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0929343573/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -71,7 +71,7 @@ For discussion of Greg Long and/or his book see the following:
 <p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kelleher, Colm and Knapp, George in their “<a href="{{ '/ufo-history/ufo-books/kelleher-colm-and-knapp-george-hunt-for-the-skinwalker' | relative_url }}">Hunt for the Skinwalker</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/1416505210/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416505210/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 173 (in Chapter 22) of the Pocket Books softcover edition.</p>
+<p>Kelleher, Colm and Knapp, George in their “<a href="{{ '/ufo-history/ufo-books/kelleher-colm-and-knapp-george-hunt-for-the-skinwalker' | relative_url }}">Hunt for the Skinwalker</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="https://www.amazon.com/dp/1416505210/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1416505210/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 173 (in Chapter 22) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,7 +82,7 @@ For discussion of Greg Long and/or his book see the following:
 <p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/rodeghier-mark' | relative_url }}">Rodeghier, Mark</a> in Greg Long’s “<a href="{{ '/ufo-history/ufo-books/long-greg-examining-the-earthlight-theory-the-yakima-ufo-microcosm' | relative_url }}">Examining the Earthlight Theory: The Yakima UFO Microcosm</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0929343573/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929343573/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-x (in the Foreword) of the <a href="{{ '/ufo-history/ufo-personalities/cufos' | relative_url }}">CUFOS</a> softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rodeghier-mark' | relative_url }}">Rodeghier, Mark</a> in Greg Long’s “<a href="{{ '/ufo-history/ufo-books/long-greg-examining-the-earthlight-theory-the-yakima-ufo-microcosm' | relative_url }}">Examining the Earthlight Theory: The Yakima UFO Microcosm</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="https://www.amazon.com/dp/0929343573/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0929343573/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-x (in the Foreword) of the <a href="{{ '/ufo-history/ufo-personalities/cufos' | relative_url }}">CUFOS</a> softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

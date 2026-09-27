@@ -63,7 +63,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> in his “<a href="{{ '/ufo-history/ufo-books/hynek-j-allen-the-hynek-ufo-report' | relative_url }}">The Hynek UFO Report</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0440192013/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440192013/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 41 (in Chapter 3) of the Barnes &amp; Noble hardback reprint (<a href="{{ '/tags/1997' | relative_url }}">1997</a>), at page 51 of the Dell paperback edition (with the same page numbering in the Sphere paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> in his “<a href="{{ '/ufo-history/ufo-books/hynek-j-allen-the-hynek-ufo-report' | relative_url }}">The Hynek UFO Report</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="https://www.amazon.com/dp/0440192013/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0440192013/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 41 (in Chapter 3) of the Barnes &amp; Noble hardback reprint (<a href="{{ '/tags/1997' | relative_url }}">1997</a>), at page 51 of the Dell paperback edition (with the same page numbering in the Sphere paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

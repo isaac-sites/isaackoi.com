@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0688144861"], "cover_image": "/book-covers/0688144861.jpg", "cover_source": "local-cache", "primary_isbn": "0688144861"}
 ---
 
-Brief review to be added of Bill Fawcett's book “[Making Contact]({{ '/ufo-history/ufo-books/fawcett-bill-ed-making-contact' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0688144861/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0688144861/?&tag=ufot-21))
+Brief review to be added of Bill Fawcett's book “[Making Contact]({{ '/ufo-history/ufo-books/fawcett-bill-ed-making-contact' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0688144861/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0688144861/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0850303508", "0631135634"], "cover_image": "/book-covers/0631135634.jpg", "cover_source": "local-cache", "primary_isbn": "0850303508"}
 ---
 
-Brief review to be added of [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }})'s book “[The Evidence for UFOs]({{ '/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos' | relative_url }})” ([1983]({{ '/tags/1983' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0850303508/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0850303508/?&tag=ufot-21))
+Brief review to be added of [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }})'s book “[The Evidence for UFOs]({{ '/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos' | relative_url }})” ([1983]({{ '/tags/1983' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0850303508/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0850303508/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -58,7 +58,7 @@ Many of the tables of references on this website are considerably longer than th
 <p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 200 (in the Bibliography) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="https://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 200 (in the Bibliography) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

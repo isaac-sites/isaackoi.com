@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1857781589"], "primary_isbn": "1857781589", "cover_image": "https://covers.openlibrary.org/b/isbn/1857781589-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Blundell, Nigel “[World’s Most Amazing UFO Visits]({{ '/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1857781589/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1857781589/?&tag=ufot-21))
+Brief review to be added of Blundell, Nigel “[World’s Most Amazing UFO Visits]({{ '/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1857781589/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1857781589/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

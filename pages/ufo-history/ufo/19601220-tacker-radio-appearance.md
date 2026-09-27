@@ -46,7 +46,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Excerpts of a transcript of the programme presented by [Steiger, Brad]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) in his “[Project Blue Book]({{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }})“ ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 413-423 of the Ballantine Books paperback edition (“Appendix G: Excerpts from Radio Interview with Colonel Lawrence J. Tacker”)
+Excerpts of a transcript of the programme presented by [Steiger, Brad]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) in his “[Project Blue Book]({{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }})“ ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 413-423 of the Ballantine Books paperback edition (“Appendix G: Excerpts from Radio Interview with Colonel Lawrence J. Tacker”)
 
 <a id="other"></a>
 ### Other Material

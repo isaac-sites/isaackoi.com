@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1879181304"], "cover_image": "/book-covers/1879181304.jpg", "cover_source": "local-cache", "primary_isbn": "1879181304"}
 ---
 
-Brief review to be added of Barbara Hand Clow's book “[The Pleiadian Agenda]({{ '/ufo-history/ufo-books/clow-barbara-hand-the-pleiadian-agenda' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1879181304/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1879181304/?&tag=ufot-21))
+Brief review to be added of Barbara Hand Clow's book “[The Pleiadian Agenda]({{ '/ufo-history/ufo-books/clow-barbara-hand-the-pleiadian-agenda' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1879181304/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1879181304/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0312533187", "0312875150"], "cover_image": "/book-covers/0312533187.jpg", "cover_source": "local-cache", "primary_isbn": "0312533187"}
 ---
 
-Brief review to be added of Ronald McRae's book “[Mind Wars: The true story of government research into the military potential of psychic weapons]({{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0312533187/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312533187/?&tag=ufot-21))
+Brief review to be added of Ronald McRae's book “[Mind Wars: The true story of government research into the military potential of psychic weapons]({{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0312533187/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0312533187/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p>Anderson, Jack in Ronald McRae’s “<a href="{{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }}">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xxv-xxviii (in the Introduction) of the St Martin’s Press hardback edition.</p>
+<p>Anderson, Jack in Ronald McRae’s “<a href="{{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }}">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="https://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xxv-xxviii (in the Introduction) of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p>Truzzi, Marcello in Ronald McRae’s “<a href="{{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }}">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xv (in the Foreword) of the St Martin’s Press hardback edition.</p>
+<p>Truzzi, Marcello in Ronald McRae’s “<a href="{{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }}">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="https://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xv (in the Foreword) of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -82,7 +82,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 217 (in Chapter 6), 482 (in the Notes) of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="https://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 217 (in Chapter 6), 482 (in the Notes) of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

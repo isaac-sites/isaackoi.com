@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1879181215", "1578210615"], "cover_image": "/book-covers/1879181215.jpg", "cover_source": "local-cache", "primary_isbn": "1879181215"}
 ---
 
-Brief review to be added of [Barbara Marciniak]({{ '/ufo-history/ufo-personalities/marciniak-barbara' | relative_url }})'s book “[Earth - Pleiadian Keys to the Living Library]({{ '/ufo-history/ufo-books/marciniak-barbara-earth-pleiadian-keys-to-the-living-library' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1879181215/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1879181215/?&tag=ufot-21))
+Brief review to be added of [Barbara Marciniak]({{ '/ufo-history/ufo-personalities/marciniak-barbara' | relative_url }})'s book “[Earth - Pleiadian Keys to the Living Library]({{ '/ufo-history/ufo-books/marciniak-barbara-earth-pleiadian-keys-to-the-living-library' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1879181215/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1879181215/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in Chapter 9) of the Koinonia House softcover edition.</p>
+<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in Chapter 9) of the Koinonia House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

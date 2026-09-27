@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/walton-travis' | relative_url }}">Walton, Travis</a> “<a href="{{ '/ufo-history/ufo-books/walton-travis-the-walton-experience' | relative_url }}">The Walton Experience</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0425036758/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425036758/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/walton-travis' | relative_url }}">Walton, Travis</a> “<a href="{{ '/ufo-history/ufo-books/walton-travis-the-walton-experience' | relative_url }}">The Walton Experience</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="https://www.amazon.com/dp/0425036758/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0425036758/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/walton-travis' | relative_url }}">Walton, Travis</a> “<a href="{{ '/ufo-history/ufo-books/walton-travis-fire-in-the-sky' | relative_url }}">Fire In The Sky : The Walton Experience</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1569248400/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569248400/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/walton-travis' | relative_url }}">Walton, Travis</a> “<a href="{{ '/ufo-history/ufo-books/walton-travis-fire-in-the-sky' | relative_url }}">Fire In The Sky : The Walton Experience</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1569248400/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1569248400/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

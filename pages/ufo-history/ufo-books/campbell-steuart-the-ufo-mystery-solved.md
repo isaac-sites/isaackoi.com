@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0952151200"], "cover_image": "/book-covers/0952151200.jpg", "cover_source": "local-cache", "primary_isbn": "0952151200"}
 ---
 
-Brief review to be added of [Steuart Campbell]({{ '/ufo-history/ufo-personalities/campbell-steuart' | relative_url }})'s book “[The UFO Mystery Solved]({{ '/ufo-history/ufo-books/campbell-steuart-the-ufo-mystery-solved' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0952151200/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0952151200/?&tag=ufot-21))
+Brief review to be added of [Steuart Campbell]({{ '/ufo-history/ufo-personalities/campbell-steuart' | relative_url }})'s book “[The UFO Mystery Solved]({{ '/ufo-history/ufo-books/campbell-steuart-the-ufo-mystery-solved' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0952151200/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0952151200/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

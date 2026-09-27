@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["B000NTURDI", "013117424X"], "cover_image": "/book-covers/013117424X.jpg", "cover_source": "local-cache", "primary_isbn": "013117424X"}
 ---
 
-Brief review to be added of “[Field Investigator's Manual]({{ '/ufo-history/ufo-books/mufon-and-fowler-raymond-ed-field-investigators-manualq' | relative_url }})" (2nd Edition) ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000NTURDI/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000NTURDI/?&tag=ufot-21)) edited by [MUFON]({{ '/ufo-history/ufo-personalities/mufon' | relative_url }}) and [Raymond Fowler]({{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}).
+Brief review to be added of “[Field Investigator's Manual]({{ '/ufo-history/ufo-books/mufon-and-fowler-raymond-ed-field-investigators-manualq' | relative_url }})" (2nd Edition) ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000NTURDI/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000NTURDI/?&tag=ufot-21)) edited by [MUFON]({{ '/ufo-history/ufo-personalities/mufon' | relative_url }}) and [Raymond Fowler]({{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion of the [MUFON]({{ '/ufo-history/ufo-personalities/mufon' | relati
 <p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “<a href="{{ '/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator' | relative_url }}">Casebook of a UFO Investigator</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/013117424X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/013117424X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-69 (in Chapter 7) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “<a href="{{ '/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator' | relative_url }}">Casebook of a UFO Investigator</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="https://www.amazon.com/dp/013117424X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/013117424X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-69 (in Chapter 7) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

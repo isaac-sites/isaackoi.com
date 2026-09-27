@@ -428,7 +428,7 @@ REFERENCES
 [http://www.cohenufo.org/Rockefeller_wbsite.htm](http://www.cohenufo.org/Rockefeller_wbsite.htm)
 
 [Footnote 11.07] Mass-market edition of Rockefeller Briefing Document available to purchase on Amazon’s website at:
-[http://www.amazon.com/dp/044023638X](http://www.amazon.com/dp/044023638X)
+[https://www.amazon.com/dp/044023638X](https://www.amazon.com/dp/044023638X)
 
 [Footnote 11.08] See the Random House webpage at:
 [http://www.randomhouse.com/catalog/display.pperl?isbn=9780440236382](http://www.randomhouse.com/catalog/display.pperl?isbn=9780440236382)

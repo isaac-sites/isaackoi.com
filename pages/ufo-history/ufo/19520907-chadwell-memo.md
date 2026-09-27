@@ -38,7 +38,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text presented by [Hall, Michael David]({{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}) and [Connors, Wendy Ann]({{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}) in their “[Captain Edward J Ruppelt: Summer of the Saucers - 1952]({{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21)) at pages 188-189, 197 (in Chapter 7) of the Rose Press softcover edition.
+Complete text presented by [Hall, Michael David]({{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}) and [Connors, Wendy Ann]({{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}) in their “[Captain Edward J Ruppelt: Summer of the Saucers - 1952]({{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21)) at pages 188-189, 197 (in Chapter 7) of the Rose Press softcover edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -67,7 +67,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-189, 197 (in Chapter 7) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-189, 197 (in Chapter 7) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

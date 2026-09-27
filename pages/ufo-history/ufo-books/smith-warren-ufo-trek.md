@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0890831815"], "primary_isbn": "0890831815", "cover_image": "https://covers.openlibrary.org/b/isbn/0890831815-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Warren Smith]({{ '/ufo-history/ufo-personalities/smith-warren' | relative_url }})'s book “[UFO Trek]({{ '/ufo-history/ufo-books/smith-warren-ufo-trek' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0890831815/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0890831815/?&tag=ufot-21))
+Brief review to be added of [Warren Smith]({{ '/ufo-history/ufo-personalities/smith-warren' | relative_url }})'s book “[UFO Trek]({{ '/ufo-history/ufo-books/smith-warren-ufo-trek' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0890831815/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0890831815/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

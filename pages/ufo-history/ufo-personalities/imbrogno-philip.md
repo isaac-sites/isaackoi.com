@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> and <a href="{{ '/ufo-history/ufo-personalities/imbrogno-philip' | relative_url }}">Imbrogno, Philip</a> and Pratt, Bob“<a href="{{ '/ufo-history/ufo-books/hynek-j-allen-and-imbrogno-philip-and-pratt-bob-night-siege-the-hudson-valley-ufo-sightings' | relative_url }}">Night Siege: The Hudson Valley UFO Sightings</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1567183611/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567183611/?&amp;tag=ufot-21">on Amazon UK</a>). Discusses sightings during the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s in the Hudson Valley.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> and <a href="{{ '/ufo-history/ufo-personalities/imbrogno-philip' | relative_url }}">Imbrogno, Philip</a> and Pratt, Bob“<a href="{{ '/ufo-history/ufo-books/hynek-j-allen-and-imbrogno-philip-and-pratt-bob-night-siege-the-hudson-valley-ufo-sightings' | relative_url }}">Night Siege: The Hudson Valley UFO Sightings</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1567183611/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1567183611/?&amp;tag=ufot-21">on Amazon UK</a>). Discusses sightings during the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s in the Hudson Valley.</p>
 </td>
 </tr>
 <tr>

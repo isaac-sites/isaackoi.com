@@ -42,7 +42,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of press release presented by [Tacker, Lawrence]({{ '/ufo-history/ufo-personalities/tacker-lawrence' | relative_url }}) (Lieutenant Colonel) in his “[Flying Saucers and the U.S. Air Force]({{ '/ufo-history/ufo-books/tacker-lawrence-flying-saucers-and-the-us-air-force' | relative_url }})” ([1960]({{ '/tags/1960' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000HD7IQY/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000HD7IQY/ref=nosim?tag=ufot-21)) at pages 136-137 of the D Van Nostrand hardback edition (in Appendix 4). Mentioned at page 17 (in Chapter 2).
+Image of press release presented by [Tacker, Lawrence]({{ '/ufo-history/ufo-personalities/tacker-lawrence' | relative_url }}) (Lieutenant Colonel) in his “[Flying Saucers and the U.S. Air Force]({{ '/ufo-history/ufo-books/tacker-lawrence-flying-saucers-and-the-us-air-force' | relative_url }})” ([1960]({{ '/tags/1960' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000HD7IQY/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000HD7IQY/ref=nosim?tag=ufot-21)) at pages 136-137 of the D Van Nostrand hardback edition (in Appendix 4). Mentioned at page 17 (in Chapter 2).
 
 Image of press release presented by Leon Davidson in his “[Flying Saucers: An Analysis of the Air Force Project Blue Book Special Report No. 14]({{ '/ufo-history/ufo-books/davidson-leon-flying-saucers-an-analysis-of-the-air-force-project-blue-book-special-report-no-14' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }}).0700) at pages D5-D6 of the Ramsey-Wallace paperbound 3<sup>rd</sup> Edition.
 

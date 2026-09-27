@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1933665181"], "cover_image": "/book-covers/1933665181.jpg", "cover_source": "local-cache", "primary_isbn": "1933665181"}
 ---
 
-Brief review to be added of “[Encounters at Indian Head: The Betty and Barney Hill UFO Abduction Revisited]({{ '/ufo-history/ufo-books/pflock-karl-t-and-brookesmith-peter-editors-encounters-at-indian-head' | relative_url }})” ([2007]({{ '/tags/2007' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1933665181/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665181/?&tag=ufot-21)) edited by [Karl T Pflock]({{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}) and [Peter Brookesmith]({{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}).
+Brief review to be added of “[Encounters at Indian Head: The Betty and Barney Hill UFO Abduction Revisited]({{ '/ufo-history/ufo-books/pflock-karl-t-and-brookesmith-peter-editors-encounters-at-indian-head' | relative_url }})” ([2007]({{ '/tags/2007' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1933665181/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1933665181/?&tag=ufot-21)) edited by [Karl T Pflock]({{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}) and [Peter Brookesmith]({{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}).
 
 1. [Web Resources](#web)
 

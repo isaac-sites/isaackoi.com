@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1880090627"], "cover_image": "/book-covers/1880090627.jpg", "cover_source": "local-cache", "primary_isbn": "1880090627"}
 ---
 
-Brief review to be added of [Hall, Michael David]({{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }})'s book “[UFOs: A Century of Sightings]({{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1880090627/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1880090627/?&tag=ufot-21))
+Brief review to be added of [Hall, Michael David]({{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }})'s book “[UFOs: A Century of Sightings]({{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1880090627/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1880090627/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

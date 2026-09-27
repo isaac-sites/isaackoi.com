@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0953175332"], "primary_isbn": "0953175332", "cover_image": "https://covers.openlibrary.org/b/isbn/0953175332-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[The Warminster Triangle]({{ '/ufo-history/ufo-books/rogers-ken-the-warminster-triangle' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0953175332/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0953175332/?&tag=ufot-21)) by Ken Rogers.
+Brief review to be added of “[The Warminster Triangle]({{ '/ufo-history/ufo-books/rogers-ken-the-warminster-triangle' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0953175332/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0953175332/?&tag=ufot-21)) by Ken Rogers.
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marquess of Bath in Ken Rogers’ “<a href="{{ '/ufo-history/ufo-books/rogers-ken-the-warminster-triangle' | relative_url }}">The Warminster Triangle</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0953175332/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0953175332/ref=nosim?tag=ufot-21">on Amazon UK</a>) at the unnumbered ninth to eleventh pages (in the Foreword) of the Coates and Parker softcover edition.</p>
+<p>Marquess of Bath in Ken Rogers’ “<a href="{{ '/ufo-history/ufo-books/rogers-ken-the-warminster-triangle' | relative_url }}">The Warminster Triangle</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/0953175332/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0953175332/ref=nosim?tag=ufot-21">on Amazon UK</a>) at the unnumbered ninth to eleventh pages (in the Foreword) of the Coates and Parker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

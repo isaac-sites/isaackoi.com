@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1950' | relative_url }}">1950</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/heard-gerald' | relative_url }}">Heard, Gerald</a> “<a href="{{ '/ufo-history/ufo-books/heard-gerald-the-riddle-of-the-flying-saucers' | relative_url }}">The Riddle of the Flying Saucers</a>” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>)(available <a href="http://www.amazon.com/dp/B0007E6U8A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007E6U8A/ref=nosim?tag=ufot-21">on Amazon UK</a>). Also published as “Is Another World Watching?”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/heard-gerald' | relative_url }}">Heard, Gerald</a> “<a href="{{ '/ufo-history/ufo-books/heard-gerald-the-riddle-of-the-flying-saucers' | relative_url }}">The Riddle of the Flying Saucers</a>” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>)(available <a href="https://www.amazon.com/dp/B0007E6U8A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/B0007E6U8A/ref=nosim?tag=ufot-21">on Amazon UK</a>). Also published as “Is Another World Watching?”.</p>
 </td>
 </tr>
 </tbody>
@@ -89,7 +89,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lachman, Gary Valentine in his “<a href="{{ '/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind' | relative_url }}">Turn Off Your Mind</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90, 91-94, 95, 99 (in Chapter 4), 159, 160 (in Chapter 6) of the Sidgwick &amp; Jackson softcover edition.</p>
+<p>Lachman, Gary Valentine in his “<a href="{{ '/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind' | relative_url }}">Turn Off Your Mind</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90, 91-94, 95, 99 (in Chapter 4), 159, 160 (in Chapter 6) of the Sidgwick &amp; Jackson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>

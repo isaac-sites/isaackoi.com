@@ -38,7 +38,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by Flammonde, Paris in his “[Ufo Exist!]({{ '/ufo-history/ufo-books/flammonde-paris-ufo-exist' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21)) at page 413 (in Chapter 20) of the Ballantine Books paperback edition.
+Discussed by Flammonde, Paris in his “[Ufo Exist!]({{ '/ufo-history/ufo-books/flammonde-paris-ufo-exist' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21)) at page 413 (in Chapter 20) of the Ballantine Books paperback edition.
 
 <a id="other"></a>
 ### Other Material

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0380814730"], "cover_image": "/book-covers/0380814730.jpg", "cover_source": "local-cache", "primary_isbn": "0380814730"}
 ---
 
-Brief review to be added of [Kevin Randle's]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}) book “[Case MJ-12]({{ '/ufo-history/ufo-books/randle-kevin-d-case-mj-12' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0380814730/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380814730/?&tag=ufot-21))
+Brief review to be added of [Kevin Randle's]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}) book “[Case MJ-12]({{ '/ufo-history/ufo-books/randle-kevin-d-case-mj-12' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0380814730/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0380814730/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

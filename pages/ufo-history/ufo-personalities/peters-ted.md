@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/peters-ted' | relative_url }}">Peters, Ted</a> “<a href="{{ '/ufo-history/ufo-books/peters-ted-ufos-gods-chariots-flying-saucers-in-politics-science-and-religion' | relative_url }}">UFOs-God's Chariots?: Flying Saucers in Politics, Science and Religion</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0804222339/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0804222339/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peters-ted' | relative_url }}">Peters, Ted</a> “<a href="{{ '/ufo-history/ufo-books/peters-ted-ufos-gods-chariots-flying-saucers-in-politics-science-and-religion' | relative_url }}">UFOs-God's Chariots?: Flying Saucers in Politics, Science and Religion</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="https://www.amazon.com/dp/0804222339/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0804222339/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

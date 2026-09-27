@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["1893157199", "1583940545", "0060186429", "1578210615", "0880642262"], "cover_image": "/book-covers/1583940545.jpg", "cover_source": "local-cache", "primary_isbn": "1893157199"}
 ---
 
-Brief review to be added of “[Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations]({{ '/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1893157199/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1893157199/?&tag=ufot-21)) by [O’ Brian Leary]({{ '/ufo-history/ufo-personalities/o-leary-brian' | relative_url }}).
+Brief review to be added of “[Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations]({{ '/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1893157199/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1893157199/?&tag=ufot-21)) by [O’ Brian Leary]({{ '/ufo-history/ufo-personalities/o-leary-brian' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion of O’Leary and/or his book see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Brein, Michael in Brian O’Leary’s “<a href="{{ '/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations' | relative_url }}">Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1893157199/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893157199/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xi (in the Forewords) of the Kamapua softcover edition.</p>
+<p>Brein, Michael in Brian O’Leary’s “<a href="{{ '/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations' | relative_url }}">Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/1893157199/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1893157199/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xi (in the Forewords) of the Kamapua softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion of O’Leary and/or his book see the following:
 <p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hoagland, Richard in his “<a href="{{ '/ufo-history/ufo-books/hoagland-richard-c-the-monuments-of-mars' | relative_url }}">The Monuments of Mars</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/1583940545/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1583940545/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-187 (in Chapter 11) of the <a href="{{ '/tags/1992' | relative_url }}">1992</a> revised North Atlantic softcover edition.</p>
+<p>Hoagland, Richard in his “<a href="{{ '/ufo-history/ufo-books/hoagland-richard-c-the-monuments-of-mars' | relative_url }}">The Monuments of Mars</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="https://www.amazon.com/dp/1583940545/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1583940545/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-187 (in Chapter 11) of the <a href="{{ '/tags/1992' | relative_url }}">1992</a> revised North Atlantic softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -82,7 +82,7 @@ For discussion of O’Leary and/or his book see the following:
 <p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Manning, Jeane in Brian O’Leary’s “<a href="{{ '/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations' | relative_url }}">Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1893157199/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893157199/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page x (in the Forewords) of the Kamapua softcover edition.</p>
+<p>Manning, Jeane in Brian O’Leary’s “<a href="{{ '/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations' | relative_url }}">Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="https://www.amazon.com/dp/1893157199/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1893157199/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page x (in the Forewords) of the Kamapua softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,7 +93,7 @@ For discussion of O’Leary and/or his book see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-alien-agenda' | relative_url }}">Alien Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 21 (in Chapter 1) of the Harper Collins paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-alien-agenda' | relative_url }}">Alien Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 21 (in Chapter 1) of the Harper Collins paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,7 +104,7 @@ For discussion of O’Leary and/or his book see the following:
 <p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 29-30 (in Chapter 1) of the Koinonia House softcover edition.</p>
+<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="https://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 29-30 (in Chapter 1) of the Koinonia House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -115,7 +115,7 @@ For discussion of O’Leary and/or his book see the following:
 <p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 252-255 (in Chapter 8) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="https://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 252-255 (in Chapter 8) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

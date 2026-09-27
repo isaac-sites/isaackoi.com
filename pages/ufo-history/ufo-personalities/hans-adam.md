@@ -65,7 +65,7 @@ For discussion of Prince Hans Adam see the following:
 <p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge' | relative_url }}">Hidden Truth – Forbidden Knowledge</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0967323827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-130 (in Chapter 17), 131 (in Chapter 18) of the Crossing Point softcover edition. [Prince Hans Adam is referred to by Greer as “Prince S.A.” rather than by name, but is easily identifiable. See also relevant articles regarding Greer’s discussion of this individual on the <a href="http://web.archive.org/web/20080112191135/www.pehi.eu/archives_2006.htm">pehi.eu</a> website.]</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge' | relative_url }}">Hidden Truth – Forbidden Knowledge</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="https://www.amazon.com/dp/0967323827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0967323827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-130 (in Chapter 17), 131 (in Chapter 18) of the Crossing Point softcover edition. [Prince Hans Adam is referred to by Greer as “Prince S.A.” rather than by name, but is easily identifiable. See also relevant articles regarding Greer’s discussion of this individual on the <a href="http://web.archive.org/web/20080112191135/www.pehi.eu/archives_2006.htm">pehi.eu</a> website.]</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -76,7 +76,7 @@ For discussion of Prince Hans Adam see the following:
 <p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 240 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="https://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 240 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

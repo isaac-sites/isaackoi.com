@@ -42,7 +42,7 @@ Books by this person include:
 <p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="{{ '/ufo-history/ufo-personalities/rich-ben-r' | relative_url }}">Rich, Ben R</a> and Janos, Leo “<a href="{{ '/ufo-history/ufo-books/rich-ben-r-and-janos-leo-skunk-works' | relative_url }}">Skunk Works</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0751515035/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0751515035/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rich-ben-r' | relative_url }}">Rich, Ben R</a> and Janos, Leo “<a href="{{ '/ufo-history/ufo-books/rich-ben-r-and-janos-leo-skunk-works' | relative_url }}">Skunk Works</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="https://www.amazon.com/dp/0751515035/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0751515035/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0929385225"], "cover_image": "/book-covers/0929385225.jpg", "cover_source": "local-cache", "primary_isbn": "0929385225"}
 ---
 
-Brief review to be added of [William Cooper]({{ '/ufo-history/ufo-personalities/cooper-william' | relative_url }})'s book “[Behold a Pale Horse]({{ '/ufo-history/ufo-books/cooper-william-behold-a-pale-horse' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0929385225/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0929385225/?&tag=ufot-21))
+Brief review to be added of [William Cooper]({{ '/ufo-history/ufo-personalities/cooper-william' | relative_url }})'s book “[Behold a Pale Horse]({{ '/ufo-history/ufo-books/cooper-william-behold-a-pale-horse' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0929385225/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0929385225/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

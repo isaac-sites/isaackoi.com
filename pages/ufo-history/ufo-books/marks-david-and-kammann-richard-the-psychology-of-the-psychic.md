@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0879751215", "1573927988"], "cover_image": "/book-covers/0879751215.jpg", "cover_source": "local-cache", "primary_isbn": "0879751215"}
 ---
 
-Brief review to be added of “[The Psychology of the Psychic]({{ '/ufo-history/ufo-books/marks-david-and-kammann-richard-the-psychology-of-the-psychic' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0879751215/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0879751215/?&tag=ufot-21)) by [David Marks]({{ '/ufo-history/ufo-personalities/marks-david' | relative_url }}) and Richard Kammann.
+Brief review to be added of “[The Psychology of the Psychic]({{ '/ufo-history/ufo-books/marks-david-and-kammann-richard-the-psychology-of-the-psychic' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0879751215/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0879751215/?&tag=ufot-21)) by [David Marks]({{ '/ufo-history/ufo-personalities/marks-david' | relative_url }}) and Richard Kammann.
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p> </p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> in “<a href="{{ '/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition' | relative_url }}">The Psychology of the Psychic: Second Edition</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (by David Marks) (available <a href="http://www.amazon.com/dp/1573927988/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573927988/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-11 (in the Foreword to the First Edition), 13-14 (in the Foreword) of the Prometheus Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> in “<a href="{{ '/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition' | relative_url }}">The Psychology of the Psychic: Second Edition</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (by David Marks) (available <a href="https://www.amazon.com/dp/1573927988/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1573927988/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-11 (in the Foreword to the First Edition), 13-14 (in the Foreword) of the Prometheus Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -82,7 +82,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/marks-david' | relative_url }}">Marks, David</a> in his “<a href="{{ '/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition' | relative_url }}">The Psychology of the Psychic: Second Edition</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1573927988/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573927988/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-23 (in the Preface) of the Prometheus Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marks-david' | relative_url }}">Marks, David</a> in his “<a href="{{ '/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition' | relative_url }}">The Psychology of the Psychic: Second Edition</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/1573927988/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/1573927988/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-23 (in the Preface) of the Prometheus Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

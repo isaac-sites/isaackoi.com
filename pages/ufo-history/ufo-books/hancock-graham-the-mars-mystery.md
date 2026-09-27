@@ -17,7 +17,7 @@ confidence: 0.6
 book: {"identifiers": ["0609600869", "074348293X", "0002570300"], "cover_image": "/book-covers/0609600869.jpg", "cover_source": "local-cache", "primary_isbn": "0609600869"}
 ---
 
-Brief review to be added of [Graham Hancock]({{ '/ufo-history/ufo-personalities/hancock-graham' | relative_url }})'s book “[The Mars Mystery]({{ '/ufo-history/ufo-books/hancock-graham-the-mars-mystery' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0609600869/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0609600869/?&tag=ufot-21))
+Brief review to be added of [Graham Hancock]({{ '/ufo-history/ufo-personalities/hancock-graham' | relative_url }})'s book “[The Mars Mystery]({{ '/ufo-history/ufo-books/hancock-graham-the-mars-mystery' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0609600869/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0609600869/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -60,7 +60,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="{{ '/ufo-history/ufo-personalities/tonnies-mac' | relative_url }}">Tonnies, Mac</a> in his “<a href="{{ '/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse' | relative_url }}">After the Martian Apocalypse</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/074348293X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074348293X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Chapter 2) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/tonnies-mac' | relative_url }}">Tonnies, Mac</a> in his “<a href="{{ '/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse' | relative_url }}">After the Martian Apocalypse</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="https://www.amazon.com/dp/074348293X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/074348293X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Chapter 2) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion see the following:
 <p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Bergreen, Laurence in his “<a href="{{ '/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars' | relative_url }}">The Quest For Mars</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0002570300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0002570300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 233-234 (in Chapter 9) of the Harper hardback edition.</p>
+<p>Bergreen, Laurence in his “<a href="{{ '/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars' | relative_url }}">The Quest For Mars</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="https://www.amazon.com/dp/0002570300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="https://www.amazon.co.uk/dp/0002570300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 233-234 (in Chapter 9) of the Harper hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
