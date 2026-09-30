@@ -28,6 +28,11 @@ endnotes_initial_visible: 10
 endnotes_show_accessed: false
 baseurl: ""
 url: "https://isaackoi.com"
+# Social-card default for jekyll-seo-tag (2.8.0): site.logo feeds og:image /
+# twitter:image on every page. The archive previously served no og:image at
+# all, so shares of any hub URL rendered without a preview card. On-brand
+# site-owned raster asset (733x560 PNG, served at this path).
+logo: "/images/stories/clipart_ufo.png"
 ui_priority: "home-first"
 home_layout_mode: "catalog"
 auto_home_layout_mode: "catalog"
