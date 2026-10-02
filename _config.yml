@@ -28,6 +28,14 @@ endnotes_initial_visible: 10
 endnotes_show_accessed: false
 baseurl: ""
 url: "https://isaackoi.com"
+# Author identity for jekyll-seo-tag (2.8.0): site.author resolves the
+# AuthorDrop on every page, emitting the schema.org `author` Person in the
+# JSON-LD block and naming the `publisher` Organization (publisher itself
+# only renders once `logo` is declared — see the social-card default PR).
+# Name-only on purpose: the hub has no author-representative URL, and no
+# `site.twitter` is configured, so `twitter:creator` stays unemitted.
+author:
+  name: "Isaac Koi"
 ui_priority: "home-first"
 home_layout_mode: "catalog"
 auto_home_layout_mode: "catalog"
