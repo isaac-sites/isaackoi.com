@@ -66,6 +66,13 @@ defaults:
       path: ""
     values:
       layout: "default"
+      # Site-wide default social-card image (jekyll-seo-tag 2.8.0): the
+      # og:image / twitter:image METAS resolve from the PAGE-level `image`
+      # key only (image_drop.rb: page.image string/hash) — `site.logo`
+      # feeds the JSON-LD publisher logo but never the metas. This default
+      # sets page["image"] on every page so the metas emit; any page can
+      # still override with its own `image:`.
+      image: "/images/stories/clipart_ufo.png"
 ui_strings:
   home: "Home"
   overview: "Overview"
