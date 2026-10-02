@@ -9,6 +9,9 @@
     "Isaac Koi Archive | Isaac Koi Archive").
   {% endcomment %}
   {% seo %}
+{% unless page.image or page.header.og_image %}
+<meta property="og:image" content="{{ site.og_image_default | absolute_url }}">
+{% endunless %}
   <script>
     (function () {
       var root = document.documentElement;
