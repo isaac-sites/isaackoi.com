@@ -144,3 +144,7 @@ ui_strings:
   search_panel_title: "Search"
   open_search: "Open search"
   close_search: "Close search"
+# og:image default for pages without their own image (jekyll-seo-tag 2.8.0/2.9.0
+# does not fall back og:image to site.logo - that renders the JSON-LD
+# Organization logo only). Emitted by the template guard in _includes/head.html.
+og_image_default: "/images/stories/clipart_ufo.png"
