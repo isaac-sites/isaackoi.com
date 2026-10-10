@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0385035969", "0399124217"], "cover_image": "/book-covers/0385035969.jpg", "cover_source": "local-cache", "primary_isbn": "0385035969"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The UFO Enigma]({{ '/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0385035969/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0385035969/?&tag=ufot-21)) by [Donald H Menzel]({{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}) and Ernest Taves.

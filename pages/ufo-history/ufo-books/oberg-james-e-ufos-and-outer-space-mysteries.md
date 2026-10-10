@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0898651026", "051757165X", "0631135634", "0850303621"], "cover_image": "/book-covers/0898651026.jpg", "cover_source": "local-cache", "primary_isbn": "0898651026"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFOs and Outer Space Mysteries]({{ '/ufo-history/ufo-books/oberg-james-e-ufos-and-outer-space-mysteries' | relative_url }})” ([1982]({{ '/tags/1982' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0898651026/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0898651026/?&tag=ufot-21)) by [James E Oberg]({{ '/ufo-history/ufo-personalities/oberg-james-e' | relative_url }}).

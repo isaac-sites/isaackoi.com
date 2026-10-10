@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000IMEYWK", "1870870999", "1573922005", "0760702187", "1578590299", "1558887415", "0749922907", "0397317808", "0929398947", "0801484685", "0486203948", "B0007DXIH2", "B0000CJCUL", "B000RATSR4", "0253190061", "B000NP9VAW", "B000OKUWRM", "B000IW5ULY", "1567184936", "1573929905", "1575440660", "1560983434", "B000NLQNZC", "0312965214", "0713726555", "B0007FIFVE", "B000ILEK2A", "0451204247", "1841196134"], "cover_image": "/book-covers/1870870999.jpg", "cover_source": "local-cache", "primary_isbn": "1870870999"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Donald E Keyhoe]({{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }})'s book “[The Flying Saucers are Real]({{ '/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucers-are-real' | relative_url }})” ([1950]({{ '/tags/1950' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000IMEYWK/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000IMEYWK/?&tag=ufot-21)).

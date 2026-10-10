@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0426127307", "0753704250", "0600572293", "0713725184", "B000C0L3W2", "1576072495", "1905646003", "095080245X", "0816038007", "0713722096", "0855001232", "0374133247", "B000S2L0EK", "0330264664", "1858600170", "0393063364", "0449135691", "085435073X", "0812885236", "0946551669", "0352397764", "0879757655", "0340242639", "0684816644", "1841196134", "0806918918", "0760705496", "1870870999", "0953175332", "1591021103", "0890831815", "1852839244", "0863698212", "0380768879", "B000S52VNG", "B0000CO47Z", "0441015719", "B0006CCFX2", "0738701068", "0854351345", "0426134508", "0285620827", "B00005VXTC", "0713724498", "0713726008", "0283060697"], "cover_image": "/book-covers/0753704250.jpg", "cover_source": "local-cache", "primary_isbn": "0426127307"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Arthur Shuttlewood]({{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }})'s book “[The Warminster Mystery]({{ '/ufo-history/ufo-books/shuttlewood-arthur-the-warminster-mystery' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0426127307/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0426127307/?&tag=ufot-21)).

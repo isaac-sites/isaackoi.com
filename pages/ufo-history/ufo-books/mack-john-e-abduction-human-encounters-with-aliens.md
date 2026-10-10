@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0684195399", "0684848562", "0760707642", "1578590299", "0964491702", "0926524429", "0451204247", "1841196134", "0963916122", "0713727977", "034069582X", "1573922447", "1573929905", "1573921319", "0749914114", "0805070893", "083081938X", "0880642262", "0312193475"], "cover_image": "/book-covers/0684195399.jpg", "cover_source": "local-cache", "primary_isbn": "0684195399"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [John E Mack]({{ '/ufo-history/ufo-personalities/mack-john-e' | relative_url }})'s book “[Abduction: Human Encounters with Aliens]({{ '/ufo-history/ufo-books/mack-john-e-abduction-human-encounters-with-aliens' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0684195399/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0684195399/?&tag=ufot-21))

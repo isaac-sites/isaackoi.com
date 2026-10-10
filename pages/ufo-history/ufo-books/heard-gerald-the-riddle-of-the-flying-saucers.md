@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0007E6U8A", "1573922005", "1931044325", "054838844X", "1870870999", "1576072495", "0780800974", "1578590299", "1905646003", "0879517247", "0816038007", "0722130325", "0451204247", "1841196134", "0963916122", "0486203948", "B0007DXIH2", "B00072TSG8", "B0007K7DSU", "0962653462", "1931882444", "1560983434", "0684839733", "B000NLQNZC", "1558883010", "0345409469", "0812817125", "1852839244", "B000ILEK2A", "0932813232", "0523008406", "0451157060", "0451064240"], "cover_image": "/book-covers/1573922005.jpg", "cover_source": "local-cache", "primary_isbn": "1573922005"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Gerald Heard]({{ '/ufo-history/ufo-personalities/heard-gerald' | relative_url }})'s book “[The Riddle of the Flying Saucers]({{ '/ufo-history/ufo-books/heard-gerald-the-riddle-of-the-flying-saucers' | relative_url }})” ([1950]({{ '/tags/1950' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0007E6U8A/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0007E6U8A/?&tag=ufot-21)). Also published as “Is Another World Watching?”.

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0000CIZ8R", "1852277343", "1931044325", "B000GGZYWC", "B000WQTEAE", "0952151200", "0713727470", "B000C0L3W2", "1576072495", "1578590299", "1558887415", "0780800974", "1905646003", "0713727829", "B000BCJB98", "0722130325", "0791423301", "0762101083", "B0007DXIH2", "1873631774", "B0007K7DSU", "0449135691", "0285621297", "0352397764", "0340758333", "1903047889", "B000NLQNZC", "0760704406", "0631135634", "0713719729", "0709032765", "1558883010", "1870021029", "1567312004", "0944255000", "B0007FIFVE", "0380768879", "B000S52VNG", "1854710559", "B00005VXTC"], "cover_image": "/book-covers/1852277343.jpg", "cover_source": "local-cache", "primary_isbn": "1852277343"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Cedric Allingham]({{ '/ufo-history/ufo-personalities/allingham-cedric' | relative_url }})'s book “[Flying Saucers from Mars]({{ '/ufo-history/ufo-books/allingham-cedric-flying-saucers-from-mars' | relative_url }})” ([1954]({{ '/tags/1954' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CIZ8R/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CIZ8R/?&tag=ufot-21)).

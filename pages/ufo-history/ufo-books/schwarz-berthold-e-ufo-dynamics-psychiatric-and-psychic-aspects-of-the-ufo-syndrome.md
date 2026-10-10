@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0935834648", "087542001X"], "cover_image": "/book-covers/0935834648.jpg", "cover_source": "local-cache", "primary_isbn": "0935834648"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Berthold E Schwarz]({{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }})'s book “UFO Dynamics: Psychiatric and Psychic Aspects of the UFO Syndrome” ([1983]({{ '/tags/1983' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0935834648/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0935834648/?&tag=ufot-21))

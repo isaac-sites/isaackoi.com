@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B00188IDHK", "0780800974", "0374133247", "0963916122"], "cover_image": "/book-covers/0780800974.jpg", "cover_source": "local-cache", "primary_isbn": "0780800974"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Brinsley Le Poer Trench]({{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }})'s book “[The Sky People]({{ '/ufo-history/ufo-books/trench-brinsley-le-poer-the-earl-of-clancarty-the-sky-people' | relative_url }})” ([1960]({{ '/tags/1960' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B00188IDHK/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B00188IDHK/?&tag=ufot-21))

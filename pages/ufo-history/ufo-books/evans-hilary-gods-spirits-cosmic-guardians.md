@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0850305977", "1578590299", "0780800974"], "cover_image": "/book-covers/0850305977.jpg", "cover_source": "local-cache", "primary_isbn": "0850305977"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }})'s book “[Gods, Spirits, Cosmic Guardians]({{ '/ufo-history/ufo-books/evans-hilary-gods-spirits-cosmic-guardians' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0850305977/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0850305977/?&tag=ufot-21))

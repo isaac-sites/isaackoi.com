@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0787300977", "1576072495", "1558887415", "0780800974", "0397317808", "0451204247", "1841196134", "0963916122", "0879756446", "0028623878", "0812817125", "B000AV48KC", "B0006CCFX2"], "cover_image": "/book-covers/0787300977.jpg", "cover_source": "local-cache", "primary_isbn": "0787300977"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Bernard, Raymond]({{ '/ufo-history/ufo-personalities/bernard-raymond' | relative_url }}) (pseudonym for Siegmeister, Walter) “[The Hollow Earth]({{ '/ufo-history/ufo-books/bernard-raymond-the-hollow-earth' | relative_url }})” ([1964]({{ '/tags/1964' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0787300977/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0787300977/?&tag=ufot-21))

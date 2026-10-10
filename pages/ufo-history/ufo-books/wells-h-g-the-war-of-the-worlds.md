@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0553213385", "0684848562", "0805204504", "0312262256", "0747212465", "0879750642", "0002570300", "1854105841", "0890092486", "0451204247", "1841196134", "0713727470", "185233097X", "0091879272", "081293248X", "0465004180", "0816038007", "1855859491", "0521620120", "0521343267", "0385112572", "0762101083", "0850305977", "0688036422", "0330264664", "B0007DXIH2", "0801497272", "0070278873", "075241450X", "1583940545", "1850438064", "0195128524", "0028623878", "0812885236", "0471846848", "0393026647", "1844035468", "0800855299", "1575440660", "0306457954", "B000IOHL3C", "0571223230", "0684816644", "0760704406", "0749921005", "0806918918", "1567312004", "1883319617", "0345331354", "0965377431", "B000S52VNG", "1854710559", "0738701068", "0399119353", "0952441780", "0802711057", "0141300167", "0312193475"], "cover_image": "/book-covers/0553213385.jpg", "cover_source": "local-cache", "primary_isbn": "0553213385"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of the novel “[The War of the Worlds]({{ '/ufo-history/ufo-books/wells-h-g-the-war-of-the-worlds' | relative_url }})” ([1898]({{ '/tags/1898' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0553213385/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0553213385/?&tag=ufot-21)) by [H G Wells]({{ '/ufo-history/ufo-personalities/wells-h-g' | relative_url }})

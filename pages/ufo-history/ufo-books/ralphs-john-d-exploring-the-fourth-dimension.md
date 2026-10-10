@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0875426557"], "cover_image": "/book-covers/0875426557.jpg", "cover_source": "local-cache", "primary_isbn": "0875426557"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Exploring the Fourth Dimension]({{ '/ufo-history/ufo-books/ralphs-john-d-exploring-the-fourth-dimension' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0875426557/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0875426557/?&tag=ufot-21)) by John D Ralphs.

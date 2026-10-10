@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["013117424X", "0631135634", "1558887423"], "cover_image": "/book-covers/013117424X.jpg", "cover_source": "local-cache", "primary_isbn": "013117424X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Raymond E Fowler]({{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }})'s book “[Casebook of a UFO Investigator]({{ '/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/013117424X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/013117424X/?&tag=ufot-21))

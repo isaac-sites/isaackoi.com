@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0738836125"], "cover_image": "/book-covers/0738836125.jpg", "cover_source": "local-cache", "primary_isbn": "0738836125"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Terry Hansen]({{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }})'s book “[The Missing Times: News Media Complicity in the UFO Cover-Up: News Media Complicity in the UFO Cover-Up]({{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0738836125/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0738836125/?&tag=ufot-21))

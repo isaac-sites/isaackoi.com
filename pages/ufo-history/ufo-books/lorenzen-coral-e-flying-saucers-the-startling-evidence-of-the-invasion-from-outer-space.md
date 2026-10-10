@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000BD1A2I", "B000EZY1RO", "0253190061", "B000ILEK2A"], "cover_image": "/book-covers/0253190061.jpg", "cover_source": "local-cache", "primary_isbn": "0253190061"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Coral E Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }})'s book “[Flying Saucers: the Startling Evidence of the Invasion from Outer Space]({{ '/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000BD1A2I/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000BD1A2I/?&tag=ufot-21))

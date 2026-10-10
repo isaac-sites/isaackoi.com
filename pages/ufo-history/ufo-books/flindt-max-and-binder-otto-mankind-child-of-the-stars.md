@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1886940061", "0806507632"], "primary_isbn": "1886940061", "cover_image": "https://covers.openlibrary.org/b/isbn/1886940061-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Max Flindt]({{ '/ufo-history/ufo-personalities/flindt-max' | relative_url }}) and [Otto Binder]({{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }})'s book “[Mankind – Child of the Stars]({{ '/ufo-history/ufo-books/flindt-max-and-binder-otto-mankind-child-of-the-stars' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1886940061/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1886940061/?&tag=ufot-21)).

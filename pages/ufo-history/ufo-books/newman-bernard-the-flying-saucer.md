@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000Q5SR2W", "0780800974", "1905646003", "0963916122", "0743497538", "1883319617", "0061474185", "1933665289", "0615249744", "B0006CPDGI"], "cover_image": "/book-covers/0780800974.jpg", "cover_source": "local-cache", "primary_isbn": "0780800974"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Bernard Newman's novel “[The Flying Saucer]({{ '/ufo-history/ufo-books/newman-bernard-the-flying-saucer' | relative_url }})” ([1948]({{ '/tags/1948' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000Q5SR2W/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000Q5SR2W/?&tag=ufot-21))

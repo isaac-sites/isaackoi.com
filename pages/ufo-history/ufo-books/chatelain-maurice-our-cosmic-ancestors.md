@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0929686004", "0060186429", "0760704406", "0944255000"], "cover_image": "/book-covers/0060186429.jpg", "cover_source": "local-cache", "primary_isbn": "0929686004"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Maurice Chatelain]({{ '/ufo-history/ufo-personalities/chatelain-maurice' | relative_url }})'s book “[Our Cosmic Ancestors]({{ '/ufo-history/ufo-books/chatelain-maurice-our-cosmic-ancestors' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0929686004/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0929686004/?&tag=ufot-21))

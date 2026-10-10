@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["034527086X", "1558883010", "B000RATSR4", "0253190061", "B000LBSNHU"], "cover_image": "/book-covers/1558883010.jpg", "cover_source": "local-cache", "primary_isbn": "034527086X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Challenge to Science – The UFO Enigma]({{ '/ufo-history/ufo-books/vallee-jacques-and-vallee-janine-challenge-to-science-the-ufo-enigma' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/034527086X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/034527086X/?&tag=ufot-21)) by [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}) and Janine Vallee.

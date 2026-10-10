@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000IYEI9C"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Mysteries of the Skies]({{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000IYEI9C/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000IYEI9C/?&tag=ufot-21)) by [Gordon Lore]({{ '/ufo-history/ufo-personalities/lore-gordon' | relative_url }}) and [Harold Deneault]({{ '/ufo-history/ufo-personalities/deneault-harold' | relative_url }})

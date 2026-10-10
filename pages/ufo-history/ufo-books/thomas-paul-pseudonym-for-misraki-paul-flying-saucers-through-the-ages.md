@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0000CMVM6", "0780800974", "0631135634", "0345270754"], "cover_image": "/book-covers/0780800974.jpg", "cover_source": "local-cache", "primary_isbn": "0780800974"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of "[Flying Saucers Through The Ages]({{ '/ufo-history/ufo-books/thomas-paul-pseudonym-for-misraki-paul-flying-saucers-through-the-ages' | relative_url }})” ([1973]({{ '/tags/1973' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CMVM6/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CMVM6/?&tag=ufot-21)) by [Paul Thomas]({{ '/ufo-history/ufo-personalities/thomas-paul' | relative_url }}) (a pseudonym for [Paul Misraki]({{ '/ufo-history/ufo-personalities/misraki-paul' | relative_url }})) “

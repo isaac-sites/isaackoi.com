@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0217697364", "1852277343", "0451204247", "1841196134", "0713727470", "1576072495", "0780800974", "0062586386", "0312962878", "0879517247", "0801484685", "0762101083", "0850305977", "0963916122", "1880090163", "0785271821", "0791423301", "078670800X", "1860197949", "1567312004", "051757165X", "0451195078", "0345270754", "1437520243"], "cover_image": "/book-covers/1852277343.jpg", "cover_source": "local-cache", "primary_isbn": "0217697364"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Theodore Flourney's book “[From India to the Planet Mars]({{ '/ufo-history/ufo-books/flourney-th-from-india-to-the-planet-mars' | relative_url }})” ([1900]({{ '/tags/1900' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0217697364/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0217697364/?&tag=ufot-21)).

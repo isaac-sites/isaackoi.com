@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0600572293"], "cover_image": "/book-covers/0600572293.jpg", "cover_source": "local-cache", "primary_isbn": "0600572293"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Blundell, Nigel and Boar, Roger “[The World’s Greatest UFO Mysteries]({{ '/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries' | relative_url }})” ([1986]({{ '/tags/1986' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0600572293/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0600572293/?&tag=ufot-21))

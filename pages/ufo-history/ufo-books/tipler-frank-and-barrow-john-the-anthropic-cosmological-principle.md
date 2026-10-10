@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0192821474", "0684848562", "0465004180", "038530532X", "0306457954", "0805070893", "0387955011", "0802711057", "0880642262"], "cover_image": "/book-covers/0192821474.jpg", "cover_source": "local-cache", "primary_isbn": "0192821474"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Anthropic Cosmological Principle]({{ '/ufo-history/ufo-books/tipler-frank-and-barrow-john-the-anthropic-cosmological-principle' | relative_url }})” ([1986]({{ '/tags/1986' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0192821474/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0192821474/?&tag=ufot-21)) by [Frank Tipler]({{ '/ufo-history/ufo-personalities/tipler-frank' | relative_url }}) and John Barrow.

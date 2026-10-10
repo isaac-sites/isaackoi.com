@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1569243425", "0963916122"], "cover_image": "/book-covers/1569243425.jpg", "cover_source": "local-cache", "primary_isbn": "1569243425"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Stanton Friedman]({{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }})'s book “[Top Secret – MAJIC]({{ '/ufo-history/ufo-books/friedman-stanton-t-top-secret-majic' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1569243425/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1569243425/?&tag=ufot-21))

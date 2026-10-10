@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0713727330"], "cover_image": "/book-covers/0713727330.jpg", "cover_source": "local-cache", "primary_isbn": "0713727330"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Tim Matthews]({{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }})' book “[UFO Revelation]({{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0713727330/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0713727330/?&tag=ufot-21))

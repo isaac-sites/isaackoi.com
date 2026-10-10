@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0137307136", "087542001X", "0747212465", "0952151200", "0312959354", "0380706547", "0713722096", "0850308097", "B000S2L0EK", "0762101083", "0850303508", "0253190061", "0752512277", "0713723629", "020072195X", "0380768879", "0385136773", "0809463245"], "cover_image": "/book-covers/0137307136.jpg", "cover_source": "local-cache", "primary_isbn": "0137307136"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Harley D Rutledge]({{ '/ufo-history/ufo-personalities/rutledge-harley-d' | relative_url }})'s book “[Project Identification]({{ '/ufo-history/ufo-books/rutledge-harley-d-project-identification' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0137307136/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0137307136/?&tag=ufot-21)).

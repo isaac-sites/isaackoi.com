@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0060922583", "1883729025", "0926524429", "0312968353", "1416516778", "0060176539", "0880642262"], "cover_image": "/book-covers/0060922583.jpg", "cover_source": "local-cache", "primary_isbn": "0060922583"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Michael Talbot]({{ '/ufo-history/ufo-personalities/talbot-michael' | relative_url }})'s book “[The Holographic Universe]({{ '/ufo-history/ufo-books/talbot-michael-the-holographic-universe' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0060922583/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0060922583/?&tag=ufot-21))

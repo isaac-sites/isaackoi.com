@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0385136773", "0451204247", "0631135634", "051757165X", "1841196134"], "cover_image": "/book-covers/0385136773.jpg", "cover_source": "local-cache", "primary_isbn": "0385136773"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Encyclopedia of UFOs]({{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0385136773/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0385136773/?&tag=ufot-21)) edited by [Ronald Story]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}) and [J Richard Greenwell]({{ '/ufo-history/ufo-personalities/greenwell-j-richard' | relative_url }})

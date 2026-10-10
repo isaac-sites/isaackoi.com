@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0812817125", "1573929905"], "cover_image": "/book-covers/0812817125.jpg", "cover_source": "local-cache", "primary_isbn": "0812817125"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of John Sladek's book “[The New Apocrypha]({{ '/ufo-history/ufo-books/sladek-john-the-new-apocrypha' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0812817125/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0812817125/?&tag=ufot-21))

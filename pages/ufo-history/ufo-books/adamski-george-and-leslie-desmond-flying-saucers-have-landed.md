@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0000CIN6B", "0380706547", "1931044325", "0780800974", "1905646003", "B0007EWCY6", "0374133247", "B0007DXIH2", "1892062410", "0385035969", "1560983434", "0060141417", "0963530941", "1556431252"], "cover_image": "/book-covers/0380706547.jpg", "cover_source": "local-cache", "primary_isbn": "0380706547"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [George Adamski]({{ '/ufo-history/ufo-personalities/adamski-george' | relative_url }}) and [Desmond Leslie]({{ '/ufo-history/ufo-personalities/leslie-desmond' | relative_url }})'s book “[Flying Saucers Have Landed]({{ '/ufo-history/ufo-books/adamski-george-and-leslie-desmond-flying-saucers-have-landed' | relative_url }})” ([1953]({{ '/tags/1953' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CIN6B/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CIN6B/?&tag=ufot-21))

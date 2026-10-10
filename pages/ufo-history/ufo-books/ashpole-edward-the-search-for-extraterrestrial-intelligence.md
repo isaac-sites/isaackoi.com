@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["071371963X"], "cover_image": "/book-covers/071371963X.jpg", "cover_source": "local-cache", "primary_isbn": "071371963X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Edward Ashpole]({{ '/ufo-history/ufo-personalities/ashpole-edward' | relative_url }})'s book “[The Search for Extraterrestrial Intelligence]({{ '/ufo-history/ufo-books/ashpole-edward-the-search-for-extraterrestrial-intelligence' | relative_url }})“ (Revised edition published in [1997]({{ '/tags/1997' | relative_url }}) under the title “Where is Everybody?”) ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/071371963X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/071371963X/?&tag=ufot-21))

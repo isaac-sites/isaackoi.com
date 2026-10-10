@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0520224329"], "cover_image": "/book-covers/0520224329.jpg", "cover_source": "local-cache", "primary_isbn": "0520224329"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Brenda Denzler]({{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }})'s book “[The Lure of the Edge]({{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0520224329/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0520224329/?&tag=ufot-21))

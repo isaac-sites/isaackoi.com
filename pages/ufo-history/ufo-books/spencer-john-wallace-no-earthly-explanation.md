@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0686101685", "0963916122", "1841196134", "0451204247"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0686101685"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [John Wallace Spencer]({{ '/ufo-history/ufo-personalities/spencer-john-wallace' | relative_url }})'s book “[No Earthly Explanation]({{ '/ufo-history/ufo-books/spencer-john-wallace-no-earthly-explanation' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0686101685/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0686101685/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1930749023", "1905646003", "0688088643", "074810142X", "0963916122", "075251217X", "B000S2L0EK"], "cover_image": "/book-covers/0688088643.jpg", "cover_source": "local-cache", "primary_isbn": "1930749023"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Encounters With UFOs]({{ '/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1930749023/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1930749023/?&tag=ufot-21)) by John Weldon and Zola Levitt.

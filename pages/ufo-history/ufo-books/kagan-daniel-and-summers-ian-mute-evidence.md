@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0553233181", "0780800974", "1560983434", "0963916122", "0060186429"], "cover_image": "/book-covers/0553233181.jpg", "cover_source": "local-cache", "primary_isbn": "0553233181"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Mute Evidence]({{ '/ufo-history/ufo-books/kagan-daniel-and-summers-ian-mute-evidence' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0553233181/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0553233181/?&tag=ufot-21)) by Daniel Kagan and Ian Summers.

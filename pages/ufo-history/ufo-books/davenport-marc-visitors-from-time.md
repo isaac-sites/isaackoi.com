@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1883729025", "1576072495", "0926524429"], "cover_image": "/book-covers/1576072495.jpg", "cover_source": "local-cache", "primary_isbn": "1883729025"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Marc Davenport]({{ '/ufo-history/ufo-personalities/davenport-marc' | relative_url }})'s book“[Visitors from Time]({{ '/ufo-history/ufo-books/davenport-marc-visitors-from-time' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1883729025/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1883729025/?&tag=ufot-21))

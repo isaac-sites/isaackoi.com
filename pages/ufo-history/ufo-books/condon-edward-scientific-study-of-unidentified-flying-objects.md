@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000EZY1RO"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 This book is a publication of the Condon Report.

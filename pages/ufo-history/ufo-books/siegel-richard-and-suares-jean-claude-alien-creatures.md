@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0891695214"], "primary_isbn": "0891695214", "cover_image": "https://covers.openlibrary.org/b/isbn/0891695214-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Alien Creatures]({{ '/ufo-history/ufo-books/siegel-richard-and-suares-jean-claude-alien-creatures' | relative_url }})” ([1978]({{ '/tags/1978' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0891695214/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0891695214/?&tag=ufot-21)) by Richard Siegel and Jean-Claude Suares.

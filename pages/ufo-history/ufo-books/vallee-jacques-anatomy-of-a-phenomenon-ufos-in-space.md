@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0345270754", "1558883010", "0451204247", "1841196134", "0963916122", "0964491702", "B000RATSR4", "0253190061", "1573929905", "B000NLQNZC", "0815970005", "B000ILEK2A", "0345345258", "0449908372"], "cover_image": "/book-covers/0345270754.jpg", "cover_source": "local-cache", "primary_isbn": "0345270754"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Anatomy of a Phenomenon: UFOs in Space]({{ '/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345270754/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345270754/?&tag=ufot-21))
