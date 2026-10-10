@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0684166550", "051757165X", "067402401X"], "cover_image": "/book-covers/0684166550.jpg", "cover_source": "local-cache", "primary_isbn": "0684166550"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Science and the Paranormal]({{ '/ufo-history/ufo-books/abell-george-o-and-singer-barry-ed-science-and-the-paranormal' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0684166550/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0684166550/?&tag=ufot-21)), edited by George Abell and Barry Singer.

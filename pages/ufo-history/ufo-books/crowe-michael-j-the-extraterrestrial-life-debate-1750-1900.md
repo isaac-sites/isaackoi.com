@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["048640675X"], "cover_image": "/book-covers/048640675X.jpg", "cover_source": "local-cache", "primary_isbn": "048640675X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Crowe, Michael J]({{ '/ufo-history/ufo-personalities/crowe-michael-j' | relative_url }})'s book “[The Extraterrestrial Life Debate, 1750-1900]({{ '/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900' | relative_url }})” ([1986]({{ '/tags/1986' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/048640675X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/048640675X/?&tag=ufot-21))

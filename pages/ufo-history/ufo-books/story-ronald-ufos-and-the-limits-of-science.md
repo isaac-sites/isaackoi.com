@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0688001572", "0631135634", "0850303508"], "cover_image": "/book-covers/0688001572.jpg", "cover_source": "local-cache", "primary_isbn": "0688001572"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Ronald Story]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }})'s book “[UFOs and the Limits of Science]({{ '/ufo-history/ufo-books/story-ronald-ufos-and-the-limits-of-science' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0688001572/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0688001572/?&tag=ufot-21))

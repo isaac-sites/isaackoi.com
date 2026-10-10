@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000C0L3W2", "1905646003"], "primary_isbn": "1905646003", "cover_image": "https://covers.openlibrary.org/b/isbn/1905646003-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Robert Chapman]({{ '/ufo-history/ufo-personalities/chapman-robert' | relative_url }})'s book “[UFO: Flying Saucers Over Britain?]({{ '/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain' | relative_url }})” (also published as “Unidentified Flying Objects”) ([1969]({{ '/tags/1969' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000C0L3W2/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000C0L3W2/?&tag=ufot-21))

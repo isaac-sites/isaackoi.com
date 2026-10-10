@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["015136415X", "1578590299", "0397317808", "074810142X", "0922915679", "B000S2L0EK", "0879753382", "1573922137", "0441015719"], "cover_image": "/book-covers/015136415X.jpg", "cover_source": "local-cache", "primary_isbn": "015136415X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Brad Steiger]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }})'s book “[Gods of Aquarius]({{ '/ufo-history/ufo-books/steiger-brad-gods-of-aquarius' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/015136415X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/015136415X/?&tag=ufot-21))

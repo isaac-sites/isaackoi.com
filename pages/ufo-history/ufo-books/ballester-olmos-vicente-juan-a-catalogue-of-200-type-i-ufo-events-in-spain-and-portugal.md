@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0850303508"], "primary_isbn": "0850303508", "cover_image": "https://covers.openlibrary.org/b/isbn/0850303508-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Vicente-Juan Ballester Olmos]({{ '/ufo-history/ufo-personalities/ballester-olmos-vicente-juan' | relative_url }}) “[A Catalogue of 200 Type-I UFO Events in Spain and Portugal]({{ '/ufo-history/ufo-books/ballester-olmos-vicente-juan-a-catalogue-of-200-type-i-ufo-events-in-spain-and-portugal' | relative_url }})"

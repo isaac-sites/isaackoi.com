@@ -14,6 +14,7 @@ header: {"preview_image": "/images/stories/ufo_videos/video112_1.JPG"}
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-07-31 16:15:06 +0000
 ---
 
 # Koi UFO Video 112: "Ball Lightning" UFO over Canberra (2016)

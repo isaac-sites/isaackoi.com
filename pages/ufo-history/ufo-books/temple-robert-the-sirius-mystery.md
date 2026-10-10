@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["089281750X", "0801057914", "071371963X", "1850585768", "0713727195", "1852277343", "0583302920", "0312877854", "1857781589", "0713725184", "0780800974", "0713727829", "0451204247", "1841196134", "0963916122", "0747236038", "0738836125", "075241450X", "079740533X", "1583940545", "0896960404", "3931652319", "034069582X", "0684166550", "0553107224", "0940829029", "0919654703", "0671038923", "0747235082", "0352397764", "1903047889", "0898651026", "184358073X", "0760704406", "0806904763", "1860192009", "0060135891", "1567312004", "1883319463", "0345336895", "1891824376", "1881852024", "1575000237", "B000S52VNG", "1854710559", "0312352166", "0285633155", "0713726008", "0880642262", "0752517856"], "cover_image": "/book-covers/089281750X.jpg", "cover_source": "local-cache", "primary_isbn": "089281750X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Robert Temple]({{ '/ufo-history/ufo-personalities/temple-robert' | relative_url }})'s book “[The Sirius Mystery]({{ '/ufo-history/ufo-books/temple-robert-the-sirius-mystery' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/089281750X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/089281750X/?&tag=ufot-21))

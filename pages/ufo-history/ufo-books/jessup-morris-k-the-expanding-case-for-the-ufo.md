@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0014N3XLK", "1558887415", "0385136773"], "cover_image": "/book-covers/0385136773.jpg", "cover_source": "local-cache", "primary_isbn": "1558887415"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Morris K Jessup]({{ '/ufo-history/ufo-personalities/jessup-morris-k' | relative_url }})'s book “[The Expanding Case for the UFO]({{ '/ufo-history/ufo-books/jessup-morris-k-the-expanding-case-for-the-ufo' | relative_url }})” ([1957]({{ '/tags/1957' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0014N3XLK/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0014N3XLK/?&tag=ufot-21))

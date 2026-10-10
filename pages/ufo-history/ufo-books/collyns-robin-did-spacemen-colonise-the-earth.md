@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0583124992", "0963916122", "1841196134", "0451204247"], "cover_image": "/book-covers/0583124992.jpg", "cover_source": "local-cache", "primary_isbn": "0583124992"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Robin Collyns]({{ '/ufo-history/ufo-personalities/collyns-robin' | relative_url }})' book “[Did Spacemen Colonise The Earth?]({{ '/ufo-history/ufo-books/collyns-robin-did-spacemen-colonise-the-earth' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0583124992/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0583124992/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["044689396X", "0451204247", "1841196134", "0963916122"], "cover_image": "/book-covers/044689396X.jpg", "cover_source": "local-cache", "primary_isbn": "044689396X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Baxter, John and Aktins, Thomas “[The Fire Came By]({{ '/ufo-history/ufo-books/baxter-john-and-aktins-thomas-the-fire-came-by' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/044689396X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/044689396X/?&tag=ufot-21))

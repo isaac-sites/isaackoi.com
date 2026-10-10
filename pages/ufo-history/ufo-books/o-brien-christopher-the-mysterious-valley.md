@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0312958838"], "cover_image": "/book-covers/0312958838.jpg", "cover_source": "local-cache", "primary_isbn": "0312958838"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Mysterious Valley]({{ '/ufo-history/ufo-books/o-brien-christopher-the-mysterious-valley' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0312958838/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0312958838/?&tag=ufot-21)) by Christopher O’ Brien.

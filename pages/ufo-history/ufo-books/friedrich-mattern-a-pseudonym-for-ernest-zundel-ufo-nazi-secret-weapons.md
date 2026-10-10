@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0006CXHSO", "1576072495", "0963916122", "0312962878"], "cover_image": "/book-covers/1576072495.jpg", "cover_source": "local-cache", "primary_isbn": "1576072495"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFO: Nazi Secret Weapons?]({{ '/ufo-history/ufo-books/friedrich-mattern-a-pseudonym-for-ernest-zundel-ufo-nazi-secret-weapons' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0006CXHSO/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0006CXHSO/?&tag=ufot-21)) by Mattern Friedrich (a pseudonym for Ernest Zundel).

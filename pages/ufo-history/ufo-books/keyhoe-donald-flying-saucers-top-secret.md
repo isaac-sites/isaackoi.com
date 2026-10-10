@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0007F2EIY", "1571743170", "0253190061", "1560983434", "0449908372"], "cover_image": "/book-covers/1571743170.jpg", "cover_source": "local-cache", "primary_isbn": "1571743170"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Donald Keyhoe]({{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }})'s book “[Flying Saucers: Top Secret]({{ '/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret' | relative_url }})” ([1960]({{ '/tags/1960' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0007F2EIY/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0007F2EIY/?&tag=ufot-21))

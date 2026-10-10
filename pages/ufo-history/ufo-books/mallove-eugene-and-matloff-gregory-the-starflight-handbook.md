@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0471619124", "0520224531", "0312877854", "185233097X"], "cover_image": "/book-covers/0471619124.jpg", "cover_source": "local-cache", "primary_isbn": "0471619124"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Starflight Handbook]({{ '/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0471619124/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0471619124/?&tag=ufot-21)) by Eugene Mallove and Gregory Matloff.

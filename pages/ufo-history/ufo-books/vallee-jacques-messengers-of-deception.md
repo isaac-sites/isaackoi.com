@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["097572004X", "0874514223", "1578590299", "1558883010", "1558887423", "0688088643", "0451204247", "1841196134", "0963916122", "B000OVBWKC", "0451094727", "0345373960", "0880642262"], "cover_image": "/book-covers/097572004X.jpg", "cover_source": "local-cache", "primary_isbn": "097572004X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Vallee, Jacques]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Messengers of Deception]({{ '/ufo-history/ufo-books/vallee-jacques-messengers-of-deception' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/097572004X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/097572004X/?&tag=ufot-21))

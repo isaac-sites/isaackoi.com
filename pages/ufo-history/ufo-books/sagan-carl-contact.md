@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0671004107"], "cover_image": "/book-covers/0671004107.jpg", "cover_source": "local-cache", "primary_isbn": "0671004107"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[Contact]({{ '/ufo-history/ufo-books/sagan-carl-contact' | relative_url }})” ([1985]({{ '/tags/1985' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0671004107/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0671004107/?&tag=ufot-21)).

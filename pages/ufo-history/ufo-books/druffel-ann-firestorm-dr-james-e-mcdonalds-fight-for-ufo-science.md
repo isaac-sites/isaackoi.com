@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0926524585"], "cover_image": "/book-covers/0926524585.jpg", "cover_source": "local-cache", "primary_isbn": "0926524585"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Ann Druffel]({{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }})'s book “[Firestorm: Dr James E McDonald's Fight for UFO Science]({{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0926524585/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0926524585/?&tag=ufot-21))

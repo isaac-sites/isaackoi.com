@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0306456214"], "cover_image": "/book-covers/0306456214.jpg", "cover_source": "local-cache", "primary_isbn": "0306456214"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Albert A Harrison]({{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }})'s book “[After Contact: The Human Response to Extraterrestrial Life]({{ '/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0306456214/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0306456214/?&tag=ufot-21))

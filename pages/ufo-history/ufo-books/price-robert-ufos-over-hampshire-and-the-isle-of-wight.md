@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1854550373"], "primary_isbn": "1854550373", "cover_image": "https://covers.openlibrary.org/b/isbn/1854550373-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Robert Price's book “[UFOs Over Hampshire and the Isle of Wight]({{ '/ufo-history/ufo-books/price-robert-ufos-over-hampshire-and-the-isle-of-wight' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1854550373/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1854550373/?&tag=ufot-21))

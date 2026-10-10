@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000PWFB2A", "0767906284", "0747271461", "0060186429", "0713727330", "0684836300", "0399124217"], "cover_image": "/book-covers/0767906284.jpg", "cover_source": "local-cache", "primary_isbn": "0767906284"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Rudolph Lusar's book “[German Secret Weapons of World War II]({{ '/ufo-history/ufo-books/lusar-rudolph-german-secret-weapons-of-world-war-ii' | relative_url }})” ([1959]({{ '/tags/1959' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000PWFB2A/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000PWFB2A/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0944255000"], "cover_image": "/book-covers/0944255000.jpg", "cover_source": "local-cache", "primary_isbn": "0944255000"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon]({{ '/ufo-history/ufo-books/ross-daniel-ufos-and-the-complete-evidence-from-space-the-truth-about-venus-mars-and-the-moon' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0944255000/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0944255000/?&tag=ufot-21)) by Daniel Ross.

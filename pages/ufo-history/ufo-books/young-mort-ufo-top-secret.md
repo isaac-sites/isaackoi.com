@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0671102125"], "cover_image": "/book-covers/0671102125.jpg", "cover_source": "local-cache", "primary_isbn": "0671102125"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Mort Young]({{ '/ufo-history/ufo-personalities/young-mort' | relative_url }})'s book “[UFO Top Secret]({{ '/ufo-history/ufo-books/young-mort-ufo-top-secret' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0671102125/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0671102125/?&tag=ufot-21))

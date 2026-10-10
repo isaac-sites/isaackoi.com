@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000LBSNHU", "0929398947", "1571743170", "0253190061", "0631135634", "0815970005", "0880642262", "0312193475"], "cover_image": "/book-covers/0929398947.jpg", "cover_source": "local-cache", "primary_isbn": "0929398947"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFOs? Yes!]({{ '/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000LBSNHU/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000LBSNHU/?&tag=ufot-21)) by [David R Saunders]({{ '/ufo-history/ufo-personalities/saunders-david-r' | relative_url }}) and R Roger Harkins.

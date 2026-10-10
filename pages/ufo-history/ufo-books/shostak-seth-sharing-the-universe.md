@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0965377431"], "cover_image": "/book-covers/0965377431.jpg", "cover_source": "local-cache", "primary_isbn": "0965377431"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Seth Shostak]({{ '/ufo-history/ufo-personalities/shostak-seth' | relative_url }})'s book “[Sharing the Universe]({{ '/ufo-history/ufo-books/shostak-seth-sharing-the-universe' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0965377431/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0965377431/?&tag=ufot-21))

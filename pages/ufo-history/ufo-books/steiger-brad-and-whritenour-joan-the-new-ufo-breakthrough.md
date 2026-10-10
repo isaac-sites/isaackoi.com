@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000AV48KC", "0815970005"], "cover_image": "/book-covers/0815970005.jpg", "cover_source": "local-cache", "primary_isbn": "0815970005"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The New UFO Breakthrough]({{ '/ufo-history/ufo-books/steiger-brad-and-whritenour-joan-the-new-ufo-breakthrough' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000AV48KC/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000AV48KC/?&tag=ufot-21)) by [Brad Steiger]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) and Joan Whritenour.

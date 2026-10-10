@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0595186947", "1558887423", "B000RATSR4", "0130366080"], "cover_image": "/book-covers/0595186947.jpg", "cover_source": "local-cache", "primary_isbn": "0595186947"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Raymond E Fowler]({{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }})'s book “[UFOs: Interplanetary Visitors]({{ '/ufo-history/ufo-books/fowler-raymond-e-ufos-interplanetary-visitors' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0595186947/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0595186947/?&tag=ufot-21))

@@ -14,6 +14,7 @@ header: {"preview_image": "/images/stories/ufo_personalities/pugh_randall_jones_
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 ![pugh_randall_jones_1]({{ '/images/stories/ufo_personalities/pugh_randall_jones_1.jpg' | relative_url }})

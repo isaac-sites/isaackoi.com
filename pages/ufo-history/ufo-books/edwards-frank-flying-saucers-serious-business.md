@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0006BOERI", "0713725184", "0396079903", "0521620120", "0521343267", "1571743170", "0451204247", "1841196134", "0963916122", "0253190061", "B000IW5ULY", "1560983434", "0671005332", "0425033198", "0345345258"], "cover_image": "/book-covers/0396079903.jpg", "cover_source": "local-cache", "primary_isbn": "0713725184"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Frank Edwards]({{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }})'s book “[Flying Saucers – Serious Business]({{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0006BOERI/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0006BOERI/?&tag=ufot-21)).

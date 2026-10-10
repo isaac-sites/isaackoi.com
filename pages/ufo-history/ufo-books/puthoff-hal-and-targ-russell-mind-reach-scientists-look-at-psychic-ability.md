@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0440056888", "0879755040", "0312875150"], "cover_image": "/book-covers/0312875150.jpg", "cover_source": "local-cache", "primary_isbn": "0440056888"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Mind-Reach: Scientists Look at Psychic Ability]({{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0440056888/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0440056888/?&tag=ufot-21)) by [Hal Puthoff]({{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}) and [Russell Targ]({{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }})

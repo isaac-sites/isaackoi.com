@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["189280302X", "0684848562", "038511396X", "0816511195", "0926524267", "0688144861", "0471395366", "0521620120", "0521343267", "038530532X", "0451204247", "1841196134", "0963916122", "075241450X", "1583940545", "0195128524", "0805057668", "0345336895", "0815970005", "0393029905", "1852839244", "B00005X52F"], "cover_image": "/book-covers/189280302X.jpg", "cover_source": "local-cache", "primary_isbn": "189280302X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Intelligent Life in the Universe]({{ '/ufo-history/ufo-books/shklovskii-i-s-and-sagan-carl-intelligent-life-in-the-universe' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/189280302X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/189280302X/?&tag=ufot-21)) by [I S Shklovskii]({{ '/ufo-history/ufo-personalities/shklovskii-i-s' | relative_url }}) and [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}).

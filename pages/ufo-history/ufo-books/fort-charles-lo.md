@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1604595809", "1578590299", "1558887415", "0780800974"], "cover_image": "/book-covers/1578590299.jpg", "cover_source": "local-cache", "primary_isbn": "1604595809"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Charles Fort]({{ '/ufo-history/ufo-personalities/fort-charles' | relative_url }})'s book “[Lo!]({{ '/ufo-history/ufo-books/fort-charles-lo' | relative_url }})” ([1931]({{ '/tags/1931' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1604595809/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1604595809/?&tag=ufot-21)).

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0970505507", "1900486466"], "cover_image": "/book-covers/0970505507.jpg", "cover_source": "local-cache", "primary_isbn": "0970505507"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Captain Edward J Ruppelt: Summer of the Saucers - 1952]({{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0970505507/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0970505507/?&tag=ufot-21)) by [Michael David Hall]({{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}) and [Wendy Ann Connors]({{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }})

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0060804998"], "cover_image": "/book-covers/0060804998.jpg", "cover_source": "local-cache", "primary_isbn": "0060804998"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Worlds Beyond]({{ '/ufo-history/ufo-books/geis-larry-and-florin-fabrice-editors-worlds-beyond' | relative_url }})” ([1978]({{ '/tags/1978' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0060804998/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0060804998/?&tag=ufot-21)) edited by Larry Geis and Fabrice Florin. Also published under the title “Moving Into Space: The Myths and Realities of Extraterrestrial Life”

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1569247331", "0816038007", "0451204247", "1841196134", "0963916122", "1560983434", "0713724935", "1573922137"], "cover_image": "/book-covers/1569247331.jpg", "cover_source": "local-cache", "primary_isbn": "1569247331"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Stanton Friedman]({{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}) and [Don Berliner]({{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }})'s book “[Crash at Corona]({{ '/ufo-history/ufo-books/friedman-stanton-and-don-berliner-crash-at-corona' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1569247331/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1569247331/?&tag=ufot-21))

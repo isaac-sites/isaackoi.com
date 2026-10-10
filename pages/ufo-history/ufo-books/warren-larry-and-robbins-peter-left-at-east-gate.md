@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["159605753X", "0713726555"], "cover_image": "/book-covers/159605753X.jpg", "cover_source": "local-cache", "primary_isbn": "159605753X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Left at East Gate]({{ '/ufo-history/ufo-books/warren-larry-and-robbins-peter-left-at-east-gate' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/159605753X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/159605753X/?&tag=ufot-21)) by [Larry Warren]({{ '/ufo-history/ufo-personalities/warren-larry' | relative_url }}) and [Peter Robbins]({{ '/ufo-history/ufo-personalities/robbins-peter' | relative_url }}).

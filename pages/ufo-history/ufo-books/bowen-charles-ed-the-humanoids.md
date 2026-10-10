@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000GGZYWC", "1905646003", "0520224329", "0451204247", "1841196134", "0963916122", "0449135691", "B000RATSR4", "0631135634"], "cover_image": "/book-covers/0520224329.jpg", "cover_source": "local-cache", "primary_isbn": "1905646003"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Humanoids]({{ '/ufo-history/ufo-books/bowen-charles-ed-the-humanoids' | relative_url }})” ([1969]({{ '/tags/1969' | relative_url }})), edited by [Charles Bowen]({{ '/ufo-history/ufo-personalities/bowen-charles' | relative_url }})(available [on Amazon USA](https://www.amazon.com/dp/B000GGZYWC/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000GGZYWC/?&tag=ufot-21))

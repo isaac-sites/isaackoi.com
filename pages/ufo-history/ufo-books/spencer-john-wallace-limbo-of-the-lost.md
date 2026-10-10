@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000GE5320", "0380004658"], "cover_image": "/book-covers/0380004658.jpg", "cover_source": "local-cache", "primary_isbn": "0380004658"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [John Wallace Spencer]({{ '/ufo-history/ufo-personalities/spencer-john-wallace' | relative_url }})'s book “[Limbo of the Lost]({{ '/ufo-history/ufo-books/spencer-john-wallace-limbo-of-the-lost' | relative_url }})” ([1969]({{ '/tags/1969' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000GE5320/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000GE5320/?&tag=ufot-21))

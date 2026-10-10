@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0926524224", "1852277343", "0743466748", "0753704250", "0753700875", "1558887423", "0312962878", "0926524429", "0451204247", "1841196134", "0926524305", "1870870999", "038078128X", "0312867085", "1573922447", "0684839733", "0786883960", "0963530941"], "cover_image": "/book-covers/0926524224.jpg", "cover_source": "local-cache", "primary_isbn": "0926524224"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Raymond E Fowler]({{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }})'s book “[The Allagash Abductions]({{ '/ufo-history/ufo-books/fowler-raymond-e-the-allagash-abductions' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0926524224/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0926524224/?&tag=ufot-21)).

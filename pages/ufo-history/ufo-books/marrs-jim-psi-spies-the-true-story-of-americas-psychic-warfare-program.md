@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1564149609"], "cover_image": "/book-covers/1564149609.jpg", "cover_source": "local-cache", "primary_isbn": "1564149609"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Jim Marrs]({{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }})' book “[PSI Spies: The True Story of America’s Psychic Warfare Program]({{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }})” ([2007]({{ '/tags/2007' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1564149609/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1564149609/?&tag=ufot-21))

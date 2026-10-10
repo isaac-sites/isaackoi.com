@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1573929905"], "cover_image": "/book-covers/1573929905.jpg", "cover_source": "local-cache", "primary_isbn": "1573929905"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [John Moffitt]({{ '/ufo-history/ufo-personalities/moffitt-john' | relative_url }})'s book “[Picturing Extraterrestrials: Alien Images in Modern Mass Culture]({{ '/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1573929905/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1573929905/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0345409469", "0684848562", "0471395366", "0801484685", "0451204247", "1841196134", "0963916122", "1601630115", "1569243425", "0805057668"], "cover_image": "/book-covers/0345409469.jpg", "cover_source": "local-cache", "primary_isbn": "0345409469"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[The Demon Haunted World]({{ '/ufo-history/ufo-books/sagan-carl-the-demon-haunted-world' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345409469/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345409469/?&tag=ufot-21))

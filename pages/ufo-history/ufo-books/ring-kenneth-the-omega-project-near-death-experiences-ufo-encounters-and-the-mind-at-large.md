@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["068810729X", "1575000229", "1852277343", "0964491702", "1578590299", "1576072495", "1558887423", "0780800974", "0062586386", "092652433X", "0520224329", "0926524429", "0963916122", "0926524305", "1401000827", "0306456214", "0713727977", "1893183025", "0684195399", "1860194095", "0760704406", "0806981326", "0806938560", "0749921005", "0749914114", "0140179534", "1852839244", "0963530941", "1862041350"], "cover_image": "/book-covers/068810729X.jpg", "cover_source": "local-cache", "primary_isbn": "068810729X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Kenneth Ring]({{ '/ufo-history/ufo-personalities/ring-kenneth' | relative_url }})'s book “[The Omega Project: Near-Death Experiences, UFO Encounters, and the Mind at Large]({{ '/ufo-history/ufo-books/ring-kenneth-the-omega-project-near-death-experiences-ufo-encounters-and-the-mind-at-large' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/068810729X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/068810729X/?&tag=ufot-21))

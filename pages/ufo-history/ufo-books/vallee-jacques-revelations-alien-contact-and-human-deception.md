@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1933665300", "1575000229", "1558887423", "0451204247", "1841196134", "0963916122", "1880090627", "0880642262"], "cover_image": "/book-covers/1933665300.jpg", "cover_source": "local-cache", "primary_isbn": "1933665300"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Revelations: Alien Contact and Human Deception]({{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1933665300/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1933665300/?&tag=ufot-21))

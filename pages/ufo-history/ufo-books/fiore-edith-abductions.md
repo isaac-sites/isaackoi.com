@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0283999012", "0760707642", "0801484685", "092652433X", "0312867085"], "cover_image": "/book-covers/0760707642.jpg", "cover_source": "local-cache", "primary_isbn": "0283999012"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Edith Fiore's book “[Abductions]({{ '/ufo-history/ufo-books/fiore-edith-abductions' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0283999012/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0283999012/?&tag=ufot-21)).

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0747261415"], "cover_image": "/book-covers/0747261415.jpg", "cover_source": "local-cache", "primary_isbn": "0747261415"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Tony Dodd]({{ '/ufo-history/ufo-personalities/dodd-tony' | relative_url }})'s book “[Alien Investigator]({{ '/ufo-history/ufo-books/dodd-tony-alien-investigator' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0747261415/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0747261415/?&tag=ufot-21))

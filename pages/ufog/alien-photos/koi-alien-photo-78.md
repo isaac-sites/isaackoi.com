@@ -14,6 +14,7 @@ header: {"preview_image": null}
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-07-31 16:15:06 +0000
 ---
 
 ![koi_ap_78_a]({{ '/images/stories/alien_photos/koi_ap_78_a.jpg' | relative_url }})

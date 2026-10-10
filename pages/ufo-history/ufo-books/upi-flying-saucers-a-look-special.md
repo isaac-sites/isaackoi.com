@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000HC1NYI", "0394450035", "B000EZY1RO", "0929398947"], "cover_image": "/book-covers/0929398947.jpg", "cover_source": "local-cache", "primary_isbn": "0394450035"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Flying Saucers: A Look Special]({{ '/ufo-history/ufo-books/upi-flying-saucers-a-look-special' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000HC1NYI/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000HC1NYI/?&tag=ufot-21)), a report/magazine published by the editors of United Press International and Cowles Communications Inc.

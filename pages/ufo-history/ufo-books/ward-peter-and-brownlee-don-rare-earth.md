@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0387952896", "0091879272", "0596000375", "0451204247", "1841196134", "0387955011"], "cover_image": "/book-covers/0387952896.jpg", "cover_source": "local-cache", "primary_isbn": "0387952896"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Rare Earth]({{ '/ufo-history/ufo-books/ward-peter-and-brownlee-don-rare-earth' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0387952896/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0387952896/?&tag=ufot-21)) by Peter Ward and Don Brownlee.

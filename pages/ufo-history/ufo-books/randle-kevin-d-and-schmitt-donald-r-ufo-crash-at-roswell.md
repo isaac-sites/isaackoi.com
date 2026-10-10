@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B00137C3LI", "0760702187", "0816038007", "1569243425", "0440236134", "1560983434", "0380798530", "0713724935", "1573922137"], "cover_image": "/book-covers/0760702187.jpg", "cover_source": "local-cache", "primary_isbn": "0760702187"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFO Crash at Roswell]({{ '/ufo-history/ufo-books/randle-kevin-d-and-schmitt-donald-r-ufo-crash-at-roswell' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B00137C3LI/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B00137C3LI/?&tag=ufot-21)) by [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}) and [Donald Schmitt]({{ '/ufo-history/ufo-personalities/schmitt-donald-r' | relative_url }}).

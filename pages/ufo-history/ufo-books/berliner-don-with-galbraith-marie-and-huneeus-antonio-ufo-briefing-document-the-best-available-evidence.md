@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["044023638X", "0762406194", "0967323827", "1569247811", "1885395175", "0871318563", "1893302563", "0312193475"], "cover_image": "/book-covers/044023638X.jpg", "cover_source": "local-cache", "primary_isbn": "044023638X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Berliner, Don]({{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}) with [Galbraith, Marie]({{ '/ufo-history/ufo-personalities/galbraith-marie' | relative_url }}) and [Huneeus, Antonio]({{ '/ufo-history/ufo-personalities/huneeus-antonio' | relative_url }}) “[UFO Briefing Document: The Best Available Evidence]({{ '/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/044023638X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/044023638X/?&tag=ufot-21))

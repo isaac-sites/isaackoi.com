@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0801497272", "048640675X", "0306456214"], "cover_image": "/book-covers/048640675X.jpg", "cover_source": "local-cache", "primary_isbn": "0801497272"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Karl Guthke's book “[The Last Frontier: Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction: Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction]({{ '/ufo-history/ufo-books/guthke-karl-s-the-last-frontier-imagining-other-worlds-from-the-copernican-revolution-to-modern-science-fiction' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0801497272/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0801497272/?&tag=ufot-21)).

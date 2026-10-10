@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000IEB1QU", "0801002265", "0806507632", "0451204247", "1841196134", "0963916122", "0804222339", "0791423301", "1930749023"], "cover_image": "/book-covers/0801002265.jpg", "cover_source": "local-cache", "primary_isbn": "0801002265"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of R L Dione's book “[God Drives a Flying Saucer]({{ '/ufo-history/ufo-books/dione-r-l-god-drives-a-flying-saucer' | relative_url }})” ([1969]({{ '/tags/1969' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000IEB1QU/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000IEB1QU/?&tag=ufot-21)).

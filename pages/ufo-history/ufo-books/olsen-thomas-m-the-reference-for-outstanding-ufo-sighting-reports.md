@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000VK61WA", "B000EZY1RO"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Reference for Outstanding UFO Sighting Reports]({{ '/ufo-history/ufo-books/olsen-thomas-m-the-reference-for-outstanding-ufo-sighting-reports' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000VK61WA/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000VK61WA/?&tag=ufot-21)) by [Thomas M Olsen]({{ '/ufo-history/ufo-personalities/olsen-thomas-m' | relative_url }})

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0879753145", "051757165X"], "cover_image": "/book-covers/0879753145.jpg", "cover_source": "local-cache", "primary_isbn": "0879753145"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Science Confronts the Paranormal]({{ '/ufo-history/ufo-books/frazier-kendrick-editor-science-confronts-the-paranormal' | relative_url }})” ([1986]({{ '/tags/1986' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0879753145/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0879753145/?&tag=ufot-21)) edited by [Kendrick Frazier]({{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }})

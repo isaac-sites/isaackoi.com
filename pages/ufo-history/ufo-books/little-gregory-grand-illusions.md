@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["094082910X"], "primary_isbn": "094082910X", "cover_image": "https://covers.openlibrary.org/b/isbn/094082910X-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Gregory Little's book “[Grand Illusions]({{ '/ufo-history/ufo-books/little-gregory-grand-illusions' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/094082910X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/094082910X/?&tag=ufot-21))

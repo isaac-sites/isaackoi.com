@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B001I43BGW", "B000EZY1RO", "B000GRISSS"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Aids to Identification of Flying Objects]({{ '/ufo-history/ufo-books/usaf-aids-to-identification-of-flying-objects' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B001I43BGW/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B001I43BGW/?&tag=ufot-21)) by the US Air Force

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0523008406", "0767906284", "0762101083", "1870021029", "074810142X", "0747271461", "1931882444", "0919654703", "0060186429", "0752512277", "0713727330", "078670800X", "0815970005"], "cover_image": "/book-covers/0523008406.jpg", "cover_source": "local-cache", "primary_isbn": "0523008406"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Renato Vesco]({{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }})'s book “[Intercept Ufo]({{ '/ufo-history/ufo-books/vesco-renato-intercept-ufo' | relative_url }})” ([1971]({{ '/tags/1971' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0523008406/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0523008406/?&tag=ufot-21)).

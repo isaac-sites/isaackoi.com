@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["083081938X"], "cover_image": "/book-covers/083081938X.jpg", "cover_source": "local-cache", "primary_isbn": "083081938X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of David Wilkinson's book “[Alone in the Universe?]({{ '/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/083081938X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/083081938X/?&tag=ufot-21))

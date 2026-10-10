@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000S52VNG"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [John Spencer]({{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }})'s book “[UFOs: The Definitive Casebook]({{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000S52VNG/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000S52VNG/?&tag=ufot-21))

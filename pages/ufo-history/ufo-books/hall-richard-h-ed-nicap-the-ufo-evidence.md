@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0760706271", "B000NPYTFO", "1578590299", "1558887423", "0713727829", "1571743170", "0926524585", "0850303508", "013117424X", "0595186947", "1601630115", "0393007391", "0253190061", "0394450035", "1573929905", "0806918918", "0425033198", "0815970005", "B000ILEK2A", "B000J5A9OI"], "cover_image": "/book-covers/0760706271.jpg", "cover_source": "local-cache", "primary_isbn": "0760706271"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of NICAP's book “[The UFO Evidence]({{ '/ufo-history/ufo-books/hall-richard-h-ed-nicap-the-ufo-evidence' | relative_url }})” ([1964]({{ '/tags/1964' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0760706271/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0760706271/?&tag=ufot-21)), edited by [Richard Hall]({{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }})

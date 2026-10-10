@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0552095567", "0312262256", "0713723629", "071371963X", "1850585768", "0713724986", "0380004658", "0780800974", "0713727829", "0312962878", "0451204247", "1841196134", "0963916122", "1886940061", "0553083767", "0060186429", "1903047889", "0684857391", "0760704406", "1565078497", "0399124217", "1881852024", "1854710559", "0312352166", "0060141417", "0854351345", "0449908372", "0809463245", "B000SA745G", "B000TFL15E", "083081938X", "0880642262", "0905018001"], "cover_image": "/book-covers/0552095567.jpg", "cover_source": "local-cache", "primary_isbn": "0552095567"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Blumrich, Joseph F]({{ '/ufo-history/ufo-personalities/blumrich-joseph-f' | relative_url }}) “[The Spaceships of Ezekiel]({{ '/ufo-history/ufo-books/blumrich-joseph-f-the-spaceships-of-ezekiel' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0552095567/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0552095567/?&tag=ufot-21))

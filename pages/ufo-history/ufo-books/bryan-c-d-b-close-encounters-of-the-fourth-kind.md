@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0964491702", "0880642262", "0312867085", "0801484685"], "cover_image": "/book-covers/0964491702.jpg", "cover_source": "local-cache", "primary_isbn": "0964491702"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [C D B Bryan]({{ '/ufo-history/ufo-personalities/bryan-c-d-b' | relative_url }})'s book “[Close Encounters of the Fourth Kind]({{ '/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0964491702/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0964491702/?&tag=ufot-21))

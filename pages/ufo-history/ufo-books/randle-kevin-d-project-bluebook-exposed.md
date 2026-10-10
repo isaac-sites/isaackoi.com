@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1569246912"], "primary_isbn": "1569246912", "cover_image": "https://covers.openlibrary.org/b/isbn/1569246912-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }})'s book “[Project Bluebook Exposed]({{ '/ufo-history/ufo-books/randle-kevin-d-project-bluebook-exposed' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1569246912/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1569246912/?&tag=ufot-21))

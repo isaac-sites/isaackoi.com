@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0380799189"], "primary_isbn": "0380799189", "cover_image": "https://covers.openlibrary.org/b/isbn/0380799189-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }})'s book “[Conspiracy of Silence]({{ '/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0380799189/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0380799189/?&tag=ufot-21))

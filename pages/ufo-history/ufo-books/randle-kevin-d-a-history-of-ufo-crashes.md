@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0380776669", "0963916122"], "cover_image": "/book-covers/0380776669.jpg", "cover_source": "local-cache", "primary_isbn": "0380776669"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }})'s book “[A history of UFO crashes]({{ '/ufo-history/ufo-books/randle-kevin-d-a-history-of-ufo-crashes' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0380776669/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0380776669/?&tag=ufot-21))

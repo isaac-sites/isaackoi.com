@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0966633539"], "cover_image": "/book-covers/0966633539.jpg", "cover_source": "local-cache", "primary_isbn": "0966633539"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[SETI 2020: A Roadmap for the Search for Extraterrestrial Intelligence]({{ '/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0966633539/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0966633539/?&tag=ufot-21)) edited by Ronald D Elkers and [Kent D Cullers]({{ '/ufo-history/ufo-personalities/cullers-kent-d' | relative_url }}) and [John Billingham]({{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}) and Louis K Scheffer.

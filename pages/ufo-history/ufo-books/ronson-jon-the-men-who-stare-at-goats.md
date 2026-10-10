@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0330375482"], "cover_image": "/book-covers/0330375482.jpg", "cover_source": "local-cache", "primary_isbn": "0330375482"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Ronson, Jon]({{ '/ufo-history/ufo-personalities/ronson-jon' | relative_url }})'s book “[The Men Who Stare at Goats]({{ '/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats' | relative_url }})” ([2004]({{ '/tags/2004' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0330375482/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0330375482/?&tag=ufot-21)).

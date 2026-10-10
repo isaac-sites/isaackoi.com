@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1567180639"], "cover_image": "/book-covers/1567180639.jpg", "cover_source": "local-cache", "primary_isbn": "1567180639"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Janet Bergmark's book “[In The Presence Of Aliens]({{ '/ufo-history/ufo-books/bergmark-janet-in-the-presence-of-aliens' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1567180639/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1567180639/?&tag=ufot-21))

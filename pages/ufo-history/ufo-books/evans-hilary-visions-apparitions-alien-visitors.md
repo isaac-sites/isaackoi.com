@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0850304148", "0688088643", "0709032765", "1578590299", "0780800974", "1870021029"], "cover_image": "/book-covers/0850304148.jpg", "cover_source": "local-cache", "primary_isbn": "0850304148"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }})'s book “[Visions, Apparitions, Alien Visitors]({{ '/ufo-history/ufo-books/evans-hilary-visions-apparitions-alien-visitors' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0850304148/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0850304148/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["074348293X"], "cover_image": "/book-covers/074348293X.jpg", "cover_source": "local-cache", "primary_isbn": "074348293X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Mac Tonnies]({{ '/ufo-history/ufo-personalities/tonnies-mac' | relative_url }})'s book “[After the Martian Apocalypse]({{ '/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse' | relative_url }})” ([2004]({{ '/tags/2004' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/074348293X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/074348293X/?&tag=ufot-21))

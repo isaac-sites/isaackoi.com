@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0345239539", "1578590299", "1558883010", "1558887423", "1601630115", "B000RATSR4", "0253190061", "0385067518", "0631135634", "0815970005", "051757165X"], "cover_image": "/book-covers/1578590299.jpg", "cover_source": "local-cache", "primary_isbn": "0345239539"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [J Allen Hynek]({{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }})'s book “[The UFO Experience]({{ '/ufo-history/ufo-books/hynek-j-allen-the-ufo-experience' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345239539/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345239539/?&tag=ufot-21))

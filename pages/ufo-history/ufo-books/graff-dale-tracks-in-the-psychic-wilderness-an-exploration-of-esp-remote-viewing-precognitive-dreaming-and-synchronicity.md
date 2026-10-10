@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1843337312"], "cover_image": "/book-covers/1843337312.jpg", "cover_source": "local-cache", "primary_isbn": "1843337312"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Dale Graff]({{ '/ufo-history/ufo-personalities/graff-dale' | relative_url }})'s book “[Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity]({{ '/ufo-history/ufo-books/graff-dale-tracks-in-the-psychic-wilderness-an-exploration-of-esp-remote-viewing-precognitive-dreaming-and-synchronicity' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1843337312/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1843337312/?&tag=ufot-21))

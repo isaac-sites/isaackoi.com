@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0521783038", "0935702083", "0890092486", "0471395366", "0963916122", "0805057668"], "cover_image": "/book-covers/0521783038.jpg", "cover_source": "local-cache", "primary_isbn": "0521783038"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[The Cosmic Connection]({{ '/ufo-history/ufo-books/sagan-carl-the-cosmic-connection' | relative_url }})” ([1973]({{ '/tags/1973' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0521783038/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0521783038/?&tag=ufot-21))

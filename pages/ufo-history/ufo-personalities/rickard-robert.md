@@ -14,6 +14,7 @@ header: {"preview_image": "/images/stories/ufo_personalities/rickard_bob_1.gif"}
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-07-31 16:15:06 +0000
 ---
 
 ![rickard_bob_1]({{ '/images/stories/ufo_personalities/rickard_bob_1.gif' | relative_url }})

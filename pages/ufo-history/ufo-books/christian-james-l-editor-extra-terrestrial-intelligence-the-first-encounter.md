@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0879750642"], "primary_isbn": "0879750642", "cover_image": "https://covers.openlibrary.org/b/isbn/0879750642-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Extra-Terrestrial Intelligence: The First Encounter]({{ '/ufo-history/ufo-books/christian-james-l-editor-extra-terrestrial-intelligence-the-first-encounter' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})), edited by James L Christian (available [on Amazon USA](https://www.amazon.com/dp/0879750642/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0879750642/?&tag=ufot-21))

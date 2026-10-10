@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["087542001X", "0520248120", "0688088643", "1578590299"], "cover_image": "/book-covers/087542001X.jpg", "cover_source": "local-cache", "primary_isbn": "087542001X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [George C Andrews]({{ '/ufo-history/ufo-personalities/andrews-george-c' | relative_url }})' book “[Extra-Terrestrials Among Us]({{ '/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us' | relative_url }})” ([1986]({{ '/tags/1986' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/087542001X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/087542001X/?&tag=ufot-21))

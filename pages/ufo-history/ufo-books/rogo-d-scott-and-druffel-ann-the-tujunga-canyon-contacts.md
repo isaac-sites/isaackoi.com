@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1933665335", "0743466748", "0760707642", "0713725184", "1578590299", "1560722703", "092652433X", "0520224329", "0451204247", "1841196134", "0963916122", "1573922447", "0684839733", "0850303621", "1567312004", "0451094727", "0380768879", "B000S52VNG", "0963530941", "0880642262", "0752517856"], "cover_image": "/book-covers/0743466748.jpg", "cover_source": "local-cache", "primary_isbn": "1933665335"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Tujunga Canyon Contacts]({{ '/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1933665335/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1933665335/?&tag=ufot-21)) by [D. Scott Rogo]({{ '/ufo-history/ufo-personalities/rogo-d-scott' | relative_url }}) and [Ann Druffel]({{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}).

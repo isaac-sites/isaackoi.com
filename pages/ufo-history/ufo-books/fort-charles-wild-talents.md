@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1604595817", "0780800974"], "cover_image": "/book-covers/0780800974.jpg", "cover_source": "local-cache", "primary_isbn": "1604595817"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Charles Fort]({{ '/ufo-history/ufo-personalities/fort-charles' | relative_url }})'s book “[Wild Talents]({{ '/ufo-history/ufo-books/fort-charles-wild-talents' | relative_url }})” ([1932]({{ '/tags/1932' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1604595817/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1604595817/?&tag=ufot-21)).

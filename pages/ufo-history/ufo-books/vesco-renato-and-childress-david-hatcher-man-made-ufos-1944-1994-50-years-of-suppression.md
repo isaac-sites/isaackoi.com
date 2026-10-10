@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0932813232", "0713727330"], "cover_image": "/book-covers/0932813232.jpg", "cover_source": "local-cache", "primary_isbn": "0932813232"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Man Made UFOs 1944-1994 – 50 Years of Suppression]({{ '/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0932813232/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0932813232/?&tag=ufot-21)) by [Renato Vesco]({{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}) and [David Hatcher Childress]({{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}).

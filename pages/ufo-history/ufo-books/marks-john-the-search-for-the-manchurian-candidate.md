@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0393307948", "1883319617"], "cover_image": "/book-covers/0393307948.jpg", "cover_source": "local-cache", "primary_isbn": "0393307948"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of John Marks' book “[The Search for the Manchurian Candidate]({{ '/ufo-history/ufo-books/marks-john-the-search-for-the-manchurian-candidate' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0393307948/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0393307948/?&tag=ufot-21))

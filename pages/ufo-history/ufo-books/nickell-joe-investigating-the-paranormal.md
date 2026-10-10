@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000N6K1SW"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Joe Nickell]({{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }})'s book “[Investigating the Paranormal]({{ '/ufo-history/ufo-books/nickell-joe-investigating-the-paranormal' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000N6K1SW/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000N6K1SW/?&tag=ufot-21))

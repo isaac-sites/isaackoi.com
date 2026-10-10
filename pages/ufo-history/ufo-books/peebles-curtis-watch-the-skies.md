@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1560983434", "0926524429", "0451204247", "1841196134", "0963916122", "0738836125", "0060186429", "1573922447"], "cover_image": "/book-covers/1560983434.jpg", "cover_source": "local-cache", "primary_isbn": "1560983434"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Watch the Skies!]({{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1560983434/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1560983434/?&tag=ufot-21)) by [Curtis Peebles]({{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}).

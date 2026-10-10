@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["081221305X", "0947533893", "1576072495", "0879517247", "1578066484", "0926524429", "0850304148", "0762406194", "0283060697", "0451204247", "1841196134", "0806938560", "0749921005", "0815608586", "051757165X"], "cover_image": "/book-covers/081221305X.jpg", "cover_source": "local-cache", "primary_isbn": "081221305X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [David Hufford]({{ '/ufo-history/ufo-personalities/hufford-david' | relative_url }})'s book “[The Terror That Comes in the Night]({{ '/ufo-history/ufo-books/hufford-david-the-terror-that-comes-in-the-night' | relative_url }})” ([1982]({{ '/tags/1982' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/081221305X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/081221305X/?&tag=ufot-21))

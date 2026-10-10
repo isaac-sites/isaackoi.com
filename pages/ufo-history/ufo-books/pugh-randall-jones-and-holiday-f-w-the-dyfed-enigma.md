@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0571114121", "0713724218", "1902809351", "1905646003", "0713722096", "0855001232", "0631135634", "B000OVBWKC", "0312965214", "0709188641", "0760705496"], "cover_image": "/book-covers/0571114121.jpg", "cover_source": "local-cache", "primary_isbn": "0571114121"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Dyfed Enigma]({{ '/ufo-history/ufo-books/pugh-randall-jones-and-holiday-f-w-the-dyfed-enigma' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0571114121/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0571114121/?&tag=ufot-21)) by [Randall Jones Pugh]({{ '/ufo-history/ufo-personalities/pugh-randall-jones' | relative_url }}) and F W Holiday

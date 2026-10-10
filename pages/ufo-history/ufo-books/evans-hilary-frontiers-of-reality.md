@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0850308097"], "primary_isbn": "0850308097", "cover_image": "https://covers.openlibrary.org/b/isbn/0850308097-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Frontiers of Reality]({{ '/ufo-history/ufo-books/evans-hilary-frontiers-of-reality' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0850308097/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0850308097/?&tag=ufot-21)) edited by [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}).

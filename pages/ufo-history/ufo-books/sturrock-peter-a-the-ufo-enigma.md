@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0446525650", "0743466748", "0520224329", "0762406194", "0099406020", "0195128524", "1601641613", "1903047889"], "cover_image": "/book-covers/0446525650.jpg", "cover_source": "local-cache", "primary_isbn": "0446525650"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Sturrock, Peter A]({{ '/ufo-history/ufo-personalities/sturrock-peter-a' | relative_url }})'s book “[The UFO Enigma]({{ '/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0446525650/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0446525650/?&tag=ufot-21))

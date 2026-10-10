@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0722154860", "0929385225", "0879756446", "051757165X", "0060186429", "0898651026", "0879753382", "1573922137", "0738701068"], "cover_image": "/book-covers/0722154860.jpg", "cover_source": "local-cache", "primary_isbn": "0722154860"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [George Leonard]({{ '/ufo-history/ufo-personalities/leonard-george' | relative_url }})'s book “[Someone Else is on our Moon]({{ '/ufo-history/ufo-books/leonard-george-someone-else-is-on-our-moon' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0722154860/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0722154860/?&tag=ufot-21))

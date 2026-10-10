@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1561719722"], "cover_image": "/book-covers/1561719722.jpg", "cover_source": "local-cache", "primary_isbn": "1561719722"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Clifford E Stone]({{ '/ufo-history/ufo-personalities/stone-clifford-e' | relative_url }})'s book “[UFOs are Real]({{ '/ufo-history/ufo-books/stone-clifford-e-ufos-are-real' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1561719722/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1561719722/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0380778033", "0816038007", "0963916122", "1569243425", "0440236134", "0380798530"], "cover_image": "/book-covers/0380778033.jpg", "cover_source": "local-cache", "primary_isbn": "0380778033"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Truth About the UFO Crash At Roswell]({{ '/ufo-history/ufo-books/randle-kevin-and-schmitt-donald-the-truth-about-the-ufo-crash-at-roswell' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0380778033/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0380778033/?&tag=ufot-21)) by [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}) and [Donald Schmitt]({{ '/ufo-history/ufo-personalities/schmitt-donald-r' | relative_url }}).

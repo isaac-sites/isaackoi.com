@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["034093834X", "0805204504", "1854105841", "1883319617", "0399119353"], "cover_image": "/book-covers/034093834X.jpg", "cover_source": "local-cache", "primary_isbn": "034093834X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Robert Heinlein]({{ '/ufo-history/ufo-personalities/heinlein-robert' | relative_url }})'s book “[Stranger in a Strange Land]({{ '/ufo-history/ufo-books/heinlein-robert-stranger-in-a-strange-land' | relative_url }})” ([1961]({{ '/tags/1961' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/034093834X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/034093834X/?&tag=ufot-21)).

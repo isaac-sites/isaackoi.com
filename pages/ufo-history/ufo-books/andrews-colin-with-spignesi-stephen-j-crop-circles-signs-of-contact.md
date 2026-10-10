@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["156414674X"], "cover_image": "/book-covers/156414674X.jpg", "cover_source": "local-cache", "primary_isbn": "156414674X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Andrews, Colin]({{ '/ufo-history/ufo-personalities/andrews-colin' | relative_url }}) with Spignesi, Stephen J “[Crop Circles: Signs of Contact]({{ '/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact' | relative_url }})” (available [on Amazon USA](https://www.amazon.com/dp/156414674X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/156414674X/?&tag=ufot-21))

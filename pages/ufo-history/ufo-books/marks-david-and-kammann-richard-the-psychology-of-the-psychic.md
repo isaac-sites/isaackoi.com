@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0879751215", "1573927988"], "cover_image": "/book-covers/0879751215.jpg", "cover_source": "local-cache", "primary_isbn": "0879751215"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Psychology of the Psychic]({{ '/ufo-history/ufo-books/marks-david-and-kammann-richard-the-psychology-of-the-psychic' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0879751215/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0879751215/?&tag=ufot-21)) by [David Marks]({{ '/ufo-history/ufo-personalities/marks-david' | relative_url }}) and Richard Kammann.

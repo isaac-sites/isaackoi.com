@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1563841487"], "cover_image": "/book-covers/1563841487.jpg", "cover_source": "local-cache", "primary_isbn": "1563841487"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Paul Christopher's book “[Alien Intervention: The Spiritual Mission of UFOs]({{ '/ufo-history/ufo-books/christopher-paul-alien-intervention' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1563841487/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1563841487/?&tag=ufot-21))

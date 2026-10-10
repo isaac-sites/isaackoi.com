@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000E4AMK0", "1870870999", "1880090627", "1569247811", "0345353358", "B000IW5ULY", "0815970005", "1852839244", "0449236544"], "cover_image": "/book-covers/1870870999.jpg", "cover_source": "local-cache", "primary_isbn": "1870870999"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Bloecher, Ted]({{ '/ufo-history/ufo-personalities/bloecher-ted' | relative_url }}) “[Report on the UFO Wave of 1947]({{ '/ufo-history/ufo-books/bloecher-ted-report-on-the-ufo-wave-of-1947' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000E4AMK0/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000E4AMK0/?&tag=ufot-21))

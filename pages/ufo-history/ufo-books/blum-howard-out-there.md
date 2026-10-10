@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0671662600", "0801002265", "0963916122", "0813322006", "0099859203", "028307034X", "1880090627", "1564149609", "0099257610", "0345409469", "1852839244", "0345373960", "0977205908"], "cover_image": "/book-covers/0671662600.jpg", "cover_source": "local-cache", "primary_isbn": "0671662600"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Blum, Howard]({{ '/ufo-history/ufo-personalities/blum-howard' | relative_url }}) “[Out There]({{ '/ufo-history/ufo-books/blum-howard-out-there' | relative_url }})“ ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0671662600/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0671662600/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000RATSR4", "1558883010", "1558887423", "0397317808", "0451204247", "1841196134", "0963916122", "0631135634"], "cover_image": "/book-covers/1558883010.jpg", "cover_source": "local-cache", "primary_isbn": "1558883010"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Edge of Reality]({{ '/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000RATSR4/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000RATSR4/?&tag=ufot-21)) by [J Allen Hynek]({{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}) and [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}).

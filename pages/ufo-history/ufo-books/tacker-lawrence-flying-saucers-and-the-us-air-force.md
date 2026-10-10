@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000HD7IQY"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Major [Tacker, Lawrence]({{ '/ufo-history/ufo-personalities/tacker-lawrence' | relative_url }}) book “[Flying Saucers and the U.S. Air Force]({{ '/ufo-history/ufo-books/tacker-lawrence-flying-saucers-and-the-us-air-force' | relative_url }})” ([1960]({{ '/tags/1960' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000HD7IQY/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000HD7IQY/?&tag=ufot-21))

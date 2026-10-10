@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0283060697"], "cover_image": "/book-covers/0283060697.jpg", "cover_source": "local-cache", "primary_isbn": "0283060697"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The UFO Report 1991]({{ '/ufo-history/ufo-books/good-timothy-editor-the-ufo-report-1991' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0283060697/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0283060697/?&tag=ufot-21)) edited by [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}).

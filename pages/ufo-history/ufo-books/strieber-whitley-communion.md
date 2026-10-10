@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0061474185", "0926524267", "0760707642", "0713725184", "0964491702", "1578590299", "0743492862", "1576072495", "0688088643", "0801484685", "0762101083", "0963916122", "0713727977", "038078128X", "0684814846", "0879755091", "0451204247", "1841196134", "1573922447", "1573929905", "078670800X", "0747235082", "0312867085", "B000NLQNZC", "0709032765", "0806904763", "0345409469", "1852839244", "B000S52VNG", "1870021029", "1856051285", "0060176539", "074348293X", "083081938X"], "cover_image": "/book-covers/0926524267.jpg", "cover_source": "local-cache", "primary_isbn": "0061474185"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Whitley Strieber]({{ '/ufo-history/ufo-personalities/strieber-whitley' | relative_url }})'s book “[Communion]({{ '/ufo-history/ufo-books/strieber-whitley-communion' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0061474185/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0061474185/?&tag=ufot-21))

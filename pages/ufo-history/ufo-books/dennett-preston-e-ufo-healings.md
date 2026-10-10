@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["092652433X", "0743466748", "0762101083"], "cover_image": "/book-covers/092652433X.jpg", "cover_source": "local-cache", "primary_isbn": "092652433X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Preston Dennett]({{ '/ufo-history/ufo-personalities/dennett-preston' | relative_url }})'s book “[UFO Healings]({{ '/ufo-history/ufo-books/dennett-preston-e-ufo-healings' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/092652433X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/092652433X/?&tag=ufot-21))

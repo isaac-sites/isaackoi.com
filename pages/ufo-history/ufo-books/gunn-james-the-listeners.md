@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1932100121", "0890092486", "081293248X", "0521620120", "0521343267", "038530532X", "0285621297", "0345336895", "0816511195"], "cover_image": "/book-covers/1932100121.jpg", "cover_source": "local-cache", "primary_isbn": "1932100121"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of James Gunn's novel “[The Listeners]({{ '/ufo-history/ufo-books/gunn-james-the-listeners' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1932100121/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1932100121/?&tag=ufot-21))

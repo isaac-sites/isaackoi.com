@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0380446774", "0713727195", "0520248120", "0760702187", "0312962878", "0060186429", "1573922137", "1852839244"], "cover_image": "/book-covers/0380446774.jpg", "cover_source": "local-cache", "primary_isbn": "0380446774"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [the]({{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}) book “[Alternative 3]({{ '/ufo-history/ufo-books/watkins-leslie-alternative-3' | relative_url }})” ([1978]({{ '/tags/1978' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0380446774/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0380446774/?&tag=ufot-21)) by [Leslie Watkins]({{ '/ufo-history/ufo-personalities/watkins-leslie' | relative_url }}).

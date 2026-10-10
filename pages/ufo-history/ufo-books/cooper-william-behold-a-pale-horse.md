@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0929385225"], "cover_image": "/book-covers/0929385225.jpg", "cover_source": "local-cache", "primary_isbn": "0929385225"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [William Cooper]({{ '/ufo-history/ufo-personalities/cooper-william' | relative_url }})'s book “[Behold a Pale Horse]({{ '/ufo-history/ufo-books/cooper-william-behold-a-pale-horse' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0929385225/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0929385225/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0631135634", "0688088643", "0801484685", "0749921005", "0061474185"], "cover_image": "/book-covers/0631135634.jpg", "cover_source": "local-cache", "primary_isbn": "0631135634"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Science and the UFOs]({{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }})” ([1985]({{ '/tags/1985' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0631135634/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0631135634/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Peter Warrington]({{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}).

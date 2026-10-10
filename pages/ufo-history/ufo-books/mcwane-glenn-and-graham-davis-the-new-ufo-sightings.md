@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0446765929"], "primary_isbn": "0446765929", "cover_image": "https://covers.openlibrary.org/b/isbn/0446765929-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The New UFO Sightings]({{ '/ufo-history/ufo-books/mcwane-glenn-and-graham-davis-the-new-ufo-sightings' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0446765929/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0446765929/?&tag=ufot-21)) by Glenn McWane and Davis Graham.

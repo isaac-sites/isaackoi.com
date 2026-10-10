@@ -14,6 +14,7 @@ header: {"preview_image": "/images/stories/ufo_personalities/lunan_duncan_1.JPG"
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 ![lunan_duncan_1]({{ '/images/stories/ufo_personalities/lunan_duncan_1.JPG' | relative_url }})

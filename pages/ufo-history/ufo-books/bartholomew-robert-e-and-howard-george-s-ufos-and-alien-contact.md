@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1573922005", "0964491702", "1903047889"], "cover_image": "/book-covers/1573922005.jpg", "cover_source": "local-cache", "primary_isbn": "1573922005"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Bartholomew, Robert E]({{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}) and Howard, George S “[UFOs and Alien Contact]({{ '/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1573922005/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1573922005/?&tag=ufot-21))

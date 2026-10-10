@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0015NVBB8", "013117424X", "0200716778", "0253190061", "0815970005", "B000ILEK2A"], "cover_image": "/book-covers/013117424X.jpg", "cover_source": "local-cache", "primary_isbn": "013117424X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The World of Flying Saucers]({{ '/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers' | relative_url }})” ([1963]({{ '/tags/1963' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0015NVBB8/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0015NVBB8/?&tag=ufot-21)) by [Donald H Menzel]({{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}) and [Lyle Boyd]({{ '/ufo-history/ufo-personalities/boyd-lyle' | relative_url }}).

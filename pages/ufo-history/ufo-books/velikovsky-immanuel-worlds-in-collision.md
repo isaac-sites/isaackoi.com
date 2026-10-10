@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["067181091X", "0471395366", "0345336895"], "cover_image": "/book-covers/067181091X.jpg", "cover_source": "local-cache", "primary_isbn": "067181091X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Immanuel Velikovsky's book “[Worlds in Collision]({{ '/ufo-history/ufo-books/velikovsky-immanuel-worlds-in-collision' | relative_url }})” ([1950]({{ '/tags/1950' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/067181091X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/067181091X/?&tag=ufot-21)).

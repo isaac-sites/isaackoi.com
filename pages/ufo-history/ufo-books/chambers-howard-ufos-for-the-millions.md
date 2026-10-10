@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["054838844X"], "cover_image": "/book-covers/054838844X.jpg", "cover_source": "local-cache", "primary_isbn": "054838844X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Howard Chambers' book “[UFOs for the millions]({{ '/ufo-history/ufo-books/chambers-howard-ufos-for-the-millions' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/054838844X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/054838844X/?&tag=ufot-21))

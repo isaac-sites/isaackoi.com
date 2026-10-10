@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B00117X9ZO", "0815970005"], "cover_image": "/book-covers/0815970005.jpg", "cover_source": "local-cache", "primary_isbn": "0815970005"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of "[The Challenge of Unidentified Flying Objects]({{ '/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects' | relative_url }})” ([1961]({{ '/tags/1961' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B00117X9ZO/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B00117X9ZO/?&tag=ufot-21)) by [Charles A Maney]({{ '/ufo-history/ufo-personalities/maney-charles-a' | relative_url }}) and [Richard Hall]({{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}).

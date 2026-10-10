@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0882295403", "0926524429", "0810812282", "0631135634", "1570714274"], "cover_image": "/book-covers/0882295403.jpg", "cover_source": "local-cache", "primary_isbn": "0882295403"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Richard Haines]({{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }})'s book “[Observing UFOs]({{ '/ufo-history/ufo-books/haines-richard-observing-ufos' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0882295403/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0882295403/?&tag=ufot-21))

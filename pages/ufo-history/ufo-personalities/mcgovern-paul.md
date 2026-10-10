@@ -14,6 +14,7 @@ header: {"preview_image": "/images/stories/ufo_personalities/mcgovern_paul_1_on_
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 ![mcgovern_paul_1_on_left]({{ '/images/stories/ufo_personalities/mcgovern_paul_1_on_left.jpg' | relative_url }})

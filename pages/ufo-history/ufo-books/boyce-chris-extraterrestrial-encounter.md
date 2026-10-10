@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0890092486", "1841196134", "0451204247", "0963916122"], "cover_image": "/book-covers/0890092486.jpg", "cover_source": "local-cache", "primary_isbn": "0890092486"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Chris Boyce's book “[Extraterrestrial Encounter]({{ '/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0890092486/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0890092486/?&tag=ufot-21))

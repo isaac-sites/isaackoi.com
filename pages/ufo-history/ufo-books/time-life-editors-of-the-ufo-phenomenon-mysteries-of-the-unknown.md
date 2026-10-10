@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0809463245"], "cover_image": "/book-covers/0809463245.jpg", "cover_source": "local-cache", "primary_isbn": "0809463245"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of "[The UFO phenomenon: Mysteries of the Unknown]({{ '/ufo-history/ufo-books/time-life-editors-of-the-ufo-phenomenon-mysteries-of-the-unknown' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0809463245/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0809463245/?&tag=ufot-21)) by the editors of Time-Life.

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["034543529X", "0091879272", "081293248X", "0521620120", "0521343267", "038530532X", "0688036422", "0201569493", "0465073158"], "cover_image": "/book-covers/034543529X.jpg", "cover_source": "local-cache", "primary_isbn": "034543529X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Robert Forward]({{ '/ufo-history/ufo-personalities/forward-robert' | relative_url }})'s novel “[Dragon’s Egg]({{ '/ufo-history/ufo-books/forward-robert-dragons-egg' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/034543529X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/034543529X/?&tag=ufot-21)).

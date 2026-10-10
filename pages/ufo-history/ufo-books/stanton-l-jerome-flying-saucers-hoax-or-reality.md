@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000ILEK2A"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [L Jerome Stanton]({{ '/ufo-history/ufo-personalities/stanton-l-jerome' | relative_url }})'s book “[Flying Saucers: Hoax or Reality?]({{ '/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000ILEK2A/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000ILEK2A/?&tag=ufot-21))

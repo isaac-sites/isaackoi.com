@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0385143486", "1558887423", "0780800974", "0709040865", "0062586386", "0380706547", "0762101083", "0850303508", "0850304148", "0963916122", "0879753226", "0929343573", "0760704406", "0631135634", "B000OVBWKC", "0709032765", "0749914114", "070901080X", "0246119330", "1870021029"], "cover_image": "/book-covers/0780800974.jpg", "cover_source": "local-cache", "primary_isbn": "0385143486"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Allan Hendry]({{ '/ufo-history/ufo-personalities/hendry-allan' | relative_url }})'s book “[The UFO Handbook]({{ '/ufo-history/ufo-books/hendry-allan-the-ufo-handbook' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0385143486/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0385143486/?&tag=ufot-21))

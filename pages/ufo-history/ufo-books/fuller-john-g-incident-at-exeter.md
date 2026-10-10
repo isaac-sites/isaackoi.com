@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["042502539X", "0963916122", "0253190061", "0394450035", "B000BD1A2I", "1560983434", "0879753382", "1573922137", "1852839244", "B000ILEK2A", "0345345258", "B000J5A9OI"], "cover_image": "/book-covers/042502539X.jpg", "cover_source": "local-cache", "primary_isbn": "042502539X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [John G Fuller]({{ '/ufo-history/ufo-personalities/fuller-john-g' | relative_url }})'s book “[Incident at Exeter]({{ '/ufo-history/ufo-books/fuller-john-g-incident-at-exeter' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/042502539X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/042502539X/?&tag=ufot-21))

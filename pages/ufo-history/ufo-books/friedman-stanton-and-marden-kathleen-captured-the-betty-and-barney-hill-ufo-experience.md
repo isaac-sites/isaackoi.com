@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1564149714"], "cover_image": "/book-covers/1564149714.jpg", "cover_source": "local-cache", "primary_isbn": "1564149714"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Captured! The Betty and Barney Hill UFO Experience]({{ '/ufo-history/ufo-books/friedman-stanton-and-marden-kathleen-captured-the-betty-and-barney-hill-ufo-experience' | relative_url }})” ([2007]({{ '/tags/2007' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1564149714/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1564149714/?&tag=ufot-21)) by [Stanton Friedman]({{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}) and Kathleen Marden.

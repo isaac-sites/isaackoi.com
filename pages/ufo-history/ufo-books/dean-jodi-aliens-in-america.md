@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0801484685", "0520248120", "0815608586", "158648348X", "0684848562"], "cover_image": "/book-covers/0801484685.jpg", "cover_source": "local-cache", "primary_isbn": "0801484685"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Jodi Dean]({{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }})'s book “[Aliens in America]({{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0801484685/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0801484685/?&tag=ufot-21))

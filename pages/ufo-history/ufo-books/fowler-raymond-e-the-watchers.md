@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0553057820", "0963916122", "0926524305", "1573922447"], "cover_image": "/book-covers/0553057820.jpg", "cover_source": "local-cache", "primary_isbn": "0553057820"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Raymond E Fowler]({{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }})'s book “[The Watchers]({{ '/ufo-history/ufo-books/fowler-raymond-e-the-watchers' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0553057820/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0553057820/?&tag=ufot-21))

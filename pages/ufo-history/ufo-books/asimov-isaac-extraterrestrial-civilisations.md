@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0449900207", "0963916122", "1841196134", "0451204247"], "cover_image": "/book-covers/0449900207.jpg", "cover_source": "local-cache", "primary_isbn": "0449900207"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Isaac Asimov]({{ '/ufo-history/ufo-personalities/asimov-isaac' | relative_url }})'s book “[Extraterrestrial Civilisations]({{ '/ufo-history/ufo-books/asimov-isaac-extraterrestrial-civilisations' | relative_url }})” (available [on Amazon USA](https://www.amazon.com/dp/0449900207/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0449900207/?&tag=ufot-21))

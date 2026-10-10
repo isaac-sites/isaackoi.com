@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0809290235", "0963916122", "0451204247", "1841196134"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0809290235"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Jacques Bergier's “[Extraterrestrial Visitations From Prehistoric Times to the Present]({{ '/ufo-history/ufo-books/bergier-jacques-extraterrestrial-visitations-from-prehistoric-times-to-the-present' | relative_url }})” ([1970]({{ '/tags/1970' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0809290235/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0809290235/?&tag=ufot-21)). Published in Britain under the title “Mysteries of the Earth”.

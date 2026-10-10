@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0964499711", "0713725184", "0806522992", "0451204247", "1841196134", "0963916122", "1560983434"], "cover_image": "/book-covers/0806522992.jpg", "cover_source": "local-cache", "primary_isbn": "0964499711"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Arnold, Kenneth]({{ '/ufo-history/ufo-personalities/arnold-kenneth' | relative_url }}) and [Palmer, Ray]({{ '/ufo-history/ufo-personalities/palmer-raymond-a' | relative_url }})'s book “[The Coming of the Saucers]({{ '/ufo-history/ufo-books/arnold-kenneth-and-palmer-ray-the-coming-of-the-saucers' | relative_url }})” ([1952]({{ '/tags/1952' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0964499711/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0964499711/?&tag=ufot-21))

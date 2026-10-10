@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1571743170"], "cover_image": "/book-covers/1571743170.jpg", "cover_source": "local-cache", "primary_isbn": "1571743170"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Richard Dolan]({{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }})'s book “[UFOs and the National Security State: Volume 1: 1941-1973: 1941-1973]({{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1571743170/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1571743170/?&tag=ufot-21)).

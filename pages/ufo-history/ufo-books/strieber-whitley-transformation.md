@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0380705354", "0688088643", "0140179534", "0879755091"], "cover_image": "/book-covers/0380705354.jpg", "cover_source": "local-cache", "primary_isbn": "0380705354"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Whitley Strieber]({{ '/ufo-history/ufo-personalities/strieber-whitley' | relative_url }})'s book “[Transformation]({{ '/ufo-history/ufo-books/strieber-whitley-transformation' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0380705354/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0380705354/?&tag=ufot-21))

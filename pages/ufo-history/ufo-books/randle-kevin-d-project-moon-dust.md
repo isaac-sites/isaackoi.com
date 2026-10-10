@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0380806037", "0380799189", "0713727195", "0743466748", "0671662600", "0760702187", "1558887423", "1571743170", "0926524585", "1561719722", "0688092020", "093426905X", "0380778033", "0380776669", "0380814730", "0713719729", "0709059744", "0713726555", "0713724935", "0671005324", "0684870231", "0380768879", "0967323819", "0977205908"], "cover_image": "/book-covers/0380806037.jpg", "cover_source": "local-cache", "primary_isbn": "0380806037"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }})'s book “[Project Moon Dust]({{ '/ufo-history/ufo-books/randle-kevin-d-project-moon-dust' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0380806037/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0380806037/?&tag=ufot-21)).

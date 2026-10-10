@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0385067518", "1558887415", "0253190061", "0380768879", "1578590299"], "cover_image": "/book-covers/0385067518.jpg", "cover_source": "local-cache", "primary_isbn": "0385067518"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Donald E Keyhoe]({{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }})'s book “[Aliens from Space]({{ '/ufo-history/ufo-books/keyhoe-donald-e-aliens-from-space' | relative_url }})” ([1973]({{ '/tags/1973' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0385067518/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0385067518/?&tag=ufot-21))

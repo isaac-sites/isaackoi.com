@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0713726857"], "cover_image": "/book-covers/0713726857.jpg", "cover_source": "local-cache", "primary_isbn": "0713726857"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Albert Budden]({{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }})'s book “[Electric UFOs: Fireballs, Electromagnetics and Abnormal States]({{ '/ufo-history/ufo-books/budden-albert-electric-ufos' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0713726857/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0713726857/?&tag=ufot-21))

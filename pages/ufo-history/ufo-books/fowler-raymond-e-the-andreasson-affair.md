@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0130366080", "1578590299", "0810838818", "1558887423", "0850303508", "013117424X", "0879753226", "0879755091", "1573922447", "0879518782", "0850303621", "0451094727"], "cover_image": "/book-covers/0130366080.jpg", "cover_source": "local-cache", "primary_isbn": "0130366080"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [1967 Fowler]({{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }})'s book “[The Andreasson Affair]({{ '/ufo-history/ufo-books/fowler-raymond-e-the-andreasson-affair' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0130366080/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0130366080/?&tag=ufot-21)).

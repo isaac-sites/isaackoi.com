@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0385041276", "0880642262", "1880090163", "0586049118", "0393063364"], "cover_image": "/book-covers/0880642262.jpg", "cover_source": "local-cache", "primary_isbn": "0385041276"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Gerald Hawkins]({{ '/ufo-history/ufo-personalities/hawkins-gerald' | relative_url }})'s book “[Stonehenge decoded]({{ '/ufo-history/ufo-books/hawkins-gerald-stonehenge-decoded' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0385041276/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0385041276/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0809282836", "0762101083"], "cover_image": "/book-covers/0809282836.jpg", "cover_source": "local-cache", "primary_isbn": "0809282836"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [W Raymond Drake]({{ '/ufo-history/ufo-personalities/drake-w-raymond' | relative_url }})'s book “[Gods and Spacemen Throughout History]({{ '/ufo-history/ufo-books/drake-w-raymond-gods-and-spacemen-throughout-history' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0809282836/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0809282836/?&tag=ufot-21))

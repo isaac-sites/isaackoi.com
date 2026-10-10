@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0007EWCY6", "B0000CL38Q", "0583302920", "1931044325", "1905646003", "0932813437", "1575440660", "0713724498", "0713726008"], "cover_image": "/book-covers/0583302920.jpg", "cover_source": "local-cache", "primary_isbn": "0583302920"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Leonard G Cramp]({{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }})'s book “[Space, Gravity and the Flying Saucer]({{ '/ufo-history/ufo-books/cramp-leonard-g-space-gravity-and-the-flying-saucer' | relative_url }})” ([1954]({{ '/tags/1954' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0007EWCY6/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0007EWCY6/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0575075031", "0312962878", "0709032765", "0806904763", "0881621684", "0749921005", "0806918918", "0880642262"], "cover_image": "/book-covers/0575075031.jpg", "cover_source": "local-cache", "primary_isbn": "0575075031"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Ian Watson's novel “[Miracle Visitors]({{ '/ufo-history/ufo-books/watson-ian-miracle-visitors' | relative_url }})” ([1978]({{ '/tags/1978' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0575075031/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0575075031/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000TFL15E", "0879752858", "0312352166", "0060141417", "0804222339"], "cover_image": "/book-covers/0879752858.jpg", "cover_source": "local-cache", "primary_isbn": "0879752858"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Erich Von Daniken]({{ '/ufo-history/ufo-personalities/von-daniken-erich' | relative_url }})'s book “[The Gold of the Gods]({{ '/ufo-history/ufo-books/von-daniken-erich-the-gold-of-the-gods' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000TFL15E/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000TFL15E/?&tag=ufot-21))

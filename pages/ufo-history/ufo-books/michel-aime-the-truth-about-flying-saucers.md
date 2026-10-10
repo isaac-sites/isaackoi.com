@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000OZY8EA", "0963916122", "0631135634"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0963916122"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Michel, Aime]({{ '/ufo-history/ufo-personalities/michel-aime' | relative_url }})'s book “[The Truth about Flying Saucers]({{ '/ufo-history/ufo-books/michel-aime-the-truth-about-flying-saucers' | relative_url }})” ([1956]({{ '/tags/1956' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000OZY8EA/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000OZY8EA/?&tag=ufot-21))

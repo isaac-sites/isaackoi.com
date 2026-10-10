@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0715377256", "1852277343", "0753704250", "0600572293", "1578590299", "1558887423", "0780800974", "0963916122", "0709052677", "0760704406", "0806918918", "0713724935", "1567312004", "0713724498", "0713726008"], "cover_image": "/book-covers/0715377256.jpg", "cover_source": "local-cache", "primary_isbn": "0715377256"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [David Langford]({{ '/ufo-history/ufo-personalities/langford-david' | relative_url }})'s book “[An account of a meeting with denizens of another world: 1871]({{ '/ufo-history/ufo-books/langford-david-an-account-of-a-meeting-with-denizens-of-another-world-1871' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0715377256/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0715377256/?&tag=ufot-21)).

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000FI1A88", "0963916122"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0963916122"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Clifford Wilson]({{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }})'s book “[Crash Go The Chariots]({{ '/ufo-history/ufo-books/wilson-clifford-crash-go-the-chariots' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000FI1A88/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000FI1A88/?&tag=ufot-21))

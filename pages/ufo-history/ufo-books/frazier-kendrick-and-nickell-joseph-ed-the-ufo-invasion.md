@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1573921319", "0963916122"], "cover_image": "/book-covers/1573921319.jpg", "cover_source": "local-cache", "primary_isbn": "1573921319"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The UFO Invasion]({{ '/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1573921319/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1573921319/?&tag=ufot-21)) edited by [Kendrick Frazier]({{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}) and [Joseph Nickell]({{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }})

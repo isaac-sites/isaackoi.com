@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0141300167"], "cover_image": "/book-covers/0141300167.jpg", "cover_source": "local-cache", "primary_isbn": "0141300167"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Michael White]({{ '/ufo-history/ufo-personalities/white-michael' | relative_url }})'s book “[Alien Life Forms: Sci-Fi Explained]({{ '/ufo-history/ufo-books/white-michael-alien-life-forms-sci-fi-explained' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0141300167/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0141300167/?&tag=ufot-21))

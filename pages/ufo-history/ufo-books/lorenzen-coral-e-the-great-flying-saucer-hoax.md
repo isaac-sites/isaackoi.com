@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0007EF5K4", "0253190061"], "cover_image": "/book-covers/0253190061.jpg", "cover_source": "local-cache", "primary_isbn": "0253190061"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Lorenzen, Coral]({{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}) E's book “[The Great Flying Saucer Hoax]({{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }})” ([1962]({{ '/tags/1962' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0007EF5K4/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0007EF5K4/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0007DXIH2", "1556431252"], "cover_image": "/book-covers/1556431252.jpg", "cover_source": "local-cache", "primary_isbn": "1556431252"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Waveney Girvan]({{ '/ufo-history/ufo-personalities/girvan-waveney' | relative_url }})'s book “[Flying Saucers and Common Sense]({{ '/ufo-history/ufo-books/girvan-waveney-flying-saucers-and-common-sense' | relative_url }})” ([1955]({{ '/tags/1955' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0007DXIH2/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0007DXIH2/?&tag=ufot-21))

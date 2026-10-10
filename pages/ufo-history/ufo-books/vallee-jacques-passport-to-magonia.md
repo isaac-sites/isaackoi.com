@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0006CPDGI", "1852277343", "0760707642", "0964491702", "1578590299", "1933665114", "1576072495", "1558883010", "1558887423", "0780800974", "1561736058", "0397317808", "0062586386", "0465004180", "0816038007", "0855001232", "0451204247", "1841196134", "0963916122", "0553057820", "0762406194", "1880090627", "0896960404", "B000RATSR4", "0684195399", "075251217X", "0713727330", "1903047889", "0283060697", "0312867085", "0709032765", "0709188641", "0815970005", "0722176945", "0879753382", "1573922137", "0345345258", "0684819325", "0060922583", "0854351345", "0449908372", "1933665297", "0345373960", "0880642262"], "cover_image": "/book-covers/1852277343.jpg", "cover_source": "local-cache", "primary_isbn": "1852277343"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Passport to Magonia]({{ '/ufo-history/ufo-books/vallee-jacques-passport-to-magonia' | relative_url }})” ([1970]({{ '/tags/1970' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0006CPDGI/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0006CPDGI/?&tag=ufot-21))

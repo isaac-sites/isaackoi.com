@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1870021029"], "cover_image": "/book-covers/1870021029.jpg", "cover_source": "local-cache", "primary_isbn": "1870021029"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFO: 1947-1987]({{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1870021029/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1870021029/?&tag=ufot-21)) edited by [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}) and [John Spencer]({{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }})

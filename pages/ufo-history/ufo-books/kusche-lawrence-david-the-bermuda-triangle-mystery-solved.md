@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0879759712", "0385111398", "1576072495", "1860660223", "0449135691", "0684166550", "051757165X", "0385035969", "1560983434", "1860194095"], "cover_image": "/book-covers/0879759712.jpg", "cover_source": "local-cache", "primary_isbn": "0879759712"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Lawrence David Kusche]({{ '/ufo-history/ufo-personalities/kusche-lawrence-david' | relative_url }})'s book “[The Bermuda Triangle Mystery – Solved]({{ '/ufo-history/ufo-books/kusche-lawrence-david-the-bermuda-triangle-mystery-solved' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0879759712/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0879759712/?&tag=ufot-21))

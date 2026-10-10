@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000LCG57O", "1900486466", "0586066780", "1578590299", "1558887415", "1571743170", "0451204247", "1841196134", "0963916122", "013117424X", "1601630115", "1569243425", "0970505507", "1880090627", "0738836125", "0253190061", "0962653462", "B000IW5ULY", "0060186429", "1575440660", "1560983434", "1569246912", "B000NLQNZC", "0631135634", "0713726555", "070901080X", "1852839244", "B000ILEK2A"], "cover_image": "/book-covers/1900486466.jpg", "cover_source": "local-cache", "primary_isbn": "1900486466"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Edward Ruppelt]({{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }})'s book “[The Report on Unidentified Flying Objects]({{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }})” ([1956]({{ '/tags/1956' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000LCG57O/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000LCG57O/?&tag=ufot-21)).

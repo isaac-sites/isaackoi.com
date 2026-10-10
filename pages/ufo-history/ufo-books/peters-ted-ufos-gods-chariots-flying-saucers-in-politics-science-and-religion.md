@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0804222339", "0926524283"], "cover_image": "/book-covers/0926524283.jpg", "cover_source": "local-cache", "primary_isbn": "0804222339"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFOs-God's Chariots?: Flying Saucers in Politics, Science and Religion]({{ '/ufo-history/ufo-books/peters-ted-ufos-gods-chariots-flying-saucers-in-politics-science-and-religion' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0804222339/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0804222339/?&tag=ufot-21)) by [Ted Peters]({{ '/ufo-history/ufo-personalities/peters-ted' | relative_url }}),

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0586066780", "033039021X", "0709040865", "0938294083", "0713726555", "0743497538", "B000JQ5DW0", "159605753X"], "cover_image": "/book-covers/0586066780.jpg", "cover_source": "local-cache", "primary_isbn": "0586066780"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Brenda Butler]({{ '/ufo-history/ufo-personalities/butler-brenda' | relative_url }}) and [Dot Street]({{ '/ufo-history/ufo-personalities/street-dot' | relative_url }}) and [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }})'s book “[Sky Crash]({{ '/ufo-history/ufo-books/butler-brenda-and-street-dot-and-randles-jenny-sky-crash' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0586066780/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0586066780/?&tag=ufot-21))

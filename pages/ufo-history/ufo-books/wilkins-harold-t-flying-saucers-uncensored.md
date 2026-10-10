@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000JIJGC6", "0451204247", "1841196134", "0962653462"], "cover_image": "/book-covers/0451204247.jpg", "cover_source": "local-cache", "primary_isbn": "0451204247"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Flying Saucers Uncensored]({{ '/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored' | relative_url }})” ([1955]({{ '/tags/1955' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000JIJGC6/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000JIJGC6/?&tag=ufot-21)) by [Harold Wilkins]({{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}).

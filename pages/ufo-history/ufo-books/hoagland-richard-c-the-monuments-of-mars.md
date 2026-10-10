@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1583940545", "0684848562", "087542001X", "1850585768", "0713727195", "1852277343", "0002570300", "0743466748", "0380718073", "0743462688", "0816511195", "0713727470", "0312962878", "081293248X", "038530532X", "0926524429", "0451204247", "1841196134", "0963916122", "0879756446", "0201569493", "1858600170", "0521598370", "0415243424", "0940829029", "074346673X", "051757165X", "0919654703", "0060186429", "0684836300", "0340758333", "1893157199", "078670800X", "184358073X", "1860194095", "0760704406", "0806904763", "0749914114", "1567312004", "1883319463", "1883319617", "0345409469", "1881852024", "0805077081", "0809231379", "0471407356", "1571742018", "0060176539", "0684819325", "0738701068", "089281750X", "0387955011", "088001671X", "0880642262", "0806905719"], "cover_image": "/book-covers/1583940545.jpg", "cover_source": "local-cache", "primary_isbn": "1583940545"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Richard C Hoagland]({{ '/ufo-history/ufo-personalities/hoagland-richard-c' | relative_url }})'s book “[The Monuments of Mars]({{ '/ufo-history/ufo-books/hoagland-richard-c-the-monuments-of-mars' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1583940545/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1583940545/?&tag=ufot-21)).

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0854353747", "1852277343", "0600572293", "0952151200", "0947533893", "0753704250", "0753700875", "0762101083", "1870021029", "B000OVBWKC", "0856136689", "0709032765", "1567312004", "0380768879"], "cover_image": "/book-covers/0854353747.jpg", "cover_source": "local-cache", "primary_isbn": "0854353747"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Frank Johnson's book “[The Janos People]({{ '/ufo-history/ufo-books/johnson-frank-the-janos-people' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0854353747/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0854353747/?&tag=ufot-21)).
