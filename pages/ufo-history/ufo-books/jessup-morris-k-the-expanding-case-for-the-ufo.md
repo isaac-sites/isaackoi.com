@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Jessup, Morris K “The Expanding Case for the UFO”"
 description: "Brief review to be added of Morris K Jessup 's book “ The Expanding Case for the UFO ” ( 1957 ) (available on Amazon USA and on Amazon UK )"

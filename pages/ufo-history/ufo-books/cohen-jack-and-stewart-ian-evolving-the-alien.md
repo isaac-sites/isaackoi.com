@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cohen, Jack and Stewart, Ian “Evolving the Alien”"
 description: "Brief review to be added of Jack Cohen and Ian Stewart's book “ Evolving the Alien ” ( 2002 ) (available on Amazon USA and on Amazon UK )"

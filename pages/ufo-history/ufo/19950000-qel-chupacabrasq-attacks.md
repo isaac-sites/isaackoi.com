@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1995.0000 \"El Chupacabras\" attacks"
 description: "Image needed During 1995 , there were various reports of alleged attacks by El Chupacabras (“the Goatsucker”) in Puerto Rico."

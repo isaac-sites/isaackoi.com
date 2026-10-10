@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clancy, Susan A “Abducted : How people come to believe they were kidnapped by aliens”"
 description: "Brief review to be added of Susan A Clancy 's book “ Abducted : How people come to believe they were kidnapped by aliens ” ( 2005 ) (available on Amazon USA and on Amazon UK )"

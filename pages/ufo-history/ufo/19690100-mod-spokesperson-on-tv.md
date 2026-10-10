@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0100 MOD spokesperson on TV"
 description: "MOD spokesperson on TV During January 1969 , a British Ministry of Defence spokesperson (Anthony Davis) appears on British television in a debate on UFOs."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0520 Air Force Manual 55-11"
 description: "Air Force Manual 55-11 On 20 May 1968 , Air Force Manual 55-11, “Air Force Operational Reporting System”, was published. It superseded AFR 55-88."

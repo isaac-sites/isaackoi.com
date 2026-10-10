@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1972.0303 Pioneer 10 plaque"
 description: "Pioneer 10 plaque On 3 March 1972 , Pioneer 10 was launched, with a with a message (devised by Carl Sagan and Frank Drake ) on a gold-anodized aluminium plaque fixed to the antenna support to any extraterrestrials that may recover the prob..."

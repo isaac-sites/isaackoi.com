@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.1001 FBI Bulletin"
 description: "FBI Bulletin On 1 October 1947, FBI Bulletin Number 57 informs FBI offices that in future all flying disc reports should be referred to the Air Force"

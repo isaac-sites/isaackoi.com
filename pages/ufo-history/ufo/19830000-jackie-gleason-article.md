@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1983.0000 Jackie Gleason article"
 description: "Image needed During 1983 , an article in the “National Enquirer” alleges that Jackie Gleason claimed to have been shown alien bodies by President Nixon following a charity golf tournament run by Gleason (on 19 February 1973 )."

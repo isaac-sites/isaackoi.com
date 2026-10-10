@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hough, Peter and Kalman, Moyshe “The UFO Files: Alien Abductions”"
 description: "Brief review to be added of “ The UFO Files: Alien Abductions ” ( 1999 ) (available on Amazon USA and on Amazon UK ) by Peter Hough and Moyshe Kalman. Previously published under the title “The Truth about Alien Abductions”"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0702 Tremonton film"
 description: "Tremonton film \"Impact\" Rating = 13 \"Credibility\" Rating = 12 \"Expert\" Rating = 7 \"Strangeness\" Rating = 5 The Tremonton, Utah incident occurred on 2 July 1952, involving film taken during a sighting by US Navy Warrant Officer Delbert C Ne..."

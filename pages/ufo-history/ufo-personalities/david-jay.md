@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "David, Jay"
 description: "Jay David Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1967 David, Jay (Editor) “ The Flying Saucer Reader ” ( 1967 ) (edited by Jay David ) (available on Amazon USA and on Amazon UK ) 1970 David,..."

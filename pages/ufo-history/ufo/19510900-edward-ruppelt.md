@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0900 Edward Ruppelt"
 description: "Image needed In or around September 1951 , Lieutenant Cummings was released from active service. Captain Edward Ruppelt asked to head Project Grudge."

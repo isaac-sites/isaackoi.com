@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0100 Keyhoe article"
 description: "Image needed An article by Donald Keyhoe appeared in the January 1965 issue of True magazine."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Friedman, Stanton and Marden, Kathleen “Captured! The Betty and Barney Hill UFO Experience”"
 description: "Brief review to be added of “ Captured! The Betty and Barney Hill UFO Experience ” ( 2007 ) (available on Amazon USA and on Amazon UK ) by Stanton Friedman and Kathleen Marden."

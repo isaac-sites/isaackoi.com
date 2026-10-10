@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Edwards, Frank “Flying Saucers – Serious Business”"
 description: "Brief review to be added of Frank Edwards 's book “ Flying Saucers – Serious Business ” ( 1966 ) (available on Amazon USA and on Amazon UK ). See also references on this website for the memo sent out by the US Air Force Inspector General i..."

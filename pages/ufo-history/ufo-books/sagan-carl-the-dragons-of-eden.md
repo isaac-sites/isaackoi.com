@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sagan, Carl “The Dragons of Eden”"
 description: "Brief review to be added of Carl Sagan 's book “ The Dragons of Eden ” ( 1977 ) (available on Amazon USA and on Amazon UK )"

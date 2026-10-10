@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lorenzen, Coral and Lorenzen, Jim “Abducted! : Confrontations with Beings from Outer Space”"
 description: "Brief review to be added of “ Abducted! : Confrontations with Beings from Outer Space ” ( 1977 ) (available on Amazon USA and on Amazon UK ) by Coral Lorenzen and Jim Lorenzen ."

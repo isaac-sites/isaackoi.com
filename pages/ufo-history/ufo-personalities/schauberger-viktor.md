@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Schauberger, Viktor"
 description: "Viktor Schauberger Brief comments to be added on this individual. Viktor Schauberger was an Austrian who claimed to have worked on flying saucer technology under the Nazis."

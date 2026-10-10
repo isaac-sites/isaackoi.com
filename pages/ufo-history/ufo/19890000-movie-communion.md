@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1989.0000 Movie “Communion”"
 description: "“Communion” The movie “ Communion ” was based on the book by Whitley Strieber. Starring Christopher Walken. Directed by Philippe Mora."

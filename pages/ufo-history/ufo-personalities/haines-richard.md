@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Haines, Richard"
 description: "Richard Haines Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1979 Haines, Richard “ UFO Phenomena and the Behavioral Scientist ” ( 1979 ) (available on Amazon USA and on Amazon UK ) 1980 Haines, Ric..."

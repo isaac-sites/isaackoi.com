@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Evans, Hilary and Spencer, John “UFO: 1947-1987”"
 description: "Brief review to be added of “ UFO: 1947 - 1987 ” ( 1987 ) (available on Amazon USA and on Amazon UK ) edited by Hilary Evans and John Spencer"

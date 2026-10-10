@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fawcett, George and Greenwood, Barry “Clear Intent”"
 description: "Brief review to be added of George Fawcett and Barry Greenwood 's book “ Clear Intent ” ( 1984 ) (available on Amazon USA and on Amazon UK ). Later published under the title “The UFO Cover-Up\"."

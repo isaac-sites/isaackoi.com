@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.0925 Viktor Schauberger dies"
 description: "Image needed On 25 September 1958 , Viktor Schauberger (an Austrian who claimed to have worked on flying saucer technology under the Nazis) dies."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Von Daniken, Erich"
 description: "Erich Von Daniken Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1968 Von Daniken, Erich “ Chariots of the Gods? ” ( 1968 ) (available on Amazon USA and on Amazon UK ) 1968 Von Daniken, Erich “Gods f..."

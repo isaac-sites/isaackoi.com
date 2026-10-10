@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Landsburg, Alan and Landsburg, Sally “In Search of Ancient Mysteries”"
 description: "Brief review to be added of “ In Search of Ancient Mysteries ” ( 1974 ) (available on Amazon USA and on Amazon UK ) by Alan Landsburg and Sally Landsburg."

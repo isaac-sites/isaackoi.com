@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hall, Richard “Uninvited Guests”"
 description: "Brief review to be added of Richard Hall 's book “ Uninvited Guests ” ( 1988 ) (available on Amazon USA and on Amazon UK )"

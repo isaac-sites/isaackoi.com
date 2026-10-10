@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Kraspedon, Dino"
 description: "Dino Kraspedon Brief comments to be added on this individual. Dino Kraspedon's real name was Aladino Felix. Books by this person include: YEAR BOOK 1959 Kraspedon, Dino (whose real name was Aladino Felix) “ My Contact With UFOs ” ( 1959 )..."

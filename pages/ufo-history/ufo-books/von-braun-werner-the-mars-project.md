@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Von Braun, Werner “The Mars Project”"
 description: "Brief review to be added of Werner von Braun 's book “ The Mars Project ” ( 1953 ) (available on Amazon USA and on Amazon UK )"

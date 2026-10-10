@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ring, Kenneth"
 description: "Kenneth Ring Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1992 Ring, Kenneth “ The Omega Project: Near-Death Experiences, UFO Encounters, and the Mind at Large ” ( 1992 ) (available on Amazon USA a..."

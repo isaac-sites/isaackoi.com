@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Washburn, Mark “Mars at Last!”"
 description: "Brief review to be added of Mark Washburn's book “ Mars at Last! ” ( 1977 ) (available on Amazon USA and on Amazon UK )"

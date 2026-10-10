@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0400 Hynek on Condon report"
 description: "Image needed A review of the Condon Report by Dr J Allen Hynek was published in the April 1969 edition of the “Bulletin of the Atomic Scientist” at pages 39-42."

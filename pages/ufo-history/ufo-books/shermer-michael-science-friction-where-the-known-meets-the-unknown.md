@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Shermer, Michael “Science Friction : Where the known meets the unknown”"
 description: "Brief review to be added of Michael Shermer 's book “ Science Friction : Where the known meets the unknown ” ( 2005 ) (available on Amazon USA and on Amazon UK )"

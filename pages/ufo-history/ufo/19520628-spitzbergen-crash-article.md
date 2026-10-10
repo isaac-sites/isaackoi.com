@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0628 Spitzbergen crash article"
 description: "Image needed On 28 June 1952 , an article is published in the German newspaper “Saarbrücker Zeitung”[i] (and is republished in the German newspaper “Berliner Volksblatt” [ii] on 9 July 1952 ) alleging that a flying disc crashed on Spitsber..."

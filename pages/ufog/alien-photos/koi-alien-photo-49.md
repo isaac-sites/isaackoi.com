@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi Alien Photo 49"
 description: "Koi Alien Photo 49 This photograph shows a prop made for the movie \"Roswell\" (1994), which starred Kyle MacLachlan as Jesse Marcel. The man bending over the \"alien\" in some of the relevant series of photographs is Paul Davids, a writer and..."

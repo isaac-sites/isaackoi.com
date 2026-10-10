@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.0517 Air Force college paper"
 description: "Image needed A research paper entitled “Should The Air Force Reopen Project Blue Book?” submitted to the Air and Staff College of the Air (Force) University by Major William E Brummett USAF and Captain Ernest R Zuick, Jr on 17 th May 1974"

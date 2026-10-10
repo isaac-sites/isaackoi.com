@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0700 Bioscience Advisory Committee"
 description: "Bioscience Advisory Committee During July 1959 , NASA 's Bioscience Advisory Committee is appointed."

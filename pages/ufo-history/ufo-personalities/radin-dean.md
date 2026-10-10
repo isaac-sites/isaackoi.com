@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Radin, Dean"
 description: "Dean Radin Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2006 Radin, Dean “ Entangled Minds : Extrasensory Experiences in a Quantum Reality ” ( 2006 ) (available on Amazon USA and on Amazon UK )"

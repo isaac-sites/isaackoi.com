@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0000 Movie “The War of the Worlds”"
 description: "“The War of the Worlds” The movie “ The War of the Worlds ” ( 1953 ) was based on the novel by H G Wells. Screenplay written by Barre Lyndon. Directed by Byron Haskin. Produced by George Pal."

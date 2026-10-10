@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0603 Dyson sphere"
 description: "Dyson sphere On 3 June 1960 , Freeman Dyson publishesan article discusing the “Dyson sphere”"

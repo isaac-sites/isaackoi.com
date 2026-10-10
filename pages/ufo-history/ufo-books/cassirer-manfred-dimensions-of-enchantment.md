@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cassirer, Manfred “Dimensions of Enchantment”"
 description: "Brief review to be added of Manfred Cassirer's book “ Dimensions of Enchantment ” ( 1994 ) (available on Amazon USA and on Amazon UK )"

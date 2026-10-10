@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1909.0000 airship waves"
 description: "Image needed Worldwide waves of airship sightings during 1909 -1910 and 1913, with sporadic later reports."

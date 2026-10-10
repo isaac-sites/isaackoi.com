@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.0000 Movie “The Rocky Horror Picture Show”"
 description: "“The Rocky Horror Picture Show” The Movie “ The Rocky Horror Picture Show ” ( 1975 ) starred Tim Curry."

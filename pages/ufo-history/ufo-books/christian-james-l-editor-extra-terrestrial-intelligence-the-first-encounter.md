@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Christian, James L (Editor) “Extra-Terrestrial Intelligence : The First Encounter”"
 description: "Brief review to be added of “ Extra-Terrestrial Intelligence : The First Encounter ” ( 1976 ), edited by James L Christian (available on Amazon USA and on Amazon UK )"

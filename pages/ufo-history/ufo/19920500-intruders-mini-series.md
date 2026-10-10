@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1992.0500 “Intruders” mini-series"
 description: "Image needed During May 1992 , the “ Intruders ” mini-series, based on research by Budd Hopkins, was broadcast by CBS."

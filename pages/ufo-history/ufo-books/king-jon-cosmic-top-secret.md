@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "King, Jon “Cosmic Top Secret”"
 description: "Brief review to be added of Jon King 's book “ Cosmic Top Secret ” ( 1998 ) (available on Amazon USA and on Amazon UK )"

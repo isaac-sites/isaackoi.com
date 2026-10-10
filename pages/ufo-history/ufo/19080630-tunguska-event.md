@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1908.0630 Tunguska Event"
 description: "Tunguska Event \"Impact\" Rating = 14 \"Credibility\" Rating = 14 \"Expert\" Rating = 6 \"Strangeness\" Rating = 5 On 30 June 1908, an explosion occurs over the Tunguska region of Russia. (Commonly referred to as “the Tunguska Event”). Claims to f..."

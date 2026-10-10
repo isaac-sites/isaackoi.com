@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Shermer, Michael “The Borderlands of Science”"
 description: "Brief review to be added of Michael Shermer 's book “ The Borderlands of Science ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

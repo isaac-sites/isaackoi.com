@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.1017 Patty Price abduction"
 description: "Image needed An alleged abduction involving Pat Roach (sometimes referred to by a pseudonym, “Patty Price”) and her children very early in the morning on 17 October 1973 ."

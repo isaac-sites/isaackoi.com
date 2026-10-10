@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Klass, Philip J “UFOs – The Public Deceived”"
 description: "Brief review to be added of Philip J Klass ' book “ UFOs – The Public Deceived ” ( 1983 ) (available on Amazon USA and on Amazon UK )"

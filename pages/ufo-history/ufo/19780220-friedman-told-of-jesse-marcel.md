@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0220 Friedman told of Jesse Marcel"
 description: "Image needed On 20 February 1978 , Stanton T Friedman was told to talk to Jesse Marcel by the station manager of a local television station in Baton Rouge. This was the start of renewed investigations of the “Roswell incident”."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.1217 Hynek in Saturday Evening Post"
 description: "Image needed On 17 December 1966 , an article by Dr J Allen Hynek entitled “Are Flying Saucers Real?” was published in The Saturday Evening Post."

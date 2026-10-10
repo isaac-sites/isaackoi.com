@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Eberhart, George"
 description: "George Eberhart Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1991 Eberhart, George (Ed.) “ The Roswell Report : A Historical Perspective ” ( 1991 ) (available on Amazon USA and on Amazon UK )"

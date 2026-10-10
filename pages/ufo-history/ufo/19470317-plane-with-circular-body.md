@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0317 Plane with circular body"
 description: "Image needed On 17 March 1947 , the US Navy contract for development of a plane with a flat circular body is terminated. The plane had the military designation XF-5U-1 and was based on the lighter Chance Vought V-173 prototype (also known..."

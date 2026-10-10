@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.1025 Higdon elk-hunting incident"
 description: "Image needed On 25 October 1974 , there was an alleged contact incident involving E Carl Higdon while elk-hunting on the north boundary of the Medicine Bow National Forest, Rawlins, Wyoming. This incident is Case 64 in Isaac Koi's \"Top 100..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0424 Scoriton encounter"
 description: "Scoriton encounter The alleged close encounter with several entities involving gardener Mr E Arthur Bryant of Scoriton, Devon, England occurred on 24 April 1965 ."

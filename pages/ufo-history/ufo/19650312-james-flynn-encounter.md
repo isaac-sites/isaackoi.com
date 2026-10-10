@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0312 James Flynn encounter"
 description: "Image needed On 12 March 1965 , James Flynnclaims various injuries caused by a UFO sighting in the Everglades, near Fort Myers, Florida."

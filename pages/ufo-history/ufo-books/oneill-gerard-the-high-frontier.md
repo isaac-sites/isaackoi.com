@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "O’Neill, Gerard “The High Frontier”"
 description: "Brief review to be added of “ The High Frontier ” ( 1976 ) (available on Amazon USA and on Amazon UK ) Gerard O’Neill."

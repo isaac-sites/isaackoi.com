@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Schwarz, Berthold E “ UFO Dynamics : Psychiatric and Psychic  Aspects of the UFO Syndrome”"
 description: "Brief review to be added of Berthold E Schwarz 's book “UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome” ( 1983 ) (available on Amazon USA and on Amazon UK )"

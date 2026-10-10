@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sachs, Margaret “The UFO Encyclopedia”"
 description: "Brief review to be added of “ The UFO Encyclopedia ” ( 1980 ) (available on Amazon USA and on Amazon UK ) by Margaret Sachs ."

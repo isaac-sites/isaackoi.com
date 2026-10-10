@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.1007 Hynek on Bluebook weaknesses"
 description: "Image needed On 7 October 1968 , Dr J Allen Hynek wrote a reply to Colonel Raymond S Sleeper’s request for suggestions to define areas of scientific weakness in Project Blue Book."

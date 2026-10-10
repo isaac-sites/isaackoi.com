@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1970.0908 Captain Schaffner's crash"
 description: "Captain Schaffner's crash On 8 September 1970 , USAF Captain William Schaffner died when his Lightning jet crashes into the North Sea. It has been alleged by some authors that Schaffner had been pursuing a UFO."

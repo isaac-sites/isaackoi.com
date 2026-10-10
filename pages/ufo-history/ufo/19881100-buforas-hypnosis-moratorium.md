@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1988.1100 BUFORA's hypnosis moratorium"
 description: "Image needed During November 1988 , BUFORA introduced a voluntary moratorium on the use of hypnosis by its members in investigating cases."

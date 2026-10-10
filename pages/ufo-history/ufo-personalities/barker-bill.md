@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Barker, Bill"
 description: "Bill Barker Brief comments to be added on this individual. Established the Schwa Corporation in 1992 ."

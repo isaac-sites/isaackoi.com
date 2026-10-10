@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1979.0827 Deputy Val Johnson encounter"
 description: "Image needed On 27 August 1979 , the Red River Valley, Marshall County, Minnesota alleged close encounter occurred involving Deputy Sheriff Val Johnson and claims of vehicular interference."

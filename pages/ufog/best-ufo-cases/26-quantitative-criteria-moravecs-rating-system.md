@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "26. Quantitative criteria : Moravec's rating system"
 description: "“ Best UFO Cases ” by Isaac Koi PART 26: Quantitative criteria : Moravec's rating system Mark Moravec has suggested that assigning “numerical weights” to the factors which are considered important when comparing UFO reports produces “a sys..."

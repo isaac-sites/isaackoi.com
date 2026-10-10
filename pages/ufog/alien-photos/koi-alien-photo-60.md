@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi Alien Photo 60"
 description: "Koi Alien Photo 60 Koi Alien Photo 60 appears to show a fetus-like alien, held in the palm of a hand. This image appears on many UFO websites, usually without any accompanying text. One UFO website has the following caption for this image:..."

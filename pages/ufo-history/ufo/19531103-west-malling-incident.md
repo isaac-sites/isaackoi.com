@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.1103 West Malling incident"
 description: "West Malling incident On 3 November 1953 , a UFO was reportedly seen by Flying Officer Terry Johnson and his navigator, Flying Officer Geoffrey Smythe, during a flight in a Vampire fighter from RAF West Malling. (Commonly referred to as “t..."

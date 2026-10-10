@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1985.0000 Shirley McIver's thesis"
 description: "Shirley McIver's thesis Dissertation : McIver, Shirley “The UFO Movement: A Sociological Study of UFO Groups”, Ph.D. Thesis in Sociology ( 1985 ), University of York, 232 pages."

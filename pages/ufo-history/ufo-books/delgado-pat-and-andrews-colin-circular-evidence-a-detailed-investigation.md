@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Delgado, Pat and Andrews, Colin “Circular Evidence: A Detailed Investigation”"
 description: "Brief review to be added of “ Circular Evidence: A Detailed Investigation ” ( 1989 ) (available on Amazon USA and on Amazon UK ) by Pat Delgado and Colin Andrews ."

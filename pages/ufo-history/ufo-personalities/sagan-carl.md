@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sagan, Carl"
 description: "Carl Sagan Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1966 Shklovskii, I S and Sagan, Carl “ Intelligent Life in the Universe ” ( 1966 ) (available on Amazon USA and on Amazon UK ) ( SETI :) 1972..."

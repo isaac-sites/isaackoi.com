@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1979.1102 Maryland SETI conference"
 description: "Maryland SETI conference A conference regarding SETI was held at University of Maryland on 2-3 November 1979 ."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "David, Jay “Flying Saucers Have Arrived!”"
 description: "Brief review to be added of “ Flying Saucers Have Arrived! ” ( 1970 ) (available on Amazon USA and on Amazon UK ) edited by Jay David"

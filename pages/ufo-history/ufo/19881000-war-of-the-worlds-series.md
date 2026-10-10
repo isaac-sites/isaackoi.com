@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1988.1000 “War of the Worlds” series"
 description: "Image needed During 1988 , the “War of the Worlds” television series began. It was based on the novel by H G Wells and the film of the same name."

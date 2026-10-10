@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Luckman, Michael “Alien Rock : The Rock ‘n’ Roll Extraterrestrial Connection”"
 description: "Brief review to be added of Michael Luckman 's book “ Alien Rock : The Rock ‘n’ Roll Extraterrestrial Connection ” ( 2005 ) (available on Amazon USA and on Amazon UK )"

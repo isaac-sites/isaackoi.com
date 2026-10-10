@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Boylan, Richard J and Boylan, Lee K “Close Extraterrestrial Encounters: Positive Experiences With Mysteries Visitors”"
 description: "Brief review to be added of Richard J Boylan and Lee K Boylan's book “ Close Extraterrestrial Encounters: Positive Experiences With Mysteries Visitors ” ( 1994 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1994.0000 Corbisier's thesis"
 description: "Image needed Dissertation : Corbisier, B “The Role of State Dependence in Reality Monitoring” ( 1994 ) Master’s thesis, Department of Psychology, Brandeis University, Waltham, Mass."

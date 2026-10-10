@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.0427 Project Saucer press release"
 description: "Project Saucer press release On 27 April 1949 , the US Air Force released a “Memorandum for the Press” entitled “Project Saucer”. Memorandum for the Press NO. M 26 – 49, entitled “Project Saucer”, Project Blue Book files."

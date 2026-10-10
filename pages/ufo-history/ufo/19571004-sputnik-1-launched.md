@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1004 Sputnik 1 launched"
 description: "Image needed Sputnik 1 was launched on 4 October 1957 ."

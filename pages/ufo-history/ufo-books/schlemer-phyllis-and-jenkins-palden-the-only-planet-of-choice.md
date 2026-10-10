@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Schlemer, Phyllis and Jenkins, Palden “The Only Planet Of Choice”"
 description: "Brief review to be added of “ The Only Planet Of Choice ” ( 1993 ) (available on Amazon USA and on Amazon UK ) by Phyllis Schlemer and Palden Jenkins."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1996.0227 \"Nova\" on abductions"
 description: "Image needed On 27 February 1996 , PBS’s “ Nova ” program on alien abductions (“Kidnapped by UFOs?”, written, produced and directed by Denise Dilanni) was broadcast."

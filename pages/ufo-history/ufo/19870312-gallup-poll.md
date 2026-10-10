@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1987.0312 Gallup poll"
 description: "Gallup poll On 12 March 1987 , Gallup issues a press release on the results of the sixth Gallup Poll to include questions on UFOs. The press release was entitled “Only one third of the public deny existence of UFOs, extraterrestrial life”."

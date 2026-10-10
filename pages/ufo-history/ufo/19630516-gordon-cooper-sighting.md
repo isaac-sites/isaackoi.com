@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1963.0516 Gordon Cooper sighting"
 description: "Gordon Cooper sighting There was an alleged Mercury 9 UFO report involving astronaut L Gordon Cooper on 16 May 1963 . This incident is Case 79 in Isaac Koi's \"Top 100\" article , since it was referred to in 35 of the books covered by that a..."

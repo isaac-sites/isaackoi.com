@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1990.0100 “Entirely unpredisposed”"
 description: "Image needed During January 1990, an article by Martin Kottmeyer entitled “Entirely unpredisposed” appears in Magonia."

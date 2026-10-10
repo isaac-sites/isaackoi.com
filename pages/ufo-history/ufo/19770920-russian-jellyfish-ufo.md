@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0920 Russian “jellyfish” UFO"
 description: "Image needed On 20 September 1977 , there were reports of a UFO resembling “jellyfish” in the sky in Petrozavodsk, near Lake Onega, north of Moscow, Russia."

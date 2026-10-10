@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.0729 Daily Express poll"
 description: "Daily Express poll On 29 July 1954 , the Daily Express newspaper published the results of a survey which included the question “Do you believe in Flying Saucers?”. 16.5 per cent answered “yes”, 65 percent answered “no”."

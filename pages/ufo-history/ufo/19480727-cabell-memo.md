@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.0727 Cabell memo"
 description: "Cabell memo On 27 July 1948 , Major General Cabell directed the Air Estimates Branch of Air Force Intelligence to prepare a study to determine the probability of the existence of UFOs."

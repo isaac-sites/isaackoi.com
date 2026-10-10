@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1992.0613 MIT abduction conference"
 description: "Image needed A five-day conference on “alien abductions” was held at Massachusetts Institute of Technology (“MIT”) between 13-17 June 1992 , co-chaired by Harvard psychiatrist John E Mack and MIT physicist David E Pritchard. Commonly refer..."

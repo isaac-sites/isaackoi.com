@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Korff, Kal K “The Roswell UFO Crash: What They Don’t Want You to Know”"
 description: "Brief review to be added of Kal K Korff 's book “ The Roswell UFO Crash: What They Don’t Want You to Know ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.1027 Project Grudge reactivated"
 description: "Image needed On 27 October 1951 , Project Grudge was officially re-activated."

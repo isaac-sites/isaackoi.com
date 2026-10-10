@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Pritchard, Andrea et al (editors) “Alien Discussions: Abduction Study Conference Held at M. I. T.”"
 description: "Brief review to be added of “ Alien Discussions: Abduction Study Conference Held at M. I. T. ” ( 1994 ) (available on Amazon USA and on Amazon UK ) edited by Andrea ritchard et al. See also the entry in relation to the relevant five day co..."

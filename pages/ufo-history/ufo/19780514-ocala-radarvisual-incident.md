@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0514 Ocala radar/visual incident"
 description: "Image needed On 15 May 1978 , a radar/visual incident occurred in Ocala, Florida."

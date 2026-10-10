@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.1221 Apollo 8 sighting"
 description: "Apollo 8 sighting The alleged Apollo 8 sighting involving Frank Borman occurred on 12 December 1968. As with several other alleged astronaut sightings, a wide variety of contradictory dates are given for the alleged sighting in the various..."

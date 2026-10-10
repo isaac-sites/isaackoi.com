@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.0523 “Operation Right to Know” demos"
 description: "Image needed On 23 May 1994 , “Operation Right to Know” (“ ORTK ”) held demonstrations outside the White House and the Pentagon in America and outside Whitehall in England."

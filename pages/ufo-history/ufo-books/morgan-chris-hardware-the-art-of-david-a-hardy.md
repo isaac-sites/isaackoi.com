@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Morgan, Chris “Hardware : The Art of David A Hardy”"
 description: "Brief review to be added of Chris Morgan's book “ Hardyware : The Art of David A Hardy ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

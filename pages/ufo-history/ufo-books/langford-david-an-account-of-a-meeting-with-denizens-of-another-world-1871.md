@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Langford, David “An account of a meeting with denizens of another world : 1871”"
 description: "Brief review to be added of David Langford 's book “ An account of a meeting with denizens of another world : 1871 ” ( 1979 ) (available on Amazon USA and on Amazon UK ). Incorporates material purportedly written by William Loosley, but in..."

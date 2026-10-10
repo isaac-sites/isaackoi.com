@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1989.0728 Kasputin Yar missile base"
 description: "Image needed There was a sighting report at Russian Army missile base in the district of Kasputin Yar, Astrakhan Region, Russia during night of 28-29 July 1989 ."

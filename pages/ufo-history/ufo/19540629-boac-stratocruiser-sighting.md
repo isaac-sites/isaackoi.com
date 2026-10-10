@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.0629 BOAC stratocruiser sighting"
 description: "BOAC stratocruiser sighting On 29 June 1954 , the British Overseas Airways Corporation (“B.O.A.C.” or “BOAC”) stratocruiser “Centaurus” sighting occurred near Goose Bay, Labrador during a flight from New York’s Idlewild Airport to London,..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "17:  Qualitative criteria: Multiple witnesses"
 description: "“ Best UFO Cases ” by Isaac Koi PART 17: Qualitative criteria: Multiple witnesses Several of the lists of qualitiative criteria suggested by various UFO researchers (see PART 15: Qualitative criteria: Introduction ) prominently include mul..."

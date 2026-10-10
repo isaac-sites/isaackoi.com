@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cousineau, Phil “UFOs: A Manual for the Millenium”"
 description: "Brief review to be added of Phil Cousineau's book “ UFOs: A Manual for the Millenium ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

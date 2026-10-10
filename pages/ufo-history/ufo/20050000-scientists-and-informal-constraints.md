@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2005.0000 Scientists and “informal constraints”"
 description: "Image needed During 2005, the journal Science published the results of a survey on forbidden knowledge and “informal constraints” some felt limited what they could study."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hynek, J Allen “The UFO Experience”"
 description: "Brief review to be added of J Allen Hynek 's book “ The UFO Experience ” ( 1972 ) (available on Amazon USA and on Amazon UK )"

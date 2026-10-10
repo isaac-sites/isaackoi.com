@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.1021 RAF Meteor sighting"
 description: "RAF Meteor sighting On 21 October 1952 , 3 UFOs were reported by Michael Swiney (instructor at the RAF’s Central Flying School at Little Rissington, Gloucestershire) and his student, Lieutenant David Crofts of the Royal Navy, whilst flying..."

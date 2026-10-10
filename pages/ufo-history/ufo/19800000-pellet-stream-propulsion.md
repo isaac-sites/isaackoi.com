@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.0000 Pellet stream propulsion"
 description: "Image needed During 1980, Cliff Singer proposes pellet stream propulsion for an interstellar craft."

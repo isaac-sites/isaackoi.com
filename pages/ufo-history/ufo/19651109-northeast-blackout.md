@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.1109 Northeast Blackout"
 description: "Image needed On 9 November 1965 , the Northeastern United States suffered a major power failure. Some authors have alleged a link to UFO sightings. (Commonly referred to as “The Northeast Blackout”). This incident is Case 61 in Isaac Koi's..."

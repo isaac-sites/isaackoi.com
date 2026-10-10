@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1983.0000 SETI Science Working Group"
 description: "SETI Science Working Group During 1983 , the “SETI Science Working Group Report” was edited by Frank Drake , John Wolfe and Charles Seeger"

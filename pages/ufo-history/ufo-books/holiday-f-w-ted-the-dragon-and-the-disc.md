@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Holiday, F W (Ted)  “The Dragon and the Disc”"
 description: "Brief review to be added of F W Holiday's book “ The Dragon and the Disc ” ( 1973 ) (available on Amazon USA and on Amazon UK )"

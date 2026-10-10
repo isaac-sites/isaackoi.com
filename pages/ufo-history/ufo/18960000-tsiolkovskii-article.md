@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1896.0000 Tsiolkovskii article"
 description: "Image needed Astronautics : In 1896 , Konstantin Eduardovich Tsiolkovskii writes “Exploration of Space by Means of Reactive Apparatus”."

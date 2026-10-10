@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0706 CIA/Swan incident"
 description: "CIA/Swan incident On 6 July 1959 , CIA officials reportedly have a UFO sighting whilst one of them was attempting to “channel” an alien as part of their investigation of a woman, Mrs Frances Swan, that claimed to be able to channel an alie..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0000 Movie “Village of the Damned”"
 description: "“Village of the Damned” The Movie (1960) “ Village of the Damned ” was based on a novel, “The Midwich Cuckoos”, by John Wyndham."

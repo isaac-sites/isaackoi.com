@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Nesheim, Eric and Nesheim, Leif “Saucer Attack! : Pop Culture in the Golden Age of Flying Saucers”"
 description: "Brief review to be added of “ Saucer Attack! : Pop Culture in the Golden Age of Flying Saucers ” ( 1997 ) (available on Amazon USA and on Amazon UK ) by Eric Nesheim and Leif Nesheim."

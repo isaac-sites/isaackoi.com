@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Goldsmith, Donald"
 description: "Donald Goldsmith Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1980 Goldsmith, Donald “The Quest For Extraterrestrial Life : A Book of Readings” ( 1980 ) (available on Amazon USA and on Amazon UK )..."

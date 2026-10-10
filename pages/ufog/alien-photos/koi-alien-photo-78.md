@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi Alien Photo 78"
 description: "Koi Alien Photo 78 Keywords : Alien, Missouri Crash Recovery, 1941 Koi Alien Photo 78 has appeared on various websites with captions suggesting it shows an alien captured following a UFO crash in Missouri in 1941. It commonly appears in as..."

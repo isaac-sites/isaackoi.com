@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1976.0000 Forward on interstellar missions"
 description: "Image needed During 1976, Robert L Forward publishes an article entitled “A Program for Interstellar Exploration” in the Journal of the British Interplanetary Society proposing the launch of manned missions to Alpha Centauri around 2025."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.1110 Kuwait UFO incident"
 description: "Image needed The Umm Al-Aish UFO incident in northern Kuwait, involving technicians and alleged electromagnetic effects on oil pumps, occurred on 10 November 1978 . This was part of a series of incidents from 9 November 1978 to 21 November..."

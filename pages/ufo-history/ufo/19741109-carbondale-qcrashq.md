@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.1109 Carbondale \"crash\""
 description: "Image needed On 9 November 1974 , Several teenage boys claim to have witnessed a UFO crash into a coal mining silt pond near Carbondale, Pennsylvania."

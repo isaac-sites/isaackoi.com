@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rutledge, Harley D"
 description: "Image needed Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1981 Rutledge, Harley D “ Project Identification ” ( 1981 ) (available on Amazon USA and on Amazon UK )."

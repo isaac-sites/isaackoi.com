@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.1209 Kecksburg incident"
 description: "Image needed The Kecksburg, Pennsylvania incident occurred on 9 December 1965 ."

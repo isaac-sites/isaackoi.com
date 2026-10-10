@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lewis, James (Ed.) “The Gods Have Landed –  New Religions from Other Worlds”"
 description: "Brief review to be added of “ The Gods Have Landed – New Religions from Other Worlds ” ( 1995 ) (edited by James Lewis) (available on Amazon USA and on Amazon UK )"

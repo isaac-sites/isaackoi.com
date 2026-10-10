@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1970.1221 Scientology defamation claim"
 description: "Scientology defamation claim On 21 December 1970 , a defamation legal action by the Church of Scientology (founded by L Ron Hubbard ) against the Member of Parliament for East Grinstead (Mr Geoffrey Johnson Smith) fails."

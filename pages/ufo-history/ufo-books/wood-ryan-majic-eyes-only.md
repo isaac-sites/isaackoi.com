@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Wood, Ryan “MAJIC Eyes Only”"
 description: "Brief review to be added of Ryan Wood's book “ MAJIC Eyes Only ” ( 2005 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1118 Cynthia Appleton encounters"
 description: "Cynthia Appleton encounters On 18 November 1957 , Mrs Cynthia Appleton of Aston, Birmingham, England claims to see the “materialisation” of a man in her up-stairs sitting room. This was the first in a series of alleged encounters. This inc..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bender, Albert K"
 description: "Albert K Bender Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1962 Bender, Albert K “ Flying Saucers and the Three Men ” ( 1962 ) (available on Amazon USA and on Amazon UK )"

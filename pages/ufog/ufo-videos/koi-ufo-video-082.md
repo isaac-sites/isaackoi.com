@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Koi UFO Video 082"
 description: "Koi UFO Video 082: \"Rubber Johnny\" alien video (Chris Cunningham) https://www.youtube.com/watch?v=HIYJZVwXLi8 [DEBUNKED] Koi UFO Video 082 appears to show a humanoid figure with a very large head. In some shots the figure is seated in a wh..."

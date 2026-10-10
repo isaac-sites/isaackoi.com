@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cox, Norma"
 description: "Norma Cox Brief comments to be added on this individual. Author of the book “Illuminism in the Ozarks” (1989)."

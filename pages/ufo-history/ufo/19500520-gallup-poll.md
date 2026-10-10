@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0520 Gallup Poll"
 description: "Gallup Poll On 20 May 1950 , Gallup issues news release about a second Gallup Poll to include questions on UFOs. 5% of respondents indicated they thought “these flying saucers” were “comets, shooting stars, something from another planet”."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0813 Red Bluff sighting"
 description: "Image needed The Red Bluff, California UFO sighting involved an attempted chase by Patrolmen Charles A Carson and Stanley Scott during the night of 13th / 14th August 1960 . This incident is Case 93 in Isaac Koi's \"Top 100\" article , since..."

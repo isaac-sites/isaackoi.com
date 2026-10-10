@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rux, Bruce “Hollywood Vs. the Aliens”"
 description: "Brief review to be added of Bruce Rux 's book “ Hollywood Vs. the Aliens ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

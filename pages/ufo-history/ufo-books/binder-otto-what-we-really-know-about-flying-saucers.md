@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Binder, Otto “What we really know about Flying Saucers”"
 description: "Brief review to be added of Otto Binder 's book “ Flying Saucers : Magic in the Skies ” ( 1982 ) (available on Amazon USA and on Amazon UK )"

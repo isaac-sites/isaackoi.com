@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Manas, John H “Flying Saucers and Space Men”"
 description: "Brief review to be added of John H Manas' book “ Flying Saucers and Space Men ” ( 1962 ) (available on Amazon USA and on Amazon UK )"

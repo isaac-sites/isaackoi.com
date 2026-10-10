@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clark, Jerome and Coleman, Loren “The Unidentified”"
 description: "Brief review to be added of “ The Unidentified ” ( 1975 ) (available on Amazon USA and on Amazon UK ) by Jerome Clark and Loren Coleman."

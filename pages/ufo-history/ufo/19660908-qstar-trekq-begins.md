@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0908 \"Star Trek\" begins"
 description: "Image needed On 8 September 1966 , the “Star Trek” television series begins broadcasting. It starred William Shatner as Captain James T Kirk."

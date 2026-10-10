@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0100 Cosmopolitan article"
 description: "Image needed The January 1951 edition of Cosmopolitanmagazine published an article by Bob Considine entitled “The Disgraceful Flying Saucer Hoax”, resulting in an unsuccessful libel claim by Nick Mariana. Cosmopolitan, January 1951 , pages..."

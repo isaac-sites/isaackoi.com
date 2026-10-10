@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.0404 Giant Rock Convention"
 description: "Image needed On 4 April 1954, the first annual Giant Rock Convention organised by George Van Tassel . The conventions continued until 1977 ."

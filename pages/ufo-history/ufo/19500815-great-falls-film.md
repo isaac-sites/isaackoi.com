@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0815 Great Falls film"
 description: "Great Falls film \"Impact\" Rating = 13 \"Credibility\" Rating = 12 \"Expert\" Rating = 9 \"Strangeness\" Rating = 6 During August 1950 , the Great Falls, Montana movie was taken by Nicholas Mariana, the manager of the Great Falls baseball team. C..."

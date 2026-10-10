@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randles, Jenny and Whetnall, Paul “Alien Contact: Window on Another World”"
 description: "Brief review to be added of “ Alien Contact: Window on Another World ” ( 1981 ) (available on Amazon USA and on Amazon UK ) by Jenny Randles and Paul Whetnall . Focuses on sightings of Gaynor Sunderland and the Sunderland family."

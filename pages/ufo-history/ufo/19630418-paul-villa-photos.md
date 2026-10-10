@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1963.0418 Paul Villa photos"
 description: "Image needed On 18 April 1963 , Paul Villa claims to have taken several UFO photographs."

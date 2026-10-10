@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0000 NASA ET bibliography"
 description: "NASA ET bibliography During 1965, NASA published a bibliography entitled “Extraterrestrial Life: A Bibliography. Part II: Published Literature”."

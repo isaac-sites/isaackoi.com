@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "18:  Qualitative criteria: Miscellaneous other criteria"
 description: "“ Best UFO Cases ” by Isaac Koi PART 18: Qualitative criteria: Miscellaneous other criteria Below are some notes I have made on points I considered interesting on miscellaneous other qualititative criteria relevant to the weight to be give..."

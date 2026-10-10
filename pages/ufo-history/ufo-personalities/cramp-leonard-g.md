@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cramp, Leonard G"
 description: "Leonard G Cramp Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1954 Cramp, Leonard G “ Space, Gravity and the Flying Saucer ” ( 1954 ) (available on Amazon USA and on Amazon UK ) 1966 Cramp, Leonard..."

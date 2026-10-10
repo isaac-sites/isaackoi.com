@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "LaVigne, Michelle “The Alien Abduction Survival Guide”"
 description: "Brief review to be added of Michelle LaVigne's book “ The Alien Abduction Survival Guide ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

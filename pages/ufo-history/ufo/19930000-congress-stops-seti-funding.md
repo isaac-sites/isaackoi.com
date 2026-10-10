@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1993.0000 Congress stops SETI funding"
 description: "Congress stops SETI funding During 1993 , the US Congress stopped fundingof NASA’s SETI programme. Senator Richard Bryan was one of SETI’s leading opponents in the relevant debates."

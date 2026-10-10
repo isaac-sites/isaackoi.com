@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0714 Nash Fortenberry sighting"
 description: "Nash Fortenberry sighting \"Impact\" Rating = 13 \"Credibility\" Rating = 12 \"Expert\" Rating = 10 \"Strangeness\" Rating = 5 The Pan American Airways UFO sighting involving Captain William B Nash and Second Officer William H Fortenberry occurred..."

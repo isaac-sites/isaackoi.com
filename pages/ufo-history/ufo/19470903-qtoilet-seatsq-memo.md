@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0903 \"Toilet seats\" memo"
 description: "\"Toilet seats\" memo On 3 September 1947 , a memo from Colonel R H Smith (Assistant Chief of Staff Intelligence) to several Commanding Generals in the Army Air Forces stated that the FBI had been asked to assist the Air Force in UFO investi..."

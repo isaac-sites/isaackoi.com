@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Korff, Kal K"
 description: "Kal Korff Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1995 Korff, Kal K “ Spaceships of the Pleiades : The Billy Meier Story ” ( 1995 ) (available on Amazon USA and on Amazon UK ) 1997 Korff, Kal..."

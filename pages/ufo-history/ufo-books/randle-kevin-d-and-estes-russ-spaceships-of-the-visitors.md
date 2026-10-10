@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randle, Kevin D and Estes, Russ “Spaceships of the Visitors”"
 description: "Brief review to be added of “ Spaceships of the Visitors ” ( 1997 ) (available on Amazon USA and on Amazon UK ) by Kevin Randle and Russ Estes ."

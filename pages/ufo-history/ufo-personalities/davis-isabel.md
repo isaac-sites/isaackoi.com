@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Davis, Isabel"
 description: "Isabel Davis Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1978 Bloecher, Ted and Davis, Isabel “Close Encounter at Kelly and others of 1955 ”"

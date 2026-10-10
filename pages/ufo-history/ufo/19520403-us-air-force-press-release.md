@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0403 US Air Force Press Release"
 description: "US Air Force Press Release On 3 April 1952 , the US Air Force issues a press release stating that it continued to study the UFO problem."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Williamson, George Hunt “Secret Places of the Lion”"
 description: "Brief review to be added of George Hunt Williamson 's book “ Secret Places of the Lion ” ( 1958 ) (available on Amazon USA and on Amazon UK )"

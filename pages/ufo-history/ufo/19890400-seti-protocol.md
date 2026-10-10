@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1989.0400 SETI protocol"
 description: "SETI protocol During April 1989 , the International Academy of Astronautics endorses a draft agreement (entitled the “Declaration of Principles Concerning Activities Following the Detection of Extraterrestrial Intelligence”) prepared by a..."

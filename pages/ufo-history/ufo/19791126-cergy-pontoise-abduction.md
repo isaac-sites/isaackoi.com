@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1979.1126 Cergy-Pontoise abduction"
 description: "Image needed The alleged abduction of Franck Fontaine at Cergy-Pontoise occurred on 26 November 1979 , north-west of Paris, France."

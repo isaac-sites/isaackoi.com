@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sachs, Margaret"
 description: "Margaret Sachs Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1977 Sachs, Margaret and Jahn, Ernest “Celestial Passengers – UFOs and Space Travel” 1980 Sachs, Margaret “ The UFO Encyclopedia ” ( 1980..."

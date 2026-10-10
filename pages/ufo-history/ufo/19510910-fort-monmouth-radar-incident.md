@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0910 Fort Monmouth radar incident"
 description: "Image needed On 10 September 1951 , there was an incident involving a student radar operator at the Fort Monmouth, New Jersey radar center, with further radar and visual sighting reports in the area later the same day and on the following..."

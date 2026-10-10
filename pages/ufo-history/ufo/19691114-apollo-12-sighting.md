@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.1114 Apollo 12 sighting"
 description: "Apollo 12 sighting On 14 November 1969, a sighting, involving astronauts Pete Conrad, Alean Bean and Dick Gordon on Apollo 12, allegedly occurred. As with several other alleged astronaut sightings, a wide variety of contradictory dates are..."

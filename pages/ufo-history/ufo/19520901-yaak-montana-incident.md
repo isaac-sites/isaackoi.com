@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0901 Yaak, Montana incident"
 description: "Image needed The Yaak, Montana radar/visual incident occurred on 1 September 1952 ."

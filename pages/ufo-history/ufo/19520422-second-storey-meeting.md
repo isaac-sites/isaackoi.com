@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0422 Second Storey meeting"
 description: "Image needed On 22 April 1952 , the first meeting was held of the Project Second Storey committee, established by the Canadian Government."

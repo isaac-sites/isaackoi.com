@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Persinger, Michael and Lafreniere, Gyslaine “Space-Time Transients and Unusual Events”"
 description: "Brief review to be added of “ Space-Time Transients and Unusual Events ” ( 1977 ) (available on Amazon USA and on Amazon UK ) by Michael Persinger and Lafreniere, Gyslaine"

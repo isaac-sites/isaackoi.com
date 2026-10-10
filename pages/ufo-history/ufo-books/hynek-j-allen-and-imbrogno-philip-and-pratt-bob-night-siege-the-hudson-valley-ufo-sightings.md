@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hynek, J Allen and Imbrogno, Philip and Pratt, Bob “Night Siege: The Hudson Valley UFO Sightings”"
 description: "Brief review to be added of “ Night Siege: The Hudson Valley UFO Sightings ” ( 1997 ) (available on Amazon USA and on Amazon UK ) by J Allen Hynek and Philip Imbrogno and Bob Pratt. Focuses on sightings during the 1980 s in the Hudson Vall..."

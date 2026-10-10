@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Wilkins, Harold “Flying Saucers on the Moon”"
 description: "Brief review to be added of “ Flying Saucers on the Moon ” ( 1954 ) (available on Amazon USA and on Amazon UK ) by Harold Wilkins . Published in the USA as “Flying Saucers on the Attack”."

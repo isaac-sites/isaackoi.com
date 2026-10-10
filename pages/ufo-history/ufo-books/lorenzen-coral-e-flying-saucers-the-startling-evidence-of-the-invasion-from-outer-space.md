@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lorenzen, Coral E “Flying Saucers : the Startling Evidence of the Invasion from Outer Space”"
 description: "Brief review to be added of Coral E Lorenzen 's book “ Flying Saucers : the Startling Evidence of the Invasion from Outer Space ” ( 1966 ) (available on Amazon USA and on Amazon UK )"

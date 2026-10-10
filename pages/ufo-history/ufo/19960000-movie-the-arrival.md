@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1996.0000 Movie: “The Arrival”"
 description: "“The Arrival” The movie “ The Arrival ” ( 1996 ) starred Charlie Sheen."

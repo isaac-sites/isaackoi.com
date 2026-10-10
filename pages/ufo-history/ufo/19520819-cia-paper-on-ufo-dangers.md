@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0819 CIA paper on UFO dangers"
 description: "CIA paper on UFO dangers On 19 August 1952 , a CIA briefing paper entitled “Flying Saucers” discusses potential dangers of UFO reports, including the USSR's possible use of UFOs as a psychological warfare tool and deliberate overloading of..."

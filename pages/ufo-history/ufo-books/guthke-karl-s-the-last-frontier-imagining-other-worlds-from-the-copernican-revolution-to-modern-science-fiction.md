@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Guthke, Karl S “The Last Frontier : Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction”"
 description: "Brief review to be added of Karl Guthke's book “ The Last Frontier : Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction : Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction ” ( 1990..."

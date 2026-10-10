@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0729 CIA study group memo"
 description: "CIA study group memo A memorandum from Ralph L Clark, Acting Assistant Director of the CIA’s Office of Scientific Intelligence to DDI Robert Amory, Jr, on 29 July 1952 stated that a special study group has been formed to review the situati..."

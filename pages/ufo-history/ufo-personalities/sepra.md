@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "SEPRA"
 description: "SEPRA Brief comments to be added on this group. The French “Groupe d’Etude des Phenomenes Aerospatiaux Non-Identifies” (“GEPAN”) became the “Service d’Expertise des Phenomenes de Rentrees Atmospheriques” (“SEPRA”) in 1988 ."

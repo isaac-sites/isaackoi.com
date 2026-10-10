@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Dick, Steven J “Life on Other Worlds”"
 description: "Brief review to be added of Steven J Dick 's book “ Life on Other Worlds ” ( 1998 ) (available on Amazon USA and on Amazon UK )"

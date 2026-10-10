@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1953.0725 Air Force FLYOBRPTS"
 description: "Air Force FLYOBRPTS On 25 July 1953 , USAF’s ATIC produces guide entitled “How to make FLYOBRPTS” for use by intelligence officers or anyone else who might be required to submit a Report of a unidentified Flying Object (a FLY OB RPT or “FL..."

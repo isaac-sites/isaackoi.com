@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Long, Greg"
 description: "Greg Long Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1990 Long, Greg “ Examining the Earthlight Theory: The Yakima UFO Microcosm ” ( 1990 ) (available on Amazon USA and on Amazon UK )"

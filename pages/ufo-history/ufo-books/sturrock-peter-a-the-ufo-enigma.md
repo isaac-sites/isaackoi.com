@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sturrock,  Peter A “The UFO Enigma”"
 description: "Brief review to be added of Sturrock, Peter A 's book “ The UFO Enigma ” ( 1999 ) (available on Amazon USA and on Amazon UK ) Much of the text of this book is available online at: “ http://www.scientificexploration.org/jse/articles/ufo_rep..."

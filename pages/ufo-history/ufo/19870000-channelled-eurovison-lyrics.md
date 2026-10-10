@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1987.0000 Channelled Eurovison lyrics"
 description: "Channelled Eurovison lyrics During 1987 , Rikki Peebles came thirteenth in Eurovison contest with “Only the light”, claiming that aliens had channelled the lyrics to him and told him that he would win the contest for Britain."

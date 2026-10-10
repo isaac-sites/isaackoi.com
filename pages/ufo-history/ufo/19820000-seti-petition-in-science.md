@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1982.0000 SETI petition in Science"
 description: "SETI petition in Science During 1982, Carl Sagan publishes a petition of scientists favouring an international SETI in the journal Science , stating “We are unanimous in our conviction that the only significant test of the existence of ext..."

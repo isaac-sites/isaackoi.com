@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1978.0619 Mann family abduction"
 description: "Mann family abduction On 19 June 1978 .0619, there was an alleged abduction of the Mann family. This later became the focus of a book - “ The Janos People ” by Frank Johnson. See the entry in relation to “ The Janos People ”."

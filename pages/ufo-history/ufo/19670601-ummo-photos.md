@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0601 UMMO photos"
 description: "Image needed On 1 June 1967 , photographs were purportedly taken of a UFO with a marking later associated with Ummo over San Jopse de Valderas, near Madrid, Spain. This incident is Case 88 in Isaac Koi's \"Top 100\" article , since it was re..."

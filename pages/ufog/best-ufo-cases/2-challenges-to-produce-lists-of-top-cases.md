@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "2. Challenges to produce lists of top cases"
 description: "“ Best UFO Cases ” by Isaac Koi PART 2: Challenges to produce lists of top cases If UFO proponents wish to persuade scientists to examine the evidence for the alleged objective reality of UFOs, then it is not unreasonable to expect those U..."

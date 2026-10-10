@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fort, Charles “Wild Talents”"
 description: "Brief review to be added of Charles Fort 's book “ Wild Talents ” ( 1932 ) (available on Amazon USA and on Amazon UK ). Complete text available online at: http://www.resologist.net/talentei.htm"

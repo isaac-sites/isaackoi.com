@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0624 Kenneth Arnold sighting"
 description: "Image needed On 24 June 1947 , businessman/pilot Kenneth Arnold of Boise, Idaho claims to see 9 objects flying “like a saucer would if you skipped it across the water” near Mount Rainer in the Cascade Mountains in Washington State. As part..."

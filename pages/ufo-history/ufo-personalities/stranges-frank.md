@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Stranges, Frank"
 description: "Frank Stranges Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1985 Stranges, Frank “ The UFO Conspiracy ” ( 1985 ) (available on Amazon USA and on Amazon UK )"

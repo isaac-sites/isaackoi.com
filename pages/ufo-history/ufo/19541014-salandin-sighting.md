@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.1014 Salandin sighting"
 description: "Salandin sighting On 14 October 1954 , Royal Air Force (“RAF”) Flight Lieutenant James R Salandin claims to have seen 3 UFOs whilst flying over Essex in a Gloster Meteor."

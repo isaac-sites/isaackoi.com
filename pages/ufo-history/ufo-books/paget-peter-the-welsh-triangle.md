@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Paget, Peter “The Welsh Triangle”"
 description: "Brief review to be added of Paget, Peter 's book “ The Welsh Triangle ” ( 1979 ) (available on Amazon USA and on Amazon UK ) See also the related entry for the book “ The Dyfed Enigma ”"

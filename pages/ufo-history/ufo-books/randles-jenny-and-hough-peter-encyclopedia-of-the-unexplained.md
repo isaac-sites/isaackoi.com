@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randles, Jenny and Hough, Peter “Encyclopedia of the Unexplained”"
 description: "Brief review to be added of “ Encyclopedia of the Unexplained ” ( 1995 ) (available on Amazon USA and on Amazon UK ) by Jenny Randles and Peter Hough ."

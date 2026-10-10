@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0826 Air Force Regulation 200-2"
 description: "Air Force Regulation 200-2 Air Force Regulation 200-2 (“AFR 200-2”) dated August 26, 1953 superseded the more complicated reporting system in Air Force Letter 200-5 issued April 29, 1952 . (AFR 200-2 was subsequently superseded by Air Forc..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0815 \"Wow!\" signal"
 description: "\"Wow!\" signal On 15 August 1977 , the “Wow! signal” was picked up by the Big Ear radio telescope of the Ohio State University Radio Observatory. Astronomer Jerry Ehman scrawled “Wow!” in the margin of the print out of the relevant radio no..."

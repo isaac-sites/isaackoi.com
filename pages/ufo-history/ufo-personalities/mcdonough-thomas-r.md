@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "McDonough, Thomas R"
 description: "Thomas R McDonough Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1987 McDonough, Thomas R “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” ( 1987 ) (available on Ama..."

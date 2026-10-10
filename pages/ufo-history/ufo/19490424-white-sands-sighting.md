@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.0424 White Sands sighting"
 description: "Image needed On 24 April 1949 , there was a sighting at White Sands, New Mexico whilst tracking a weather balloon, involving Charles B Moore . This incident is Case 66 in Isaac Koi's \"Top 100\" article , since it was referred to in 44 of th..."

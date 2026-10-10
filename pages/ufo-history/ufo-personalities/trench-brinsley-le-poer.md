@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Trench, Brinsley Le Poer"
 description: "Brinsley Le Poer Trench Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1960 Trench, Brinsley Le Poer (the Earl of Clancarty) “ The Sky People ” ( 1960 ) (available on Amazon USA and on Amazon UK ) 19..."

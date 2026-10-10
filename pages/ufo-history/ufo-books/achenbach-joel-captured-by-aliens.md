@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Achenbach, Joel “Captured by Aliens”"
 description: "Brief review to be added of Joel Achenbach's book “ Captured by Aliens ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

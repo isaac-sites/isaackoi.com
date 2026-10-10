@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Tacker, Lawrence “Flying Saucers and the U.S. Air Force”"
 description: "Brief review to be added of Major Tacker, Lawrence book “ Flying Saucers and the U.S. Air Force ” ( 1960 ) (available on Amazon USA and on Amazon UK )"

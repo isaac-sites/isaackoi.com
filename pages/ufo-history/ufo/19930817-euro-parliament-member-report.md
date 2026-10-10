@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1993.0817 Euro Parliament member report"
 description: "Image needed On 17 August 1993 , an Italian member of the European Parliament, Professor Tullio Regge, releases a “Draft Report” entitled “Draft Report of the Committee on Energy, Research and Technology on the proposal to set up a Europea..."

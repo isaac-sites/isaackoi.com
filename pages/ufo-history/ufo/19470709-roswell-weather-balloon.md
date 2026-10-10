@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0709 Roswell weather balloon"
 description: "Image needed On 9 July 1947 , various newspapers report that the USAAF had corrected its press release of the previous day, stating that the debris recovered near Roswell was a weather balloon. Roswell Daily Record prints a front page arti..."

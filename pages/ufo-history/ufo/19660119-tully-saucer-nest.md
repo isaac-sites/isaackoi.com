@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0119 Tully saucer nest"
 description: "Image needed On 19 January 1966 , Mr George Pedley of Tully, Queensland, Australia had a sighting, which involved claims of an area of flattened swamp grass (commonly referred to at that time as a “saucer nest”). This incident is Case 99 i..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hickson, Charles"
 description: "Charles Hickson Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1983 Hickson, Charles and Mendez, William “ UFO Contact at Pascagoula ” ( 1983 ) (available on Amazon USA and on Amazon UK )"

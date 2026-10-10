@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Greer, Steven “Extraterrestrial Contact: The Evidence and Implications”"
 description: "Brief review to be added of Steven Greer 's book “ Extraterrestrial Contact: The Evidence and Implications ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

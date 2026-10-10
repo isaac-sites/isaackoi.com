@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randle, Kevin and Estes, Russ and Cone, William “The Abduction Enigma”"
 description: "Brief review to be added of “ The Abduction Enigma ” ( 1999 ) (available on Amazon USA and on Amazon UK ) by Kevin Randle and Russ Estes and William Cone."

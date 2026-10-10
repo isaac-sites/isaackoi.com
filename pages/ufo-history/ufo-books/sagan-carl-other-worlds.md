@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sagan, Carl “Other Worlds”"
 description: "Brief review to be added of Carl Sagan 's book “ Other Worlds \" ( 1975 ) (available on Amazon USA and on Amazon UK )"

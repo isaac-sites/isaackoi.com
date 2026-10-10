@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1987.0000 Sturrock on Condon"
 description: "Image needed During 1987, Sturrock, Peter A publishes an article entitled “An Analysis of the Condon Report on the Colorado UFO Project”."

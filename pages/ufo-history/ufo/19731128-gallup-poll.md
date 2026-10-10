@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.1128 Gallup Poll"
 description: "Gallup Poll On 28 November 1973 , a Gallup Poll includes questions on UFOs for the fourth time. 51% of respondents indicated they considered UFOs to be “real”, with 46% believing there is intelligent life on other planets."

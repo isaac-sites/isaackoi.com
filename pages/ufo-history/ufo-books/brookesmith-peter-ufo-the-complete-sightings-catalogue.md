@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Brookesmith, Peter “UFO: The Complete Sightings Catalogue”"
 description: "Brief review to be added of Peter Brookesmith 's book “ UFO: The Complete Sightings Catalogue ” ( 1995 ) (available on Amazon USA and on Amazon UK ). (Also published as “UFO: The Complete Sightings”)"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0219 “Project UFO” series begins"
 description: "Image needed On 19 February 1978 , the “Project UFO” television series began broadcasting. It was directed by Jack Webb and produced by retired Air Force Colonel William Coleman"

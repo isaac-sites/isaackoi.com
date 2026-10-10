@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.0826 Larson abduction"
 description: "Image needed On 26 August 1975 , there was an alleged abduction involving Jackie Larson, Sandra Larson and male friend Terry O’ Leary, near Fargo, North Dakota. This incident is Case 96 in Isaac Koi's \"Top 100\" article , since it was refer..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Quintanilla, Hector (Major) “UFOs: An Air Force Dilemma”"
 description: "Brief review to be added of Major Hector Quintanilla 's book “ UFOs: An Air Force Dilemma ”"

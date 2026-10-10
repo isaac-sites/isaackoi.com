@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1988.0916 \"The Late Show\""
 description: "Image needed On 16 September 1988 , Fox network broadcasts a one hour special of the “The Late Show” devoted to discussion of UFOs. Featured Whitley Strieber, William Moore and others."

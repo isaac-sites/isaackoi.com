@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1981.0316 Cracoe Fell photos"
 description: "Cracoe Fell photos On 3 March 1981 , photographs of bright lights were taken during a sighting by off-duty policemen at Cracoe Fell, north of Skipton, Yorkshire Dales, England."

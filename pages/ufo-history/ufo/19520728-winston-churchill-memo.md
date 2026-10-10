@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0728 Winston Churchill memo"
 description: "Winston Churchill memo On 28 July 1952 , Prime Minister Winston Churchill wrote a memo to Secretary of State for Air, Lord Cherwell, asking what the truth was about “all this stuff about flying saucers”"

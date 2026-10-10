@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1976.1113 Joyce Bowles sighting"
 description: "Joyce Bowles sighting On 13 November 1976 , there was an alleged sighting of a craft with several men onboard, near Winchester, England whilst Mrs Joyce Bowleswas driving with her neighbour Ted Pratt."

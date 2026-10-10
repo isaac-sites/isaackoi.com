@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rich, Ben R and Janos, Leo “Skunk Works”"
 description: "Brief review to be added of “ Skunk Works ” ( 1994 ) (available on Amazon USA and on Amazon UK ) by Ben R Rich and Leo Janos."

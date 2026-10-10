@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Davidson, Leon"
 description: "Leon Davidson Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1966 .0700 Davidson, Leon “ Flying Saucers : An Analysis of the Air Force Project Blue Book Special Report No. 14 ” (Third Edition)"

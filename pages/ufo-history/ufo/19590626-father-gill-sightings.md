@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0626 Father Gill sightings"
 description: "Image needed Reverend W B Gill and a group of his native Papuan parishoners claim to see a saucer on the evenings of 26 th , 27 th and 28 th June 1959 at Boianai mission, Papua New Guinea. (Commonly referred to as “the Father Gill sighting..."

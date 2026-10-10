@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.0122 Project Sign begins"
 description: "Image needed On 22 January 1948 , Project Sign (publicly known as “Project Saucer”) officially began operations."

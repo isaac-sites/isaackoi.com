@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1999.0700 French COMETA report"
 description: "French COMETA report During July 1999 , the COMETA report entitled “Les Ovnis et la Defense: A quoi doit-on se prepare?” (UFOs and Defense: For What Should We Prepare?”) was published in the French magazine, VSD."

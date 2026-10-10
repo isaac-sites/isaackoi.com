@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0424 Lonnie Zamora sighting"
 description: "Image needed On 24 April 1964 , there was a report of a landed UFO with nearby crew by Deputy Lonnie Zamora sighting near Socorro, New Mexico. This incident is Case 5 in Isaac Koi's \"Top 100\" article , since it was referred to in 180 of th..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hansen, Terry"
 description: "Terry Hansen Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2000 Hansen, Terry “ The Missing Times : News Media Complicity in the UFO Cover-Up : News Media Complicity in the UFO Cover-Up ” ( 2000 ) (..."

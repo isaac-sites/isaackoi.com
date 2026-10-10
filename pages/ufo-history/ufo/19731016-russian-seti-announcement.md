@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.1016 Russian SETI announcement"
 description: "Russian SETI announcement On 16 October 1973 , the Russian newspaper Tass reported that Professor Samuel Kaplan (director of the Radio Institute at Gorky) had announced a Russian radio wave program directed by Professor Vsevolod Sergeevich..."

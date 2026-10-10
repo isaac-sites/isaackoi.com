@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Montgomery, Ruth “Aliens Among Us”"
 description: "Brief review to be added of Ruth Montgomery 's book “ Aliens Among Us ” ( 1985 ) (available on Amazon USA and on Amazon UK )"

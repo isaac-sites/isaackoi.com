@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sauder, Richard “Underground Bases and Tunnels”"
 description: "Brief review to be added of Richard Sauder 's book “ Underground Bases and Tunnels ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

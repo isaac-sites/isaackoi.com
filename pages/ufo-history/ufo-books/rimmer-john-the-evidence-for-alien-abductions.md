@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rimmer, John “The Evidence for Alien Abductions”"
 description: "Brief review to be added of John Rimmer 's book “ The Evidence for Alien Abductions ” ( 1984 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Klass, Philip J “UFO Abductions: A Dangerous Game”"
 description: "Brief review to be added of Philip J Klass ' book “ UFO Abductions: A Dangerous Game ” ( 1989 ) (available on Amazon USA and on Amazon UK )"

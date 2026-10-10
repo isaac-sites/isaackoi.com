@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Nickell, Joe “Investigating the Paranormal”"
 description: "Brief review to be added of Joe Nickell 's book “ Investigating the Paranormal ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

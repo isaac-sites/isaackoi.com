@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1993.0910 “X-files” series"
 description: "Image needed On 10 September 1993 , “The X-files” television seriesbegan broadcasting on the Fox Network."

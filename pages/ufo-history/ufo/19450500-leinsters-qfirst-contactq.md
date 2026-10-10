@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1945.0500 Leinster's \"First Contact\""
 description: "Image needed The short story “First Contact”, by Murray Leinster, was published in the May 1945 edition of Astounding magazine."

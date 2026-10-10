@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Kinder, Gary “Light Years” about Eduard Albert “Billy” Meier"
 description: "Brief review to be added of Gary Kinder's book “ Light Years ” ( 1987 ) (available on Amazon USA and on Amazon UK ). Focuses on Eduard Albert “Billy” Meier ."

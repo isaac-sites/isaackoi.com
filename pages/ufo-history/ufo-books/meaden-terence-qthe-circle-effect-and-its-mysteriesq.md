@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Meaden, Terence \"The Circle Effect and its Mysteries\""
 description: "Brief review to be added of Terence Meaden 's book “ The Circles Effect and its Mysteries ” ( 1989 ) (available on Amazon USA and on Amazon UK )"

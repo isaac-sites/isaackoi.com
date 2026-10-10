@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0600 Carl Sagan's thesis"
 description: "Image needed During June 1960 , Carl Sagan was awarded a Ph D in astronomy and astrophysics by the University of Chicago for his thesis “Physical Studies of Planets”."

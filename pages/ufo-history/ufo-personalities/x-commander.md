@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "X, Commander"
 description: "Image needed Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1990 X, Commander “The Ultimate Deception” 1990 X, Commander “Underground Alien Bases” 1997 X, Commander “Incredible Technologies of the Ne..."

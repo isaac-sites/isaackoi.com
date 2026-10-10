@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Davies,  Paul “Are we Alone?”"
 description: "Brief review to be added of Paul Davies 's book “ Are we Alone? ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

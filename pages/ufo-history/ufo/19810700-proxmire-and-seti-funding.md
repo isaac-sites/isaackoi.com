@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1981.0700 Proxmire and SETI funding"
 description: "Proxmire and SETI funding During July 1981 , Senator William Proxmire (D-Wis) successfully proposed an amendment to eliminate NASA “subsistence level” funding of SETI (which the Senator referred to as “insterstellar conversation”)."

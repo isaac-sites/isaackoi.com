@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Barlowe, Wayne Douglas and Summer, Ian and Meacham, Beth “Barlowe's Guide to Extraterrestrials”"
 description: "Brief review to be added of Wayne Douglas Barlowe and Ian Summer and Beth Meacham's “ Barlowe's Guide to Extraterrestrials ” ( 1979 ) (available on Amazon USA and on Amazon UK )."

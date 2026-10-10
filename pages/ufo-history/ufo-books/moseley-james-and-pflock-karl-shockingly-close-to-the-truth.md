@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Moseley, James and Pflock, Karl “Shockingly Close to the Truth!”"
 description: "Brief review to be added of “ Shockingly Close to the Truth! ” ( 2002 ) (available on Amazon USA and on Amazon UK ) by James Moseley and Karl T Pflock"

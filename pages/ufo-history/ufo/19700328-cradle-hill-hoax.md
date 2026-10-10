@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1970.0328 Cradle Hill hoax"
 description: "Cradle Hill hoax On 28 March 1970 , a photo hoax was performed by members of the Society for the Investigation of UFO Phenomena (“SIUFOP”) involving witnesses/victims at Cradle Hill, Warminster. Commonly referred to as “the Cradle Hill hoa..."

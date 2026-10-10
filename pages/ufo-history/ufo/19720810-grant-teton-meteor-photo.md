@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1972.0810 Grant Teton meteor photo"
 description: "Image needed On 10 August 1972 , a meteor photographed over mountains in Grant Teton National Park by a tourist."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Noyes, Ralph (Editor) “Crop Circle Enigma”"
 description: "Brief review to be added of “ Crop Circle Enigma ” ( 1990 ) (available on Amazon USA and on Amazon UK ) edited by Ralph Noyes ."

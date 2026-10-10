@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Stanton, L Jerome “Flying Saucers: Hoax or Reality?”"
 description: "Brief review to be added of L Jerome Stanton 's book “ Flying Saucers : Hoax or Reality? ” ( 1966 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1971.0413 Hoax by sociology students"
 description: "Image needed A UFO hoax in Maynard, Iowa by students in the sociology class of John Forkenbrock begins during night of 13 th April 1971 ."

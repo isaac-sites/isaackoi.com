@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.1026 Moigne Downs Incident"
 description: "Moigne Downs Incident On 26 October 1967 , the J B W “Angus” Brooks (“Angus Brooks”) incident occurred at Moigne Downs, England. Commonly referred to as “the Moigne Downs Incident”."

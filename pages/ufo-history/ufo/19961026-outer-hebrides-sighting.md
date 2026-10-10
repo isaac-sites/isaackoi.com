@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1996.1026 Outer Hebrides sighting"
 description: "Outer Hebrides sighting On 26 October 1996 , an object was reported in the sky above the isle of Lewis, in the Outer Hebrides."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Newman, Bernard “The Flying Saucer”"
 description: "Brief review to be added of Bernard Newman's novel “ The Flying Saucer ” ( 1948 ) (available on Amazon USA and on Amazon UK )"

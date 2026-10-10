@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0920 aircraft carrier sighting"
 description: "Aircraft carrier sighting On 20 September 1952 , U.S. newspaper reporter Wallace Litwin claims to take photograph of silver sphere in the air whilst aboard the aircraft carrier “Franklin Roosevelt” in the North Sea during NATO’s Operation..."

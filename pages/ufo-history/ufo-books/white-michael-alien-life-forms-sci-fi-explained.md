@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "White, Michael “Alien Life Forms : Sci-Fi Explained”"
 description: "Brief review to be added of Michael White 's book “ Alien Life Forms : Sci-Fi Explained ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

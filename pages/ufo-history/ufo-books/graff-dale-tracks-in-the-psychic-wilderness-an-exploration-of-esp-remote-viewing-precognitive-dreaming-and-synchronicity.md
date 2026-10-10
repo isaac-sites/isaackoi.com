@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Graff, Dale “Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity”"
 description: "Brief review to be added of Dale Graff 's book “ Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity ” ( 1998 ) (available on Amazon USA and on Amazon UK )"

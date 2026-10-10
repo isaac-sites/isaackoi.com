@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi Alien Photo 55"
 description: "Koi Alien Photo 55 Koi Alien Photo 55 was posted online by a member of the AboveTopSecret.com discussion forum in July 2007. That member (SuicideVirus) later pointed out that it was not real and gave a link to the original photograph which..."

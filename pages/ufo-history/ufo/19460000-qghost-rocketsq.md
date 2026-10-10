@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1946.0000 \"Ghost Rockets\""
 description: "Image needed “Ghost Rockets” (or “ghost bombs” or “spook bombs”) were reported in Sweden and neighboring Scandinavian countries from 1946 - 1948 , with sporadic earlier sightings."

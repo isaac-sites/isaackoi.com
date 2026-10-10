@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Watts, Alan"
 description: "Image needed Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1994 Watts, Alan “ UFO Quest ” ( 1994 ) (available on Amazon USA and on Amazon UK ) 1996 Watts, Alan “ UFO Visitation ” ( 1996 ) (available..."

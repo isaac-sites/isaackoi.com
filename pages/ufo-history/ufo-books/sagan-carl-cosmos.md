@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sagan, Carl “Cosmos”"
 description: "Brief review to be added of Carl Sagan 's book “ Cosmos ” ( 1980 ) (available on Amazon USA and on Amazon UK ). Accompanying the television series of the same name, which first aired on 28th September 1980 ."

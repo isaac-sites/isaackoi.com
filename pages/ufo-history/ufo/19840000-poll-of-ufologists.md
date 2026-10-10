@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1984.0000 Poll of ufologists"
 description: "Poll of ufologists During 1984 , information about the education level and primary beliefs about UFOs of 102 ufologists is assessed in an article by Gregory Little."

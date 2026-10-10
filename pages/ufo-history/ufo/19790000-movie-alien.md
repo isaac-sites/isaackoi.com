@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1979.0000 Movie “Alien”"
 description: "“Alien” The movie “ Alien ” was directed by Ridley Scott and starred Sigourney Weaver."

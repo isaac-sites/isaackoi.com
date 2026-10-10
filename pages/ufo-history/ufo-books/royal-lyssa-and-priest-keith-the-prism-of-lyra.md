@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Royal, Lyssa and Priest, Keith “The Prism of Lyra”"
 description: "Brief review to be added of “ The Prism of Lyra ” ( 1989 ) (available on Amazon USA and on Amazon UK ) by Lyssa Royal and Keith Priest."

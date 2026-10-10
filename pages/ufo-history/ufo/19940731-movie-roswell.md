@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.0731 Movie “Roswell”"
 description: "“Roswell” The movie “ Roswell ” ( 1994 ) starred Kyle McLachlan and had its premiere broadcast on the Showtime cable television network on 31 July 1994 . It was directed by Jeremy Paul Kagan."

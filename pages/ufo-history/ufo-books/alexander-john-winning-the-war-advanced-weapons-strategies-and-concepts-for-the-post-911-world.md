@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Alexander, John “Winning the War: Advanced Weapons, Strategies, and Concepts for the Post 9/11 World”"
 description: "Brief review to be added of John Alexander 's book “ Winning the War: Advanced Weapons, Strategies, and Concepts for the Post 9/11 World ” ( 2003 ) (available on Amazon USA and on Amazon UK )"

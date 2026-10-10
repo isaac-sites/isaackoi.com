@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1955.0000 Movie \"This Island Earth\""
 description: "\"This Island Earth\" The Movie “ This Island Earth ” ( 1955 ) was based on the novel of the same name by Raymond F Jones. Directed by Joseph M Newman."

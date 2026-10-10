@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.0908 Air Force report on Roswell"
 description: "Air Force report on Roswell On 8 September 1994 , the Air Force released a report relating to the Roswell incident by Colonel Richard L Weaver , concluding that the reported debris was from a Project Mogul balloon train."

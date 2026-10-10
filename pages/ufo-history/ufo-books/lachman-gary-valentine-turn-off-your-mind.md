@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lachman, Gary Valentine “Turn Off Your Mind”"
 description: "Brief review to be added of Gary Valentine Lachman's book “ Turn Off Your Mind ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

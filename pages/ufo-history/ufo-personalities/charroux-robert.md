@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Charroux, Robert"
 description: "Robert Charroux Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1969 Charroux, Robert “The Gods Unknown”"

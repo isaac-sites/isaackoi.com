@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1900.1217 Guzman Prize"
 description: "Guzman Prize SETI : The Pierre Guzman prize (commonly referred to as “the Guzman Prize”) of one hundred thousand francs is announced in Paris by Clara Gouguet in memory of her son by a former marriage. The prize was to be awarded “a celui..."

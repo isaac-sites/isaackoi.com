@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cannon, Dolores “Keepers of the Garden”"
 description: "Brief review to be added of Dolores Cannon 's book “ Keepers of the Garden ” ( 1993 ) (available on Amazon USA and on Amazon UK )"

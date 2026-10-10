@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0200 Skyhook article"
 description: "Image needed During February 1951 , an article by Richard Wilson was published in Look magazine, quoting Dr. Urner Liddel as suggesting that Skyhook balloons could explain UFO sightings."

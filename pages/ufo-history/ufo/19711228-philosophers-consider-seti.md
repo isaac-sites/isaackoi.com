@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1971.1228 Philosophers consider SETI"
 description: "Philosophers consider SETI On 28 December 1971 , Lewis White Beck (President of the Eastern Division of the American Philosophical Association) calls for philosophers to consider the problems arising from exobiological studies in a preside..."

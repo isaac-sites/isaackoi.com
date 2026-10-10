@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0822 CIA paper on USAF stand"
 description: "CIA paper on USAF stand On 22 August 1952 , a CIA briefing paper discussed the Air Force stand on “Flying Saucers”."

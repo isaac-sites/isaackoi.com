@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1970.0121 AIAA panel meeting"
 description: "Image needed On 21 January 1970 , the American Institute of Aeronautics and Astronautics (“AIAA”) sponsored a panel meeting in New York City, moderated by Joachim P Kuettner."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.1200 Betty Hill \"star map\" article"
 description: "Image needed An article entitled “The Zeta Reticula Incident” by Terence Dickinson appeared in the December 1974 issue of Astronomy magazine. The article discusses work by Ohio schooltecher Marjorie Fish regarding the “star map” described..."

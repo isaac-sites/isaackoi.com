@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Marciniak, Barbara"
 description: "Barbara Marciniak Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1992 Marciniak, Barbara “ Bringers of the Dawn : Teachings from the Pleidians ” ( 1992 ) (available on Amazon USA and on Amazon UK ) 1..."

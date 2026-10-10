@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0000 Movie “Close Encounters of the Third Kind”"
 description: "“Close Encounters of the Third Kind” The movie “ Close Encounters of the Third Kind ” ( 1977 ) was written and directed by Steven Spielberg . It starred Richard Dreyfuss."

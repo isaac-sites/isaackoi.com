@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0000 Gallup Poll"
 description: "Gallup Poll During 1978 , a Gallup poll includes questions on UFOs for the fifth time. The results indicate 57% of adult Americans believe that UFOs are “real”."

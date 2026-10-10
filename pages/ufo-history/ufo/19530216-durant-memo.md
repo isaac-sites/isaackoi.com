@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0216 Durant memo"
 description: "Durant memo On 16 February 1953 , a memo from Fred C Durant to the Assistant Director for Scientific Intelligence providing a brief history of the meetings of the O/SI Advisory Panel (“the Robertson Panel”) and expressed to set forth “comm..."

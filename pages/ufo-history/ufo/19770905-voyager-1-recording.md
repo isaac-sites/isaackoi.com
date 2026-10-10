@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0905 Voyager 1 recording"
 description: "Voyager 1 recording On 5 September 1977 , Voyager 1 was launched. Attached to the side was a gold-coated phonograph record."

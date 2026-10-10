@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0000 Gerald Haines on “CIA's role”"
 description: "Gerald Haines on “CIA's role” During 1997 , “Studies in Intelligence” contains a study by Gerald K Haines (National Reconnaissance Office historian) entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, 1947 -90”."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Harrison, Albert A “After Contact: The Human Response to Extraterrestrial Life”"
 description: "Brief review to be added of Albert A Harrison 's book “ After Contact: The Human Response to Extraterrestrial Life ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

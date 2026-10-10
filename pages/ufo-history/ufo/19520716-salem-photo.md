@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0716 Salem photo"
 description: "Salem photo \"Impact\" Rating = 14 \"Credibility\" Rating = 14 \"Expert\" Rating = 7 \"Strangeness\" Rating = 6 On 16 July 1952 , a UFO photograph was allegedly taken by United States Coast Guard station phototographer Shell Alpert at Salem, Massa..."

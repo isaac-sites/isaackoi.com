@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Klarer, Elizabeth “Beyond the Light Barrier”"
 description: "Brief review to be added of Elizabeth Klarer 's book “ Beyond the Light Barrier ” ( 1980 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1955.0100 Flying Saucer Review established"
 description: "Flying Saucer Review established During January 1955 , the \"Flying Saucer Review\" (“FSR”) magazine was established. Derek Dempster was its editor until September 1956 ."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1979.1109 Livingston Incident"
 description: "Livingston Incident On 9 November 1979 , the Livingston, Scotland incident involving foreman forester Robert Taylor (“Bob Taylor”) occurred, allegedly involving a close encounter and balls attached themselves to Mr Taylor’s trousers, teari..."

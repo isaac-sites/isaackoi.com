@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1984.0824 Kondair Trislander collision"
 description: "Kondair Trislander collision On 24 August 1984 , there was a reported mid-air collision of a Kondair Trislander with an unidentified object, causing damage to the aircraft."

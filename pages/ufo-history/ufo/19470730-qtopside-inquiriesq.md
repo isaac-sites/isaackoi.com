@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0730 \"Topside Inquiries\""
 description: "\"Topside Inquiries\" An undated page possibly attached to an Air Force document dated 30 July 1947 includes a comment that “lack of topside inquiries, when compared to the prompt and demanding inquiries that have originated topside upon for..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.0600 \"Absence of Extraterrestrials on Earth\""
 description: "\"Absence of Extraterrestrials on Earth\" During June 1975 , Michael Hart ’s paper entitled “An Explanation for the Absence of Extraterrestrials on Earth” was published by the Quarterly Journal of the Royal Astronomical Society."

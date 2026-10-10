@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Story, Ronald (editor) and Green, J Richard (Consulting Editor) “The Encyclopedia of UFOs”"
 description: "Brief review to be added of “ The Encyclopedia of UFOs ” ( 1980 ) (available on Amazon USA and on Amazon UK ) edited by Ronald Story and J Richard Greenwell"

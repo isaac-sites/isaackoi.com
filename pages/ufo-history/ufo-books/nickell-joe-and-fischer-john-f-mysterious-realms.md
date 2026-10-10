@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Nickell, Joe and Fischer, John F “Mysterious Realms”"
 description: "Brief review to be added of “ Mysterious Realms ” ( 1992 ) (available on Amazon USA and on Amazon UK ) by Joe Nickell and John F Fischer."

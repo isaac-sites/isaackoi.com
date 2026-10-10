@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1991.0000 Roper abduction polls"
 description: "Roper abduction polls During 1991 , three polls were conducted by The Roper Organization, with funding provided by Robert Bigelow , relating to “alien abductees”. Conducted during July, August and September 1991 . (Commonly referred to as..."

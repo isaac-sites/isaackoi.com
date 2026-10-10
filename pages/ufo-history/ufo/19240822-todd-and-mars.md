@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1924.0822 Todd and Mars"
 description: "Todd and Mars SETI : On 22 August 1924 , during an approach of Mars, David Todd attempts to detect radio signals from that planet."

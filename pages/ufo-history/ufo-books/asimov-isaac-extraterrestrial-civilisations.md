@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Asimov, Isaac “Extraterrestrial Civilisations”"
 description: "Brief review to be added of Isaac Asimov 's book “ Extraterrestrial Civilisations ” (available on Amazon USA and on Amazon UK )"

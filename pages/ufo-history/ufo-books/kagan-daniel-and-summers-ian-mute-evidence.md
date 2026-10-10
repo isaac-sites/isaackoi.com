@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Kagan, Daniel and Summers, Ian “Mute Evidence”"
 description: "Brief review to be added of “ Mute Evidence ” ( 1984 ) (available on Amazon USA and on Amazon UK ) by Daniel Kagan and Ian Summers."

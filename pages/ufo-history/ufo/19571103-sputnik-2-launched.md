@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1103 Sputnik 2 launched"
 description: "Image needed Sputnik 2 launched, containing Laika the dog, was launched on 3 November 1957 ."

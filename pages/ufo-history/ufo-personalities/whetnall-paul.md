@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Whetnall, Paul"
 description: "Image needed Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1982 Randles, Jenny and Whetnall, Paul “ Alien Contact: Window on Another World ” ( 1981 ) (available on Amazon USA and on Amazon UK ). Foc..."

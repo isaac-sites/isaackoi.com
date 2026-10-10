@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Conroy, Ed “Report on Communion”"
 description: "Brief review to be added of Ed Conroy 's book “ Report on Communion ” ( 1989 ) (available on Amazon USA and on Amazon UK )"

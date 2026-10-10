@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Menzel, Donald H and Boyd, Lyle “The World of Flying Saucers”"
 description: "Brief review to be added of “ The World of Flying Saucers ” ( 1963 ) (available on Amazon USA and on Amazon UK ) by Donald H Menzel and Lyle Boyd ."

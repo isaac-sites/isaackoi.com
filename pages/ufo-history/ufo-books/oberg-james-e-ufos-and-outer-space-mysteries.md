@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Oberg, James E “UFOs and Outer Space Mysteries”"
 description: "Brief review to be added of “ UFOs and Outer Space Mysteries ” ( 1982 ) (available on Amazon USA and on Amazon UK ) by James E Oberg ."

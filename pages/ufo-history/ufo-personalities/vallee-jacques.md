@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Vallee, Jacques"
 description: "Jacques Vallee Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1965 Vallee, Jacques “ Anatomy of a Phenomenon: UFOs in Space ” ( 1965 ) (available on Amazon USA and on Amazon UK ) 1966 Vallee, Jacques..."

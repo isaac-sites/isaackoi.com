@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1985.0917 Louis Farrakhan encounter"
 description: "Image needed On 17 September 1985 , Louis Farrakhan, leader of the Nation of Islam, claims to have visited an alien mother ship"

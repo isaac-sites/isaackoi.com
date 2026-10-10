@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fowler, Raymond E “The Andreasson Affair”"
 description: "Brief review to be added of 1967 Fowler 's book “ The Andreasson Affair ” ( 1979 ) (available on Amazon USA and on Amazon UK )."

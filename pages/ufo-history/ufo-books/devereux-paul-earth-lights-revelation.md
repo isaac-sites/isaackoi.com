@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Devereux, Paul “Earth Lights Revelation”"
 description: "Brief review to be added of Paul Devereux 's book “ Earth Lights Revelation ” ( 1989 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Helms, Richard"
 description: "Richard Helms Brief comments to be added on this individual. Referred to as \"Mr R\" by Robert Collins and as \"Raven\" by Richard Doty."

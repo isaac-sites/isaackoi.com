@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bloecher, Ted"
 description: "Ted Bloecher Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1967 Bloecher, Ted “ Report on the UFO Wave of 1947 ” ( 1967 ) (available on Amazon USA and on Amazon UK ) 1978 Bloecher, Ted and Davis, Is..."

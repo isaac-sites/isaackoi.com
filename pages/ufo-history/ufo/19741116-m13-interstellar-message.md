@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.1116 M13 interstellar message"
 description: "M13 interstellar message On 16 November 1974 there was the first deliberate attempt to send an interstellar message using a radio telescope to transmit a signal to outside our solar system, using the Arecibo radio telescope to beam a messa..."

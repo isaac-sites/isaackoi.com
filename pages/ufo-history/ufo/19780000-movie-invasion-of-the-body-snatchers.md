@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0000 Movie “Invasion of the Body Snatchers”"
 description: "“Invasion of the Body Snatchers” The movie “ Invasion of the Body Snatchers ” ( 1978 ) starred Donald Sutherland. It was directed by Philip Kaufman. It was a remake of the 1956 film."

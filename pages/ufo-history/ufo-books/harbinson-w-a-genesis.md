@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Harbinson, W A “Genesis”"
 description: "Brief review to be added of W A Harbinson 's book “ Genesis ” ( 1980 ) (available on Amazon USA and on Amazon UK )."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.1126 \"Voice of Glon\" broadcast"
 description: "\"Voice of Glon\" broadcast On 26 November 1977 , viewers of Southern Television in the Hennington area of England receive a broadcast purporting to be“the voice of Glon, representative of the Asteron Galactic command”."

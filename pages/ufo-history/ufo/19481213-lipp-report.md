@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.1213 Lipp report"
 description: "Lipp report On 13 December 1948 , Dr James E Lipp of the Rand Corporation provides a report addressed to Brigadier General Putt (US Air Force Director of Research and Development). This report subsequently appeared as Appendix D to the Pro..."

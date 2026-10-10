@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Thompson, Keith “Angels and Aliens: UFOs and the Mythic Imagination”"
 description: "Brief review to be added of Keith Thompson 's book “ Angels and Aliens: UFOs and the Mythic Imagination ” ( 1991 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lunan, Duncan “Man and the Stars”"
 description: "Brief review to be added of Duncan Lunan 's book “ Man and the Stars ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

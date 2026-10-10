@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1998.0100 Concealment poll"
 description: "Concealment poll During January 1998 , the results of a poll were published indicating that 86% of members of the public would expect the Government to lie or conceal evidence if life were discovered in outer space"

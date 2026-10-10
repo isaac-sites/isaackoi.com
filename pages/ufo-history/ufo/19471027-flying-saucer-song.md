@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.1027 Flying saucer song"
 description: "Image needed On 27 October 1947 , the song “When You See Those Flying Saucers”, written by Charles Grean an Cy Coben, is filed for copyright."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Cowles and UPI (Editors) “Flying Saucers : Twenty-One Years of UFOs”"
 description: "Brief review to be added of “ Flying Saucers : Twenty-One Years of UFOs ” ( 1968 ), published by the editors of Cowles and UPI"

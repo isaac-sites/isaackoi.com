@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Blumrich, Joseph F “The Spaceships of Ezekiel”"
 description: "Brief review to be added of Blumrich, Joseph F “ The Spaceships of Ezekiel ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

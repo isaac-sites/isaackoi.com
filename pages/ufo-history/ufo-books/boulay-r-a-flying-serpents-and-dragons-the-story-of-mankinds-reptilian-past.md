@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Boulay, R A “Flying Serpents and Dragons: The Story of Mankind’s Reptilian Past”"
 description: "Brief review to be added of R A Boulay's book “ Flying Serpents and Dragons: The Story of Mankind’s Reptilian Past ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

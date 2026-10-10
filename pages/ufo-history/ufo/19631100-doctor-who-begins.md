@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1963.1100 “Doctor Who” begins"
 description: "“Doctor Who” begins The “Doctor Who” (also known as “Dr Who” and “Dr. Who”) television series began broadcasting on the BBC in Britain in November 1963 ."

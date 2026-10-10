@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Craig, Roy"
 description: "Roy Craig Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1995 Craig, Roy “ UFOs – An Insider’s View ” ( 1995 )(available on Amazon USA and on Amazon UK )"

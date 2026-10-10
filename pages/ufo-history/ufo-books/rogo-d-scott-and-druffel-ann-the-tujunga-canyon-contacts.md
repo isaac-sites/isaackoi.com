@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rogo, D Scott  and Druffel, Ann “The Tujunga Canyon Contacts”"
 description: "Brief review to be added of “ The Tujunga Canyon Contacts ” ( 1980 ) (available on Amazon USA and on Amazon UK ) by D. Scott Rogo and Ann Druffel . Focuses on events in the Tujunga Canyon area of Southern California between 1953 and 1975 ."

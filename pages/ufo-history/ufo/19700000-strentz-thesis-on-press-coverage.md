@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1970.0000 Strentz thesis on Press Coverage"
 description: "Image needed Dissertation : Strentz, Dr. Herbert Joseph “A Survey of Press Coverage of Unidentified Flying Objects, 1947 - 1966 ”, PhD thesis, Journalism, Northwestern University ( 1970 ), 355 pages"

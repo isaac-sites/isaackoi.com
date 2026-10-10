@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.1027 Exeter press release"
 description: "Exeter press release On 27 October 1965 , a US Air Force press release was issued purporting to explain the Exeter sightings."

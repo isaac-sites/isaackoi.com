@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ballester Olmos, Vicente-Juan “A Catalogue of 200 Type-I UFO Events in Spain and Portugal”"
 description: "Brief review to be added of Vicente-Juan Ballester Olmos “ A Catalogue of 200 Type-I UFO Events in Spain and Portugal \""

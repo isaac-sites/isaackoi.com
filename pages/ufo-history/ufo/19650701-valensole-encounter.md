@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0701 Valensole encounter"
 description: "Image needed On 1 July 1965 , the Valensole, France incident occurred, involving claims by farmer Maurice Masse that he saw a craft and entities in his lavender field. This incident is Case 22 in Isaac Koi's \"Top 100\" article , since it wa..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fry, Daniel"
 description: "Daniel Fry Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1966 Fry, Daniel “The White Sands Incident”"

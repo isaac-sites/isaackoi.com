@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0600 “UFOs and Extraterrestrial Life” thesis"
 description: "Image needed During 1968 , a thesis entitled “UFOs and Extraterrestrial Life” submitted by Captain Darrell L Stanley to the US Air and Staff College in partial fulfilment of the requirements for graduation."

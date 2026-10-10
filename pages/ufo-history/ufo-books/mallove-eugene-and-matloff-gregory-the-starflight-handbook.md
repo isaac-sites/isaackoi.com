@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Mallove, Eugene and Matloff, Gregory “The Starflight Handbook”"
 description: "Brief review to be added of “ The Starflight Handbook ” ( 1989 ) (available on Amazon USA and on Amazon UK ) by Eugene Mallove and Gregory Matloff."

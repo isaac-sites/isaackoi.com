@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.1001 Gorman Dogfight Incident"
 description: "Gorman dogfight incident \"Impact\" Rating = 13 \"Credibility\" Rating = 11 \"Expert\" Rating = 7 \"Strangeness\" Rating = 5 On 1 October 1948 , Lieutenant George F Gorman of the North Dakota Air National Guard has a “dogfight” with an alleged UFO..."

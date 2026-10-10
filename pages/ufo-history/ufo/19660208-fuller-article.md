@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0208 Fuller article"
 description: "Image needed On 8 February 1966 , an Issue of Look magazine containing an article by John G Fuller entitled “Outer Space Ghost Story” appeared on newsstands."

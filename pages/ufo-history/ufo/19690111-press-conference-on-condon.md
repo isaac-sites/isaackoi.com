@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0111 Press conference on Condon"
 description: "Image needed On 11 January 1969 , a press conference was held by Dr. David R Saunders and others to criticise the Condon Report’s conclusions."

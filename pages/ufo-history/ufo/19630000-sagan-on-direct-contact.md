@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1963.0000 Sagan on direct contact"
 description: "Sagan on direct contact During 1963 , Carl Sagan 's paper “Direct Contact Among Galactic Civilizations by Relativistic Interstellar Spaceflight” was published."

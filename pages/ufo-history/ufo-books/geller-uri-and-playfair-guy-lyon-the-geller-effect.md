@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Geller, Uri and Playfair, Guy Lyon “The Geller Effect”"
 description: "Brief review to be added of “ The Geller Effect ” ( 1987 ) (available on Amazon USA and on Amazon UK ) by Uri Geller and Guy Lyon Playfair."

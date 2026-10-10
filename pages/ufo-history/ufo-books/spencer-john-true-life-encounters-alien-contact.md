@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Spencer, John “True Life Encounters – Alien Contact”"
 description: "Brief review to be added of “ True Life Encounters – Alien Contact ” ( 1997 ) (available on Amazon USA and on Amazon UK ) by John Spencer and Anne Spencer."

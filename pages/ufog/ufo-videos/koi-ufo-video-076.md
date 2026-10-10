@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 076"
 description: "Koi UFO Video 076: Stuttgart UFO attacks truck and flies into tunnel (Petronas adverts) https://www.youtube.com/watch?v=kFsJCa-CJqA [DEBUNKED] Koi UFO Video 076 appears to be a news report on the \"PNC\" television channel about a UFO liftin..."

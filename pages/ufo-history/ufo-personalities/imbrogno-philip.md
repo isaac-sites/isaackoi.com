@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Imbrogno, Philip"
 description: "Philip Imbrogno Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1987 Hynek, J Allen and Imbrogno, Philip and Pratt, Bob“ Night Siege: The Hudson Valley UFO Sightings ” ( 1997 ) (available on Amazon US..."

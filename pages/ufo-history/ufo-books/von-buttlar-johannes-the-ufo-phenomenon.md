@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Von Buttlar, Johannes “The UFO Phenomenon”"
 description: "Brief review to be added of Johannes Von Buttlar 's book “ The UFO Phenomenon ” ( 1980 ) (available on Amazon USA and on Amazon UK )"

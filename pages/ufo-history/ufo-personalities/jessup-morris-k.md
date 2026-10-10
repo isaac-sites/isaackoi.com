@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Jessup, Morris K"
 description: "Morris K Jessup Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1955 Jessup, Morris K “ UFO : The Case for the UFO ” ( 1955 ) (available on Amazon USA and on Amazon UK ), which became part of the Alle..."

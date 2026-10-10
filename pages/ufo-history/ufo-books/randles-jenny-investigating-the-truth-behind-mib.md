@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randles, Jenny “Investigating the Truth Behind MIB”"
 description: "Brief review to be added of “ Investigating the Truth Behind MIB ” ( 1997 ) (available on Amazon USA and on Amazon UK ) by Jenny Randles ."

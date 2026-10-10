@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1998.0000 Movie: The “McPherson tape”"
 description: "The “McPherson tape” During 1998, the movie “Alien Abduction: Incident in Lake County” was broadcast on UPN. (Commonly referred to as the “McPherson tape”). It was directed by Dean Alioto."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1955.1024 NICAP incorporated"
 description: "Image needed On 24 October 1955, the National Investigations Committee on Aerial Phenomenon (\" NICAP \") was incorporated. See main entry in relation to NICAP ."

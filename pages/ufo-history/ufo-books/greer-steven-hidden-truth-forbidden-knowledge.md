@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Greer, Steven “Hidden Truth – Forbidden Knowledge”"
 description: "Brief review to be added of Steven Greer 's book “ Hidden Truth – Forbidden Knowledge ” ( 2006 ) (available on Amazon USA and on Amazon UK )."

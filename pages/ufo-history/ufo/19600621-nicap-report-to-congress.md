@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1960.0621 NICAP report to Congress"
 description: "Image needed On 21 June 1960 , NICAP submits a “confidential report to Congress” entitled “Dangers of Secrecy on UFOs (Unidentified Flying Objects) and Digest of Documented Evidence”."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Matheson, Terry"
 description: "Terry Matheson Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1998 Matheson, Terry “ Alien Abductions : Creating a Modern Phenomenon ” ( 1998 ) (available on Amazon USA and on Amazon UK )"

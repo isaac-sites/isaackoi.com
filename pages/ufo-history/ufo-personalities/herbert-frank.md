@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Herbert, Frank"
 description: "Frank Herbert Brief comments to be added on this individual. Frank Herbert was the author of numerous science-fiction novels, including “ Dune ” ( 1965 ) (available on Amazon USA and on Amazon UK )."

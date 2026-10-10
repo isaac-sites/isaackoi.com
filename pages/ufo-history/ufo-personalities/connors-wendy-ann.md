@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Connors, Wendy Ann"
 description: "Wendy Ann Connors Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2000 Hall, Michael David and Connors, Wendy Ann “ Captain Edward J Ruppelt : Summer of the Saucers - 1952 ” ( 2000 ) (available on Ama..."

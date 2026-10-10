@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0106 Jimmy Carter's UFO sighting"
 description: "Image needed 6 January 1969 is the date given by Jimmy Carter (there is some confusion regarding the actual date) for his reported UFO sighting at Leary, Georgia prior to a Lions Club meeting. This incident is Case 32 in Isaac Koi's \"Top 1..."

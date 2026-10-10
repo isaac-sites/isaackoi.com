@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.1020 Bolender memo on terminating Bluebook"
 description: "Bolender memo on terminating Bluebook On 20 October 1969 , Brigadier General C H Bolender wrote a memo recommending termination of Project Blue Book. He stated that “reports of unidentified flying objects which could affect national securi..."

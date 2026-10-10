@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2000.0608 United Nations and transmissions"
 description: "Image needed On 8 June 2000 , the United Nations Committee on the Peaceful Uses of Outer space is presented with a paper prepared by the International Academy of Astronautics’ SETI Committee’s subcommittee on “Questions of Policy Regarding..."

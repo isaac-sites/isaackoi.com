@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1945.0214 Georg Klein's disc"
 description: "Image needed Georg Klein claims to have seens a test flight of a flying disc near Prague on 14 February 1945. The claims were made in an interview given to Zurich newspaper Tages-Anzeiger in November 1954 ."

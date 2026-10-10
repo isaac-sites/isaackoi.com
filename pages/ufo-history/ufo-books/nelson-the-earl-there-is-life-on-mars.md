@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Nelson, The Earl “There is Life on Mars”"
 description: "Brief review to be added of “ There is Life on Mars ” ( 1955 ) (available on Amazon USA and on Amazon UK ) by Nelson (The Earl)."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.0000 Hoyle's \"The Black Cloud\""
 description: "Hoyle's \"The Black Cloud\" During 1957, Fred Hoyle wrote the novel “The black cloud”."

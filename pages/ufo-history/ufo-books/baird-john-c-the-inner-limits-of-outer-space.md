@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Baird, John C “The Inner Limits of Outer Space”"
 description: "Brief review to be added of John C Baird's “ The Inner Limits of Outer Space ” ( 1987 ) (available on Amazon USA and on Amazon UK )"

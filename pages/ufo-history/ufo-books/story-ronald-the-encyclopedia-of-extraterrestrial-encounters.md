@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Story, Ronald “The Encyclopedia of Extraterrestrial Encounters”"
 description: "Brief review to be added of “ The Encyclopedia of Extraterrestrial Encounters ” ( 2001 ) (available on Amazon USA and on Amazon UK ) edited by Ronald Story ."

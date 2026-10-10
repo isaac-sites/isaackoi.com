@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1987.1111 Gulf Breeze encounter"
 description: "Image needed On 11 November 1987 , the first of the alleged encounters at Gulf Breeze, Florida purportedly occurred, involving Edward Walters . This incident is Case 23 in Isaac Koi's \"Top 100\" article , since it was referred to in 76 of t..."

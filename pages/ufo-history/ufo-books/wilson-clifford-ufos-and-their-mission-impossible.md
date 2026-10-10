@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Wilson, Clifford “UFOs And Their Mission Impossible”"
 description: "Brief review to be added of Clifford Wilson 's book “ UFOs and Their Mission Impossible ” ( 1974 ) (available on Amazon USA and on Amazon UK ). Later revised as “ The Alien Agenda ”."

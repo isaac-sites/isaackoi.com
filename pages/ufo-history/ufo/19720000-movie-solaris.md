@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1972.0000 Movie “Solaris”"
 description: "“Solaris” The Movie “ Solaris ” ( 1972 ) was based on a novel by Stanislaw Lem. It was directed, in Russian, by Andrei Tarkovsky."

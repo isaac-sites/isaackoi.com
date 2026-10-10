@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lethbridge, T C “The Legend of the Sons of God”"
 description: "Brief review to be added of T C Lethbridge's book “ The Legend of the Sons of God ” ( 1972 ) (available on Amazon USA and on Amazon UK )"

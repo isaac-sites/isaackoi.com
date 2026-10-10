@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.0430 Sidney Shallett article"
 description: "Image needed The first part of Sidney Shallett’s two-part article on UFOs appeared in the 30 April 1949 issue of The Saturday Evening Post , entitled “ What You Can Believe About Flying Saucers ”. The second part appeared in the 7 th May 1..."

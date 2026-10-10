@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1985.1204 Ronald Reagan on aliens"
 description: "Image needed On 4 December 1985 , in remarks to the students and faculty of Fallston High School (in Maryland), President Ronald Reagan referred to a discussion with General Secretary Gorbachev in which President Reagan commented on the po..."

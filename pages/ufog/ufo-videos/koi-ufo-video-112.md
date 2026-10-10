@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 112"
 description: "Koi UFO Video 112: \"Ball Lightning\" UFO over Canberra (2016) https://www.youtube.com/watch?v=bIeZkE2DkjM [DEBUNKED] Koi UFO Video 112 appears to show a large ball of light appearing in the night sky above Canberra, which slowly fades away...."

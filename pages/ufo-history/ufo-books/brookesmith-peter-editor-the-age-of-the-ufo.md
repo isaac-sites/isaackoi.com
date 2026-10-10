@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Brookesmith, Peter (Editor) “The Age of the UFO”"
 description: "Brief review to be added of “ The Age of the UFO ” ( 1984 ), edited by Peter Brookesmith (available on Amazon USA and on Amazon UK )"

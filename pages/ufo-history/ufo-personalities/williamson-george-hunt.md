@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Williamson, George Hunt"
 description: "George Hunt Williamson Brief comments to be added on this individual. George Hunt Williamson (who changed his name to Michel d’Obrenovic) was also known as “Ric Williamson”, “Brother Philip” and “Mark III”. Books by this person include: YE..."

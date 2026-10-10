@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Mooney, Richard “Colony: Earth”"
 description: "Brief review to be added of Richard Mooney 's book “ Colony: Earth ” ( 1965 ) (available on Amazon USA and on Amazon UK )"

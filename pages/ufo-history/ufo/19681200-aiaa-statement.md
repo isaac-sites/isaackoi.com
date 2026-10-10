@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.1200 AIAA statement"
 description: "Image needed During December 1968 , the UFO subcommittee of the AIAA published a statement in its journal, Astronautics and Aeronautics, asking the scientific and engineering communities to examine the phenomenon."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bloecher, Ted “Report on the UFO Wave of 1947”"
 description: "Brief review to be added of Bloecher, Ted “ Report on the UFO Wave of 1947 ” ( 1967 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Carter, Chris “Parapsychology and the Skeptics”"
 description: "Brief review to be added of Chris Carter's book “ Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP ” ( 2007 ) (available on Amazon USA and on Amazon UK )"

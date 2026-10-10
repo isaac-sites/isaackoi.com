@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Redfern, Nicholas “Body Snatchers in the Desert”"
 description: "Brief review to be added of Nicholas Redfern 's book “ Body Snatchers in the Desert: The Horrible Truth at the heart of the Roswell Story ” ( 2005 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0524 Solway Spaceman"
 description: "Solway Spaceman On 24 May 1964 , a photograph taken by fireman Jim Templeton of his daughter on the Solway marshes (near Carlisle, England) includes an apparent image of figure in a “spacesuit”. (Commonly referred to as “the Solway Spacema..."

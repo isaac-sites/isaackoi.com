@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.1001 Cummings briefing"
 description: "Image needed On 1 October 1951 , Lieutenant Cummings briefsGeneral Cabell on lack of investigation of UFO reports by ATIC. Lieutenant Cummings and Lieutenant Colonel Rosengarten ordered to set up a new revitalised Project Grudge."

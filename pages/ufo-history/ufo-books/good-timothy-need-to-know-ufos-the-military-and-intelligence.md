@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Good, Timothy “Need To Know : UFOs, the Military and Intelligence”"
 description: "Brief review to be added of Timothy Good 's book “ Need To Know : UFOs, the Military and Intelligence ” ( 2006 ) (available on Amazon USA and on Amazon UK )"

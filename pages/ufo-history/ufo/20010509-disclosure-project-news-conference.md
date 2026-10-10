@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2001.0509 “Disclosure Project” news conference"
 description: "Image needed On 9 May 2001 , a “Disclosure Project” news conference was held by Dr Steven Greer of the Center for the Study of Extraterrestrial Intelligence (“CSETI”) , at the National Press Club, Washington DC, with a panel of alleged UFO..."

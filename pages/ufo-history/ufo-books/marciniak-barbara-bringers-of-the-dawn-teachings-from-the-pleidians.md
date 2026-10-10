@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Marciniak, Barbara “Bringers of the Dawn : Teachings from the Pleidians”"
 description: "Brief review to be added of Barbara Marciniak 's book “ Bringers of the Dawn : Teachings from the Pleidians ” ( 1992 ) (available on Amazon USA and on Amazon UK )"

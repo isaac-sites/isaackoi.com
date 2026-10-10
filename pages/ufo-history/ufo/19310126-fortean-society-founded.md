@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1931.0126 Fortean Society founded"
 description: "Image needed On 26 January 1931 , the Fortean Society was founded."

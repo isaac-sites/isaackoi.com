@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 072"
 description: "Koi UFO Video 072 : Green Sphere (The Faking Hoaxer) https://www.youtube.com/watch?v=JuTgthqlzK4 [DEBUNKED] Koi UFO Video 72 appears to show a rotating green sphere moving in the sky, passing behind tree branches. T he creator of the video..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Friedlander, Michael W “At the Fringes of Science”"
 description: "Brief review to be added of Michael W Friedlander's “ At the Fringes of Science ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

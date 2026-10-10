@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0700 Roswell Initiative petition"
 description: "Image needed During July 1997 , Kent Jeffrey submits the \"International Roswell Declaration\" petition to the White House, requesting “an Executive Order declassifying any information regarding the existence of UFOs or extraterrestrial inte..."

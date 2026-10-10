@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0432 Air Force Regulation 190-6"
 description: "Air Force Regulation 190-6 On 24 January 1878, Air Force Regulation 190-6 (“AFR 190-6”) detailed USAF policy on dissemination of information."

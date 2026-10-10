@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Toselli, Paolo"
 description: "Paolo Toselli Paolo Toselli is an Italian ufologist. He was one of the founding members of CISU (an Italian UFO group) and has written a book in 1996 about FBI files relating to UFOs - in addition to a book about urban legends. During Apri..."

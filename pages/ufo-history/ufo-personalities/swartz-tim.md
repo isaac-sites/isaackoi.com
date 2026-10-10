@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Swartz, Tim"
 description: "Tim Swartz Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1998 Swartz, Tim “Secret Black Projects of the New World Order: Anti-Gravity UFOs, Black Helicopters and Mysterious Flying Triangles” 1999 Sw..."

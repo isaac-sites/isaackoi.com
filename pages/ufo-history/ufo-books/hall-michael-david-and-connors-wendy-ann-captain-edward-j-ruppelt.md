@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hall, Michael David and Connors, Wendy Ann “Captain Edward J Ruppelt”"
 description: "Brief review to be added of “ Captain Edward J Ruppelt : Summer of the Saucers - 1952 ” ( 2000 ) (available on Amazon USA and on Amazon UK ) by Michael David Hall and Wendy Ann Connors"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1. Introduction"
 description: "Section 1 : Introduction Various UFO books contain recommendations of the equipment which a UFO investigator should own . Jacques Vallee has written (in his book “Confrontations”) that: “Along with the instrumentation in the back of his tr..."

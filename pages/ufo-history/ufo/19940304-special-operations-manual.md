@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.0304 Special Operations Manual"
 description: "Image needed On 4 March 1994 , ufologist Don Berliner received the “Special Operations Manual SOM 1-01” in the form of undeveloped 35 mm film."

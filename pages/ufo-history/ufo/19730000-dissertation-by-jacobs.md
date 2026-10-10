@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1973.0000 Dissertation by Jacobs"
 description: "Image needed Jacobs, Dr David M “The Controversy over Unidentified Flying Objects in America: l896- 1973 ” Department of History, University of Wisconsin ( 1973 )."

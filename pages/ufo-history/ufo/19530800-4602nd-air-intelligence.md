@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0800 4602nd Air Intelligence"
 description: "Image needed During August 1953 , 4602nd Air Intelligence Squadron began to take over all field investigations for Project Bluebook. [Date to be checked - different sources give different dates during 1953.]"

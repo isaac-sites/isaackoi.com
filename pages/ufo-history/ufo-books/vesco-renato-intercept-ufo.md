@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Vesco, Renato “Intercept Ufo”"
 description: "Brief review to be added of Renato Vesco 's book “ Intercept Ufo ” ( 1971 ) (available on Amazon USA and on Amazon UK ). Formerly \"Intercept - But Don't Shoot\"."

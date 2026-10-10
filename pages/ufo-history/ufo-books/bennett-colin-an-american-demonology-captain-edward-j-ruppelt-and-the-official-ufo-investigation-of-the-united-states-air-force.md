@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bennett, Colin “An American Demonology : Captain Edward J Ruppelt and the official UFO investigation of the United States Air Force”"
 description: "Brief review to be added of Colin Bennett 's book “ An American Demonology : Captain Edward J Ruppelt and the official UFO investigation of the United States Air Force ” ( 2005 ) (available on Amazon USA and on Amazon UK )"

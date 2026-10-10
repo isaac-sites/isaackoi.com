@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.0000 Crick on directed panspermia"
 description: "Image needed During 1973 , molecular biologists Francis Crick and Leslie Orgel wrote an article putting forward the idea that life might have been intentionally spread throughout space and seeded on the surface of other worlds by a guiding..."

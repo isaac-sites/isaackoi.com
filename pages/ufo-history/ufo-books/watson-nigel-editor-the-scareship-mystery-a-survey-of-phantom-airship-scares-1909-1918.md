@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Watson, Nigel (Editor) “The Scareship Mystery : A survey of Phantom Airship Scares 1909-1918”"
 description: "Brief review to be added of “ The Scareship Mystery : A survey of Phantom Airship Scares 1909 - 1918 ” ( 1999 ) (available on Amazon USA and on Amazon UK ) edited by Nigel Watson ."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1901.0209 Tesla and mars"
 description: "Tesla and mars An article by Nikola Tesla entitled “Talking with the Planets” is published in Collier’s Weekly in which he stated that “at the present stage of progress, there would be no insurmountable obstacle in constructing a machine c..."

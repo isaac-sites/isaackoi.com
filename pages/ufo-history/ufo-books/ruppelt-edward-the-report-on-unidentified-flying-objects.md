@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ruppelt, Edward “The Report on Unidentified Flying Objects”"
 description: "Brief review to be added of Edward Ruppelt 's book “ The Report on Unidentified Flying Objects ” ( 1956 ) (available on Amazon USA and on Amazon UK ). Complete text of book available on line at http://www.nicap.dabsol.co.uk/Rufo.htm"

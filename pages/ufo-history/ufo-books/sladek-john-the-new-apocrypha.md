@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sladek, John “The New Apocrypha”"
 description: "Brief review to be added of John Sladek's book “ The New Apocrypha ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

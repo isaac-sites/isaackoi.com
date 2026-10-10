@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 106"
 description: "Koi UFO Video 106 : Small UFO near ground with shadow (Erik van Helvoirt) https://www.youtube.com/watch?v=th0jSHkyxOg [DEBUNKED] Koi UFO Video 106 appears to show a small rotating UFO with numerous moving claws moving in the sky, giving an..."

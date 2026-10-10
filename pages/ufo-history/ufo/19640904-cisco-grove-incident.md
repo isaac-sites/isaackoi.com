@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0904 Cisco Grove incident"
 description: "Image needed During the night of 4th – 5th September 1964 , Cisco Grove, California incident involving Donald Schrum (sometimes referred to as “Mr S.” or “Mr S_____”) and Vincent A ___________ . Schrum claimed to have climbed a tree to avo..."

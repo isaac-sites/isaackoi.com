@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Corliss, William R"
 description: "William R Corliss Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1979 Corliss, William R “Mysterious Universe : A Handbook of Astronomical Anomalies\""

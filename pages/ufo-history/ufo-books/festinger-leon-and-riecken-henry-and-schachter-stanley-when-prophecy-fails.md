@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Festinger, Leon and Riecken, Henry and Schachter, Stanley “When Prophecy Fails”"
 description: "Brief review to be added of “ When Prophecy Fails ” ( 1956 ) (available on Amazon USA and on Amazon UK ) by Leon Festinger and Henry Riecken and Stanley Schachter. Focuses on a group headed by Marion Dorothy Martin (“Mrs Keech”)."

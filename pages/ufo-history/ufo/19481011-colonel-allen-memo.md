@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.1011 Colonel Allen memo"
 description: "Colonel Allen memo On 11 October 1948 , a memo to Major General Cabell from Colonel Brooke Allen, Chief of the Air Estimates Branch of Air Force Inteligence, attaches a copy of a document later titled “Analysis of Flying Object Incidents i..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.1200 \"Civilian Saucer Investigation\""
 description: "Image needed During December 1951 , Civilian Saucer Investigation (“CSI”) was formed. Members included Walter Riedel."

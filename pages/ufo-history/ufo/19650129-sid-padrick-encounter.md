@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0129 Sid Padrick encounter"
 description: "Image needed Sid Padrick claimed to have been welcomed into a flying saucer near Watsonville, California on 29 January 1965 ."

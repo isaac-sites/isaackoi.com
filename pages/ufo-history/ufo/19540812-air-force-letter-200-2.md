@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.0812 Air Force Letter 200-2"
 description: "Air Force Letter 200-2 On 12 August 1954 , Air Force Letter 200-2 entitled “Unidentified Flying Objects Reporting” (“FLYOBRPT”) sets forth procedures for information and evidence materiel pertaining to unidentified flying objects and sets..."

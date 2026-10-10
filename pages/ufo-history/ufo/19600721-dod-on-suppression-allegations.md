@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0721 DoD on suppression allegations"
 description: "DoD on suppression allegations On 21 July 1960 , the US Department of Defense issued a news release entitled “ATIC UFO Investigation Capability” which comments on allegations of suppression of information and the cost of the Air Force’s UF..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1985.0929 Project META begins"
 description: "Project META begins On 29 September 1985 , the Project META (the “Megachannel ExtraTerrestrial Assay”) all-sky SETI search begins. Conducted by the Harvard SETI group until 1994 ."

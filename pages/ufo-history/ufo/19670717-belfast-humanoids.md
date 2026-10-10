@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0717 Belfast humanoids"
 description: "Belfast humanoids On 17 July 1967 , Eugene Browne claims to have seen humanoids in Belfast, Northern Ireland. He later claimed to have been abducted on 6 October 1967 ."

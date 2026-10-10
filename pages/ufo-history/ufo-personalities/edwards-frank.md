@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Edwards, Frank"
 description: "Frank Edwards Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1956 Edwards, Frank “Strangest of All” 1964 Edwards, Frank “Strange World” 1966 Edwards, Frank “ Flying Saucers – Serious Business ” ( 196..."

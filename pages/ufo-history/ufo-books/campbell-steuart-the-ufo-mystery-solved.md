@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Campbell, Steuart “The UFO Mystery Solved”"
 description: "Brief review to be added of Steuart Campbell 's book “ The UFO Mystery Solved ” ( 1994 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1981.0000 Anamnesis Project"
 description: "Anamnesis Project During 1981 , the Anamnesis Project was launched by Alex Keul and Ken Phillips to study the life profile of UFO reporters."

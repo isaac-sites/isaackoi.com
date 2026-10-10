@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.0000 Music “No Doubt About It”"
 description: "Image needed During 1980 , the group “Hot Chocolate” release the hit song “No Doubt About It”, inspired by a UFO sighting."

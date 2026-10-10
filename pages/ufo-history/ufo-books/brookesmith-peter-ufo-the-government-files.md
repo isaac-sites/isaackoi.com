@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Brookesmith, Peter “UFO: The Government Files”"
 description: "Brief review to be added of Peter Brookesmith 's book “ UFO: The Government Files ” ( 1996 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1962.0200 George Filer sighting"
 description: "George Filer sighting During February 1962 , George Filer claims to have seen (visually and on radar) a UFO over England whilst in a KB-50 J tanker aircraft. See main entry on George Filer ."

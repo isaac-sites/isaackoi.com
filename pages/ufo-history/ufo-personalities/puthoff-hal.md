@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Puthoff, Hal"
 description: "Hal Puthoff Brief comments to be added on this individual. Referred to as \"Partridge\" by Robert Collins . Books by this person include: YEAR BOOK 1977 Puthoff, Hal and Targ, Russell “ Mind-Reach : Scientists Look at Psychic Ability ” ( 197..."

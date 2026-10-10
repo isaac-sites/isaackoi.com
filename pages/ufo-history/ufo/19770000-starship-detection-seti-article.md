@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0000 Starship detection SETI article"
 description: "Starship detection SETI article During 1977 , David Viewing (a member of the British Interplanetary Society) and two colleagues publish an article entitled “Detection of Starships” in the Journal of the British Interplanetary Society discu..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bear, Greg “The Forge of God”"
 description: "Brief review to be added of Greg Bear's novel “ The Forge of God ” ( 1987 ) (available on Amazon USA and on Amazon UK )"

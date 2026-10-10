@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Salter, Daniel M “Life With a Cosmos Clearance”"
 description: "Brief review to be added of Daniel M Salter's book “ Life With a Cosmos Clearance ” ( 2003 ) (available on Amazon USA and on Amazon UK )."

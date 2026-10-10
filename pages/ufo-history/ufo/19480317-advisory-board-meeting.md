@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.0317 Advisory Board meeting"
 description: "Image needed On 17 March 1948 , an Air Force Scientific Advisory Board meeting includes a briefing by Colonel McCoy which mentions Project Sign."

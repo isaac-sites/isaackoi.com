@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Shuttlewood, Arthur “The Warminster Mystery”"
 description: "Brief review to be added of Arthur Shuttlewood 's book “ The Warminster Mystery ” ( 1967 ) (available on Amazon USA and on Amazon UK ). First of several books on sightings in and around Warminster from about 1962 to the late 1970 s. Photog..."

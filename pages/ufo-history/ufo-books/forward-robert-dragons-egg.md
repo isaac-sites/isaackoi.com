@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Forward, Robert “Dragon’s Egg”"
 description: "Brief review to be added of Robert Forward 's novel “ Dragon’s Egg ” ( 1980 ) (available on Amazon USA and on Amazon UK ). Considers the implications of evolution of intelligent life on the surface of a neutron star."

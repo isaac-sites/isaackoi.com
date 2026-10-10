@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "25. Quantitative criteria : Figuet’s hardest cases"
 description: "“ Best UFO Cases ” by Isaac Koi PART 25: Quantitative criteria : Figuet’s hardest cases Michel Figuet prepared a paper for the “European Congress on AAP” in November 1988 entitled “Criteria for selecting the hardest cases and other recent..."

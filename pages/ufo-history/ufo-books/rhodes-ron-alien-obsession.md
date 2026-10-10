@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rhodes, Ron “Alien Obsession”"
 description: "Brief review to be added of “ Alien Obsession: What Lies Behind Abductions, Sightings and the Attraction to the Paranormal ” ( 1998 ) (available on Amazon USA and on Amazon UK ) by Ron Rhodes."

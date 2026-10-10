@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1998.0000 Movie: “Small Soldiers”"
 description: "“Small Soldiers” The movie “ Small Soldiers ” (1998) was directed by Joe Dante."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.0000 APEN cassettes"
 description: "APEN cassettes During 1974 , several British UFO researchers receive cassettes purportedly from a group calling itself Aerial Phenomena Enquiry Network (“APEN”)."

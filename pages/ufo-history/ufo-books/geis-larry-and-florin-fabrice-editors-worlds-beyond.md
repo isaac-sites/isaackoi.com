@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Geis, Larry and Florin, Fabrice (Editors) “Worlds Beyond”"
 description: "Brief review to be added of “ Worlds Beyond ” ( 1978 ) (available on Amazon USA and on Amazon UK ) edited by Larry Geis and Fabrice Florin. Also published under the title “Moving Into Space: The Myths and Realities of Extraterrestrial Life”"

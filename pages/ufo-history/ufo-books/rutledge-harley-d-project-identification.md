@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rutledge, Harley D “Project Identification”"
 description: "Brief review to be added of Harley D Rutledge 's book “ Project Identification ” ( 1981 ) (available on Amazon USA and on Amazon UK ). Discusses “ Project Identification ”, established in 1973 by Harley Rutledge of Southeast Missouri State..."

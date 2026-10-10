@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1976.0720 Viking 1 on Mars"
 description: "Viking 1 on Mars On 20 July 1976 , Viking 1 touches down on Mars. First soil sample collected on 28 July 1976 ."

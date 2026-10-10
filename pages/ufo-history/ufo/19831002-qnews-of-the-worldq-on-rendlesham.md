@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1983.1002 \"News of the World\" on Rendlesham"
 description: "\"News of the World\" on Rendlesham On 2 October 1983 , the “News of the World” newspaper publishes a story about the Rendlesham sightings on its front page, entitled “UFO Lands in Suffolk : And that’s official”."

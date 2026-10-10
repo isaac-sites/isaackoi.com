@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1987.0805 Peter Beard photos"
 description: "Peter Beard photos On 5 August 1987 , Peter Beard allegedly photographs a craft in Barnsley, South Yorkshire."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.0000 Taormina, Sicily photo"
 description: "Image needed During 1954 , a photograph was allegedly taken in Taormina, Sicily by Giuseppe Grasso showing four men standing on a bridge apparently gazing at 2 UFOs."

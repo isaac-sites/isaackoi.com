@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.1218 Chadwell on British activity"
 description: "Chadwell on British activity On 18 December 1952 , H Marshall Chadwell, Assistant Director of the CIA’s OSI, prepared a memorandum for the record entitled “British Activity in the field of ‘Unidentified Flying Objects’” which refers to a B..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0122 DoD \"record low\""
 description: "DoD \"record low\" On 22 January 1959 , the US Department of Defense issues a news release entitled “Air Force UFO Study Shows ‘Unknowns’ Decreasing”, which states that the Air Force “has set a record low for the number of cases classified a..."

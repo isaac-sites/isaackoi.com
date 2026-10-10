@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0702 Air Force Regulation 200-3"
 description: "Air Force Regulation 200-3 On 2 July 1952 , Air Force Regulation (AFR) 200-3, entitled “Reporting Vital Sightings from Aircraft”, sets forth Intelligence regulations governing reporting in accordance with Joint Army-Navy-Air Force Publicat..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Gardner, Martin “The New Age - Notes of a Fringe Watcher”"
 description: "Brief review to be added of Martin Gardner 's book “ The New Age - Notes of a Fringe Watcher ” ( 1988 ) (available on Amazon USA and on Amazon UK )"

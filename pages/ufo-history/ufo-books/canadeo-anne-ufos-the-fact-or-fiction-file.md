@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Canadeo, Anne “UFO’s: The Fact or Fiction File”"
 description: "Brief review to be added of Anne Canadeo's book “ UFO’s: The Fact or Fiction File ” ( 1990 ) (available on Amazon USA and on Amazon UK )"

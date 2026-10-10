@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clark, Jerome “Extraordinary Encounters”"
 description: "Brief review to be added of Jerome Clark 's book “ Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings ” ( 2000 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Dolan, Richard"
 description: "Richard Dolan Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2000 Dolan, Richard “ UFOs and the National Security State: Volume 1: 1941- 1973 : 1941- 1973 ” ( 2000 ) (available on Amazon USA and on A..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1991.0812 Mandelbrot crop circle"
 description: "Image needed On 12 August 1991 , a crop circle resembling a Mandelbrot set was found in Ickleton, Cambridgeshire (south of Cambridge) by farmer Hugh Raybone and noticed the following day by pilot Steven Cherry-Downes."

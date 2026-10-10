@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.1214 CIA documents released"
 description: "CIA documents released On 14 December 1978, the CIA releases UFO documents to Ground Saucer Watch."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.1112 Avrocar flight"
 description: "Image needed On 12 November 1959 , the first untethered flight of AVRO Aircraft Ltd’s VZ-9 took place. (Commonly referred to as “the Avrocar”)."

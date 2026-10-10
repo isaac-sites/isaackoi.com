@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 087"
 description: "Koi UFO Video 087: Phoenix 2005 (Brian Bessent) https://www.youtube.com/watch?v=OPgQ9OxfCxA [DEBUNKED] Koi UFO Video 087 appears to show a ring of lights in the night sky above some trees, with lights appearing to fly in and out the ring f..."

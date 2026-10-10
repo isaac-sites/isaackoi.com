@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1981.0108 Trans-en-Provence \"landing\""
 description: "Image needed On 8 January 1981 , an alleged UFO landing occurred at Trans-en-Provence, France involving Monsieur Renato Nicolai (sometimes misspelt as “Renato Niccolai”). (Monsieur Nicolai was originally referred to using the pseudonym “Re..."

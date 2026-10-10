@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0209 David Saunders dismissed"
 description: "Image needed On 9 February 1968 , Dr. David R Saunders and Dr Norman Levine dismissed from the Condon Committee team for alleged incompetence."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 009"
 description: "Koi UFO Video 009: \"Act of War” viral marketing https://www.youtube.com/watch?v=TauTX6vwE7s [DEBUNKED] Koi UFO Video 009 is video appearing to show an aircraft (resembling a stealth aircraft) being shot down by rockets in London over the H..."

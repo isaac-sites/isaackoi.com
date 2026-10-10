@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Frazier, Kendrick and Nickell, Joseph (Ed.) “The UFO Invasion”"
 description: "Brief review to be added of “ The UFO Invasion ” ( 1997 ) (available on Amazon USA and on Amazon UK ) edited by Kendrick Frazier and Joseph Nickell"

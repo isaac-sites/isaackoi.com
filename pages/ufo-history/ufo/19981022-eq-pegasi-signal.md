@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1998.1022 EQ Pegasi signal"
 description: "EQ Pegasi signal On 22 October 1998 , a claim was purportedly made by an engineer (later identified as Paul Dore) to have detected a signal from the star EQ Pegasi is reported by the BBC (British Broadcasting Company) News Online. The SETI..."

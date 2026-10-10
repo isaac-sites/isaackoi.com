@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0508 Gallup poll results"
 description: "Gallup poll results On 8 May 1966 , Gallup released the results of the third Gallup Poll to include questions on UFOs. The results indicated that 96% of Americans had either heard or read something about UFOs. 46% considered UFOs to be “re..."

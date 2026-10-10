@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi Alien Photo 04"
 description: "Koi Alien Photo 4 In 1981, Klaus Webner (still a local resident in Wiesdadener, and a UFO researcher) managed to track down the source of the photo as being an April Fools Day issue of the German newspaper \"Wiebadener Tagblatt\" in 1950. It..."

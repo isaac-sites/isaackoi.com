@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lorenzen, Coral E"
 description: "Coral Lorenzen Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1962 Lorenzen, Coral E “ The Great Flying Saucer Hoax ” ( 1962 ) (available on Amazon USA and on Amazon UK ) 1966 Lorenzen, Coral E “ Fly..."

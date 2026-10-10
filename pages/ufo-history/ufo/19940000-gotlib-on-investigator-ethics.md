@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.0000 Gotlib on investigator ethics"
 description: "Image needed During 1994 , an article by David Gotlib and others was published in the “Journal of UFO Studies” (“JUFOS”) entitled “Ethics code for investigation and treatment of the abduction experience”."

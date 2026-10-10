@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1990.0000 Flaherty's thesis"
 description: "Image needed Dissertation: Ph.D Thesis by Flaherty, Dr. Robert Pearson \"Flying Saucers and the New Angelology: Mythic Projection of the Cold War and the Convergence of Opposites”, UCLA ( 1990 ), 726 pages."

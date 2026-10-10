@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1993.0000 Movie “Fire in the Sky”"
 description: "“Fire in the Sky” The movie “ Fire in the Sky ” ( 1993 ) was based on the alleged abduction of Travis Walton. It was directed by Robery Lieberman."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hancock, Graham"
 description: "Graham Hancock Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1995 Hancock, Graham “The Fingerprints of the Gods” 1998 Hancock, Graham “ The Mars Mystery ” ( 1998 ) (available on Amazon USA and on Am..."

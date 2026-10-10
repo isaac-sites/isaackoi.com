@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0825 Lubbock Lights sightings"
 description: "Lubbock Lights sightings \"Impact\" Rating = 13 \"Credibility\" Rating = 13 \"Expert\" Rating = 8 \"Strangeness\" Rating = 6 On 25 August 1951 , several college professors from Texas Technological College at Lubbock (W I Robinson, A G Oberg, W L D..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Coomer, David “The UFO Investigator’s Guide”"
 description: "Brief review to be added of David Coomer's book “ The UFO Investigator’s Guide ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

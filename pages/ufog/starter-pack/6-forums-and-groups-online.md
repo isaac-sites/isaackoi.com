@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "6. Forums and groups online"
 description: "Section 6 : Discussion forums and UFO groups online Additional useful websites include various: Section 6.1 : UFO discussion forums Section 6.2 : Websites of UFO groups Section 6.1 : UFO discussion forums UFO UpDates is probably the best (..."

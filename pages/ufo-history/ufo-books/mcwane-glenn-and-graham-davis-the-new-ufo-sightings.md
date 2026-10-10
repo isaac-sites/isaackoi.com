@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "McWane, Glenn and Graham, Davis “The New UFO Sightings”"
 description: "Brief review to be added of “ The New UFO Sightings ” ( 1974 ) (available on Amazon USA and on Amazon UK ) by Glenn McWane and Davis Graham."

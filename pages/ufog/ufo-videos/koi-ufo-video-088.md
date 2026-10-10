@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 088"
 description: "Koi UFO Video 088: Cape of Good Hope, South Africa (2003) - Chris Oakley https://www.youtube.com/watch?v=gs5rcvQa7fA [DEBUNKED] Koi UFO Video 088 appears to show a flying saucer hovering above the sea near a beach. The video has a caption..."

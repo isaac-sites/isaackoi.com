@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Long, Greg “Examining the Earthlight Theory: The Yakima UFO Microcosm”"
 description: "Brief review to be added of Greg Long 's book “ Examining the Earthlight Theory: The Yakima UFO Microcosm ” ( 1990 ) (available on Amazon USA and on Amazon UK )"

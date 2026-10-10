@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.0000 Bluebook files available"
 description: "Image needed During 1975, Project Blue Book case files were made available to the public at the National Archives. An ineffective attempt was made to redact the names of all witnesses."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "12. Consensus lists : Conclusion"
 description: "In short,“consensus lists” of the best cases are a highly desirable commodity. It is therefore extremely disappointing (and perhaps surprising) to note that despite numerous challenges by skeptics to produce lists of the “best” cases: with..."

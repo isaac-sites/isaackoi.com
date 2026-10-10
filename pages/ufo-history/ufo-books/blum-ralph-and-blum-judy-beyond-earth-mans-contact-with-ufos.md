@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Blum, Ralph and Blum, Judy “Beyond Earth: Man’s Contact with UFOs”"
 description: "Brief review to be added of Blum, Ralph and Blum, Judy “ Beyond Earth: Man’s Contact with UFOs ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

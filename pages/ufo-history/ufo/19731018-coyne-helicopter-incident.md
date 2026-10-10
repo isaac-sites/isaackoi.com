@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.1018 Coyne helicopter incident"
 description: "Image needed A UFO sighting by the crew of an Army Reserve helicopter (including Captain Lawrence Coyne) occurred during the night of 18 th -19 th October 1973 over the Mansfield, Ohio area whilst on route from Columbus to Cleveland. (Comm..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2002.1000 Roper Poll on Roswell"
 description: "Roper Poll on Roswell During October 2002 , the results of a poll by the Roper organisation were published in a report, prepared for the Sci Fi Channel, entitled “Roswell: Weather Balloon or Space Craft– American’s Beliefs about the Roswel..."

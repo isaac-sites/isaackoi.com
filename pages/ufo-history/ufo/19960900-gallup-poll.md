@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1996.0900 Gallup poll"
 description: "Gallup poll During September 1996 , there was a further Gallup poll featuring questions on UFOs."

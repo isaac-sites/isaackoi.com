@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Berlitz, Charles"
 description: "Charles Berlitz Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1969 Berlitz, Charles “The Mystery of Atlantis” 1972 Berlitz, Charles “Mysteries from Forgotten Worlds” 1974 Berlitz, Charles “The Bermu..."

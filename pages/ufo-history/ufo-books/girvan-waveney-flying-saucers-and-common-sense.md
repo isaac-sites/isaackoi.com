@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Girvan, Waveney “Flying Saucers and Common Sense”"
 description: "Brief review to be added of Waveney Girvan 's book “ Flying Saucers and Common Sense ” ( 1955 ) (available on Amazon USA and on Amazon UK )"

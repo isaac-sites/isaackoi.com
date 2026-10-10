@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0815 CIA paper on IFOs"
 description: "CIA paper on IFOs On 15 August 1952 , a CIA briefing paper gives details of “the official explanations of the great majority of sightings of unidentified flying objects” and mentions “possible phenomena which may account for some of the op..."

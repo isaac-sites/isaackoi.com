@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Brookesmith, Peter (Editor) “UFOs: Where Do They Come From?”"
 description: "Brief review to be added of “ UFOs: Where Do They Come From? ” ( 1984 ), edited by Peter Brookesmith (available on Amazon USA and on Amazon UK )"

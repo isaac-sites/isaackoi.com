@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.0611 Adamski's body on coal tip"
 description: "Image needed On 11 June 1980 , the body of Zygmunt Jan Adamski was found on a coal tip in Todmorden, West Yorkshire. This has been linked by some researchers to UFO sightings in the area. The spelling of the relevant individuals name vario..."

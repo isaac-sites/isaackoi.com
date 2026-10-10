@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Twiggs, Denise and Twiggs, Bert “Secret Vows”"
 description: "Brief review to be added of “ Secret Vows ” ( 1992 ) (available on Amazon USA and on Amazon UK ) by Denise Twiggs and Bert Twiggs."

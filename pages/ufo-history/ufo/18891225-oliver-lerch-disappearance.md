@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1889.1225 Oliver Lerch disappearance"
 description: "Image needed 25 December 1889 is one of several dates (depending upon the source) ascribed to the alleged disappearance of one Oliver Lerch (or, again depending upon the source, Oliver Larch or Oliver Thomas) whilst leaving footprints in s..."

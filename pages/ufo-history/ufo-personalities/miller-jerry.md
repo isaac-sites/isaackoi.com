@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Miller, Jerry"
 description: "Image needed Brief comments to be added on this individual. Referred to as \"Heron\" by Jaime Shandera."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "27: Quantitative criteria : Koi's ICES ratings"
 description: "“ Best UFO Cases ” by Isaac Koi PART 27: Quantitative criteria : Koi's ICES Ratings Isaac Koi has adapted Hynek's Strangeness and Probability Ratings (discussed in PART 20: Quantitative criteria : Hynek – Strangeness and Probability ) as s..."

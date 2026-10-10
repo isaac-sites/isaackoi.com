@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0313 Phoenix lights sightings"
 description: "Image needed The Phoenix, Arizona sightings (commonly referred to as “the Phoenix lights”) occurred on 13 March 1997 ."

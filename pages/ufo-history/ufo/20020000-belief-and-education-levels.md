@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2002.0000 Belief and education levels"
 description: "Image needed During 2002 , the National Science Foundation publishes the results of a survey on belief in ESP, indicating higher levels of belief among respondents with high school or more education than respondents with less than a high s..."

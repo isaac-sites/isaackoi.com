@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hufford, David “The Terror That Comes in the Night”"
 description: "Brief review to be added of David Hufford 's book “ The Terror That Comes in the Night ” ( 1982 ) (available on Amazon USA and on Amazon UK )"

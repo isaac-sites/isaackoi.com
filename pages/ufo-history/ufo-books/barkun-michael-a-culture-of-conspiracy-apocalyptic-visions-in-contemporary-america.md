@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Barkun, Michael “A Culture of Conspiracy : Apocalyptic Visions in Contemporary America”"
 description: "Brief review to be added of Michael Barkun 's book “ A Culture of Conspiracy : Apocalyptic Visions in Contemporary America ” ( 2003 ) (available on Amazon USA and on Amazon UK )"

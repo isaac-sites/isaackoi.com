@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1992.0000 Jo Stone Carmen's thesis"
 description: "Image needed Ph.D Thesis by Stone Carmen, Dr. Jo. “Personality Characteristics and self Identified experiences of individuals reporting possible Abduction by Unidentified Flying Objects (UFOS)” United States International University ( 1992..."

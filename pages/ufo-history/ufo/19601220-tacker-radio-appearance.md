@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.1220 Tacker radio appearance"
 description: "Image needed On 20 December 1960 , Colonel Lawrence J Tacker appears on the radio programme “Washington Viewpoint” and is interviewed by Ann Corrick and Syd Davis."

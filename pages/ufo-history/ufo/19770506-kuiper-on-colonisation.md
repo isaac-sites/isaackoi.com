@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0506 Kuiper on colonisation"
 description: "Kuiper on colonisation On 6 May 1977 , the journal Science published a paper by Thomas B H Kuiperof the Jet Propulsion Laboratory (“JPL”) and Mark Morris of Cal Tech which concludes that “the glaxy is either essentially empty with respect..."

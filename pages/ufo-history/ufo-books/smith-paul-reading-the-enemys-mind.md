@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Smith, Paul “Reading the Enemy’s Mind”"
 description: "Brief review to be added of Paul Smith 's book “ Reading the Enemy’s Mind ” ( 2005 ) (available on Amazon USA and on Amazon UK )."

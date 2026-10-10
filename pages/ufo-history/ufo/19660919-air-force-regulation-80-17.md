@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0919 Air Force Regulation 80-17"
 description: "Air Force Regulation 80-17 On 19 September 1966 , Air Force Regulation 80-17 (“AFR 80-17”) entitled “Unidentified Flying Objects” supersedes Air Force Regulation 200-2."

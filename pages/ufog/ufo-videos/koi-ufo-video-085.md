@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 085"
 description: "Koi UFO Video 085: UFO attacks Taliban camp https://www.youtube.com/watch?v=AA1yiOehuy8 Koi UFO Video 085 appears to show a triangular craft causing a large explosion, with a tank in the foreground. It was uploaded to Youtube in May 2014 w..."

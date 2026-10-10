@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clark, Stuart “Life on Other Worlds and How to Find It”"
 description: "Brief review to be added of Stuart Clark's book “ Life on Other Worlds and How to Find It ” ( 2000 ) (available on Amazon USA and on Amazon UK )"

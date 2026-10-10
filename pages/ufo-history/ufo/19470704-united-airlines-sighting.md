@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0704 United Airlines sighting"
 description: "United Airlines sighting \"Impact\" Rating = 12 \"Credibility\" Rating = 11 \"Expert\" Rating = 7 \"Strangeness\" Rating = 6 On 4 July 1947 , the United Airlines Flight 105 sighting occurred involving Captain Emil J Smith, his co-pilot (Ralph Stev..."

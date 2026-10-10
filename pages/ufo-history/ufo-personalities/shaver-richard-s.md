@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Shaver, Richard S"
 description: "Richard Shaver Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1999 Childress, David Hatcher and Shaver, Richard “Lost Continents and The Hollow Earth”"

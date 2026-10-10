@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1979.0700 Industrial Research poll"
 description: "Industrial Research poll During July 1979 , \"Industrial Research and Development\" publishes the results of a poll of its readers on UFOs."

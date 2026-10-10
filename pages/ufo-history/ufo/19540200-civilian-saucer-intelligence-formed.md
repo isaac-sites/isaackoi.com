@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.0200 “Civilian Saucer Intelligence” formed"
 description: "Image needed During February 1954 , “Civilian Saucer Intelligence” (“CSI”) was formed in New York.."

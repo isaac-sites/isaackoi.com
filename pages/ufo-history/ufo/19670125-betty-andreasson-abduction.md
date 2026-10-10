@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0125 Betty Andreasson abduction"
 description: "Image needed An alleged abduction of Betty Andreasson (Betty Luca following her marriage, Betty Aho in the pre-teens and teens) occurred at her home in South Ashburnham, Massachusettson 25 January 1967 . This incident is Case 19 in Isaac K..."

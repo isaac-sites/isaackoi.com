@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Puthoff, Hal and Targ, Russell “Mind-Reach : Scientists Look at Psychic Ability”"
 description: "Brief review to be added of “ Mind-Reach : Scientists Look at Psychic Ability ” ( 1977 ) (available on Amazon USA and on Amazon UK ) by Hal Puthoff and Russell Targ"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ronson, Jon “Them : Adventures with Extremists”"
 description: "Brief review to be added of Jon Ronson 's book “ Them : Adventures with Extremists ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

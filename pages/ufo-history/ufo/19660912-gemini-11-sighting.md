@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0912 Gemini 11 sighting"
 description: "Gemini 11 sighting Allegedly, there was a UFO sighting on Gemini 11 on 12 September 1966 by astronauts Charles “Pete” Conrad and Richard Gordon. As with several other alleged astronaut sightings, a wide variety of contradictory dates are g..."

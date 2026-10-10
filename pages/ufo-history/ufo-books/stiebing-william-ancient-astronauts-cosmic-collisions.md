@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Stiebing, William “Ancient Astronauts, Cosmic Collisions”"
 description: "Brief review to be added of William Stiebing's book “ Ancient Astronauts, Cosmic Collisions ” ( 1984 ) (available on Amazon USA and on Amazon UK )"

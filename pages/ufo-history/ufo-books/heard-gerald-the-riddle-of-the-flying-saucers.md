@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Heard, Gerald “The Riddle of the Flying Saucers”"
 description: "Brief review to be added of Gerald Heard 's book “ The Riddle of the Flying Saucers ” ( 1950 ) (available on Amazon USA and on Amazon UK ). Also published as “Is Another World Watching?”."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 066"
 description: "Koi UFO Video 066 : UFO over Nowra, Australia (2010) http://www.youtube.com/watch?v=6Cyl3ouVC40 [DEBUNKED] Koi UFO Video 066 appears to show a UFO moving around under clouds in the night sky, lighting up the bottom of those clouds. This vi..."

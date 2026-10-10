@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clark, Jerome “UFO Encyclopaedia : 1st Edition\""
 description: "Brief review to be added of Jerome Clark 's book “UFOs in the 1980 s” ( UFO Encyclopedia 1st Edition ) ( 1990 ) (available on Amazon USA and on Amazon UK )"

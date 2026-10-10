@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hendry, Allan"
 description: "Allan Hendry Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1979 Hendry, Allan “ The UFO Handbook ” ( 1979 ) (available on Amazon USA and on Amazon UK )"

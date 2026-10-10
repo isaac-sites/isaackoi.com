@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1104 Fort Itaipu, Brazil incident"
 description: "Image needed The Fort Itaipu, Brazil sighting by two sentries occurred at about 2 am on 4 November 1957 , with alleged injuries and electromagnetic effects. This incident is Case 70 in Isaac Koi's \"Top 100\" article , since it was referred..."

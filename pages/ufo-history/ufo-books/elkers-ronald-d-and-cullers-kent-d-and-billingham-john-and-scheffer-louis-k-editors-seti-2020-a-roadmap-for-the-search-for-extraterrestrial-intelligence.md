@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Elkers, Ronald D and Cullers, Kent D and Billingham, John and Scheffer, Louis K (Editors) “SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence”"
 description: "Brief review to be added of “ SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence ” ( 2002 ) (available on Amazon USA and on Amazon UK ) edited by Ronald D Elkers and Kent D Cullers and John Billingham and Louis K Scheff..."

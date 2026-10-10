@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.1127 Project Twinkle report"
 description: "Project Twinkle report On 27 November 1951 , at the Cambridge Research Laboratory’s produces its final report on “peculiar light phenomena that had been observed in the skies of the southwestern United States”. (The relevant observations a..."

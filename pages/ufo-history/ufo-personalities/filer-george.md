@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Filer, George"
 description: "George Filer Brief comments to be added on this individual. George Filer claims to have seen (visually and on radar) a UFO over England whilst in a KB-50 J tanker aircraft during February 1962."

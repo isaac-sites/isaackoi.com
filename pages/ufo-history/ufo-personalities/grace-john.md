@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Grace, John"
 description: "Image needed Brief comments to be added on this individual. Also known as \"Val Valerian\" (a pseudonum for John Grace). John Grace was the co-author of the “Krill Report” (also referred to as the “O H Krill document” and the “Krlll Report”)..."

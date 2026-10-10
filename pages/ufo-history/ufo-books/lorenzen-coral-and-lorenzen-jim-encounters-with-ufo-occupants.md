@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lorenzen, Coral and Lorenzen, Jim “Encounters with UFO Occupants”"
 description: "Brief review to be added of “ Encounters with UFO Occupants ” ( 1976 ) (available on Amazon USA and on Amazon UK ) by Coral Lorenzen and Jim Lorenzen ."

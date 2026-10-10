@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sparks, Brad"
 description: "Brad Sparks Brief comments to be added on this individual. As noted in Part 3 of Isaac Koi’s “ Best UFO Cases ” article (i.e. in the Part entitled “ Existing lists by various individuals ”), in 1999 Brad Sparks stated that he was “not read..."

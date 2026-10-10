@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0000 Electromagnetic launch article"
 description: "Image needed In an article published in 1950 , Arthur C Clarke proposed the direct electromagnetic launch (using a mass driver) of a space vehicle. Clarke, Arthur C ( 1950 ), Journal of the British Interplanetary Society, Volume 9, pages 2..."

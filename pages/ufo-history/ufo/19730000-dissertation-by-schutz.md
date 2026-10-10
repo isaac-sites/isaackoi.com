@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1973.0000 Dissertation by Schutz"
 description: "Image needed Schutz, Dr Michael Kelly “Organizational Goals and Support-Seeking Behavior: A Comparative Study of Social Movement Organizations in the UFO (Flying Saucer) Field”, Sociology, Northwestern University ( 1973 ), 448 pages"

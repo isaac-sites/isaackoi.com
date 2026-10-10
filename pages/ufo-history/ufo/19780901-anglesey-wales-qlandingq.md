@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0901 Anglesey, Wales \"landing\""
 description: "Anglesey, Wales \"landing\" On 1 September 1978 , there was an alleged UFO landing in Llanerchymedd, Anglesey, Wales."

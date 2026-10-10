@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Horn, Arthur D and Horn, Lynette M “Humanity's Extraterrestrial Origins”"
 description: "Brief review to be added of “ Humanity's Extraterrestrial Origins ” ( 1994 ) (available on Amazon USA and on Amazon UK ) by Arthur D Horn and Lynette M Horn."

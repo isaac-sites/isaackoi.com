@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1962.0720 Air Force Regulation 202-2"
 description: "Air Force Regulation 202-2 On 20 July 1962 , Air Force Regulation 202-2 (“AFR 202-2”) was issued."

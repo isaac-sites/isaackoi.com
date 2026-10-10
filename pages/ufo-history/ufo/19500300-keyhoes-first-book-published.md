@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1950.0300 Keyhoe's first book published"
 description: "Image needed During March 1950 , Donald Keyhoe ’s first UFO book, “ The Flying Saucers are Real ” is published For references and further information, see separate entry in relation to Donald Keyhoe ’s book “ The Flying Saucers are Real ”..."

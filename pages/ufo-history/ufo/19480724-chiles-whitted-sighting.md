@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.0724 Chiles Whitted sighting"
 description: "Chiles Whitted sighting \"Impact\" Rating = 14 \"Credibility\" Rating = 14 \"Expert\" Rating = 7 \"Strangeness\" Rating = 6 On 24 July 1948 , Eastern Airlines DC-3 pilot Captain Clarence S Chiles and co-pilot John B Whitted, on trip from Houston,..."

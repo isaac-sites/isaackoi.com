@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0708 Muroc Field sightings"
 description: "Image needed On 8 July 1947 , there were a series of sightings at, and near, Muroc Field. This incident is Case 71 in Isaac Koi's \"Top 100\" article , since it was referred to in 39 of the books covered by that article."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Arnold, Kenneth and Palmer, Ray “The Coming of the Saucers”"
 description: "Brief review to be added of Arnold, Kenneth and Palmer, Ray 's book “ The Coming of the Saucers ” ( 1952 ) (available on Amazon USA and on Amazon UK )"

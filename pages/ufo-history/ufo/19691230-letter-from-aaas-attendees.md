@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.1230 Letter from AAAS attendees"
 description: "Letter from AAAS attendees On 30 December 1969 , a letter sent to Mr Robert Seamans by Thornton Page on behalf of various attendees of the AAAS symposium urging that the Blue Book and Condon files be lodged with a research institute to all..."

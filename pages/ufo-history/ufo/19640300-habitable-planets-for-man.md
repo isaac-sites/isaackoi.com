@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0300 “Habitable Planets for Man”"
 description: "“Habitable Planets for Man” The report entitled “Habitable Planets for Man” (dated March 1964 ) was written by Stephen Dole. It was sponsored by the US Air Force under Project RAND (Contract Number AF 49 (638) 700)."

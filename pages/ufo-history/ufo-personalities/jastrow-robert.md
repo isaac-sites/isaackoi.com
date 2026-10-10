@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Jastrow, Robert"
 description: "Robert Jastrow Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1989 Jastrow, Robert “Journey to the Stars: Space Exploration - Tomorrow and Beyond” ( 1989 ) (available on Amazon USA and on Amazon UK )..."

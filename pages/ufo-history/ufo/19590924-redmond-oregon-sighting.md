@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0924 Redmond, Oregon sighting"
 description: "Image needed On 24 September 1959 , there was a UFO sighting in Redmond, Oregon allegedly leading to attempted intercept by USAF jet fighters."

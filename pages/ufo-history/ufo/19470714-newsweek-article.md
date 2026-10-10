@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0714 Newsweek article"
 description: "Image needed The 14 July 1947 issue of Newsweek contained an article entitled “Flying Saucer Spots Before Their Eyes”."

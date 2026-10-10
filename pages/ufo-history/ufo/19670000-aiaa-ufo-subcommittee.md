@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0000 AIAA UFO subcommittee"
 description: "Image needed During 1967 , the American Institute of Aeronautics and Astronautics(“AIAA”) established a UFO subcommittee, chaired by Joachim P Kuettner."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1983.0400 Cultures Of The Imagination"
 description: "Cultures Of The Imagination Durinh April 1983, the first “Contact Conference” organised by Jim Funaro to encourage interdisciplinary speculation about what lies ahead as we enter the space age. The main event was a Cultures Of The Imaginat..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0624 Imaginary abduction experiments"
 description: "Image needed The “first International UFO Congress” was held in Chicago on 24-26 June 1977 . During this Congress, Alvin H Lawson reported the results of hypnotic experiments he had performed with Dr McCall and Mr John DeHerrera regarding..."

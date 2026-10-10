@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.1121 Wilbert B Smith memo"
 description: "Wilbert B Smith memo On 21 November 1950 , a memo written by Wilbert B(rockhouse) Smith refers to “discreet enquiries through the Canadian Embassy staff in Washington” which allegedly obtained information that “flying saucers exist” and th..."

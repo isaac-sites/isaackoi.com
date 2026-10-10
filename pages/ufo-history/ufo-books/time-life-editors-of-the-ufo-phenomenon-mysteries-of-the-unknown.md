@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Time-Life (Editors of) “The UFO phenomenon: Mysteries of the Unknown”"
 description: "Brief review to be added of \" The UFO phenomenon: Mysteries of the Unknown ” ( 1987 ) (available on Amazon USA and on Amazon UK ) by the editors of Time-Life."

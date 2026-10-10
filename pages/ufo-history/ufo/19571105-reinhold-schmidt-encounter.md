@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1105 Reinhold Schmidt encounter"
 description: "Image needed On 5 November 1957 , Reinhold Schmidt, a grain buyer, claims to have spoken, in “high German”, to the crew of a UFO that had allegedly landed to make repairs near Kearney, Nebraska. This incident is Case 76 in Isaac Koi's \"Top..."

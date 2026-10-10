@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Tilley, Patrick “Fade Out”"
 description: "Brief review to be added of Patrick Tilley's novel “ Fade Out ” ( 1975 ) (available on Amazon USA and on Amazon UK )"

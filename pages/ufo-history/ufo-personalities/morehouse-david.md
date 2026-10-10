@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Morehouse, David"
 description: "David Morehouse Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1996 Morehouse, David “ Psychic Warrior ” ( 1996 ) (available on Amazon USA and on Amazon UK )"

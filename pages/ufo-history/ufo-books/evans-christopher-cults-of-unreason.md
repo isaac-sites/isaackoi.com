@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Evans, Christopher “Cults of Unreason”"
 description: "Brief review to be added of Christopher Evans 's book “ Cults of Unreason ” ( 1973 ) (available on Amazon USA and on Amazon UK )"

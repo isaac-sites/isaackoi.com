@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hufford, David"
 description: "David Hufford Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1982 Hufford, David “ The Terror That Comes in the Night ” ( 1982 ) (available on Amazon USA and on Amazon UK )"

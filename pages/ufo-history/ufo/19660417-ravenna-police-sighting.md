@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0417 Ravenna police sighting"
 description: "Image needed Police chase a bright light starting near Ravenna, Portage County, Ohio during early morning of 17 April 1966 . This incident involved Deputy Sheriff Dale Spaur and Mounted Deputy Wilbur “Barney” Neff. Dale Spaur sometimes ref..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0805 Rapid City incident"
 description: "Image needed The Rapid City, South Dakota, radar-visual jet case incident occurred on 5-6 August 1953 . [Date to be checked - There has been some confusion over the date of this incident. Ruppelt states a date of 12 August 1953 , which is..."

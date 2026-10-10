@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Marrs, Jim “PSI Spies: The True Story of America’s Psychic Warfare Program”"
 description: "Brief review to be added of Jim Marrs ' book “ PSI Spies: The True Story of America’s Psychic Warfare Program ” ( 2007 ) (available on Amazon USA and on Amazon UK )"

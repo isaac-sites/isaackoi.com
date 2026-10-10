@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.0813 Charles Moody abduction"
 description: "Image needed The alleged abduction of Air Force Staff Sergeant Charles L Moody at Alamogordo, New Mexico occurred on 13 August 1975 . This incident is Case 94 in Isaac Koi's \"Top 100\" article , since it was referred to in 30 of the books c..."

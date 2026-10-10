@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1877.0900 Martian Canals"
 description: "Martian Canals SETI : Following observations during a particularly favourable opposition of Mars in September 1877 , Giovanni Virginio Schiaparelli drew maps of Mars with lines which he referred to as “canali”. A debate ensued over the pos..."

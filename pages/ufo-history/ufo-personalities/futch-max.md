@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Futch, Max"
 description: "Image needed Brief comments to be added on this individual. Project Blue Book was turned over to Airman I/C Max Futch in August 1953 ."

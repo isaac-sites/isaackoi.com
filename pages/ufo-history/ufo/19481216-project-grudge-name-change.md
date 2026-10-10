@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.1216 Project Grudge name change"
 description: "Project Grudge name change On 16 December 1948 , an order was given by the Air Force director of research to change name of Project Sign to Project Grudge."

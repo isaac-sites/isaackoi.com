@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Marks, David “The Psychology of the Psychic: Second Edition”"
 description: "Brief review to be added of David Marks ' book “ The Psychology of the Psychic: Second Edition ” ( 2000 ) (available on Amazon USA and on Amazon UK )"

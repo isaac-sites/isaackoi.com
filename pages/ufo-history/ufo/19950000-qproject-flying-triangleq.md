@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1995.0000 \"Project Flying Triangle\""
 description: "Image needed During 1995, \"Project Flying Triangle\" (“Project FT”) was organized by Victor J Kean, Omar Fowler and Ron West."

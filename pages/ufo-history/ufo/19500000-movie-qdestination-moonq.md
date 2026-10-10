@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0000 Movie \"Destination Moon\""
 description: "\"Destination Moon\" The movie “ Destination Moon ” ( 1950 ) was based on a novel by Robert Heinlein . It was directed by Irving Pichel."

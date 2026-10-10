@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 089"
 description: "Koi UFO Video 089 : Drone UFO video (Kris Avery) https://www.youtube.com/watch?v=rBEYc5OUUtw [DEBUNKED]Koi UFO Video 089 appears to show an unidentified flying object very similar to photographs circulated online in 2007 by \"Chad\" and othe..."

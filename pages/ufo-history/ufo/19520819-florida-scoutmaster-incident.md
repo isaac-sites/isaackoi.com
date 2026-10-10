@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0819 Florida Scoutmaster incident"
 description: "Image needed On 19 August 1952 , Florida Scoutmaster D S “Sonny” Desvergers and three boy scouts report seeing a UFO in Florida near Palm Beach, Florida. This incident is Case 39 in Isaac Koi's \"Top 100\" article , since it was referred to..."

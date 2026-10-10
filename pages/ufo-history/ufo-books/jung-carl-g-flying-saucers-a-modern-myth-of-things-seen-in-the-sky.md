@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Jung, Carl G “Flying Saucers, A Modern Myth of Things Seen in the Sky”"
 description: "Brief review to be added of Carl G Jung 's book “ Flying Saucers, A Modern Myth of Things Seen in the Sky ” ( 1959 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1952.0100 APRO founded"
 description: "Image needed During January 1952 , the Aerial Phenomena Research Organization (“ APRO ”) of Tucson, Arizona was founded by Mrs Coral E Lorenzen and her husband, Leslie James (“Jim”) Lorenzen . See the separate entry in relation to APRO ."

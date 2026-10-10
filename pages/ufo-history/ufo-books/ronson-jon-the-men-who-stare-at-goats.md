@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ronson, Jon “The Men Who Stare at Goats”"
 description: "Brief review to be added of Ronson, Jon 's book “ The Men Who Stare at Goats ” ( 2004 ) (available on Amazon USA and on Amazon UK ). Focuses on Major General Albert Stubblebine III, Glenn Wheaton , Michael Echanis , Jim Channon (creator of..."

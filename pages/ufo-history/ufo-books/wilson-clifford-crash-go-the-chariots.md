@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Wilson, Clifford “Crash Go The Chariots”"
 description: "Brief review to be added of Clifford Wilson 's book “ Crash Go The Chariots ” ( 1972 ) (available on Amazon USA and on Amazon UK )"

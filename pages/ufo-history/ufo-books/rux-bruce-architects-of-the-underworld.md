@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rux, Bruce “Architects of the Underworld”"
 description: "Brief review to be added of Bruce Rux 's book “ Architects of the Underworld ” ( 1996 ) (available on Amazon USA and on Amazon UK )"

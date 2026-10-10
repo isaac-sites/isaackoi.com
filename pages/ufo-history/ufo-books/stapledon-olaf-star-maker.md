@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Stapledon, Olaf “Star Maker”"
 description: "Brief review to be added of Olaf Stapledon 's novel “ Star Maker ” ( 1937 ) (available on Amazon USA and on Amazon UK )"

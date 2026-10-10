@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1989.1130 “Linda Cortile” abduction"
 description: "Image needed On 30 November 1989 , the alleged abduction of “ Linda Cortile ” (a pseudonym for Linda Napolitano ) occurred in downtown Manhattan, New York City early in the morning. This incident is Case 53 in Isaac Koi's \"Top 100\" article..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1985.0600 BUFORA code of practice"
 description: "Image needed During June 1985 , BUFORA published a “code of practice” for UFO investigators."

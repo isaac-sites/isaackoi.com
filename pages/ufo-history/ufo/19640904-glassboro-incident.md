@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0904 Glassboro incident"
 description: "Image needed The Glassboro, New Jersey sighting (involving claims of physical evidence) occurred on 4 September 1964 ."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0904 Sleeper's invitation to Hynek"
 description: "Image needed On 4 September 1968 , Colonel Raymond S Sleeper wrote to Dr J Allen Hynek asking for suggestions to define areas of scientific weakness in Project Blue Book."

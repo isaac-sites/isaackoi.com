@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Howe, Linda Moulton “An Alien Harvest”"
 description: "Brief review to be added of Linda Moulton Howe 's book “ An Alien Harvest ” ( 1989 ) (available on Amazon USA and on Amazon UK )"

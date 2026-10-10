@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1988.0000 Milligan's thesis"
 description: "Image needed Dissertation : Milligan, Dr Linda Jean “The UFO Debate: A Study of a Contemporary Legend” PhD Thesis Volumes I and II, Ohio State University, 1988 , 624 pages."

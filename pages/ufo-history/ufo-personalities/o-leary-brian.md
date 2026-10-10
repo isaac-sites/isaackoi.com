@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "O’ Leary, Brian"
 description: "Brian O’ Leary Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1996 O’ Leary, Brian “ Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations ” ( 1996 ) (available on Amazon USA and on..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Peebles, Curtis “Watch the Skies!”"
 description: "Brief review to be added of “ Watch the Skies! ” ( 1994 ) (available on Amazon USA and on Amazon UK ) by Curtis Peebles ."

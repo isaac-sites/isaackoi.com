@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.0308 Religious bodies UFO poll"
 description: "Religious bodies UFO poll On 8 March 1994 , Victoria Alexander mailed 1000 surveys to randomly selected religious bodies in the continental United States as to the effect upon religions and morality of the official confirmation of the disc..."

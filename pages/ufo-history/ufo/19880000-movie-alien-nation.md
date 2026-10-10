@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1988.0000 Movie “Alien Nation”"
 description: "“Alien Nation” The movie “ Alien Nation ” ( 1988 ) starred James Caan."

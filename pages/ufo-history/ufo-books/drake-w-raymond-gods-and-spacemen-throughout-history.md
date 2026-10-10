@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Drake, W Raymond “Gods and Spacemen Throughout History”"
 description: "Brief review to be added of W Raymond Drake 's book “ Gods and Spacemen Throughout History ” ( 1975 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "8. Consensus lists : Kimball’s expert poll (2007)"
 description: "“ Best UFO Cases ” by Isaac Koi PART 8: Consensus lists : Paul Kimball’s expert poll (2005/6) A documentary entitled “Best Evidence : Top Ten UFO Sightings” premiered on “Space: The Imagination Station” in Canada during May 2007 (see Footn..."

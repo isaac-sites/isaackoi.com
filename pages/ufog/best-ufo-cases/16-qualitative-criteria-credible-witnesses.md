@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "16:  Qualitative criteria: Credible witnesses"
 description: "“ Best UFO Cases ” by Isaac Koi PART 16 : Qualitative criteria: Credible witnesses Reports from eye-witnesses play a very important role in relation to UFO reports. Indeed, it is common for there to be only a report from an eye-witness, wi..."

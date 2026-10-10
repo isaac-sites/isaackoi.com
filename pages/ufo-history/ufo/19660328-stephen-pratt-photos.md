@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0328 Stephen Pratt photos"
 description: "Stephen Pratt photos On 28 March 1966 , Stephen Pratt claimed to photograph three UFOS at Conisborough, near Sheffield."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0324 Howden Moor Incident"
 description: "Howden Moor Incident On 24 March 1997 , an alleged UFO sighting/attack occurred over the Howden Moors, near Sheffield, Yorkshire, England. (Commonly referred to as “the Sheffield Incident” and “the Howden Moor Incident”)."

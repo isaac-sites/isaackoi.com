@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0928 Bluebook review memo"
 description: "Bluebook review memo On 28 September 1965 , a memo from Major General B LeBailly (US Air Force Director of Information) to the Military Director, Scientific Advisory Board, requested that a “working scientific panel composed of both physic..."

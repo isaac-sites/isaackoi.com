@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Wells, H G"
 description: "H G Wells Brief comments to be added on this individual. H G Wells wrote the novel “ The War of the Worlds ” ( 1898 ) (available on Amazon USA and on Amazon UK )."

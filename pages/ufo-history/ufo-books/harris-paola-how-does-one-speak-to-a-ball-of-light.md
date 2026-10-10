@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Harris, Paola “How does one speak to a ball of light?”"
 description: "Brief review to be added of Paola Harris 's book “ How does one speak to a ball of light? ” ( 2007 ) (available on Amazon USA and on Amazon UK )."

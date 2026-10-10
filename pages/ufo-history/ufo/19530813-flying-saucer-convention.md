@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0813 Flying Saucer Convention"
 description: "Image needed On 16-18 August 1953 , “Flying Saucers International” (“FSI”) holds an event in the Hollywood Hotel, Los Angeles billed as “The World’s First Flying Saucer Convention”."

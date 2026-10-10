@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1961.0418 Eagle River “pancake”"
 description: "Image needed On 18 April 1961 , Joe Simonton of Eagle River, Wisconsin claims to have been provided with pancakes by occupants of a flying saucer in return for a jug of water. This incident is Case 45 in Isaac Koi's \"Top 100\" article , sin..."

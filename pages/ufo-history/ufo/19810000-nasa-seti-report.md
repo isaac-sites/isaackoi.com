@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1981.0000 NASA SETI report"
 description: "NASA SETI report During 1981 , NASA releases a further SETI related report, entitled “Life In The Universe”. This report was edited by John Billingham and related to the Proceedings of a conference held at NASA Ames Research Center Moffet..."

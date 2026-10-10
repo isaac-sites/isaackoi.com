@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0911 Bleeping disks in England"
 description: "Bleeping disks in England On 11 September 1967, six bleeping disks were found in southern England. Students Chris Southall and David Harrison of the Farnborough Royal Aircraft Establishment are later reported as claiming that they fabricat..."

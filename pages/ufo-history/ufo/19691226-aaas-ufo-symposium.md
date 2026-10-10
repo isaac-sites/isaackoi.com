@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.1226 AAAS UFO Symposium"
 description: "Image needed The American Association for the Advancement of Science (“AAAS”) held a 2 day UFO Symposium in Boston, Massachusetts on 26th and 27th December 1969 . Various participants (including Dr J Allen Hynek , James E McDonald and Lest..."

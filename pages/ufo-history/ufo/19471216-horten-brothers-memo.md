@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.1216 Horten brothers memo"
 description: "Horten brothers memo On 16 December 1947 , Reimar Horten and Walter Horten (commonly referred to as “the Horten brothers ”) are discussed in a US Army memo entitled “Horton Brothers (Flying Saucers)”."

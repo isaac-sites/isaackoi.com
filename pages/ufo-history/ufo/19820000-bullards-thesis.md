@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1982.0000 Bullard's thesis"
 description: "Image needed Bullard, Dr. Thomas Eddie “Mysteries in the Eye of the Beholder: UFOs and their Correlates as a Folkloric Theme Past and Present: UFOs and Their Correleates as a Folkloric theme Past and Present”, Ph.D Thesis, 1982 , Indiana U..."

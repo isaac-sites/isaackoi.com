@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.0427 JIC Top Secret report"
 description: "JIC Top Secret report On 27 April 1949 , the U.S. Joint Committee on Intelligence (“JIC”) was provided with a Top Secret report on “Unidentified Aerial Objects” by the Air Force Director of Intelligence. Directorate of Intelligence, USAF,..."

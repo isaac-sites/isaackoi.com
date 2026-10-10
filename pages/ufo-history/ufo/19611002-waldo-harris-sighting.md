@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1961.1002 Waldo Harris sighting"
 description: "Image needed On 2 October 1961 , there was an alleged daylight disc sighting by Waldo J Harris and others at Salt Lake City, Utah."

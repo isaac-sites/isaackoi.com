@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0721 \"Life\" article"
 description: "Image needed The 21 July 1947 issue of “Life” magazine contains an article entitled “Flying Saucers Break Out over the U. S.”."

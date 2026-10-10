@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.0000 Project Orion"
 description: "Image needed During 1958 , theoretical work begins on Project Orion, which considered the feasibility of constructing a nuclear-pulse rocket powered by nuclear fission, using nuclear bombs for propulsion"

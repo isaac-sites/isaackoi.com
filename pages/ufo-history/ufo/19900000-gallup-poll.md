@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1990.0000 Gallup poll"
 description: "Gallup poll During 1990 , Gallup released the results of the seventh Gallup Poll to include questions on UFOs. The results indicated that 47% of Americans believed UFOs were “real”."

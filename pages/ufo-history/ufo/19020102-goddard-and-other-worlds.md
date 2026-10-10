@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1902.0102 Goddard and other worlds"
 description: "Goddard and other worlds SETI : On 2 January 1902, Robert H Goddard publishes an essay entitled “The Habitability of Other Worlds” in which he deduced the existence of extrasolar planetary systems and commented “that among these countless..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "20:  Quantitative criteria : Hynek – Strangeness and Probability"
 description: "“ Best UFO Cases ” by Isaac Koi PART 20: Quantitative criteria : Hynek – Strangeness and Probability Some Relevant Definitions Before considering Hynek’s Strangeness and Probability ratings, it may be helpful to briefly recap a few of Hyne..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Holroyd, Stuart “Briefing for the landing on Planet Earth”"
 description: "Brief review to be added of Stuart Holroyd 's book “ Briefing for the landing on Planet Earth ” ( 1977 ) (available on Amazon USA and on Amazon UK )"

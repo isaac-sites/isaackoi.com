@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.1230 Project Sign established"
 description: "Project Sign established On 30 December 1947 , a letter from Major General L C Craigie (Chief of Staff) to the Commanding General of the Air Materiel Command directed the setting up a project to collect, collate, evaluate and distribute in..."

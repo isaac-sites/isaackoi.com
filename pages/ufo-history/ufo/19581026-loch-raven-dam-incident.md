@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.1026 Loch Raven Dam incident"
 description: "Image needed On 26 October 1958 , the incident at Loch Raven Dam, Maryland, near Baltimore occurred allegedly involving Alvin Cohen and Phil Small experiencing a close encounter and engine failure. This incident is Case 100 in Isaac Koi's..."

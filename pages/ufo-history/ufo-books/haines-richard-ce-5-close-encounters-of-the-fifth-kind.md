@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Haines, Richard “CE-5 : Close Encounters of the Fifth Kind”"
 description: "Brief review to be added of Richard Haines 's book “ CE-5 : Close Encounters of the Fifth Kind ” ( 1987 ) (available on Amazon USA and on Amazon UK )"

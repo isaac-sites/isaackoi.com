@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0300 Project Bluebook"
 description: "Image needed During March 1952 , Project Grudge was redesignated as Project Blue Book."

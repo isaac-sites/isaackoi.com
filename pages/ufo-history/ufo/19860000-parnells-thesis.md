@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1986.0000 Parnell's thesis"
 description: "Image needed During 1986 , June O Parnell completes a doctoral thesis on the personality characteristics of persons who claim UFO experiences."

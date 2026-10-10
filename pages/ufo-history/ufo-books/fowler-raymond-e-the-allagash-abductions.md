@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fowler, Raymond E “The Allagash Abductions”"
 description: "Brief review to be added of Raymond E Fowler 's book “ The Allagash Abductions ” ( 1993 ) (available on Amazon USA and on Amazon UK ). Focuses on alleged abduction of four students on 20 August 1976 ."

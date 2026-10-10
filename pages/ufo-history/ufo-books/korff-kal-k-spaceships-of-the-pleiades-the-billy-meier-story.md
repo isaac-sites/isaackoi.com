@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Korff, Kal K “Spaceships of the Pleiades : The Billy Meier Story”"
 description: "Brief review to be added of Kal K Korff 's book “ Spaceships of the Pleiades : The Billy Meier Story ” ( 1995 ) (available on Amazon USA and on Amazon UK ) See the entry in relation to Eduard Albert “Billy” Meier ."

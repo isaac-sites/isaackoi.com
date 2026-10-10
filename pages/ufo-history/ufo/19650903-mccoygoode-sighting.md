@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0903 McCoy/Goode sighting"
 description: "Image needed On 3 September 1965, there was a sighting by Chief Deputy Sheriff Billy E McCoy and Deputy Sheriff Robert W Goode, south of Damon, Texas."

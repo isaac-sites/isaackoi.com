@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.0000 Movie “Hangar 18”"
 description: "“Hangar 18” The Movie “ Hangar 18” ( 1980 ) was directed by James L Conway. A novel by Robert Weverka and Charles E Sellier was based on Steven Thornley’s screenplay."

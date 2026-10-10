@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0225 Mary Loise Armstrong resigns"
 description: "Image needed On 25 February 1968 , Mary Loise Armstrongwrites a letter of resignation from the Condon Study, citing “disagreement and low morale within the study”."

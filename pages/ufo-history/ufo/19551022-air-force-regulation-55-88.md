@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1955.1022 Air Force Regulation 55-88"
 description: "Air Force Regulation 55-88 On 22 October 1955 , Air Force Regulation (“AFR”) No. 55-88 states Air Force responsibilities for reporting prescribed by JANAP 146 directives, “Canadian-United States Communications Instructions for Reporting Vi..."

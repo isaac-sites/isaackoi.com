@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.1017 Falkville, Alabama photos"
 description: "Image needed The Falkville, Alabama encounterreport involving Police Chief Jeff Greenhaw occurred on 17 October 1973 . Photographs were allegedly taken of a humanoid figure. This incident is Case 52 in Isaac Koi's \"Top 100\" article , since..."

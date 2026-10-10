@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0919 Operation Mainbrace sightings"
 description: "Operation Mainbrace sightings Various sightings occurred during Operation Mainbrace, mainly between 19th and 21st September These incidents comprise Case 90 in Isaac Koi's \"Top 100\" article , since they were referred to in 31 of the books..."

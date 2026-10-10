@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0000 Project Daedalus study"
 description: "Project Daedalus study During 1978 , following a design study (known as “Project Daedalus”) by members of the British Interplanetary Society (“ BIS ”), a design for an interstellar probe is proposed."

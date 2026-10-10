@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0000 Ripperston Farm sightings"
 description: "Ripperston Farm sightings During 1977 , there were various UFO reports near Ripperston Farm in Wales, involving the Coombs/Coombes family."

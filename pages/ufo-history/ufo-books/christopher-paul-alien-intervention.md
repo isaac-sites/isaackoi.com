@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Christopher, Paul “Alien Intervention”"
 description: "Brief review to be added of Paul Christopher's book “ Alien Intervention: The Spiritual Mission of UFOs ” ( 1998 ) (available on Amazon USA and on Amazon UK )"

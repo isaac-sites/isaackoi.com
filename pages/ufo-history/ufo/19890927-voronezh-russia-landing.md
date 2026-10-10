@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1989.0927 Voronezh, Russia landing"
 description: "Image needed On 27 September 1989 , there was an alleged UFO landing in a park in Voronezh, Russia. This incident is Case 83 in Isaac Koi's \"Top 100\" article , since it was referred to in 34 of the books covered by that article."

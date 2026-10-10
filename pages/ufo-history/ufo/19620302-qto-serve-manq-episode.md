@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1962.0302 \"To Serve Man\" episode"
 description: "Image needed On 2 March 1962 , the “To Serve Man” episode of the Twilight Zone was broadcast. It was based on Damon Knight’s short story of the same title."

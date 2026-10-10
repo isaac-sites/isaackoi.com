@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 096"
 description: "Koi UFO Video 096 : Black triangle UFO (2007) - Jeff Wilson https://www.youtube.com/watch?v=Qb2a2qzcuJE [DEBUNKED] Koi UFO Video 096 appears to show a black triangle UFO with lights on its corners shining a laser or searchbeam down towards..."

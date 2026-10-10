@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Roberts, August"
 description: "August Roberts Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1986 Stevens, Wendelle and Roberts, August “UFO Photographs: Around The World: Vol. 1”"

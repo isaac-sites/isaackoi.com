@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "King, George"
 description: "George King Brief comments to be added on this individual. George King was the founder of the Aetherius Society. Books by this person include: YEAR BOOK 1963 King, George (founder of the Aetherius Society) “The Nine Freedoms” 1996 King, Ge..."

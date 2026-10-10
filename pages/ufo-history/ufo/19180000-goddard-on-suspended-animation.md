@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1918.0000 Goddard on suspended animation"
 description: "Image needed Astronautics : In 1918, Robert H Goddard writes about the use of suspended animation for interstellar travel in his unpublished manuscript entitled “The Ultimate Migration”."

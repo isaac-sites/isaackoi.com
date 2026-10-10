@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.1203 Patrolman Schirmer abduction"
 description: "Image needed On 3 December 1967 , Patrolman Herbert Schirmerclaims to have seen a UFO take off from Ashland, Nebraska, USA. Later, under hypnosis, he describes an abduction experience. This incident is Case 20 in Isaac Koi's \"Top 100\" arti..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Faulkner, Gordon"
 description: "Gordon Faulkner Gordon Faulkner took the controversial photograph of the so-called \"Warminster Thing\" that appeared in the media and on the front cover of Arthur Shuttlewood's book “ The Warminster Mystery ” ( 1967 ) (available on Amazon U..."

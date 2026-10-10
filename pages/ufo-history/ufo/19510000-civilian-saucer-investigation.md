@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0000 “Civilian Saucer Investigation”"
 description: "Image needed During 1951 , “Civilian Saucer Investigation” (“CSI”) was formed by Ed J Sullivan, Werner Eichler and Victor Black."

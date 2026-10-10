@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Evans, Hilary “Visions, Apparitions, Alien Visitors”"
 description: "Brief review to be added of Hilary Evans 's book “ Visions, Apparitions, Alien Visitors ” ( 1984 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.1007 Condon contract announced"
 description: "Image needed On 7 October 1966 , the Condon committee contract was announced to press."

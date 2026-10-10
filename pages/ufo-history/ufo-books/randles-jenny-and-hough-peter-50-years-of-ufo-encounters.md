@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randles, Jenny and Hough, Peter “50 Years of UFO Encounters”"
 description: "Brief review to be added of “ 50 Years of UFO Encounters ” ( 1996 ) (available on Amazon USA and on Amazon UK ) by Jenny Randles and Peter Hough ."

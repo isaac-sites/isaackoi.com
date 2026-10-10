@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0320 Dexter, Michigan sightings"
 description: "Image needed On 20 March 1966 , there were reports of observations of lights near Dexter, Michigan, including a sighting report by Frank Mannor and his son (Ronald)."

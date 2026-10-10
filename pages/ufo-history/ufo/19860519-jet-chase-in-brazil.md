@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1986.0519 Jet chase in Brazil"
 description: "Image needed On 19 May 1986 , there was a radar/visual incident in south-eastern Brazil, allegedly involving Ozires Silva and jets being scrambled."

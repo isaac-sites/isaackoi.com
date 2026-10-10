@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "FUFOR"
 description: "FUFOR Brief comments to be added on this group. FUFOR , MUFON and CUFOS have all endorsed a document as containing “the best available evidence for the existence of UFOs”. That document and the list of cases that it contains are discussed..."

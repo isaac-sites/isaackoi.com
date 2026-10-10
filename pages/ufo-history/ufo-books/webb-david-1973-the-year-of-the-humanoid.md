@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Webb, David “1973 – The Year of the Humanoid”"
 description: "Brief review to be added of David Webb 's book “ 1973 – The Year of the Humanoid ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

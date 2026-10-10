@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Macvey, John W “Whispers from Space”"
 description: "Brief review to be added of John W Macvey's book “ Whispers from Space ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

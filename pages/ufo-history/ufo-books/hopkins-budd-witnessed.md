@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hopkins, Budd “Witnessed”"
 description: "Brief review to be added of Budd Hopkins 's book “ Witnessed ” ( 1996 ) (available on Amazon USA and on Amazon UK ) Focuses on alleged abuduction of “ Linda Cortile ” (a pseudonym for Linda Napolitano ) in downtown Manhattan, New York City..."

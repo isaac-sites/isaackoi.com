@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0919 Topcliffe sighting"
 description: "Topcliffe sighting On 19 September 1952 there were reports of an object seen near RAF Topcliffe, North Yorkshire, England, reportedly chasing a RAF Meteor jet piloted by Flight Lieutenant John W Kilburn during Operation Mainbrace. This inc..."

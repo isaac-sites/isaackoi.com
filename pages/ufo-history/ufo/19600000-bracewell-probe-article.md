@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0000 Bracewell probe article"
 description: "Bracewell probe article During 1960 , the journal Nature published an article by Ronald Bracewell which discusses the possibility of extraterrestrial intelligences using interstellar probes"

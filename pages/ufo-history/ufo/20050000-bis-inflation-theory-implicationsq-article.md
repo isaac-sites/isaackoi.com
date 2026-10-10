@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2005.0000 BIS “Inflation-Theory Implications\" article"
 description: "Image needed The January/February 2005 issue of the Journal of the British Interplanetary Society include an article entitled “Inflation-Theory Implications for Extraterrestrial Visitation” by James Deardorff, Bernard Haisch, Bruce Maccabe..."

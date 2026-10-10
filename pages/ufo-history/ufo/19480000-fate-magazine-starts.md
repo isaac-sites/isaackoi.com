@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.0000 Fate magazine starts"
 description: "Image needed During 1948 , “Fate” magazine was started by Raymond Palmer and Curtis Fuller."

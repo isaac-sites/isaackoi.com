@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Koch, Howard “The Panic Broadcast”"
 description: "Brief review to be added of Howard Koch's “ The Panic Broadcast ” ( 1940 ) (available on Amazon USA and on Amazon UK ) See the entry in relation to the Orson Welles broadcast of “The War of the Worlds” broadcast on 30 October 1938 ."

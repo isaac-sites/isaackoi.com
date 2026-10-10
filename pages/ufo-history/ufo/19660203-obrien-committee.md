@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0203 O’Brien Committee"
 description: "O’Brien Committee A United States Air Force (“USAF”) Scientific Advisory Board (“SAB”) Ad Hoc Committee (the “Ad Hoc Committee to Review Project Blue Book”, commonly known as “the O’Brien Committee”) met for one day on 3 February 1966 to r..."

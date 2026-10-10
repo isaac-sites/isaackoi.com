@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Chalker, Bill"
 description: "Bill Chalker Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2005 Chalker, Bill “ Hair of the Alien : DNA and other forensic evidence of alien abduction ” ( 2005 ) (available on Amazon USA and on Amaz..."

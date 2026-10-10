@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Wilson, Clifford"
 description: "Clifford Wilson Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1972 Wilson, Clifford “ Crash Go The Chariots ” ( 1972 ) (available on Amazon USA and on Amazon UK ) 1974 Wilson, Clifford “ UFOs and Th..."

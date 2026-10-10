@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.1220 Gustafsson Rydberg encounter"
 description: "Image needed On 20 December 1958 , Hans Gustafsson and Stig Rydberg claim that “jellylike creatures” attempted to drag them toward a craft in the early morning whilst driving to Helsingborg, Sweden."

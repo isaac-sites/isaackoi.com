@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Mack, John E “Abduction : Human Encounters with Aliens”"
 description: "Brief review to be added of John E Mack 's book “ Abduction : Human Encounters with Aliens ” ( 1994 ) (available on Amazon USA and on Amazon UK )"

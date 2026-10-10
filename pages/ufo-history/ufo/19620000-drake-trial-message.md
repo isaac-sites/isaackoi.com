@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1962.0000 Drake trial message"
 description: "Image needed During 1962, Frank Drake sends a 551 character message to colleagues. Barney Oliver was the only colleague to respond with a successful solution."

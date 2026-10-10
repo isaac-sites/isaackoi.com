@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Spencer, John and Evans, Hilary “Phenomenon”"
 description: "Brief review to be added of \" Phenomenon ” ( 1988 ) (available on Amazon USA and on Amazon UK ) by John Spencer and Hilary Evans ."

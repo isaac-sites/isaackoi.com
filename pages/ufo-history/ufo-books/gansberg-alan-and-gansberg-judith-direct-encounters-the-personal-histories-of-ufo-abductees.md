@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Gansberg, Alan and Gansberg, Judith “Direct Encounters: The Personal Histories of UFO Abductees”"
 description: "Brief review to be added of “ Direct Encounters: The Personal Histories of UFO Abductees ” ( 1980 ) (available on Amazon USA and on Amazon UK ) by Alan Gansberg and Judith Gansberg."

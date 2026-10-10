@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Gunn, James “The Listeners”"
 description: "Brief review to be added of James Gunn's novel “ The Listeners ” ( 1972 ) (available on Amazon USA and on Amazon UK )"

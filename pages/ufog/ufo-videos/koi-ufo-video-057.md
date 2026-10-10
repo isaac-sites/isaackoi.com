@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 057"
 description: "Koi UFO Video 057 : Los Angeles UFO 1984 (Olympics) https://www.youtube.com/watch?v=jXgAofK7Lcg [DEBUNKED]Koi UFO Video 057 appears to show a large flying saucer, with various different lights, hovering in the night sky over Los Angeles. T..."

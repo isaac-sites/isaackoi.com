@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hall, Richard H"
 description: "Dick Hall Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1961 Maney, Charles A and Hall, Richard “ The Challenge of Unidentified Flying Objects ” ( 1961 ) (available on Amazon USA and on Amazon UK )..."

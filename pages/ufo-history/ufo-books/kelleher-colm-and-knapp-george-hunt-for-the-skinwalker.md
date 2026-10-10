@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Kelleher, Colm and Knapp, George “Hunt for the Skinwalker”"
 description: "Brief review to be added of “ Hunt for the Skinwalker ” ( 2005 ) (available on Amazon USA and on Amazon UK ) by Colm Kelleher and George Knapp."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1897.0419 Hamilton calf napping"
 description: "Hamilton calf napping \"Impact\" Rating = 14 \"Credibility\" Rating = 4 \"Expert\" Rating = 5 \"Strangeness\" Rating = 12 Alleged airship encounter on 19 April 1897 involving attempted calf-napping on the ranch of Alexander Hamilton atLe Roy,Kansa..."

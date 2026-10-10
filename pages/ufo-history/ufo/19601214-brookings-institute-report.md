@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.1214 Brookings Institute report"
 description: "Brookings Institute report On 14 December 1960 , the Brookings Research Institute in Washington releases a report prepared during 1960 for NASA entitled “Proposed Studies on the Implications of Peaceful Space Activities for Human Affairs”,..."

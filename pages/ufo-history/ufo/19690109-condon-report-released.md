@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0109 Condon report released"
 description: "Image needed The Condon Report was released to the public on 9 January 1969."

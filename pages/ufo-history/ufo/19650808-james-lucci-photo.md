@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0808 James Lucci photo"
 description: "Image needed On 8 August 1965 , a photograph of a lighted disc was allegedly taken at night by James Lucci of Beaver, Pennslyvania."

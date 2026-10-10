@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Moore, Charles B"
 description: "Charles B Moore Brief comments to be added on this individual. Wikipedia article at : Charles B Moore Books by this person include: YEAR BOOK 1997 Ziegler, Charles A and Moore, Charles B “ UFO Crash at Roswell: The Genesis of a Modern Myth..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "CUFOS"
 description: "CUFOS Brief comments to be added on this group. The Center For UFO Studies (“ CUFOS ”) was founded by Dr J Allen Hynek and Sherman J Larsen in 1973. FUFOR , MUFON and CUFOS have all endorsed a document as containing “the best available evi..."

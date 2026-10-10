@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.0000 Movie “Stargate”"
 description: "“Stargate” The movie ( 1994 ) “ Stargate ” was directed by Roland Emmerich."

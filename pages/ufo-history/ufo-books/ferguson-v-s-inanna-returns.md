@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ferguson, V S “Inanna Returns”"
 description: "Brief review to be added of V S Ferguson's “ Inanna Returns ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

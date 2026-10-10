@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.1004 Shag Harbour incident"
 description: "Image needed The Shag Harbour, Nova Scotia incident occurred on 4 October 1967 , involving claims that a UFO descended into the water."

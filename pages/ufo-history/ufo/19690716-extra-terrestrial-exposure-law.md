@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0716 Extra-Terrestrial Exposure Law"
 description: "Extra-Terrestrial Exposure Law On 16 July 1969 , the United States adopted Title 14, Section 1211 of the Code of Federal Regulations (“14 CFR 1211”), since known as the “Extra-Terrestrial Exposure Law”, applicable to “ all NASA manned and..."

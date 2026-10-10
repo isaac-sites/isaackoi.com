@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Landsburg, Alan “In Search of Extraterrestrials”"
 description: "Brief review to be added of Alan Landsburg 's book “ In Search of Extraterrestrials ” ( 1976 ) (available on Amazon USA and on Amazon UK )"

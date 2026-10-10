@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0000 Air Ministry study"
 description: "Air Ministry study During 1951 , a study of UFO reports was performed in Britain on behalf of the United Kingdom’s Air Ministry, involving Squadron Leader R G Woodman liaising with personnel in the USA.."

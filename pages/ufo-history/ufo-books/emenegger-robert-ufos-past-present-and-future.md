@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Emenegger, Robert “UFOs Past, Present and Future”"
 description: "Brief review to be added of Robert Emenegger 's book “ UFOs Past, Present and Future ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

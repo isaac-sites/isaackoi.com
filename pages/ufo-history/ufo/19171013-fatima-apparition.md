@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1917.1013 Fatima apparition"
 description: "Fatima apparition \"Impact\" Rating = 13 \"Credibility\" Rating = 6 \"Expert\" Rating = 8 \"Strangeness\" Rating = 8 Alleged apparition atFatima on 13 October 1917. Sometimes referred to as the \"Miracle of the Sun\". Claims to fame This incident is..."

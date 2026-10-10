@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sanderson, Ivan T “Invisible Residents”"
 description: "Brief review to be added of Ivan T Sanderson 's book “ Invisible Residents ” ( 1970 ) (available on Amazon USA and on Amazon UK )"

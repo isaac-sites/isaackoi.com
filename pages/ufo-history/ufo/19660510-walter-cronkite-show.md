@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0510 Walter Cronkite show"
 description: "Image needed On 10 May 1966 , there was a national broadcast of a news show relating to UFOs produced by the CBS News Department and narrated by Walter Cronkite . Most sources state the program was entitled “Flying Saucers : Friend, Foe or..."

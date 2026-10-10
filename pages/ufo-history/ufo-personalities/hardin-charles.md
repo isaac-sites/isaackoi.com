@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hardin, Charles"
 description: "Charles Hardin Brief comments to be added on this individual. Captain Charles Hardin was appointed head of Project Blue Book in 1954 ."

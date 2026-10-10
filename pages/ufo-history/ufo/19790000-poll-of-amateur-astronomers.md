@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1979.0000 Poll of amateur astronomers"
 description: "Poll of amateur astronomers During 1979 , a poll was conducted of amateur astronomers in the United States relating to UFOs."

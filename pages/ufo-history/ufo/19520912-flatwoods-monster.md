@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0912 Flatwoods Monster"
 description: "Image needed On 12 September 1952 , Mrs Kathleen May, her children and Gene Lemon claim to see a creature at Flatwoods, West Virginia after the children had claimed to have seen a UFO. (Commonly referred to as “the Flatwoods Incident” or “..."

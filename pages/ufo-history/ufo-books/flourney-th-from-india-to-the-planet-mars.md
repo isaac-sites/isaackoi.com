@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Flourney, Th “From India to the Planet Mars”"
 description: "Brief review to be added of Theodore Flourney's book “ From India to the Planet Mars ” ( 1900 ) (available on Amazon USA and on Amazon UK ). Focuses on claims by Swiss medium “Helene Smith” (a pseudonym for Catherine Elise Muller) to have..."

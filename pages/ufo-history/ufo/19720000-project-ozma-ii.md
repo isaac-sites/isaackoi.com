@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1972.0000 “Project Ozma II”"
 description: "“Project Ozma II” During 1972 , “Project Ozma II” began under Benjamin Zuckerman and Patrick Palmer at the National Radio Astronomy Oberservatory (“NRAO”) in West Virginia. It continued until 1976 ."

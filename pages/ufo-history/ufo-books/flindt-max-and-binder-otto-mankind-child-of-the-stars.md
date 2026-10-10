@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Flindt, Max and Binder, Otto “Mankind – Child of the Stars”"
 description: "Brief review to be added of Max Flindt and Otto Binder 's book “ Mankind – Child of the Stars ” ( 1974 ) (available on Amazon USA and on Amazon UK ). A book based on Maz Flindt’s original pamphlet, “On Tiptoe Beyond Darwin”."

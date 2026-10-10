@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0127 Eavesdropping signals from Earth"
 description: "Eavesdropping signals from Earth On 27 January 1978 , the journal Science publishes an article entitled “Eavesdropping: The Radio Signature of the Earth” by Woodruff T Sullivan, S Brown, and C Wetherill on the potential for extraterrestria..."

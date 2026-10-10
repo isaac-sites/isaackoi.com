@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1985.0000 Slater's testing of abductees"
 description: "Image needed During 1985 , the Fund for UFO Research (“ FUFOR ”) publishes a report on psychological testing of alleged abductees. The tests had been performed by Dr Elizabeth Slater and were detailed in her report entitled “Conclusions on..."

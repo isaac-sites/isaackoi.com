@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Guieu, Jimmy “Flying Saucers Come From Another World”"
 description: "Brief review to be added of Jimmy Guieu 's book “ Flying Saucers Come From Another World ” ( 1956 ) (available on Amazon USA and on Amazon UK )"

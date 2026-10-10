@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.1216 Eisenhower comments"
 description: "Image needed On 16 December 1954 , President Dwight Eisenhower commented on UFOs during a press conference."

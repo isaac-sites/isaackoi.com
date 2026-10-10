@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.1204 Intelligence Advisory Committee"
 description: "Intelligence Advisory Committee On 4 December 1952 , the Intelligence Advisory Committee discussed UFOs and agreed that the Director of Central Intelligence should “enlist the services of selected scientists to review and appraise the avai..."

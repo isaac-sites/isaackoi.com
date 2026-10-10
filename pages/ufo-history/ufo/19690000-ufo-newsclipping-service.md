@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0000 UFO Newsclipping Service"
 description: "Image needed During 1969 , the \"UFO Newsclipping Service\" was founded by Rod Dyke. Taken over from Rod Dyke by Lucius Farish in 1977"

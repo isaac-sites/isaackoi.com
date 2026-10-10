@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0600 Flying Saucer Working Party"
 description: "Flying Saucer Working Party During June 1951 , the British Ministry of Defence’s “Working Party on Flying Saucers” produces its final report. The cover sheet for the report read as follows: “Ministry of Defence : Directorate of Scientific..."

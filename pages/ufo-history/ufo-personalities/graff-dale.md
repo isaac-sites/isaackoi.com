@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Graff, Dale"
 description: "Dale Graff Brief comments to be added on this individual. Robert Collins has queried whether Dale Graff was the real \"Falcon\" in the aviary. Books by this person include: YEAR BOOK 1998 Graff, Dale “ Tracks in the Psychic Wilderness: An ex..."

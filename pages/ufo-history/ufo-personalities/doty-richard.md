@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Doty, Richard"
 description: "Richard Doty Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2006 Collins, Robert M (with Doty, Richard C and Cooper, Timothy S ) “ Exempt From Disclosure ” ( 2006 ) (available on Amazon USA and on Am..."

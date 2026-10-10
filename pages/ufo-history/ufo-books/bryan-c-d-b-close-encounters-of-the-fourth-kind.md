@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bryan, C D B “Close Encounters of the Fourth Kind”"
 description: "Brief review to be added of C D B Bryan 's book “ Close Encounters of the Fourth Kind ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

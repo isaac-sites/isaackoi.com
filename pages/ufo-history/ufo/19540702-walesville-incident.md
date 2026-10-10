@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.0702 Walesville Incident"
 description: "Image needed On 2 July 1954 , a USAF F94 Starfire Jet crashed into the village of Walesville, New York, near Griffiss, killing several civilians. (Commonly referred to as “the Walesville Incident”). This crash is sometimes alleged to have..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ralphs, John D “Exploring the Fourth Dimension”"
 description: "Brief review to be added of “ Exploring the Fourth Dimension ” ( 1992 ) (available on Amazon USA and on Amazon UK ) by John D Ralphs."

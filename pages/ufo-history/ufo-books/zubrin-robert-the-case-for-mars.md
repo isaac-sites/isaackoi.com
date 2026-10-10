@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Zubrin, Robert “The Case for Mars”"
 description: "Brief review to be added of Robert Zubrin 's book “ The Case for Mars ” ( 1996 ) (available on Amazon USA and on Amazon UK )"

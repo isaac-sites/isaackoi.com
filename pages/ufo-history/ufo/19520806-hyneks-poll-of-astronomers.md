@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0806 Hynek's poll of astronomers"
 description: "Hynek's poll of astronomers On 6 August 1952 , Dr J Allen Hynek wrote a “Special Report” on an informal survey of astronomers about UFOs during, and following, a American Astronomical Society meeting in Victoria, B.C. in June 1952 . (Commo..."

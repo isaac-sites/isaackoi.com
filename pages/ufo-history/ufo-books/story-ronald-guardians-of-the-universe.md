@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Story, Ronald “Guardians of the Universe?”"
 description: "Brief review to be added of Ronald Story 's book “ Guardians of the Universe? ” ( 1980 ) (available on Amazon USA and on Amazon UK )"

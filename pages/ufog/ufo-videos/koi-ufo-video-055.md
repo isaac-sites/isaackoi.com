@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 055"
 description: "Koi UFO Video 055: Genesis capsule \"UFO crash\" https://www.youtube.com/watch?v=VCtm4uSw0Lg [DEBUNKED] Koi UFO Video 055 is footage which begins by showing a tumbling disc-shaped object falling towards the ground. The second half of the vid..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.1223 “UFO Club” nightclub"
 description: "“UFO Club” nightclub On 23 December 1966 , the “UFO Club” nightclub was opened on Tottenham Court Road by John “Hoppy” Hopkins."

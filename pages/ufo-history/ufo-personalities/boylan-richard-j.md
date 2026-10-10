@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Boylan, Richard J"
 description: "Richard J Boylan Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1994 Boylan, Richard J and Boylan, Lee K “ Close Extraterrestrial Encounters: Positive Experiences With Mysteries Visitors ” ( 1994 ) (..."

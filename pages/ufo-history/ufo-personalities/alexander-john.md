@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Alexander, John"
 description: "John Alexander Brief comments to be added on this individual. (Chickadee, per Robert Collins) See the relevant \"Aliens on Earth\" entry Books by this person include: YEAR BOOK 1999 Alexander, John “Future War: Non-lethal Weapons in Modern W..."

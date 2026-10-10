@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Pope, Nick “Open Skies, Closed Minds”"
 description: "Brief review to be added of Nick Pope 's book “ Open Skies, Closed Minds ” ( 1996 ) (available on Amazon USA and on Amazon UK )"

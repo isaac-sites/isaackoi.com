@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Steiger, Brad and Whritenour, Joan “Flying Saucers are Hostile”"
 description: "Brief review to be added of “ Flying Saucers are Hostile ” ( 1967 ) (available on Amazon USA and on Amazon UK ) by Brad Steiger and Joan Whritenour."

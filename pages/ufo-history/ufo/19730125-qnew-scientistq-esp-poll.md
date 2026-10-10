@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.0125 \"New Scientist\" ESP poll"
 description: "\"New Scientist\" ESP poll On 25 January 1973 , the British magazine New Scientist publishes an article by Christopher Evans indicating that 67 per cent of the readers that responded to a survey considered ESP to be an established fact or a..."

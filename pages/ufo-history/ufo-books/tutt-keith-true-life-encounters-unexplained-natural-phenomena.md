@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Tutt, Keith “True Life Encounters : Unexplained Natural Phenomena”"
 description: "Brief review to be added of Keith Tutt's book “ True Life Encounters : Unexplained Natural Phenomena ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

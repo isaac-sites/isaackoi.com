@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1982.1001 SETI funding reinstated"
 description: "SETI funding reinstated On 1 October 1982 , Congress approved a budget line which reinstated funding of NASA’s attempts to detect extraterrestrial radio signals."

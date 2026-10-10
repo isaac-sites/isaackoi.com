@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Gaddis, Vincent"
 description: "Vincent Gaddis Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1967 Gaddis, Vincent “Mysterious Fire And Lights” ( 1967 ) (available on Amazon USA and on Amazon UK )"

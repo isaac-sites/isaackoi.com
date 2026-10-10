@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Brookesmith, Peter"
 description: "Peter Brookesmith Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1984 Brookesmith, Peter (Editor) “Open Files” 1984 Brookesmith, Peter (Editor) “ The Age of the UFO ” ( 1984 ) (available on Amazon US..."

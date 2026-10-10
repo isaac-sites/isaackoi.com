@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Edwards, Frank “Flying Saucers – Here and Now!”"
 description: "Brief review to be added of Frank Edwards 's book “ Flying Saucers – Here and Now! ” ( 1967 ) (available on Amazon USA and on Amazon UK )"

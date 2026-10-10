@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Levitt, Norman “Prometheus Bedeviled: Science and the Contradictions of Contemporary Culture”"
 description: "Brief review to be added of Norman Levitt's book “ Prometheus Bedeviled: Science and the Contradictions of Contemporary Culture ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

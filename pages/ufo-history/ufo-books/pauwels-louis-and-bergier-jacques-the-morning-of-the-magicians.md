@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Pauwels, Louis and Bergier, Jacques “The Morning of the Magicians”"
 description: "Brief review to be added of “ The Morning of the Magicians ” ( 1960 ) (available on Amazon USA and on Amazon UK ) by Louis Pauwels and Jacques Bergier"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0511 McMinnville photographs"
 description: "McMinnville photographs \"Impact\" Rating = 14 \"Credibility\" Rating = 10 \"Expert\" Rating = 13 \"Strangeness\" Rating = 12 On 11 May 1950 , Paul Trent allegedly took two photographs of UFOs in McMinnville, Oregon. This incident is Case 17 in Is..."

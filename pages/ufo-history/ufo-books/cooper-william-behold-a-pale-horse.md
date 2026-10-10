@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cooper, William “Behold a Pale Horse”"
 description: "Brief review to be added of William Cooper 's book “ Behold a Pale Horse ” ( 1991 ) (available on Amazon USA and on Amazon UK )"

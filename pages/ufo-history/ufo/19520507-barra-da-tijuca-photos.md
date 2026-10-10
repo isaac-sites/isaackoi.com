@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0507 Barra da Tijuca photos"
 description: "Image needed On 7 May 1952 , Ed Keffel, a writer for the O Cruziero magazine, claims to have taken photographs of a UFO from Ilha Dos Amores (“The Island of Lovers”) near Barra da Tijuca, Brazil whilst in the company of Joao Martins."

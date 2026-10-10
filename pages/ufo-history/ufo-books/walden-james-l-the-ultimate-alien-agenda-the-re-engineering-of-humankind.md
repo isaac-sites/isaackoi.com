@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Walden, James L “The Ultimate Alien Agenda: The Re-Engineering of Humankind”"
 description: "Brief review to be added of James L Walden's book “ The Ultimate Alien Agenda: The Re-Engineering of Humankind ” ( 1998 ) (available on Amazon USA and on Amazon UK )"

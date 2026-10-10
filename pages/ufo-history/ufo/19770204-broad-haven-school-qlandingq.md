@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0204 Broad Haven school \"landing\""
 description: "Broad Haven school \"landing\" On 4 February 1977 , there was an alleged UFO landing near Broad Haven Primary School, west Wales, allegedly witnessed by various schoolchildren."

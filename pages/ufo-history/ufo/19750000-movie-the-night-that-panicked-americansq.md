@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.0000 Movie “The Night That Panicked Americans\""
 description: "“The Night That Panicked Americans\" The movie “ The Night That Panicked Americans\" was a dramatization of the effects of the broadcast of the “War of the Worlds” radio program. Directed by Joseph Sargent."

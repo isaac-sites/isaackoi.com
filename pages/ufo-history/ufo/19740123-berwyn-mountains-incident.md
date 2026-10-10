@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.0123 Berwyn Mountains incident"
 description: "Berwyn Mountains incident The alleged incident on Cader Bronwen, a peak in the Berwyn Mountains, near the village of Llandrillo, Clwyd, Wales occurred on 23 January 1974 ."

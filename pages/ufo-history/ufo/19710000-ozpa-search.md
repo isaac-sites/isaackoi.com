@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1971.0000 “Ozpa” search"
 description: "“Ozpa” search During 1971 , the “Ozpa” search of 9 stars conducted by Gerritt Vershuur with a 384-channel receiver."

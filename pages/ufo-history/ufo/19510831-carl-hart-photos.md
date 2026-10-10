@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0831 Carl Hart photos"
 description: "Image needed Carl Hart Jr, a freshman at Texas Tech, claimed to have taken pictures of the lights on the night of 31 August 1951 ."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fuller, John G “Incident at Exeter”"
 description: "Brief review to be added of John G Fuller 's book “ Incident at Exeter ” ( 1966 ) (available on Amazon USA and on Amazon UK )"

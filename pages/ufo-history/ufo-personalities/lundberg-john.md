@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Lundberg, John"
 description: "John Lundberg Brief comments to be added on this individual. Lundberg directed a television documentary entitled \"The Mythologist\", about Henry Azadehdel aka Victorian, Armen , which was broadcast in the UK on BBC4 on 25 March 2004 ."

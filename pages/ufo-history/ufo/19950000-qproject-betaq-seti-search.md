@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1995.0000 \"Project BETA\" SETI search"
 description: "\"Project BETA\" SETI search During 1995 , the “Billion-channel Extra-Terrestrial Array” (“Project BETA”) began operation under Paul Horowitz, using the Harvard-Smithsonian Observatory."

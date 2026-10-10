@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.0000 Ball's “Zoo hypothesis”"
 description: "Ball's “Zoo hypothesis” During 1973 , the “Zoo hypothesis” was advanced by Professor John Ball."

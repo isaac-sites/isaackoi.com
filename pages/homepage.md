@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Introduction to isaackoi.com"
 description: "I am a barrister in England with an interest in various issues relating to \"UFOs\". I write under a pseudonym because some clients and colleagues would probably roll on the floor with laughter at the thought of my spending time on these top..."

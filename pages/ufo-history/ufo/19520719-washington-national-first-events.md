@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0719 Washington National first events"
 description: "Washington National first events The first of the well publicised Washington National Radar/Visual Sightings occurred during the night of 19 th /20 th July 1952 ."

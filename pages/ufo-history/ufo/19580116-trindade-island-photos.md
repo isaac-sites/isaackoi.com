@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.0116 Trindade Island photos"
 description: "Image needed On 16 January 1958 , Almiro Barauna allegedly took several UFO photos near Trindade Island, Brazil (east of Rio de Janeiro) while on board the ship Almirante Saldanha , which was conducting research for the International Geoph..."

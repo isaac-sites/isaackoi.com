@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0710 FBI \"access to discs\""
 description: "FBI \"access to discs\" J Edgar Hoover handwrites an annotations on memo dated 10 July 1947 . His annotation states the FBI should “insist upon full access to discs recovered”, with one part of the annotation referring to the [“La” or “SW”]..."

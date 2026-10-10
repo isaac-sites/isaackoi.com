@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0820 CIA concerns"
 description: "CIA concerns On 20 August 1952, a CIA memo refers to a meeting with officials during which DCI Walter Bedell Smith had expressed various concerns."

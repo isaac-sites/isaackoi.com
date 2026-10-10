@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "King, Barry"
 description: "Barry King Brief comments to be added on this individual. Barry King began publication of “The Voice” newsletter in February 1994 ."

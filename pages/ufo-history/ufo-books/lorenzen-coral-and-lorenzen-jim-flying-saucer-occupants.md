@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lorenzen, Coral and Lorenzen, Jim “Flying Saucer Occupants”"
 description: "Brief review to be added of “ Flying Saucer Occupants ” ( 1967 ) (available on Amazon USA and on Amazon UK ) by Coral Lorenzen and Jim Lorenzen ."

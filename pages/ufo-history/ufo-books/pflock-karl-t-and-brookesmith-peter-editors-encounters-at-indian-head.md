@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Pflock, Karl T and Brookesmith, Peter (Editors) “Encounters at Indian Head”"
 description: "Brief review to be added of “ Encounters at Indian Head : The Betty and Barney Hill UFO Abduction Revisited ” ( 2007 ) (available on Amazon USA and on Amazon UK ) edited by Karl T Pflock and Peter Brookesmith ."

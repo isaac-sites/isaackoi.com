@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.1006 DoD press release"
 description: "DoD press release On 6 October 1958 , the US Department of Defense issues a news release stating that the UFO “unknowns” remained below 2 percent in the 1270 new reports received in the previous 13 months, and details methods of investigat..."

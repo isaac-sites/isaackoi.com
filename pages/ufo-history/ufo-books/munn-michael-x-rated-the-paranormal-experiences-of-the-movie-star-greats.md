@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Munn, Michael “X-Rated : The Paranormal Experiences of the Movie Star Greats”"
 description: "Brief review to be added of Michael Munn's “ X-Rated : The Paranormal Experiences of the Movie Star Greats ” ( 1996 ) (available on Amazon USA and on Amazon UK )"

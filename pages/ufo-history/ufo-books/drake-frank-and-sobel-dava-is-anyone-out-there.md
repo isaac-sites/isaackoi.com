@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Drake, Frank and Sobel, Dava “Is Anyone Out There?”"
 description: "Brief review to be added of Frank Drake and Dava Sobel's book “ Is Anyone Out There? ” ( 1991 ) (available on Amazon USA and on Amazon UK )"

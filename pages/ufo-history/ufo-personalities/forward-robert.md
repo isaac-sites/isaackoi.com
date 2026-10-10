@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Forward, Robert"
 description: "Robert Forward Brief comments to be added on this individual. Robert Forward was the author of the novel “ Dragon’s Egg ” ( 1980 ) (available on Amazon USA and on Amazon UK ), which considers the implications of evolution of intelligent li..."

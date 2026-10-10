@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "3. Free books"
 description: "Section 3 : Useful free books online Some budding UFO researchers may be surprised by the number of useful free books that can be found online. I’ll give links to some relevant books below. Section 3.1 Significant free UFO books Section 3...."

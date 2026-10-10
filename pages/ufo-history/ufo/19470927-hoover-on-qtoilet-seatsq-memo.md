@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0927 Hoover on \"toilet seats\" memo"
 description: "Hoover on \"toilet seats\" memo On 24 September 1947 , FBI Director J Edgar Hoover wrote to Major General McDonald informing him that the FBI would be discontinuing all investigative activity regarding the reported sightings of flying discs,..."

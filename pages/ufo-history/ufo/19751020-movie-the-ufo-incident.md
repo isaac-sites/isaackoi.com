@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.1020 Movie “The UFO Incident”"
 description: "“The UFO Incident” The movie “The UFO Incident”, dramatizing the Betty and Barney Hill incident, was broadcast on NBC-TV on 20 October 1975 . It starred James Earl Jones as Barney Hill and Estelle Parsons as Betty Hill. It was directed by..."
