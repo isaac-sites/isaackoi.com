@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bergreen, Laurence “The Quest For Mars”"
 description: "Brief review to be added of Laurence Bergreen's “ The Quest For Mars ” ( 2000 ) (available on Amazon USA and on Amazon UK )"

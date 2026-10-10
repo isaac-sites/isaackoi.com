@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.1127 Kocher's RAND document"
 description: "Kocher's RAND document On 27 November 1968 , the document “UFOs: What to do?” was written by George Kocher of RAND. (Commonly referred to as “the RAND document” or “a RAND document”)."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "O’ Brien, Christopher “Enter The Valley”"
 description: "Brief review to be added of “ Enter The Valley ” ( 1999 ) (available on Amazon USA and on Amazon UK ) by Christopher O’ Brien."

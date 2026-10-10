@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Wheen, Francis"
 description: "Francis Wheen Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2004 Wheen, Francis “ How Mumbo-Jumbo Conquered The World ” ( 2004 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1962.1100 Tesla and Marconi revisited"
 description: "Tesla and Marconi revisited During November 1962 , IBM scientists C D Jackson and R E Hohmannpresent a paper entitled “An Historic Report on Life in Space: Tesla, Marconi, Todd” to the Americian Rocket Society meeting on 13-18 November 196..."

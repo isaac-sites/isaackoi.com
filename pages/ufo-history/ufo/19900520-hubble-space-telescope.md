@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1990.0520 Hubble Space Telescope"
 description: "Image needed On 20 May 1990 , the Hubble Space Telescope (“HST”) began operation."

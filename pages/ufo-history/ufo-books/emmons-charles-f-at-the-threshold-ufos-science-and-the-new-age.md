@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Emmons, Charles F “At The Threshold: UFOs, Science and the New Age”"
 description: "Brief review to be added of Charles F Emmons 's book “ At The Threshold: UFOs, Science and the New Age ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

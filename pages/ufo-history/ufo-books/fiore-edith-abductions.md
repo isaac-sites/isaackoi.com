@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fiore, Edith “Abductions”"
 description: "Brief review to be added of Edith Fiore's book “ Abductions ” ( 1989 ) (available on Amazon USA and on Amazon UK ). Also published under the title “Encounters”"

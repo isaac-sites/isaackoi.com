@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clarke, David and Roberts, Andy “Phantoms of the Sky”"
 description: "Brief review to be added of David Clarke and Andy Roberts ' book “ Phantoms of the Sky ” ( 1990 ) (available on Amazon USA and on Amazon UK )"

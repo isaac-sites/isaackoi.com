@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ritchie, David “UFO : The Definitive Guide”"
 description: "Brief review to be added of David Ritchie's book “ UFO : The Definitive Guide ” ( 1994 ) (available on Amazon USA and on Amazon UK )"

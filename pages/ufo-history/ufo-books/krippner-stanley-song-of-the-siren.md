@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Krippner, Stanley “Song of the Siren”"
 description: "Brief review to be added of Stanley Krippner's book “ Song of the Siren ” ( 1975 ) (available on Amazon USA and on Amazon UK )"

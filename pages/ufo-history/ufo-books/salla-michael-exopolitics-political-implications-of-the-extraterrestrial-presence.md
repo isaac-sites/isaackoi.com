@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Salla, Michael “Exopolitics : Political Implications of the Extraterrestrial Presence”"
 description: "Brief review to be added of Michael Salla 's book “ Exopolitics : Political Implications of the Extraterrestrial Presence ” ( 2005 ) (available on Amazon USA and on Amazon UK )."

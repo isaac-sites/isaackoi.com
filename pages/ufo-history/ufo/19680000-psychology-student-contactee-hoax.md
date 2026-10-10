@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0000 Psychology student contactee hoax"
 description: "Image needed During 1968 , psychology student Thomas Montelone calls into a radio show during a radio appearance by contactee Woodrow Derenberger (commonly referred to as “ Woody Derenberger ”) claiming to have been to the planet Lanulos."

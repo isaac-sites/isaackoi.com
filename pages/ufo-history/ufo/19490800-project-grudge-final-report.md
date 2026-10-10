@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.0800 Project Grudge final report"
 description: "Project Grudge final report During August 1949, Project Grudge's final report was completed. The report contained analysis of 244 cases. It concluded that Unidentified Flying Objects posed no direct threat to the national security of the U..."

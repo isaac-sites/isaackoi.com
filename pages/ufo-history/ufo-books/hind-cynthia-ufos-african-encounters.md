@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hind, Cynthia “UFOs : African Encounters”"
 description: "Brief review to be added of Cynthia Hind 's book “ UFOs : African Encounters ” ( 1982 ) (available on Amazon USA and on Amazon UK )"

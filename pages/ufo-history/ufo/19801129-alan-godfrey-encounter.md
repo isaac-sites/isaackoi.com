@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.1129 Alan Godfrey encounter"
 description: "Alan Godfrey encounter On 29 November 1980 , Police Constable (“PC”) Alan Godfrey, stationed in Todmorden, West Yorkshire, allegedly had a close encounter and interacts with a human-like figure called “Joseph”, some robots and a dog early..."

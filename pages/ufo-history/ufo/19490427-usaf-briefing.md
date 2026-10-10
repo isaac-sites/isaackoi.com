@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1949.0427 USAF briefing"
 description: "Image needed On 27 April 1949 , there was a briefing for the USAF Deputy Chief of Staff for Operations and his staff on UFOs by Directorate of Intelligence personnel. Directorate of Intelligence, USAF, Decimal Correspondence File, \"Flying..."

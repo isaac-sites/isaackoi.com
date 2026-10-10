@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Williamson, George Hunt with Bailey, Alfred “Other Voices”"
 description: "Brief review to be added of “ Other Voices ” ( 1995 ) (available on Amazon USA and on Amazon UK ) by George Hunt Williamson with Alfred Bailey. A reisussed and expanded version of “The Saucers Speak”."

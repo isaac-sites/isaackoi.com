@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1905.0000 Welsh lights"
 description: "Welsh lights Britain : “Welsh lights” (commonly referred to as “the Egryn lights”) reported during 1905. Commonly linked to the Welsh Methodist revival of that year and the preacher Mrs Mary Jones."

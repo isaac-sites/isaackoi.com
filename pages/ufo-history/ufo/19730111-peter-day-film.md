@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.0111 Peter Day film"
 description: "Peter Day film On 11 January 1973 , Peter Day claims to have filmed a UFO near Thame, south of Oxford, England. Object also reported by children at a local school."

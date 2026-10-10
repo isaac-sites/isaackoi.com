@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Wells, H G “The War of the Worlds”"
 description: "Brief review to be added of the novel “ The War of the Worlds ” ( 1898 ) (available on Amazon USA and on Amazon UK ) by H G Wells"

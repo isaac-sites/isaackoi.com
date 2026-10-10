@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0529 Captain Sperry sighting"
 description: "Image needed On 29 May 1950 , Captain Willis Sperry reports a sighting on a flight from Washington DC to Tulsa, Oklahoma.."

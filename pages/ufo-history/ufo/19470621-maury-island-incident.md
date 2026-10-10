@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0621 Maury Island incident"
 description: "\"Battle of Los Angeles\" \"Impact\" Rating = 14 \"Credibility\" Rating = 14 \"Expert\" Rating = 7 \"Strangeness\" Rating = 6 On 21 June 1947 , near Maury Island, Washington there was an alleged sighting and claims of debris from a UFO involving Har..."

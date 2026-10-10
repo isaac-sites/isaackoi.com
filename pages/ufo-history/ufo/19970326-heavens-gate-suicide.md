@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0326 Heaven’s Gate suicide"
 description: "Image needed On 26 March 1997 , a group suicide was discovered, involving 21 women and 18 men, of members of Heaven’s Gate (created by Marshall Herff Applewhite (commonly referred to as “Bo” or “Him”) and Bonnie Lu Nettles (commonly referr..."

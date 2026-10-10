@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0126 CIA \"Evaluation of UFOs\""
 description: "CIA \"Evaluation of UFOs\" Following a review of recent UFO reports by officers of the CIA’s OSI, Donald F Chamberlain (OSI Assistant Director) assured DCI John McCone in a memorandum entitled “Evaluation of UFOs” dated 26 January 1965 that..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0000 Ruppelt revised book"
 description: "Image needed During 1959 , Captain Edward Ruppelt writes a revised edition of his book, “ The Report on Unidentified Flying Objects ” ( 1956 ) with 3 extra chapters. [Need to check date – some sources state 1959 , other sources state 1960..."

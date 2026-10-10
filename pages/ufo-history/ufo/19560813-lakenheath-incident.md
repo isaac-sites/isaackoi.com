@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1956.0813 Lakenheath incident"
 description: "Lakenheath incident The Lakenheath /Bentwaters radar/visual episode occurred during the night of 13th-14th August 1956 . This incident is discussed as “Case 2” in the Condon Report , which states that “The preponderance of evidence indicat..."

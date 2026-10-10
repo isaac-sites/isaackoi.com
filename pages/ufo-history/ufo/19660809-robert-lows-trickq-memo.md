@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0809 Robert Low’s “trick\" memo"
 description: "Robert Low’s “trick\" memo On 9 August 1966 , University of Colorado Assistant Dean Robert Low wrote to E James Archer, dean of the graduate school and Thurston E Manning, vice president and dean of faculties, on the proposed UFO Study for..."

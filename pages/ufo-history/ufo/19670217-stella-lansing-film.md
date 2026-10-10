@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0217 Stella Lansing film"
 description: "Image needed On 24 January 1967 .0217, a motion picture film of a UFO was allegedly taken by Mrs Stella V Lansing."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.1130 Grudge Status Report"
 description: "Grudge Status Report On 30 October 1951 , Project Grudge Status Report Number 1 was issued. This was the first in a series of “Status Reports” issued by Project Grudge, a practice continued by Project Bluebook."

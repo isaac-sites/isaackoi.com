@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.1026 Air Force Regulation 80-17 (C1)"
 description: "Air Force Regulation 80-17 (C1) On 26 October 1967, US Air Force Regulation Number 80-17 (C1) issued. Updated US Air Force Regulation Number 80-17A."

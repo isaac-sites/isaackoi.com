@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 067"
 description: "Koi UFO Video 067: Mazsalaca meteorite/UFO crash (Tele2) http://www.youtube.com/watch?v=Z5C-Lh3UfQ8 [DEBUNKED] : Koi UFO Video 067 appears to show an object burning in a crater. Media around the world (including the BBC) reported the fall..."

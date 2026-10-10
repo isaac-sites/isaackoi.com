@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0000 \"Tomato Man\" photographs"
 description: "Image needed During 1978 , photographs of a burned body, apparently next to a pair of spectacles, were released by Williard McIntyre and others. They were alleged by some researchers to show the body of an alien. (Commonly referred to as “..."

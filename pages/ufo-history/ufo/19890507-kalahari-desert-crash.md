@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1989.0507 Kalahari Desert crash"
 description: "Image needed On 7 May 1989 , there was an alleged crash in Central Kalahari Desert, Botswana allegedly involving the South African Air Force and James Van Greunen. (Commonly referred to as “the Kalahari Incident”)."

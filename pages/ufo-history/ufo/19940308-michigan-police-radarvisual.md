@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.0308 Michigan police radar/visual"
 description: "Image needed On 8 March 1994 , there was a radar/Visual incident in south-western Michigan, involving police officer Jeff Velthouse."

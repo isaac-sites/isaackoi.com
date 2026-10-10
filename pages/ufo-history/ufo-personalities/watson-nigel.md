@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Watson, Nigel"
 description: "Nigel Watson Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1990 Watson, Nigel “ Portraits of Alien Encounters ” ( 1990 ) (available on Amazon USA and on Amazon UK ) 1992 Watson, Nigel and Slade, Dar..."

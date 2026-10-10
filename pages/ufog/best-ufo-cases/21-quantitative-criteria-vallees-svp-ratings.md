@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "21: Quantitative criteria : Vallee’s SVP ratings"
 description: "“ Best UFO Cases ” by Isaac Koi PART 21: Quantitative criteria : Vallee’s SVP ratings Since the 1960s onwards, Jacques Vallee has written several discussions regarding classification and codification of UFO reports. During 1963, he publish..."

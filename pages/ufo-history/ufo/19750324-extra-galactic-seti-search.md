@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.0324 Extra-Galactic SETI search"
 description: "Extra-Galactic SETI search On the night of 24/25 March 1975 , Carl Sagan and Frank Drake used the Arecibo radio telescope in an attempt to detect extra-galactic signals on 1420 MHz from nearby galaxies."

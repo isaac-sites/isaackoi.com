@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0108 National Academy on Condon"
 description: "Image needed On 8 January 1969, a National Academy of Sciences (“NAS”) panel produced a report providing an independent assessment of the scope, methodology, and findings of the University of Colorado study as reflected in the University’s..."

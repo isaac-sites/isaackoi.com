@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Friedrich, Mattern (a pseudonym for Ernest Zundel) “UFO: Nazi Secret Weapons?”"
 description: "Brief review to be added of “ UFO: Nazi Secret Weapons? ” ( 1975 ) (available on Amazon USA and on Amazon UK ) by Mattern Friedrich (a pseudonym for Ernest Zundel)."

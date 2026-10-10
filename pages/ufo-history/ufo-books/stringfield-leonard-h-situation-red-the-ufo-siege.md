@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Stringfield, Leonard H “Situation Red: The UFO Siege”"
 description: "Brief review to be added of Leonard H Stringfield 's book “ Situation Red: The UFO Siege ” ( 1977 ) (available on Amazon USA and on Amazon UK )"

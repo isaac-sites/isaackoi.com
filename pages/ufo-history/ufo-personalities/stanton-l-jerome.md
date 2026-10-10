@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Stanton, L Jerome"
 description: "Image needed Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1966 Stanton, L Jerome “ Flying Saucers : Hoax or Reality? ” ( 1966 ) (available on Amazon USA and on Amazon UK )"

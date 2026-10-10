@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Berry, Adrian"
 description: "Adrian Berry Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1974 Berry, Adrian “The Next Ten Thousand Years” 1980 Berry, Adrian “ From Apes to Astronauts ” ( SETI :) 1999 Berry, Adrian “The Giant Lea..."

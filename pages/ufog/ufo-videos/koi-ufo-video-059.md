@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 059"
 description: "Koi UFO Video 059 : 2 Jet fighters escorting UFO (created by Oondyla) https://www.youtube.com/watch?v=hz7FQ2NvBLU [DEBUNKED] Koi UFO Video 059 is a video appearing to show two jet fighters escorting a UFO. As detailed below, it is a hoaxed..."

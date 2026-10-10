@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1999.0000 Belief and critical thinking"
 description: "Image needed During 1999 , the British Journal of Psychology published a study testing the hypothesis that people who belief in the paranormal lack critical thinking abilities."

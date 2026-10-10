@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lamb, David “The Search of Extraterrestrial Intelligence : A Philosophical Inquiry”"
 description: "Brief review to be added of David Lamb's book “ The Search for Extraterrestrial Intelligence : A Philosophical Inquiry ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

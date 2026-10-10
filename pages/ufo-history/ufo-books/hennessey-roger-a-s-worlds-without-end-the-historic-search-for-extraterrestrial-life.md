@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hennessey, Roger A S “Worlds Without End : The Historic Search for Extraterrestrial Life”"
 description: "Brief review to be added of Roger A S Hennessey's book “ Worlds Without End : The Historic Search for Extraterrestrial Life ” ( 1999 ) (available on Amazon USA and on Amazon UK )."

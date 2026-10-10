@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Boyd, Robert D"
 description: "Image needed Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1988 Boyd, Robert D “International Who’s Who in Ufology Directory” ( 1988 )"

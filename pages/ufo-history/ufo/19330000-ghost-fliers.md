@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1933.0000 Ghost Fliers"
 description: "Image needed Sightings of “ghost airplanes” and “ghost fliers” reported over Scandinavia between 1933 and 1937 , with sporadic reports in other countries."

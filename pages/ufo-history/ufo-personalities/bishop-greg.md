@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bishop, Greg"
 description: "Greg Bishop Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2005 Bishop, Greg “ Project BETA : The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth ” ( 2005 ) (availab..."

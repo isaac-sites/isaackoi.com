@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0924 Chadwell recommends NSC attention"
 description: "Chadwell recommends NSC attention On 24 September 1952 , a memo from H Marshal Chadwell (CIA Assistant Director for Scientifc Intelligence) to CIA Director Walter Smith discusses CIA research and national security implications of “the prob..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.0823 John Lennon sighting"
 description: "Image needed On 23 August 1974 , there was an alleged UFO sighting by John Lennon, former member of the Beatles, in a penthouse flat overlooking New York City."

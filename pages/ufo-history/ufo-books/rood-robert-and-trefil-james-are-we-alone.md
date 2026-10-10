@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rood, Robert and Trefil, James “Are We Alone?”"
 description: "Brief review to be added of “ Are We Alone? ” ( 1980 ) (available on Amazon USA and on Amazon UK ) by Robert Rood and James Trefil."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "O’ Leary, Brian “Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations”"
 description: "Brief review to be added of “ Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations ” ( 1996 ) (available on Amazon USA and on Amazon UK ) by O’ Brian Leary ."

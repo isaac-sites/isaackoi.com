@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Michel, Aime"
 description: "Aime Michel Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1956 Michel, Aime “ The Truth about Flying Saucers ” ( 1956 ) (available on Amazon USA and on Amazon UK ) 1958 Michel, Aime “ Flying Saucers..."

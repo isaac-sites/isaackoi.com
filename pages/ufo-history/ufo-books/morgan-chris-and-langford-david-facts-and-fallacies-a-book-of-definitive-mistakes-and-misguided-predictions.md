@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Morgan, Chris and Langford, David “Facts and Fallacies : A Book of Definitive Mistakes and Misguided Predictions”"
 description: "Brief review to be added of “ Facts and Fallacies : A Book of Definitive Mistakes and Misguided Predictions ” ( 1981 ) (available on Amazon USA and on Amazon UK ) by Chris Morgan and David Langford"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.1215 NBC's “UFOs: Do You Believe?”"
 description: "Image needed On 15 December 1974 , NBC network broadcasts “UFOs: Do You Believe?”"

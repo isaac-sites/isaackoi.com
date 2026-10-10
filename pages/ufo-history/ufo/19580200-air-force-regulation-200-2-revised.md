@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.0200 Air Force Regulation 200-2 revised"
 description: "Air Force Regulation 200-2 revised During February 1958 , US Air Force Regulation 200-2 (“AFR 200-2) was revised, inter alia, to eliminate portions which might provoke suspicion or misinterpretation by the public."

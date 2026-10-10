@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Friedman, Stanton “Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs”"
 description: "Brief review to be added of Stanton Friedman 's book “ Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs ” ( 2008 ) (available on Amazon USA and on Amazon UK )"

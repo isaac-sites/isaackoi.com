@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1970.0107 Imjarvi, Finland incident"
 description: "Image needed On 7 January 1970 , an incident involving 2 skiers, Aarno Heinonen and Esko Viljo, occurred in woodland near Imjarvi, Finland."

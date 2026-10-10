@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "McDonnell, Brian “Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations”"
 description: "Brief review to be added of Brian McDonnell's book “ Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

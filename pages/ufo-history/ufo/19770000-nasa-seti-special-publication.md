@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0000 NASA SETI Special Publication"
 description: "NASA SETI Special Publication During 1977 , NASA released NASA Special Publication 419 (“ NASA SP-419”). This was a report entitled “The Search for Extraterrestrial Intelligence” edited by Philip Morrison , John Billingham and John Wolfe."

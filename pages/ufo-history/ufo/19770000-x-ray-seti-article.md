@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0000 X-Ray SETI article"
 description: "X-Ray SETI article During 1977 , Andy Fabian publishes an article entitled “Signaling Over Stellar Distances with X-Rays” in the Journal of the British Interplanetary Society discussing the possibility of matter being dropped on to neutron..."

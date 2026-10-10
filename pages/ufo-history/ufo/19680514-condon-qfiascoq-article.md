@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0514 Condon \"Fiasco\" article"
 description: "Image needed An article entitled “Flying Saucer Fiasco” by John G Fuller criticising the Condon Study was published in the 14 May 1968 edition of “Look” Magazine (which hit the news stands on 27 April 1967 )."

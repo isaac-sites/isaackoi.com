@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0000 H Y Chiu on Condon"
 description: "Image needed During 1969 , H Y Chiu wrote an article entitled “The Condon Report, Scientific Study of Unidentified Flying Objects” reviewing the Condon Report and arguing that the observed visit rate would require too much material in the..."

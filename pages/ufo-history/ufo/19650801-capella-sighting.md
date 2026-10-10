@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0801 Capella sighting"
 description: "Image needed Various sightings occurred on the night of 1-2 August 1965 , in relation to which the Air Force issued a press release which stated the sightings were of Jupiter, or the stars Rigel, Capella, Betelgeuse, or Aldebaran. Robert R..."

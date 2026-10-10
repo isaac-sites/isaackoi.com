@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0219 Discussion of closing Bluebook"
 description: "Image needed On 19 February 1969 , a meeting was held at Air Force Headquarters in Washington which discussed closing down of Project Blue Book"

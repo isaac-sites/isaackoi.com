@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1988.0000 Mental health professionals"
 description: "Image needed During 1988 , a survey of mental-health professionals was conducted by Ray Boeche as to their beliefs as to the reaction of ordinary people to a verified alien contact situation."

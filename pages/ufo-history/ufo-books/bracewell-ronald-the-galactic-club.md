@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bracewell, Ronald “The Galactic Club”"
 description: "Brief review to be added of Bracewell, Ronald 's book “ The Galactic Club ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

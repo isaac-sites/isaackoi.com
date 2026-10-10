@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.0000 Tipler's replicating probe argument"
 description: "Tipler's replicating probe argument During 1980 , Frank Tipler ’s article entitled “Extraterrestrial Intelligent Beings do not Exist” is published. It is followed by several further articles by Tipler and considerable discussion of those a..."

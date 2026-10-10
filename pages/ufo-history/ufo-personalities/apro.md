@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "APRO"
 description: "APRO Brief comments to be added on this group. As noted in Part 3 of Isaac Koi’s “ Best UFO Cases ” article (i.e. in the Part entitled Existing lists by various individuals ), Jacques Vallee ’s book “Challenge to Science : The UFO Enigma”..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 099"
 description: "Koi UFO Video 099 : UFO at Baseball Game (Vancouver, 2013) https://www.youtube.com/watch?v=irItgeBZ7ds [DEBUNKED] Koi UFO Video 099 appears to show a floodlit baseball game, during which a UFO with several lights is seen in the distance. O..."

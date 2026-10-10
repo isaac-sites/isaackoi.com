@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.1011 American Optical Society symposium"
 description: "Image needed On 11 October 1952 , the American Optical Society sponsors a symposium on UFOs. Papers given by Dr J Allen Hynek , Dr Menzel and Dr Liddel."

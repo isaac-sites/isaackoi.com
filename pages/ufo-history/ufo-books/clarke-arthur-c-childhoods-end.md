@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clarke, Arthur C “Childhood’s End”"
 description: "Brief review to be added of Arthur C Clarke 's book “ Childhood’s End ” ( 1953 ) (available on Amazon USA and on Amazon UK )"

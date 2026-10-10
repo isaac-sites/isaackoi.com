@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "15. Qualitative criteria: Introduction"
 description: "“ Best UFO Cases ” by Isaac Koi PART 15. Qualitative criteria: Introduction Although quite a few lists of “best cases” have been presented by various ufologists and groups, surprisingly few of the relevant ufologists have explained (on a c..."

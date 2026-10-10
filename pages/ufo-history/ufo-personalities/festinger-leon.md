@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Festinger, Leon"
 description: "Leon Festinger Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1956 Festinger, Leon and Riecken, Henry and Schachter, Stanley “ When Prophecy Fails ” ( 1956 ) (available on Amazon USA and on Amazon UK..."

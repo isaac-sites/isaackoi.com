@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Rickard, Robert"
 description: "Robert Rickard Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1980 Rickard, Robert and Kelly, Richard “Photographs of the Unknown”"

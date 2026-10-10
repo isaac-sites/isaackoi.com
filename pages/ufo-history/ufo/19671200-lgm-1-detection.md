@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.1200 LGM-1 detection"
 description: "LGM-1 detection During December 1967 , Jocelyn Bell and other Cambridge astronomers detect radio signals from pulsars, which they titled “LGM-1” (“Little Green Men – 1”) whilst the signals were being investigated."

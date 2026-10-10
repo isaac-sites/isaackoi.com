@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1929.0000 Generation ships"
 description: "Image needed Astronautics : In 1929, the “Generation ship” idea was proposed by John D Bernal in his book “ The World, the Flesh, and the Devil ”."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0201 Air Force press release"
 description: "Air Force press release On 1 February 1966 , the US Air Force issues a press release that reiterates explanations for UFOs."

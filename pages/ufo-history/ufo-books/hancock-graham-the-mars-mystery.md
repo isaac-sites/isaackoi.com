@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hancock, Graham “The Mars Mystery”"
 description: "Brief review to be added of Graham Hancock 's book “ The Mars Mystery ” ( 1998 ) (available on Amazon USA and on Amazon UK )"

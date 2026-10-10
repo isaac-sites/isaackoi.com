@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Siegel, Richard and Suares, Jean-Claude “Alien Creatures”"
 description: "Brief review to be added of “ Alien Creatures ” ( 1978 ) (available on Amazon USA and on Amazon UK ) by Richard Siegel and Jean-Claude Suares."

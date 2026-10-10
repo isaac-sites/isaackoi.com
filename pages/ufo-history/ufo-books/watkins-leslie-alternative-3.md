@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Watkins, Leslie “Alternative 3”"
 description: "Brief review to be added of the book “ Alternative 3 ” ( 1978 ) (available on Amazon USA and on Amazon UK ) by Leslie Watkins . Based on the TV screenplay by David Ambrose and Christopher Miles."

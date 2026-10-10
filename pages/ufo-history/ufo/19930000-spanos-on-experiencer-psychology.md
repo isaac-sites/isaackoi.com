@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1993.0000 Spanos on experiencer psychology"
 description: "Image needed During 1993 , a study of alleged UFO abductees and witnesses was published by Nicholas Spanos and others in the American Journal of Abnormal Psychology ."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Allingham, Cedric “Flying Saucers from Mars”"
 description: "Brief review to be added of Cedric Allingham 's book “ Flying Saucers from Mars ” ( 1954 ) (available on Amazon USA and on Amazon UK ). Allingham's purported contact is Case 74 in Isaac Koi's \"Top 100\" article , since it was referred to in..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0202 Air Force Regulation 200-2 amended"
 description: "Air Force Regulation 200-2 amended On 2 February 1960 , Air Force Regulation 200-2 (“AFR 200-2”) was further amended."

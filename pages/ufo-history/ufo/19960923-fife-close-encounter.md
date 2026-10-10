@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1996.0923 Fife close encounter"
 description: "Fife close encounter On 23 September 1996 , a close encounter allegedly occurred near Falkland Hill in Fife, Scotland involving two women and a 10 year old boy. (Commonly referred to as “The Fife Incident” and “the Falkland Hill landing”)"

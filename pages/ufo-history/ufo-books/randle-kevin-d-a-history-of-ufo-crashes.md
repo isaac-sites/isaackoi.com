@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randle, Kevin D “A history of UFO crashes”"
 description: "Brief review to be added of Kevin Randle 's book “ A history of UFO crashes ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

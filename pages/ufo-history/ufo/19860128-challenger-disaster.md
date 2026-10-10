@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1986.0128 Challenger disaster"
 description: "Image needed On 28 January 1986 , the space shuttle Challenger explodes on launch."

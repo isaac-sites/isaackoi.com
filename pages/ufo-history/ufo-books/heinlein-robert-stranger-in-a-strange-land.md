@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Heinlein, Robert “Stranger in a Strange Land”"
 description: "Brief review to be added of Robert Heinlein 's book “ Stranger in a Strange Land ” ( 1961 ) (available on Amazon USA and on Amazon UK )."

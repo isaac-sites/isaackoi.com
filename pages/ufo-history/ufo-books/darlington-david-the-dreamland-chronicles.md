@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Darlington, David “The Dreamland Chronicles”"
 description: "Brief review to be added of David Darlington's book “ The Dreamland Chronicles ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

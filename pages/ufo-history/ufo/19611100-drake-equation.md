@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1961.1100 Drake Equation"
 description: "Drake Equation During November 1961, the Drake Equation (also known as the “Green Bank Formula”) was put forward by Frank Drake at a meeting organised by the Space Science Board of the National Academy of Sciences at the Green Bank Observa..."

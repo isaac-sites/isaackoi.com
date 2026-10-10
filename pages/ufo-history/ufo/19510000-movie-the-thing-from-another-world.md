@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0000 Movie “The Thing from Another World”"
 description: "“The Thing from Another World” The movie “ The Thing from Another World ” was directed by Christian Nyby and Howard Hawkes. It was based on John W Campbell Jr.’s “Who Goes There?”. The movie was remade in 1982 by John Carpenter."

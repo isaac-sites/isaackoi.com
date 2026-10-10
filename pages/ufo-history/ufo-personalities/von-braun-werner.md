@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Von Braun, Werner"
 description: "Werner Von Braun Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1953 Von Braun, Werner “ The Mars Project ” ( 1953 ) (available on Amazon USA and on Amazon UK )"

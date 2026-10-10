@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Evans, Hilary “Gods, Spirits, Cosmic Guardians”"
 description: "Brief review to be added of Hilary Evans 's book “ Gods, Spirits, Cosmic Guardians ” ( 1987 ) (available on Amazon USA and on Amazon UK )"

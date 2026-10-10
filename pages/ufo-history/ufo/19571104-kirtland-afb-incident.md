@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1104 Kirtland AFB incident"
 description: "Image needed The Kirtland AFB runway radar/visual incident occurred on 4 November 1957."

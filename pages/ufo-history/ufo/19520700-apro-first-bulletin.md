@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0700 APRO first bulletin"
 description: "Image needed Aerial Phenomena Research Organization (“ APRO ”) of Tucson, Arizona, founded by Mrs Coral Lorenzen and her husband Leslie J Lorezen , mailed out its first mimeographed bulletin to 52 members during July 1952 ."

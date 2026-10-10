@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.0906 Smithsonian UFO debate"
 description: "Image needed On 6 September 1980 , the Smithsonian Institution in Washington, DC hosted a UFO debate."

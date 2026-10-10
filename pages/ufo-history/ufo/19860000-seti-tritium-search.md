@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1986.0000 SETI tritium search"
 description: "SETI tritium search During 1986 , Francisco Valdes and Robert Freitas report negative results in a search for emissions at 1.516701 GHz due to tritium leaking from orbital fusion reactors or propulsion systems."

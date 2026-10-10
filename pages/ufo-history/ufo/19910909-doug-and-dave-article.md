@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1991.0909 Doug and Dave article"
 description: "Image needed On 9 September 1991 , the Today newspaper published a story entitled “The Men Who Conned The World” on its front page about Doug Bower and Dave Chorley (commonly referred to as “Doug and Dave”) of Southampton, England and thei..."

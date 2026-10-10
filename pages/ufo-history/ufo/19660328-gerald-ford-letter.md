@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0328 Gerald Ford letter"
 description: "Gerald Ford letter On 28 March 1966 , Congressman Gerald Fordwrote to the Armed Services committee criticising the Air Force investigations and proposing that a Congressional committee schedule hearings on the subject of UFOs."

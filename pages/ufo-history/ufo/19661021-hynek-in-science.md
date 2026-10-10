@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.1021 Hynek in Science"
 description: "Image needed A letter by Dr J Allen Hynek was published in the October 1966 issue of Science magazine, stating his reasons for concluding that he “cannot dismiss the UFO phenomenon with a shrug”."

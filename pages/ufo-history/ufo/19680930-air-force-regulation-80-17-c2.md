@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0930 Air Force Regulation 80-17 (C2)"
 description: "Air Force Regulation 80-17 (C2) On 30 September 1968 , US Air Force Regulation Number 80-17 (C2) was issued. It updated US Air Force Regulation Number 80-17 (C1)."

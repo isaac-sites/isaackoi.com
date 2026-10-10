@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "7. Consensus lists : Paul Kimball’s Vox Populi poll (2006)"
 description: "“ Best UFO Cases ” by Isaac Koi PART 7: Consensus lists : Paul Kimball’s Vox Populi poll (2006) As discussed in earlier sections of this article, Jacques Vallee and Ronald Story conducted polls of ufologists in an attempt to determine whic..."

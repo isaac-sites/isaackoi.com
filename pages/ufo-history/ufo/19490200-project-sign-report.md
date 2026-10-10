@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.0200 Project Sign report"
 description: "Project Sign report During February 1949, the final report of Project Sign (“The Findings of Project Sign”) was completed. Officially cited as Technical Report-TR-2274-IA of the Technical Intelligence Division, Air Materiel Command, Wright..."

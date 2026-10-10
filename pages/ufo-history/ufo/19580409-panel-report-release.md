@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.0409 Panel report release"
 description: "Panel report release On 9 April 1958 , a summary of the Robertson Panel report was released to Donald Keyhoe ."

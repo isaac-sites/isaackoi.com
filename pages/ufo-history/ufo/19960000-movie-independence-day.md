@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1996.0000 Movie: “Independence Day”"
 description: "“Independence Day” The movie “ Independence Day ” ( 1996 ) is also commonly referred to as “ ID4 ”. It was directed by Roland Emmerich and starred Jeff Goldblum and Will Smith"

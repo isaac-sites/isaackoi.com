@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1942.0225 \"Battle of Los Angeles\""
 description: "\"Battle of Los Angeles\" \"Impact\" Rating = 14 \"Credibility\" Rating = 14 \"Expert\" Rating = 7 \"Strangeness\" Rating = 6 On 25th February 1942,Los Angeles was blacked out whilst U.S. Army gunners fire at a UFO overLos Angeles andBurbank,Califor..."

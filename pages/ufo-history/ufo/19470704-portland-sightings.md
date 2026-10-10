@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0704 Portland sightings"
 description: "Image needed On 4 July 1947 , there was a series of sightings in Portland, Oregon involving various police officers and civilians."

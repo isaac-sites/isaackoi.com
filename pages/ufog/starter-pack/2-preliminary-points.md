@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "2. Preliminary points"
 description: "Section 2: A few preliminary points There are three preliminary matters that I’d like to mention briefly. These are: Section 2.1 - The Google Toolbar . Section 2.2 - My 1,800 page UFO Chronology Section 2.3 - Tinwiki, on ATS. Section 2.4 -..."

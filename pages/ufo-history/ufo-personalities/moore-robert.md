@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Moore, Robert"
 description: "Robert Moore Robert Moore is a British ufologist. He has edited several UFO magazines, including one published by BUFORA. Robert Moore is one of those individuals that are all too rare within ufology - he has done work for various UFO grou..."

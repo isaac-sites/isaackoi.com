@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi Alien Photo 02"
 description: "Koi Alien Photo 02 During 1995, Koi Alien Photo 02 appeared on the website of the Crop Circle Connector accompanied by a statement: \"image by A. J. Samuels\". It subsequently appeared in the \"Sightings\" magazine, without the true story behi..."

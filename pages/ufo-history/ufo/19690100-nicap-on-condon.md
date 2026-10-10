@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0100 NICAP on Condon"
 description: "Image needed During January 1969 , an article entitled “ NICAP Disputes Condon Report” published in “The U.F.O. Investigator” Volume IV, No. 9, pages 1-5."

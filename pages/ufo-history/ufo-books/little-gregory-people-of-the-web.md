@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Little, Gregory “People of the Web”"
 description: "Brief review to be added of Gregory Little's book “ People of the Web ” ( 1990 ) (available on Amazon USA and on Amazon UK )"

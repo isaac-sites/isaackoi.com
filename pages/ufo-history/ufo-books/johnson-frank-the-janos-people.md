@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Johnson, Frank “The Janos People”"
 description: "Brief review to be added of Frank Johnson's book “ The Janos People ” ( 1980 ) (available on Amazon USA and on Amazon UK ). Discusses the alleged abduction of the Mann family on 19 June 1978 ."

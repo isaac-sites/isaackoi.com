@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sendy, Jean “Those Gods Who Made Heaven and Earth”"
 description: "Brief review to be added of Jean Sendy 's book “ Those Gods Who Made Heaven and Earth ” ( 1969 ) (available on Amazon USA and on Amazon UK )"

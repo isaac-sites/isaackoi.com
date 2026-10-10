@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.1213 Vorilhon / Raelians encounter"
 description: "Image needed On 13 December 1973 , an alleged close encounter occurred involving Claude Vorilhon (former racing driver, leader of the Raelians) near Clermont Ferrand, France. This incident is Case 85 in Isaac Koi's \"Top 100\" article , sinc..."

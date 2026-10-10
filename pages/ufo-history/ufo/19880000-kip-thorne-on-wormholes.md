@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1988.0000 Kip Thorne on wormholes"
 description: "Image needed During 1988 , Kip Thorne and Michael Morris published a paper on wormholes entitled “Wormholes in Spacetime and Their Use for Interstellar Travel: A Tool for Teaching General Relativity”."

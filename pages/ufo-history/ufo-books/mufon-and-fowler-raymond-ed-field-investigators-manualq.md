@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "MUFON and Fowler, Raymond (Ed.) “Field Investigator's Manual\""
 description: "Brief review to be added of “ Field Investigator's Manual \" (2nd Edition) ( 1975 ) (available on Amazon USA and on Amazon UK ) edited by MUFON and Raymond Fowler ."

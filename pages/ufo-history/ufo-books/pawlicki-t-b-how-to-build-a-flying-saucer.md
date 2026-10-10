@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Pawlicki, T B “How to Build a Flying Saucer”"
 description: "Brief review to be added of T B Pawlicki's book “ How to Build a Flying Saucer ” ( 1981 ) (available on Amazon USA and on Amazon UK )"

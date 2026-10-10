@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.0000 Marfa Lights investigation"
 description: "Image needed During 1994 , Paul Devereux performed a ten day field study of the Marfa Lights, with Hal Puthoff ."

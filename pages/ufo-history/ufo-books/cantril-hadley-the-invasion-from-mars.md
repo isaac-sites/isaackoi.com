@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cantril, Hadley “The Invasion from Mars”"
 description: "Brief review to be added of Hadley Cantril 's book “ The Invasion from Mars ” ( 1940 ) (available on Amazon USA and on Amazon UK )"

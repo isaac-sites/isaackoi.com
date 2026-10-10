@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Pursglove, Paul David (ed) “Zen in the Art of Close Encounters”"
 description: "Brief review to be added of \" Zen in the Art of Close Encounters ” ( 1995 ) (available on Amazon USA and on Amazon UK ) edited by Paul David Pursglove."

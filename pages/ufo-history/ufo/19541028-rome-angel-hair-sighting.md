@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.1028 Rome angel hair sighting"
 description: "Image needed On 28 October 1954 , there was a sighting in Rome by various witnesses, including Clare Boothe Luce, allegedly involving reports of “angel hair”."

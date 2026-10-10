@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Eccles, Tony “A Different Sky: Unusual Sightings and Strange Phenomena over Merseyside”"
 description: "Brief review to be added of Tony Eccles' book “ A Different Sky: Unusual Sightings and Strange Phenomena over Merseyside ” ( 2003 ) (available on Amazon USA and on Amazon UK )."

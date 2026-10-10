@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cooper, William"
 description: "Bill Cooper Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1991 Cooper, William “ Behold a Pale Horse ” ( 1991 ) (available on Amazon USA and on Amazon UK )"

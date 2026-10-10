@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0903 John Lear on CIA involvement"
 description: "John Lear on CIA involvement On 3 September 1966 , an article by John Lear in The Saturday Review revealed the CIA’s involvement in sponsoring the Robertson Panel."

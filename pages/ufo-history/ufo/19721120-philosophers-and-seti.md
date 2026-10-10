@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1972.1120 Philosophers and SETI"
 description: "Philosophers and SETI On 20 November 1972 , a symposium jointly sponsored by NASA and Boston University was held at Boston University to explore the social, philosophic and humanistic impact of SETI."

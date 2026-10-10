@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "UPI “Flying Saucers: A Look Special”"
 description: "Brief review to be added of “ Flying Saucers: A Look Special ” ( 1967 ) (available on Amazon USA and on Amazon UK ), a report/magazine published by the editors of United Press International and Cowles Communications Inc."

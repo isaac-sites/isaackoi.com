@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hoagland, Richard C “The Monuments of Mars”"
 description: "Brief review to be added of Richard C Hoagland 's book “ The Monuments of Mars ” ( 1987 ) (available on Amazon USA and on Amazon UK ). Focuses on the alleged “Face on Mars”."

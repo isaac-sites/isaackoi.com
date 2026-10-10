@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1989.0600 Vallee's arguments against ET"
 description: "Image needed During June 1989 , Jacques Vallee presents a paper entitled “Five Arguments Against the Extraterrestrial Origin of Unidentified Flying Objects” to the conference for the Society for Scientific Exploration."

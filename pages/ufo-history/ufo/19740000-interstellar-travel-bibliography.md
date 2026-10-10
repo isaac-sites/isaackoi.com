@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.0000 Interstellar travel bibliography"
 description: "Image needed During 1974 , the first part of a bibliographyof interstellar travel and communication by Eugene Mallove and Robert Forward published."

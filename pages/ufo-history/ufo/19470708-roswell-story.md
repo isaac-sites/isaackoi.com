@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0708 Roswell story"
 description: "Roswell \"Impact\" Rating = 14 \"Credibility\" Rating = 14 \"Expert\" Rating = 7 \"Strangeness\" Rating = 6 On 8 July 1947 , the Roswell Daily Record prints a story with the headline “RAAF Captures Flying Saucer on Ranch in Roswell Region” . The a..."

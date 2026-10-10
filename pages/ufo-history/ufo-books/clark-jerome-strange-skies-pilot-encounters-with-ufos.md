@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clark, Jerome “Strange Skies: Pilot Encounters with UFOs”"
 description: "Brief review to be added of Jerome Clark 's book “ Strange Skies: Pilot Encounters with UFOs ” ( 2003 ) (available on Amazon USA and on Amazon UK )"

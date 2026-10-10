@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fort, Charles “The Book of the Damned”"
 description: "Brief review to be added of Charles Fort 's book “ The Book of the Damned ” ( 1919 ) (available on Amazon USA and on Amazon UK ). Complete text of Charles Fort’s “ The Book of the Damned ” available online at: http://www.resologist.net/dam..."

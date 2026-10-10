@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Glenday, Craig “The UFO Investigator’s Handbook”"
 description: "Brief review to be added of Craig Glenday's book “ The UFO Investigator’s Handbook ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

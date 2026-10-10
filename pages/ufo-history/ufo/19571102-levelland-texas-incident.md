@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1102 Levelland, Texas incident"
 description: "Image needed The Levelland, Texas incident, involving reports of interference with car headlights and engines, occurred during the night of 2/3 November 1957 . This incident is Case 16 in Isaac Koi's \"Top 100\" article , since it was referr..."

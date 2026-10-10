@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.1017 Oloron \"angel hair\" incident"
 description: "Image needed On 17 October 1952 the Oloron, France incident occurred involving reports of “angel hair” being seen. This incident is Case 98 in Isaac Koi's \"Top 100\" article , since it was referred to in 28 of the books covered by that arti..."

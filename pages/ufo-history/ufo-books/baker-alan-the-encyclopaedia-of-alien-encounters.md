@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Baker, Alan “The Encyclopaedia of Alien Encounters”"
 description: "Brief review to be added of Alan Baker 's book “ The Encyclopaedia of Alien Encounters ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

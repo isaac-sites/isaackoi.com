@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1961.0919 Hill abduction"
 description: "Image needed Betty and Barney Hill claim to have been abducted during night of 19th-20th September 1961 while driving near Indian Head, just south of Littleton, New Hampshire, USA. (Commonly referred to as “the Hill’s Abduction”). This inc..."

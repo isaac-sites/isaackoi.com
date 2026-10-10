@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1999.0524 Ukraine LINCOS transmissions"
 description: "Ukraine LINCOS transmissions On 24 May 1999 , there was the first of a series of deliberate interstellar broadcasts from the Evpatoria Deep Space Center antenna, Ukraine by the Encounter 2001 organisation. The message for the “cosmic call”..."

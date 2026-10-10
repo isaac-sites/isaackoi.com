@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.0820 Clyde Tombaugh sighting"
 description: "Clyde Tombaugh sighting On 20 August 1949 , astronomer Clyde Tombaugh had a sightingat Las Cruces, New Mexico. This incident is Case 43 in Isaac Koi's \"Top 100\" article , since it was referred to in 57 of the books covered by that article."

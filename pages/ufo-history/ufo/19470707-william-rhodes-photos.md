@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0707 William Rhodes photos"
 description: "Image needed On 7 July 1947 , William H Rhodes of Phoenix, Arizona claims to have taken 2 photographs of a flying disk over Phoenix."

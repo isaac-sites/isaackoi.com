@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Tomas, Andrew"
 description: "Andrew Tomas Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1971 Tomas, Andrew “We Are Not The First”"

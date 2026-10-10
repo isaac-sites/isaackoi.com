@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1982.0000 Movie “The Thing”"
 description: "“The Thing” The movie “ The Thing ” was a remake, directed by John Carpenter, of “ The Thing from Another World ” ( 1951 )."

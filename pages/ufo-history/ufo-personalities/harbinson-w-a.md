@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Harbinson, W A"
 description: "W A Harbinson Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1980 Harbinson, W A “ Genesis ” ( 1980 ) (available on Amazon USA and on Amazon UK ). 1991 Harbinson, W A “Inception : Projekt Saucer Book..."

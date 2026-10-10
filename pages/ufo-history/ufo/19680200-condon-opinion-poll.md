@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0200 Condon opinion poll"
 description: "Condon opinion poll During February 1968 , a study was conducted by the Opinion Research Corporation for the University of Colorado UFO project. 87% of those who said they had seen a UFO stated that they had reported it to no one, other th..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fitzgerald, Randall “The Cosmic Test Tube”"
 description: "Brief review to be added of Randall Fitzgerald 's book “ The Cosmic Test Tube ” ( 1998 ) (available on Amazon USA and on Amazon UK )"

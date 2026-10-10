@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bishop, Greg “Project BETA”"
 description: "Brief review to be added of Bishop, Greg “ Project BETA : The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth ” ( 2005 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0915 Markowitz on UFO impractically"
 description: "Image needed On 15 September 1967 , the journal Science publishes an article by William Markowitz entitled “The Physics and Metaphysics of Unidentified Flying Objects” arguing that UFOs could not be extraterrestrial, alleging that interste..."

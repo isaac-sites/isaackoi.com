@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Machlin, Milt “The Total UFO Story”"
 description: "Brief review to be added of Milt Machlin's book “ The Total UFO Story ” ( 1979 ) (available on Amazon USA and on Amazon UK )"

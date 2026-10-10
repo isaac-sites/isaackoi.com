@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lorgen, Eve “The Love Bite : Alien Interference in Human Love Relationships”"
 description: "Brief review to be added of Eve Lorgen's book “ The Love Bite : Alien Interference in Human Love Relationships ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

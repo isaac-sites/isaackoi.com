@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clark, Andrew J H and Clark, David H “Aliens”"
 description: "Brief review to be added of Andrew J H Clark and David H Clark's book “ Aliens ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

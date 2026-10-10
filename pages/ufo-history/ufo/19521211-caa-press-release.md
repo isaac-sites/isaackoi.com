@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.1211 CAA press release"
 description: "CAA press release On 11 December 1952 , the US Civil Aeronautics Administration (“CAA”) issues a press release relating to its report on the radar detection of unidentified targets during the summer of 1952 ."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Langford, David"
 description: "Image needed Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1979 Langford, David “ An account of a meeting with denizens of another world : 1871 ” ( 1979 ) (available on Amazon USA and on Amazon UK )..."

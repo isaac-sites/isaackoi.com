@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Gordon, Stuart “The Paranormal - An Illustrated Encyclopedia”"
 description: "Brief review to be added of Stuart Gordon's book “ The Paranormal - An Illustrated Encyclopedia ” (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1998.0000 “Robotic Interstellar Exploration”"
 description: "Image needed During 1998 , a NASA workshop was co-ordinated by Henry M Harris entitled “Robotic Interstellar Exploration in the Next Century”."

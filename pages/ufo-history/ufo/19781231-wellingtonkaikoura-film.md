@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.1231 Wellington/Kaikoura film"
 description: "Image needed The Wellington/Kaikoura, New Zealand incident involved filming of alleged UFOs during the night of 30 th -31 st December 1978 (shortly after midnight) on a flight from Christchurch to Blenheim in New Zealand, involving TV repo..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clarke, David “The UFO Files : The Inside Story of Real-Life Sightings”"
 description: "Brief review to be added of David Clarke 's book “ The UFO Files : The Inside Story of Real-Life Sightings ” ( 2009 ) (available on Amazon USA and on Amazon UK )."

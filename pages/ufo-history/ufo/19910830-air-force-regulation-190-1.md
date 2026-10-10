@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1991.0830 Air Force Regulation 190-1"
 description: "Air Force Regulation 190-1 On 30 August 1991 , Air Force Regulation 190-1 (“AFR 190-1”) provided a statement to be used by the US Air Force to respond to queries regarding UFOs."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1945.0300 Shaver Mystery"
 description: "Image needed “I Remember Lemuria!”, based on material by Richard S Shaver , published in the March 1945 issue of Amazing Stories. This was the first part of the Shaver Mystery."

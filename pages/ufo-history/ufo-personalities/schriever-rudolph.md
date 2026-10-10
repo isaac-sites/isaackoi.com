@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Schriever, Rudolph"
 description: "Rudolph Schriever On 30 March 1950 , the West German magazine “Der Spiegel” reported Flugkapitan Rudolph Schriever as claiming to have begun work on a flying disc. Later reports stated Schriever claimed to begin work in the spring of 1941,..."

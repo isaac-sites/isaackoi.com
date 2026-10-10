@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Kurland, Michael “The Complete Idiot's Guide to Extraterrestrial Intelligence”"
 description: "Brief review to be added of Michael Kurland's book “ The Complete Idiot's Guide to Extraterrestrial Intelligence ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

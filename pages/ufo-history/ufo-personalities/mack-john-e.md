@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Mack, John E"
 description: "John E Mack Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1994 Mack, John E “ Abduction : Human Encounters with Aliens ” ( 1994 ) (available on Amazon USA and on Amazon UK ) 1999 Mack, John E “ Pass..."

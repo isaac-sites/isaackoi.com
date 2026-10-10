@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Birnes, William “The UFO Magazine UFO Encyclopedia”"
 description: "Brief review to be added of Birnes, William “ The UFO Magazine UFO Encyclopedia ” ( 2004 ) (available on Amazon USA and on Amazon UK )"

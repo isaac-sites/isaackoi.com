@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Salla, Michael"
 description: "Michael Salla Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2004 Salla, Michael “ Exopolitics : Political Implications of the Extraterrestrial Presence ” ( 2005 ) (available on Amazon USA and on Ama..."

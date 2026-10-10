@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.1021 Jessie Roestenberg encounter"
 description: "Jessie Roestenberg encounter On 21 October 1954 , Mrs Jessie Roestenberg of Ranton, Staffordshire claims to see two figures wearing “ski-suits” in a flying disc."

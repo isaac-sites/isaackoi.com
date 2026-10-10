@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1966.0810 SETI panel discussion"
 description: "SETI panel discussion On 10 August 1966 , a televised panel discussion on SETI was hosted by David Susskind. The panel included Isaac Asimov and Ray Bradbury."

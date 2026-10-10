@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.0000 Straith letter hoax"
 description: "Straith letter hoax During 1957 , George Adamski receives a letter purporting to be signed by “R E Straith” of the US Department of State."

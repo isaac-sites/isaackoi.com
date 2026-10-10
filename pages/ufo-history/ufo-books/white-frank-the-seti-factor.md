@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "White, Frank “The SETI Factor”"
 description: "Brief review to be added of Frank White's book “ The SETI Factor ” ( 1990 ) (available on Amazon USA and on Amazon UK )"

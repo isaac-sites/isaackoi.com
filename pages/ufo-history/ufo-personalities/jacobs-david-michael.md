@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Jacobs, David Michael"
 description: "David Michael Jacobs Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1975 Jacobs, David Michael “ The UFO Controversy in America ” ( 1975 ) (available on Amazon USA and on Amazon UK ) 1992 Jacobs, Dav..."

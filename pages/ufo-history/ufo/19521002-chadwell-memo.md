@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.1002 Chadwell memo"
 description: "Chadwell memo A further memo from H Marshal Chadwell (CIA Assistant Director for Scientifc Intelligence) on 2 October 1952 to CIA Director Walter Smith summarised his views and proposed action, including the recommendation that the Directo..."

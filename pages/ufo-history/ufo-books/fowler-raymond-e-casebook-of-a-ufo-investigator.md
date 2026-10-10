@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fowler, Raymond E “Casebook of a UFO Investigator”"
 description: "Brief review to be added of Raymond E Fowler 's book “ Casebook of a UFO Investigator ” ( 1981 ) (available on Amazon USA and on Amazon UK )"

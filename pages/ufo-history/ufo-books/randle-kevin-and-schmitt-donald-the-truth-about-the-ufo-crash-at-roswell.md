@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randle, Kevin and Schmitt, Donald “The Truth About the UFO Crash At Roswell”"
 description: "Brief review to be added of “ The Truth About the UFO Crash At Roswell ” ( 1994 ) (available on Amazon USA and on Amazon UK ) by Kevin Randle and Donald Schmitt ."

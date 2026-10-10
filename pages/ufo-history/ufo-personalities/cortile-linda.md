@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Cortile, Linda"
 description: "Linda Cortile \" Linda Cortile ” (a pseudonym for Linda Napolitano ) was alleged;lyabducted in downtown Manhattan, New York City early in the morning on 30 November 1989 . See the entry relating the alleged abduction of \"Linda Cortile\" ."

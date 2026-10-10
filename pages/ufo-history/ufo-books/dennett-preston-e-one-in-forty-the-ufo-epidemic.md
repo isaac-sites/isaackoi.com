@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Dennett, Preston E “One in Forty : The UFO Epidemic”"
 description: "Brief review to be added of Preston Dennett 's book “ One in Forty : The UFO Epidemic ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

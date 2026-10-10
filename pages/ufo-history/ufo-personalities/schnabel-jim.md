@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Schnabel, Jim"
 description: "Jim Schnabel Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1993 Schnabel, Jim “ Round in Circles ” ( 1993 ) (available on Amazon USA and on Amazon UK ) 1994 Schnabel, Jim “ Dark White ” ( 1994 ) (av..."

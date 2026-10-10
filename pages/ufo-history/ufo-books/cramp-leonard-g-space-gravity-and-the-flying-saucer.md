@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cramp, Leonard G “Space, Gravity and the Flying Saucer”"
 description: "Brief review to be added of Leonard G Cramp 's book “ Space, Gravity and the Flying Saucer ” ( 1954 ) (available on Amazon USA and on Amazon UK )"

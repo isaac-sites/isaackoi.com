@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0921 North Sea sighting"
 description: "North Sea sighting On 21 September 1952 , six RAF pilots over the North Sea report seeing a shiny, spherical object coming from the direction of NATO’s Operation Mainbrace fleet."

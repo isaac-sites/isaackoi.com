@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1966.0300 O’Brien Committee report"
 description: "O’Brien Committee report During March 1966 , a short report was produced by the “Ad Hoc Committee to Review Project Blue Book”, under the chairmanship of Dr. Brian O'Brien . For relevant references, see the entry for the meeting of the O’B..."

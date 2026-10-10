@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bowen, Charles (Ed.) “The Humanoids”"
 description: "Brief review to be added of “ The Humanoids ” ( 1969 ), edited by Charles Bowen (available on Amazon USA and on Amazon UK )"

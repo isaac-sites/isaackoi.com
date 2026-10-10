@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hobana, Ion and Weverbergh, Julien “UFO’s from behind the iron curtain”"
 description: "Brief review to be added of “ UFO's from behind the iron curtain ” ( 1974 ) (available on Amazon USA and on Amazon UK ) by Ion Hobana and Julien Weverbergh."

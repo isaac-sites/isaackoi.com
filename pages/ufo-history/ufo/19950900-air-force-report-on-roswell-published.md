@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1995.0900 Air Force report on Roswell published"
 description: "Air Force report on Roswell published During September 1995 , the Government Printing Office published “The Roswell Report: Fact vs Fiction in the New Mexico Desert”, being the previously released Air Force report (8 September 1994 ) on th..."

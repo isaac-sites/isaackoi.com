@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1955.0523 Dorothy Kilgallen articles"
 description: "Dorothy Kilgallen articles On 23 May 1954, articles by Kilgallen, Dorothy of the New York Journal-American published in various American newspapers claimed she had been told by “a British official of cabinet rank” that British scientists a..."

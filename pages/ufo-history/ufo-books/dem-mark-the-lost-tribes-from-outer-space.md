@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Dem, Mark “The Lost Tribes From Outer Space”"
 description: "Brief review to be added of Mark Dem's book “ The Lost Tribes From Outer Space ” ( 1977 ) (available on Amazon USA and on Amazon UK )"

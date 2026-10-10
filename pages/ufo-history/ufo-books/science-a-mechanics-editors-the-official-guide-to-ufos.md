@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Science & Mechanics (Editors) “The Official Guide to UFOs”"
 description: "Brief review to be added of “ The Official Guide to UFOs ”, edited by the editors of Science & Mechanics ( 1968 ) (available on Amazon USA and on Amazon UK )."

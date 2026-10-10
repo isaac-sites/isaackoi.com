@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1115 DoD Levelland press release"
 description: "DoD Levelland press release On 15 November 1957 , the US Department of Defense issued a news release in relation to specific UFO reports, including Levelland."

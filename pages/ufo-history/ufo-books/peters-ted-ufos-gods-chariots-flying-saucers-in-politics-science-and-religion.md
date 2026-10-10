@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Peters, Ted “UFOs-God's Chariots?: Flying Saucers in Politics, Science and Religion”"
 description: "Brief review to be added of “ UFOs-God's Chariots?: Flying Saucers in Politics, Science and Religion ” ( 1977 ) (available on Amazon USA and on Amazon UK ) by Ted Peters ,"

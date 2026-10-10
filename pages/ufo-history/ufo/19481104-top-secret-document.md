@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.1104 Top Secret document"
 description: "Top Secret document On 4 November 1948 , a formerly Top Secret Telecon (telephone conversation) Transcript (TT) was sent from U S Air Force, Europe (USAFE) intelligence (A-2) to Headquarters, Air Force Director of Intelligence (DI) at the..."

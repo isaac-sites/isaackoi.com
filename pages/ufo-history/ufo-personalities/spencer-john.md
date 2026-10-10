@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Spencer, John"
 description: "John Spencer Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1987 Evans, Hilary and Spencer, John “ UFO: 1947 - 1987 ” ( 1987 ) (available on Amazon USA and on Amazon UK ) 1988 Spencer, John and Evans..."

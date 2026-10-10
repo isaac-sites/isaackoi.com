@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.1204 Gemini 7 sighting"
 description: "Gemini 7 sighting The Gemini 7 report of a “bogey” involving Command pilot Frank Borman and co- pilot Jim Lovell occurred on 4 December 1965 . This incident is Case 82 in Isaac Koi's \"Top 100\" article , since it was referred to in 34 of th..."

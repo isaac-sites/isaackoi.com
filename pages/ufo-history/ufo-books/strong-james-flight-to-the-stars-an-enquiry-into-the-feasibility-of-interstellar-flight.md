@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Strong, James “Flight to the Stars : An Enquiry into the Feasibility of Interstellar Flight”"
 description: "Brief review to be added of James Strong's book “ Flight to the Stars : An Enquiry into the Feasibility of Interstellar Flight ” ( 1965 ) (available on Amazon USA and on Amazon UK )"

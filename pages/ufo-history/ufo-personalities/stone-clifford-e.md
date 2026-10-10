@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Stone, Clifford E"
 description: "Clifford E Stone Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1997 Stone, Clifford E “ UFOs are Real ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

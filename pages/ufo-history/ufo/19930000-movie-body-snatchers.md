@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1993.0000 Movie “Body Snatchers”"
 description: "“Body Snatchers” The movie “Body Snatchers” ( 1993 ) was further remake of the 1956 movie, “Invasion of the Body Snatchers”"

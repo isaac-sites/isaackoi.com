@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.1011 Wanaque Reservoir sighting"
 description: "Image needed The Wanaque Reservoir (New Jersey) sighting involving Police Sergeant Robert (“Bobby”) Gordon occurred on 11 October 1966 . This was one of a number of reports in the area during, and since, 1966"

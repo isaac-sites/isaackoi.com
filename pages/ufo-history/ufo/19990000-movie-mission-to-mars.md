@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1999.0000 Movie: “Mission to Mars”"
 description: "“Mission to Mars” The movie “ Mission to Mars ” ( 1999 ) was directed by Brian De Palma"

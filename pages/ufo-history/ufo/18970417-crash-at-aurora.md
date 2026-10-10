@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1897.0417 Crash at Aurora"
 description: "Image needed \"Impact\" Rating = 13 \"Credibility\" Rating = 4 \"Expert\" Rating = 5 \"Strangeness\" Rating = 13 Alleged airship crash in Aurora, Texas on 17th April 1897 involving reports of a badly disfigured pilot not an inhabitant of this worl..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.0800 Estimate of the Situation"
 description: "Estimate of the Situation In or around August 1948 , Project Sign staff allegedly prepared an “Estimate of the Situation” that allegedly reached the conclusion that flying saucers were real and came from outer space. The alleged existence..."

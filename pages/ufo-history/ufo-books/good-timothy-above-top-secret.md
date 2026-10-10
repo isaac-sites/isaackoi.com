@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Good, Timothy “Above Top Secret”"
 description: "Brief review to be added of Timothy Good 's book “ Above Top Secret ” ( 1987 ) (available on Amazon USA and on Amazon UK ) Later published in a revised edition as “ Beyond Top Secret ” ( 1996 ) (available on Amazon USA and on Amazon UK ).."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.1102 \"Dr. X\" healing encounter"
 description: "Image needed On 2 November 1968 , the “Doctor X” UFO encounter allegedly occurred, involving claims of healing. (Commonly referred to as “The case of Dr. X.” or “The healing of Dr X.”). This incident is Case 77 in Isaac Koi's \"Top 100\" art..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1989.0920 “Unsolved Mysteries” on Roswell"
 description: "Image needed On 20 September 1989 , NBC broadcasts an episode of “Unsolved Mysteries” with 30 minute segment on Roswell. Stanton T Friedman acted as technical advisor."

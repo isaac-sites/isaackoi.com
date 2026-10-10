@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ashpole, Edward"
 description: "Edward Ashpole Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1989 Ashpole, Edward “ The Search for Extraterrestrial Intelligence “ (Revised edition published in 1997 under the title “Where is Everyb..."

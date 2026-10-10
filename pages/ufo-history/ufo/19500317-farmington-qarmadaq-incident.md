@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0317 Farmington \"armada\" incident"
 description: "\"Battle of Los Angeles\" \"Impact\" Rating = 11 \"Credibility\" Rating = 14 \"Expert\" Rating = 7 \"Strangeness\" Rating = 5 On 17 March 1950 , the Farmington, New Mexico incident involved reports of an “armada” of flying saucers. This incident is..."

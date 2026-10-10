@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1987.0000 Gallup poll in Britain"
 description: "Gallup poll in Britain During 1987 , a Gallup Poll in Britain includes questions on UFOs."

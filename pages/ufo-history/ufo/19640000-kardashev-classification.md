@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0000 Kardashev classification"
 description: "Kardashev classification During 1964 , Nikolai Kardashev proposed a threefold categorization of extraterrestrial cilivizations in terms of the power levels that could utilise in his article “Transmission of Information by Extraterrestrial..."

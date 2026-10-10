@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1985.0105 Project Hessdalen report"
 description: "Image needed On 5 January 1985 , Project Hessdalen's final technical report was produced."

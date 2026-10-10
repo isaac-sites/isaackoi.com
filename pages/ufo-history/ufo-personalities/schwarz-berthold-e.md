@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Schwarz, Berthold E"
 description: "Berthold E Schwarz Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1983 Schwarz, Berthold E “UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome” ( 1983 ) (available on Amazon USA and o..."

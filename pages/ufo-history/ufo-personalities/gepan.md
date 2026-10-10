@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "GEPAN"
 description: "GEPAN Brief comments to be added on this group. The French “Groupe d’Etude des Phenomenes Aerospatiaux Non-Identifies” (“GEPAN”) was created in May 1977 . GEPAN became the “Service d’Expertise des Phenomenes de Rentrees Atmospheriques” (“S..."

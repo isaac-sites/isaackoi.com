@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1993.0131 Bonnybridge meeting"
 description: "Bonnybridge meeting On 31 January 1993 , a public meeting was arranged by Billy Buchanan at the Norwood Hotel to discuss UFO report in Bonnybridge."

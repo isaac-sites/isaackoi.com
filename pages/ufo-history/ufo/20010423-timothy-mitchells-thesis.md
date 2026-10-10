@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "2001.0423 Timothy Mitchell's thesis"
 description: "Image needed Dissertation : Mitchell, Timothy A “It came from inner space: Faith, Science, Conquest and The War of the Worlds” (dated 23 April 2001 ). Submitted to Georgetown University, Washington DC in partial fulfilment of a Masters of..."

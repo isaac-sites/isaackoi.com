@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1962.0700 APRO on NICAP"
 description: "Image needed During July 1962 , “The APRO Bulletin” contains an editorial by Coral Lorenzen alleging that NICAP was a lobbying group, heightening the hostility between NICAP and APRO ."

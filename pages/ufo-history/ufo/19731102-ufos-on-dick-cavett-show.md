@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.1102 UFOs on Dick Cavett Show"
 description: "Image needed On 2 November 1973 , ABC’s “The Dick Cavett Show” features discussions of UFOs, featuring Charles Hickson , Carl Sagan , Laurence Coyne and others."

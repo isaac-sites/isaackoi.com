@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Blackmore, Susan"
 description: "Susan Blackmore Brief comments to be added on this individual. During 1994, BBC 2 broadcast a Horizon episode devoted to alleged alien abductions, presented by Dr Susan Blackmore ."

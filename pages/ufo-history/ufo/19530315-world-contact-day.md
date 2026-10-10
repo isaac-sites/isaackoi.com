@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0315 “World Contact Day”"
 description: "Image needed On 15 March 1878, “World Contact Day” was organised by Albert K Bender , involving a mass attempt to telepathically broadcast a message to extraterrestrials beginning “Calling occupants of interplanetary craft!”."

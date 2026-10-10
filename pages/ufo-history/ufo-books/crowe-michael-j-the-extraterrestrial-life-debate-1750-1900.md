@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Crowe, Michael J “The Extraterrestrial Life Debate, 1750-1900”"
 description: "Brief review to be added of Crowe, Michael J 's book “ The Extraterrestrial Life Debate, 1750- 1900 ” ( 1986 ) (available on Amazon USA and on Amazon UK )"

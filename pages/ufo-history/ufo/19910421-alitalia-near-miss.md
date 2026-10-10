@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1991.0421 Alitalia near miss"
 description: "Alitalia near miss On 21 April 1991 , the pilot of Alitalia Flight AZ 284 reports a near collision with a unidentified flying object during his descent into Heathrow airport"

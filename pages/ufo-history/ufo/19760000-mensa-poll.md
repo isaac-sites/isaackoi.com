@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1976.0000 MENSA poll"
 description: "MENSA poll During 1976 , MENSA International polled its members on UFOs. 64% of respondents indicated they believed UFOs “are spaceships from other planets”."

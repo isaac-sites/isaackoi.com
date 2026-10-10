@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.0107 Captain Mantell incident"
 description: "Captain Mantell incident \"Impact\" Rating = 14 \"Credibility\" Rating = 13 \"Expert\" Rating = 8 \"Strangeness\" Rating = 4 On 7 January 1948 , Captain Thomas F Mantell Jr (Air National Guard F-51 Mustang fighter pilot) dies during attempted inte..."

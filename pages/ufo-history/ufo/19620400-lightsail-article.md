@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1962.0400 Lightsail article"
 description: "Image needed Robert Forward proposed using a lightsail in his article “Pluto - the Gateway to the Stars” in April 1962 issue of the magazine “Missiles and Rockets”. The article was reprinted in “Science Digest” in 1962 ."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1970.1106 Status inconsistency"
 description: "Image needed On 6 November 1970 , the journal Science includes an article by Donald Warren entitled \"Status inconsistency theory and flying saucer sightings\""

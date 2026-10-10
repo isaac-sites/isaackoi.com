@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1971.0400 Industrial Research poll"
 description: "Industrial Research poll During April 1971 , the journal Industrial Research publishes the results of a poll of its readers conducted in January 1971 , indicating that 54% believed that UFOs “definitely” (20%) or “probably” (34%) existed."

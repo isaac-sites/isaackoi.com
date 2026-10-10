@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Catoe, Lynn E  “UFOs and Related Subjects: An Annotated Bibliography”"
 description: "Brief review to be added of Lynn E Catoe's “ UFOs and Related Subjects: An Annotated Bibliography ” ( 1969 ) (available on Amazon USA and on Amazon UK )"

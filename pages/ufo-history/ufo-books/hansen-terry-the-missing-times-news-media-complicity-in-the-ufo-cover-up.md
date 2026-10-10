@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hansen, Terry “The Missing Times : News Media Complicity in the UFO Cover-Up”"
 description: "Brief review to be added of Terry Hansen 's book “ The Missing Times : News Media Complicity in the UFO Cover-Up : News Media Complicity in the UFO Cover-Up ” ( 2000 ) (available on Amazon USA and on Amazon UK )"

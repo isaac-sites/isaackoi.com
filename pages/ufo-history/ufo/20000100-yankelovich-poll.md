@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2000.0100 Yankelovich poll"
 description: "Yankelovich poll During January 2000 , the Yankelovich polling organization interviewed 1,546 adults for Life magazine. 43 per cent of respondents indicated they believed UFOs were real as opposed to “the product of people’s imagination”"

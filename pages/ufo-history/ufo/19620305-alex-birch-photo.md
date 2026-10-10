@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1962.0305 Alex Birch photo"
 description: "Alex Birch photo On 5 March 1962 , a UFO photograph was allegedly taken by Alex Birch in Mosborough, near Sheffield, England."

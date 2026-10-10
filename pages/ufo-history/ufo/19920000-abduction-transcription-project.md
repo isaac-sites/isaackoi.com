@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1992.0000 Abduction Transcription Project"
 description: "Image needed During 1992 , Dan Wright devised MUFON ’s Alien Abduction Transcription Project."

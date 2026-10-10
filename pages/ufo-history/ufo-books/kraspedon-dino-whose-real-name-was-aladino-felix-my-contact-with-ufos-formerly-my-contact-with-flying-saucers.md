@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Kraspedon, Dino (whose real name was Aladino Felix) “My Contact With UFOs” (Formerly “My contact with Flying Saucers”)"
 description: "Brief review to be added of “ My Contact With UFOs ” ( 1959 ) (available on Amazon USA and on Amazon UK ) by Dino Kraspedon (whose real name was Aladino Felix). Formerly published as “My contact with Flying Saucers”."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Jacobs, David Michael “The UFO Controversy in America”"
 description: "Brief review to be added of David Michael Jacobs 's book “ The UFO Controversy in America ” ( 1975 ) (available on Amazon USA and on Amazon UK )"

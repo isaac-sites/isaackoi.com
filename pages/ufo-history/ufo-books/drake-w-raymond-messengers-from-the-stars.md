@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Drake, W Raymond “Messengers From the Stars”"
 description: "Brief review to be added of W Raymond Drake 's book “ Messengers From the Stars ” (Formerly “Gods or Spacemen?”) ( 1964 ) (available on Amazon USA and on Amazon UK )"

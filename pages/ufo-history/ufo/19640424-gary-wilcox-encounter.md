@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0424 Gary Wilcox encounter"
 description: "Image needed On 24 April 1964 , there was an alleged contact with UFO occupants involving dairy farmer Gary T Wilcox in Newark Valley, New York. (Commonly referred to as “the Gary Wilcox encounter”). This incident is Case 72 in Isaac Koi's..."

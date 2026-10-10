@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randles, Jenny and Warrington, Peter  “Science and the UFOs”"
 description: "Brief review to be added of “ Science and the UFOs ” ( 1985 ) (available on Amazon USA and on Amazon UK ) by Jenny Randles and Peter Warrington ."

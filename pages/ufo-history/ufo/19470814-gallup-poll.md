@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0814 Gallup poll"
 description: "Gallup poll On 14 August 1947 , results of first Gallup Poll including questions on UFOs are released, indicating that 9 out of 10 Americans had heard of the phenomenon. One question was “What do you think these saucers are?”. The response..."

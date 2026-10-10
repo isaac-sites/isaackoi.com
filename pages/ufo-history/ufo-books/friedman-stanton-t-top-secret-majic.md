@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Friedman, Stanton T “Top Secret – MAJIC”"
 description: "Brief review to be added of Stanton Friedman 's book “ Top Secret – MAJIC ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.0215 Stephen Darbishire photo"
 description: "Stephen Darbishire photo On 15 February 1954 , thirteen-year-old Stephen Darbishire allegedly takes a UFO photo near Lake Coniston, Cumbria, England. (Sometimes referred to as “the Coniston Saucer”). This incident is Case 91 in Isaac Koi's..."

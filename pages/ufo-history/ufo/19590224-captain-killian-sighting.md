@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0224 Captain Killian sighting"
 description: "Image needed On 24 February 1959 there was a UFO sighting involving Captain Peter W Killianand co-pilot John Dee on an American Airlines cargo plane during a flight from Newark to Detroit."

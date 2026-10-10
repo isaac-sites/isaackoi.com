@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hopkins, Budd “Intruders – The Incredible Visitations at Copley Woods”"
 description: "Brief review to be added of Budd Hopkins 's book “ Intruders – The Incredible Visitations at Copley Woods ” ( 1987 ) (available on Amazon USA and on Amazon UK ). Focuses on the alleged abductions of “Kathie Davis” (a pseudonym for Debbie J..."

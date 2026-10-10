@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.1108 Air Force Regulation 80-17A"
 description: "Air Force Regulation 80-17A On 11 November 1966 , Air Force Regulation (“AFR”) 80-17 dated 19 September 1966 was amended (by Air Force Regulation 80-17A) to accommodate the Condon study at the University of Colorado."

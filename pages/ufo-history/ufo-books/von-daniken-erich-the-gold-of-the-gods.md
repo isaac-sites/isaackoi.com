@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Von Daniken, Erich “The Gold of the Gods”"
 description: "Brief review to be added of Erich Von Daniken 's book “ The Gold of the Gods ” ( 1972 ) (available on Amazon USA and on Amazon UK )"

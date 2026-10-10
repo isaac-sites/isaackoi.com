@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fawcett, Bill (ed) “Making Contact”"
 description: "Brief review to be added of Bill Fawcett's book “ Making Contact ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

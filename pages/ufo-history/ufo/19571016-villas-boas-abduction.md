@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1016 Villas-Boas abduction"
 description: "Image needed On 16 October 1957 , Antonia Villas-Boas claimed to have been abducted at about 1am, near Sao Francico de Salles in Minas Gerais, Brazil This incident is Case 7 in Isaac Koi's \"Top 100\" article , since it was referred to in 17..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.1114 Forli tractor incident"
 description: "Image needed On 14 November 1954, a UFO sighting occurred near Forli in Italy, involving the reported failure of a petrol-driven tractor next to a diesel-driven tractor."

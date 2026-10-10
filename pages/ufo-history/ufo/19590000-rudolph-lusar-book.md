@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0000 Rudolph Lusar book"
 description: "Image needed During 1959 , Major Rudolph Lusar wrote “ German Secret Weapons of World War II ” ( 1959 ) (available on Amazon USA and on Amazon UK )"

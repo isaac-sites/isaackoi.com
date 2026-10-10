@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Dutta, Rex “Reality of Occult/Yoga/Meditation/Flying Saucers”"
 description: "Brief review to be added of Rex Dutta 's book “ Reality of Occult/Yoga/Meditation/Flying Saucers ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

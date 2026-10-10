@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0400 Sturrock astronomers survey"
 description: "Sturrock astronomers survey During April 1977 results were released of a survey by Dr Peter Sturrock of professional and amateur astronomers of the American Astronomical Society (“AAS”) regarding UFOs. (Commonly referred to as “the Sturroc..."

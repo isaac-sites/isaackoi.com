@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1955.1025 USAF Press Release"
 description: "IUSAF Press Release On 25 October 1955 , the US Air Force issues press release which purports to summarise Project Blue Book Special Report Number 14."

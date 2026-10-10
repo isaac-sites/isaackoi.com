@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Kannenberg, Ida M"
 description: "Ida M Kannenberg Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1995 Kannenberg, Ida M “Project Earth”"

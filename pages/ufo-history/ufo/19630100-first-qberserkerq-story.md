@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1963.0100 First \"Berserker\" story"
 description: "Image needed During January 1963 , Fred Saberhagen's “Without a Thought” (also published as “Fortress Ship”) was published. This was the first of the long-running “Berserker” stories. The first Berserker novel (“Berserker”) was published i..."

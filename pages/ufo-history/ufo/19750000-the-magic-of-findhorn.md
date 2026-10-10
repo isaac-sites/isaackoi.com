@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.0000 “The magic of Findhorn”"
 description: "“The magic of Findhorn” During 1975 , Paul Hawken wrote “The magic of Findhorn” about the new age community at Findhorn, Scotland."

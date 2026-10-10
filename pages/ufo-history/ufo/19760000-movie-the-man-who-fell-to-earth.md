@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1976.0000 Movie “The Man Who Fell to Earth”"
 description: "“The Man Who Fell to Earth” The movie “ The Man Who Fell to Earth ” ( 1976 ) was directed by Nicolas Roeg. It was based on a novel of the same title by Walter Trevis. It starred David Bowie ."

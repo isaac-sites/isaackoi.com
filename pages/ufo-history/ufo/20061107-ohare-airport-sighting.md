@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2006.1107 O’Hare airport sighting"
 description: "Image needed On 7 November 2006 , there was a sighting at O’Hare airport in the USA."

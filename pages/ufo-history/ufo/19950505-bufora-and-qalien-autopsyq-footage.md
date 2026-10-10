@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1995.0505 BUFORA and \"alien autopsy\" footage"
 description: "BUFORA and \"alien autopsy\" footage On 5 May 1995 , the “alien autopsy” footage was shown at a BUFORA press conference held at the London Museum."

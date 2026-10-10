@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sagan, Carl and Page, Thornton (Editors) “UFO's: A Scientific Debate”"
 description: "Brief review to be added of “ UFO's: A Scientific Debate ” ( 1972 ) (available on Amazon USA and on Amazon UK ) edited by Carl Sagan and Thornton Page ."

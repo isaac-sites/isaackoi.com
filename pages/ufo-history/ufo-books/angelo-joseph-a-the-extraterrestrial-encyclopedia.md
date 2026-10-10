@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Angelo, Joseph A “The Extraterrestrial Encyclopedia”"
 description: "Brief review to be added of Joseph A Angelo's book “ The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space ” ( 1985 ) (available on Amazon USA and on Amazon UK )"

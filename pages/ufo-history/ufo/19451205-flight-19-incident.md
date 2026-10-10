@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1945.1205 Flight 19 incident"
 description: "Flight 19 incident \"Impact\" Rating = 13 \"Credibility\" Rating = 12 \"Expert\" Rating = 7 \"Strangeness\" Rating = 5 On 5 December 1945 , the Flight 19 incident (involving 5 Avenger torpedo bombers) occurred. Related by some authors to UFOs and/..."

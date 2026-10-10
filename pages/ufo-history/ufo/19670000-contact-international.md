@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0000 Contact International"
 description: "Contact International During 1967 , Contact International was founded by Brinsley Le Poer Trench (the Earl of Clancarty)."

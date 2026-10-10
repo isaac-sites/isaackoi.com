@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clarke, David"
 description: "Dave Clarke Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1990 Clarke, David and Roberts, Andy “ Phantoms of the Sky ” ( 1990 ) (available on Amazon USA and on Amazon UK ) 2000 Randles, Jenny and Cl..."

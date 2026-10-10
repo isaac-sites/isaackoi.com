@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0210 “The Bellero Shield”"
 description: "Image needed The episode of “The Outer Limits” entitled “The Bellero Shield” was broadcast on 10 February 1964 ."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0325 “Swamp Gas Theory”"
 description: "Image needed On 24 January 1966 .0325, the infamous “Swamp Gas Theory” was offered by Dr J Allen Hynek at a press conference."

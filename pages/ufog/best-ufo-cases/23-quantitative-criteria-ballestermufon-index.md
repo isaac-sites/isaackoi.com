@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "23:  Quantitative criteria : Ballester/MUFON index"
 description: "“ Best UFO Cases ” by Isaac Koi PART 23: Quantitative criteria : Ballester/MUFON index Introduction The most detailed attempt made thus far to put forward a method for the quantitative assessment of UFO reports is probably the Ballester-Gu..."

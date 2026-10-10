@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "10. Consensus lists : National Enquirer Panel"
 description: "“ Best UFO Cases ” by Isaac Koi PART 10: Consensus lists : National Enquirer Panel Many UFO researchers have complained about ridicule of UFO witnesses, arguing that a fear of ridicule has resulted in many UFO witnesses failing to report t..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Keyhoe, Donald E"
 description: "Donald E Keyhoe Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1950 Keyhoe, Donald E “ The Flying Saucers are Real ” ( 1950 ) (available on Amazon USA and on Amazon UK ). 1953 Keyhoe, Donald E “ Flyi..."

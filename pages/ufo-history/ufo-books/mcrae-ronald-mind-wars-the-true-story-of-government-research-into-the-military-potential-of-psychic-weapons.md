@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "McRae, Ronald “Mind Wars: The true story of government research into the military potential of psychic weapons”"
 description: "Brief review to be added of Ronald McRae's book “ Mind Wars: The true story of government research into the military potential of psychic weapons ” ( 1984 ) (available on Amazon USA and on Amazon UK )"

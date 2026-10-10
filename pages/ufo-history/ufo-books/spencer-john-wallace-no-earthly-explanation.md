@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Spencer, John Wallace “No Earthly Explanation”"
 description: "Brief review to be added of John Wallace Spencer 's book “ No Earthly Explanation ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Schwa Corporation"
 description: "Schwa Corporation Brief comments to be added on this entity. The Schwa Corporation was established by Bill Barker in 1992 ."

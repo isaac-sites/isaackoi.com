@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randles, Jenny and Hough, Peter “Looking for the Aliens”"
 description: "Brief review to be added of “ Looking for the Aliens ” ( 1991 ) (available on Amazon USA and on Amazon UK ) by Jenny Randles and Peter Hough ."

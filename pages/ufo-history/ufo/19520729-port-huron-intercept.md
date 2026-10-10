@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0729 Port Huron intercept"
 description: "Image needed On 29 July 1952 , a F-94 attempted an intercept near Port Huron, Michigan."

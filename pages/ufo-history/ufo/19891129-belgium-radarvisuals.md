@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1989.1129 Belgium radar/visuals"
 description: "Image needed On 29 November 1989 , there were UFO radar/visual sightings at Eupen, Belgium. This was one of a number of reports in Belgium from October 1989 to late 1990 , often involving descriptions of a large triangle. This incident is..."

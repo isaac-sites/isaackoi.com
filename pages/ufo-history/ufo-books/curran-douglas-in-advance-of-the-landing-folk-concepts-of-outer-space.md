@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Curran, Douglas “In Advance of the Landing: Folk Concepts of Outer Space”"
 description: "Brief review to be added of Douglas Curran 's book “ In Advance of the Landing: Folk Concepts of Outer Space ” ( 1985 ) (available on Amazon USA and on Amazon UK )"

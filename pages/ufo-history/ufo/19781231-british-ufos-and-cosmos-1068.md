@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.1231 British UFOs and Cosmos 1068"
 description: "British UFOs and Cosmos 1068 On 31 December 1978 , there were UFO sightings across Britain. The re-entry of Russian satellite Cosmos 1068 occurred on same night."

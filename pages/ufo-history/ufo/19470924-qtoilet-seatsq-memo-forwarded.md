@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1947.0924 \"Toilet seats\" memo forwarded"
 description: "\"Toilet seats\" memo forwarded On 24 September 1947 , a memo from FBI Assistant Director D M Ladd to FBI Director J Edgar Hoover summarises, and attaches, the 3 September 1947 memo from Colonel R H Smith (Assistant Chief of Staff Intelligen..."

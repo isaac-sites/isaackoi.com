@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.1200 Alexander's \"New Mental Battlefield”"
 description: "Image needed During December 1980 , an article entitled “The New Mental Battlefield” by Lt. Col. John Alexander was published in Military Review."

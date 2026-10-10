@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "9. Consensus lists : Fortean Times expert poll (2007)"
 description: "“ Best UFO Cases ” by Isaac Koi PART 9: Consensus lists : Fortean Times expert poll (2007) Earlier Parts of this article have considered several earlier polls of ufologist to determine any consensus as to the “best” UFO cases. In particula..."

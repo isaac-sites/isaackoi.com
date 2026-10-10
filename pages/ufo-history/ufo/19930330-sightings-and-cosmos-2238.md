@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1993.0330 Sightings and Cosmos 2238"
 description: "Sightings and Cosmos 2238 Lights were widely reported over Great Britain during night of 30-31 March 1993 . The re-entry of Russian satellite Cosmos 2238 occurred during the same night."

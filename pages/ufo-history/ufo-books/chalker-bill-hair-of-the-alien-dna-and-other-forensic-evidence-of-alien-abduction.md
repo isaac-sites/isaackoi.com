@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Chalker, Bill “Hair of the Alien : DNA and other forensic evidence of alien abduction”"
 description: "Brief review to be added of Bill Chalker 's book “ Hair of the Alien : DNA and other forensic evidence of alien abduction ” ( 2005 ) (available on Amazon USA and on Amazon UK ). Focuses on the abduction experience of Peter Khoury."

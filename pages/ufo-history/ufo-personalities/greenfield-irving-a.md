@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Greenfield, Irving A"
 description: "Image needed Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1967 Greenfield, Irving A “The UFO Report”"

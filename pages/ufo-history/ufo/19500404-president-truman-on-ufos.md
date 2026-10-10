@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0404 President Truman on UFOs"
 description: "Image needed On 4 April 1950 , President Truman reportedly made remarks about UFOs"

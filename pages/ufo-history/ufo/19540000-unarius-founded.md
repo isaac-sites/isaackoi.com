@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1954.0000 Unarius founded"
 description: "Image needed During 1954 , the “Universal Articulate Interdimensional Understanding of Science Academy of Science” (“Unarius”) was founded by Ernest Norman and Ruth Norman."

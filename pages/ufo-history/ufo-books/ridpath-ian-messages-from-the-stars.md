@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ridpath, Ian “Messages from the Stars”"
 description: "Brief review to be added of Ian Ridpath 's book “ Messages from the Stars ” ( 1978 ) (available on Amazon USA and on Amazon UK )"

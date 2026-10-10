@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Schnabel, Jim “Remote Viewers : The Secret History of America’s Psychic Spies”"
 description: "Brief review to be added of Jim Schnabel 's book “ Remote Viewers : The Secret History of America’s Psychic Spies ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

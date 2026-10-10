@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1209 Silpho Moor article"
 description: "Silpho Moor article On 9 December 1957 , an article in the Scarborough Evening News features an object allegedly found on Silpho Moor. The Silpho Moor object has been linked by some researchers to UFOs."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1987.1201 Ilkley Moor photo"
 description: "Ilkley Moor photo On 1 December 1987 , there was an alleged encounter on Ilkley Moor in Yorkshire, England of retired policeman “Philip Spencer” (a pseudonym), involving a purported photograph of a humanoid entity."

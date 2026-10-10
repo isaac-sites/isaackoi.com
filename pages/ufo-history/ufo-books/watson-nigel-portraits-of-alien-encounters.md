@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Watson, Nigel “Portraits of Alien Encounters”"
 description: "Brief review to be added of Nigel Watson 's book “ Portraits of Alien Encounters ” ( 1990 ) (available on Amazon USA and on Amazon UK )"

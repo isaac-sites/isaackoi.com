@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.1200 Brown Mountain Lights article"
 description: "Image needed During December 1968 , Argosy magazine includes an article entitled “Come see the flying saucers” about the Brown Mountain Lights."

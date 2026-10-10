@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "6. Consensus lists : Ronald Story’s poll"
 description: "“ Best UFO Cases ” by Isaac Koi PART 6: Consensus lists : Ronald Story’s poll (1979) In his first book on UFOs, skeptic Philip J Klass wrote “I have yet to meet a UFOrian who is willing to stake his case on one, two, or even ten sightings”..."

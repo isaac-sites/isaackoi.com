@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Gardner, Martin"
 description: "Martin Gardner Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1957 Gardner, Martin “ Fads and Fallacies in the Name of Science ” ( 1957 ) (available on Amazon USA and on Amazon UK ). (Enlarged Revisi..."

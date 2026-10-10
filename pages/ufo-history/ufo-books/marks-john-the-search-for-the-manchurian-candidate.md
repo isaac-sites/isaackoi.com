@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Marks, John “The Search for the Manchurian Candidate”"
 description: "Brief review to be added of John Marks' book “ The Search for the Manchurian Candidate ” ( 1979 ) (available on Amazon USA and on Amazon UK )"

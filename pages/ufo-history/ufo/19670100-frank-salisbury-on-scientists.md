@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0100 Frank Salisbury on scientists"
 description: "Image needed During January 1967 , the journal Bioscience publishes an article by Frank Salisbury entitled “The Scientist and the UFO”."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1983.0812 Alfred Burtoo encounter"
 description: "Alfred Burtoo encounter On 12 August 1983 , seventy-seven year old Alfred Burtoo claims to have an encounter beswide the Basingstoke Canal near Aldershot, Hampshire, England, claiming he heard a voice announce he could go and that he was t..."

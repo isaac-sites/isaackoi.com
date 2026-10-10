@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0303 Zond 4 re-entry"
 description: "Image needed The Zond 4 re-entry occurred on 3 March 1968 , prompting various UFO reports."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Keel, John A “UFOs: Operation Trojan Horse”"
 description: "Brief review to be added of John A Keel 's book \" UFOs: Operation Trojan Horse ” ( 1970 ) (available on Amazon USA and on Amazon UK )"

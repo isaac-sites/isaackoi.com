@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Danelek, J Allan “UFOs : The Great Debate”"
 description: "Brief review to be added of J Allan Danelek 's book “ UFOs : The Great Debate ” ( 2008 ) (available on Amazon USA and on Amazon UK )"

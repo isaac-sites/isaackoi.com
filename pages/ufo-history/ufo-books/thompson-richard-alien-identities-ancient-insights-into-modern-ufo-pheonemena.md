@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Thompson, Richard “Alien Identities: Ancient Insights into Modern UFO Pheonemena”"
 description: "Brief review to be added of Richard Thompson's book “ Alien Identities: Ancient Insights into Modern UFO Pheonemena ” ( 1993 ) (available on Amazon USA and on Amazon UK )"

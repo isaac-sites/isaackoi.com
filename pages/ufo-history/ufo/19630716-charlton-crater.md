@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1963.0716 Charlton crater"
 description: "Charlton crater On 16 July 1963, a crater 8 feet in diameter was found on Roy Blanchard’s Manor Farm, Charlton, near Shaftesbury, Dorset, England. Some writers have linked the presence of the crater to UFOs. (Commonly referred to as the “C..."

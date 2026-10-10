@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0801 CIA concealment memo"
 description: "CIA concealment memo On 1 August 1952 , Edward Tauss, acting chief of the CIA’s Office of Scientific Intelligence Weapons and Equipment Division, reported on behalf of a special CIA study group in a memorandum for Deputy Assistant Director..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1955.1004 Senator Russell sighting"
 description: "Image needed On 4 October 1955 , Senator Richard Russell reports seeing a disc shaped object from a train in the Transcaucasia region of the USSR."

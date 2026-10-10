@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0903 Exeter incidents"
 description: "Image needed Early on 3rd September 1965 , the Exeter, New Hampshire sightings involving Norman Muscarello, Police Patrolmen Eugene Bertrand, David Hunt and others occurred. This incident is Case 29 in Isaac Koi's \"Top 100\" article , since..."

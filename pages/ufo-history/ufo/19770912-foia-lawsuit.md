@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0912 FOIA lawsuit"
 description: "Image needed On 12 September 1977 , William Spaulding and Ground Saucer Watch (“ GSW ”) filed a Freedom of Information Act (FOIA) lawsuit in the US District Court, Eastern District of New York against the CIA requesting all UFO documents i..."

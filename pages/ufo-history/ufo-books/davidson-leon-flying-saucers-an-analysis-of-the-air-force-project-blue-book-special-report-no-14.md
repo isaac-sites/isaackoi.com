@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Davidson, Leon “Flying Saucers : An Analysis of the Air Force Project Blue Book Special Report No. 14”"
 description: "Brief review to be added of Leon Davidson 's book “ Flying Saucers : An Analysis of the Air Force Project Blue Book Special Report No. 14 ”. See also the references provided on this website in relation to Project Blue Book Special Report N..."

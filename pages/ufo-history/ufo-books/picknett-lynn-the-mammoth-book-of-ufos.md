@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Picknett, Lynn “The Mammoth Book of UFOs”"
 description: "Brief review to be added of Lynn Picknett's book “ The Mammoth Book of UFOs ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

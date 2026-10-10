@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "4. Consensus lists : Introduction"
 description: "“ Best UFO Cases ” by Isaac Koi PART 4: Consensus lists : Introduction Have leading UFO researchers ever reached a consensus as to which UFO cases are the \"best\"? What polls have been done of UFO researchers and UFO groups asking them to i..."

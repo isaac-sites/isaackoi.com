@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0718 Gemini 10 sighting"
 description: "Gemini 10 sighting There was an alleged UFO sighting on Gemini 10 by astronauts Michael Collins and John Young on 18 July 1966 . As with several other alleged astronaut sightings, a wide variety of contradictory dates are given for the all..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.1221 NASA Frosch letter on UFOs"
 description: "NASA Frosch letter on UFOs On 21 December 1977 , a letter was written by NASA Administrator, Robert A Frosch, to Dr Frank Press, Director, Office of Science and Technology Policy, Executive Office of the President stating that NASA did not..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lyne, William P “Space Aliens from the Pentagon”"
 description: "Brief review to be added of William P Lyne's book “ Space Aliens from the Pentagon ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

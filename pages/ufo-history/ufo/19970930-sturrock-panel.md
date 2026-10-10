@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0930 Sturrock Panel"
 description: "Image needed A workshop was organised by Peter Sturrock in New York between 30 September 1997 and 3 October 1997 , leading to a report entitled “Physical Evidence Related to UFO Reports”. Funding provided Laurance Rockefeller . (Commonly r..."

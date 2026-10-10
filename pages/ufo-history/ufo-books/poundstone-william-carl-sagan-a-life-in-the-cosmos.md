@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Poundstone, William “Carl Sagan: A Life in the Cosmos”"
 description: "Brief review to be added of William Poundstone's book “ Carl Sagan: A Life in the Cosmos ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

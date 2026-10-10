@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Darling, David “The Extraterrestrial Encyclopedia”"
 description: "Brief review to be added of David Darling 's book “ The Extraterrestrial Encyclopedia ” ( 2000 ) (available on Amazon USA and on Amazon UK )"

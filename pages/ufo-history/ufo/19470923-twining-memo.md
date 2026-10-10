@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0923 Twining memo"
 description: "Twining memo On 23 September 1947 , a memo from Lt-General Nathan F Twining (chief of Air Materiel Command) to Brig-General George Schulgen (Commanding General, Army Air Forces) reports on the current knowledge of UFOs and recommends that..."

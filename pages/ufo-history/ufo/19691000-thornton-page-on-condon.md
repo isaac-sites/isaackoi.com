@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1969.1000 Thornton Page on Condon"
 description: "Image needed During October 1969 , a review of the Condon Report by Dr. Thornton Page was published in the American Journal of Physics"

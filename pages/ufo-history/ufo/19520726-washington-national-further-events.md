@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0726 Washington National further events"
 description: "Washington National further events The second set of the well publicised Washington National Radar/Visual Sightings occurred during the night of 26 th /27 th July 1952 ."

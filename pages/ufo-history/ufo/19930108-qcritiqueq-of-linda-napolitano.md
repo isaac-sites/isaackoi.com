@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1993.0108 \"Critique\" of Linda Napolitano"
 description: "Image needed A memo entitled “A Critique of Budd Hopkins’ Case of the UFO Abduction o f Linda Napolitano” (dated 8 January 1993 ) was circulated by Joseph J Stefula, Richard D Butler, and George P Hansen."

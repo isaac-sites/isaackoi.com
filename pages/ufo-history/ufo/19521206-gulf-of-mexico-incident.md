@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.1206 Gulf of Mexico incident"
 description: "Image needed On 6 December 1952, the crew of a USAF B-29 over the Gulf of Mexico reported several unknowns were seen on the airborne scopes and some flashes of light were also seen visually about 190 miles from Galveston. Incident involved..."

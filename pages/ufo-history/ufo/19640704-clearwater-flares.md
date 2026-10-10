@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0704 Clearwater flares"
 description: "Image needed On 4 July 1964 , flares were reported over Clearwater, Florida. Dr J Allen Hynek and Dr Jacques Vallee suggested that the US Air Force intentionally dropped the flares and then requested information from members of the public..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Davies,  Paul"
 description: "Paul Davies Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1995 Davies, Paul “ Are we Alone? ” ( 1995 ) (available on Amazon USA and on Amazon UK ) ( SETI :) 1998 Davies, Paul “The Fifth Miracle” ( 1..."

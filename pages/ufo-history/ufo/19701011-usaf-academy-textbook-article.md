@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1970.1011 USAF Academy textbook article"
 description: "USAF Academy textbook article On 11 October 1970 , the US Air Force Academy textbook on space sciences was referred to in an article in “The National Enquirer” by Lloyd Mallan. The textbook stated that “there is some evidence supporting” t..."

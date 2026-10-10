@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Leonard, George “Someone Else is on our Moon”"
 description: "Brief review to be added of George Leonard 's book “ Someone Else is on our Moon ” ( 1976 ) (available on Amazon USA and on Amazon UK )"

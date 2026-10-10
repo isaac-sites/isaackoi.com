@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Chapman, Robert  “UFO : Flying Saucers Over Britain?”"
 description: "Brief review to be added of Robert Chapman 's book “ UFO : Flying Saucers Over Britain? ” (also published as “Unidentified Flying Objects”) ( 1969 ) (available on Amazon USA and on Amazon UK )"

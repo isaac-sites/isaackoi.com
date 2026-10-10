@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0303 Project NERVA"
 description: "Image needed On 3 March 1966 , Project NERVA (“Nuclear Engine for Rocket Vehicle Application”) operates a nuclear fission engine at full power."

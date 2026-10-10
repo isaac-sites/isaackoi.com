@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1982.0000 Gallup religion poll"
 description: "Gallup religion poll During 1982, a Gallup poll on religion features the question “Do you believe there is human life on other planets?”."

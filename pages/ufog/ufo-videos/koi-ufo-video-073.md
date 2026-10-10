@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 073"
 description: "Koi UFO Video 073 : Orange County ring UFO https://www.youtube.com/watch?v=uDYfoRYi3EQ [DEBUNKED] Koi UFO Video 073 appears to show a ring shaped flying object. As discussed below, this video shows Linn Murphy operating a 3 foot ring-shape..."

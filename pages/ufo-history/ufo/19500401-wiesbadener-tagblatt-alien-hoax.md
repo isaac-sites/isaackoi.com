@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1950.0401 Wiesbadener Tagblatt alien hoax"
 description: "Image needed On 1 April 1950 , as an April Fools joke, the German newspaper Wiesbadener Tagblatt publishes a purported photograph of an alien standing between two men in uniforms and caps See separate entry in relation to Koi Alien Photo 4..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Denzler, Brenda “The Lure of the Edge”"
 description: "Brief review to be added of Brenda Denzler 's book “ The Lure of the Edge ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

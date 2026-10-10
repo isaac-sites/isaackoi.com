@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0624 Further Air Force Roswell Report"
 description: "Further Air Force Roswell Report On 24 June 1997 , the U.S. Air Force released a further report related to the Roswell incident, “The Roswell Report: Case Closed” prepared by James McAndrew. This report attempts to explain reports of small..."

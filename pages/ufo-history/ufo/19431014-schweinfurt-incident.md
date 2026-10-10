@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1943.1014 Schweinfurt incident"
 description: "Image needed On 14 October 1943, the Schweinfurt, Germany incident occurred."

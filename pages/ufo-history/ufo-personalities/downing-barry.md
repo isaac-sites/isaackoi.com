@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Downing, Barry"
 description: "Barry Downing Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1968 Downing, Barry “ The Bible and Flying Saucers ” ( 1968 ) (available on Amazon USA and on Amazon UK )"

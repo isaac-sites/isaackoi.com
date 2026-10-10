@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ashpole, Edward “The Search for Extraterrestrial Intelligence”"
 description: "Brief review to be added of Edward Ashpole 's book “ The Search for Extraterrestrial Intelligence “ (Revised edition published in 1997 under the title “Where is Everybody?”) ( 1989 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1999.1116 Societal implications workshop"
 description: "Societal implications workshop A meeting of the NASA Workshop on the Societal Implications of Astrobiology was convened at the Ames Research Center on 16-17 November 1999"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Proxmire, William"
 description: "William Proxmire Brief comments to be added on this individual. In February 1978 , Senator William Proxmire (D-Wis) awarded NASA his “Golden Fleece” for proposing to use taxpayer money on SETI. Several months later, NASA SETI funds were st..."

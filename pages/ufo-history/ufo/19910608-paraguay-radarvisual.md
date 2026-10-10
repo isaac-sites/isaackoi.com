@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1991.0608 Paraguay radar/visual"
 description: "Image needed On 6 June 1991 , there was a radar/visual incident in Paraguay."

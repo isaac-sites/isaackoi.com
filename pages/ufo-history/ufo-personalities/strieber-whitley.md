@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Strieber, Whitley"
 description: "Whitley Strieber Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1987 Strieber, Whitley “ Communion ” ( 1987 ) (available on Amazon USA and on Amazon UK ) 1988 Strieber, Whitley “ Transformation ” ( 1..."

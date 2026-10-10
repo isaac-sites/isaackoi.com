@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hawkins, Gerald “Stonehenge decoded”"
 description: "Brief review to be added of Gerald Hawkins 's book “ Stonehenge decoded ” ( 1965 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.1227 Rendlesham Forest incident"
 description: "Rendlesham Forest incident Charles Halt and others were involved in a sighting in Rendlesham Forest during the night of 27-28th December 1980 . There had been a separate incident in Rendlesham Forest involving Burroughs, Penniston and Caba..."

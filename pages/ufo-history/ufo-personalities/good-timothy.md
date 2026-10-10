@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Good, Timothy"
 description: "Tim Good Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1987 Good, Timothy “ Above Top Secret ” ( 1987 ) (available on Amazon USA and on Amazon UK ). Later published in a revised edition as “ Beyond..."

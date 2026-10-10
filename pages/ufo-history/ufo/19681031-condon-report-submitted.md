@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.1031 Condon report submitted"
 description: "Image needed On 31 October 1968 , the Colorado University report on UFOs was submitted by J R Smiley (the President of the University of Colorado) to Harold Brown (Secretary of the Air Force)."

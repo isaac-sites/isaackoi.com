@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Steinhauser, Gerhard “Jesus Christ – Heir to the Astronauts”"
 description: "Brief review to be added of Gerhard Steinhauser's book “ Jesus Christ – Heir to the Astronauts ” ( 1973 ) (available on Amazon USA and on Amazon UK )"

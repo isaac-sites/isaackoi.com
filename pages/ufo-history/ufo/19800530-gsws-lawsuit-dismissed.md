@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.0530 GSW's lawsuit dismissed"
 description: "Image needed On 30 May 1980 , a Freedom of Information Act (“FOIA”) lawsuit against the CIA by William Spaulding and Ground Saucer Watch (“ GSW ”) for release of withheld UFO documents was dismissed."

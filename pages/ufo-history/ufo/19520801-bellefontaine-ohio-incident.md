@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0801 Bellefontaine Ohio incident"
 description: "Image needed The Bellefontaine, Ohio radar/visual incident occurred on 1 August 1952."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0620 “Alternative 3” broadcast"
 description: "Image needed On 20 June 1977 , “ Alternative 3 ” was broadcast by Anglia Television, England."

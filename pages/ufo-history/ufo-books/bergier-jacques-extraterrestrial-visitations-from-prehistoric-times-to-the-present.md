@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bergier, Jacques “Extraterrestrial Visitations From Prehistoric Times to the Present”"
 description: "Brief review to be added of Jacques Bergier's “ Extraterrestrial Visitations From Prehistoric Times to the Present ” ( 1970 ) (available on Amazon USA and on Amazon UK ). Published in Britain under the title “Mysteries of the Earth”."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2001.0911 Terrorist attacks on 911"
 description: "Image needed On 11 September 2001 , there were terrorist attacks on New York and Arlington, Virginia (commonly referred to as the “9/11” or “911” attacks)."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0322 FBI occupants memo"
 description: "FBI occupants memo An FBI memo dated 22 March 1950 refers to flying saucers recovered in New Mexico, with occupants 3 feet tall."

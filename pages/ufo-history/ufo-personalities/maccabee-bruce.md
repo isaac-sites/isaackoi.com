@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Maccabee, Bruce"
 description: "Bruce Maccabee Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1997 Walters, Ed and Maccabee, Bruce “UFOs are Real – Here’s the proof” 2000 Maccabee, Bruce “ UFO-FBI Connection ” ( 2000 ) (available o..."

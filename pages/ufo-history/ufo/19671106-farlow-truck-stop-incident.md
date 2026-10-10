@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.1106 Farlow truck stop incident"
 description: "Farlow truck stop incident On 6 November 1967 , the alleged truck stop incident involving Carl Farlow occurred on the A338 road between Avon and Sopley."

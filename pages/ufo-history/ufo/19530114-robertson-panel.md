@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0114 Robertson Panel"
 description: "Robertson Panel The Robertson Panel (i.e. the “Scientific Advisory Panel on Unidentied Flying Objects” chaired by Robertson) meets to consider evidence between 14 th January 1953 and 19 th January 1953 ."

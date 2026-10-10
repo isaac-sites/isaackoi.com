@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0000 Movie: “Contact”"
 description: "“Contact” The movie “ Contact ” starred Jodie Foster . It was based on the novel “Contact” by Carl Sagan and was directed by Robert Zemeckis."

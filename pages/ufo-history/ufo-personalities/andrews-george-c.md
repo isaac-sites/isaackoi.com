@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Andrews, George C"
 description: "George C Andrews Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1986 Andrews, George C “ Extra-Terrestrials Among Us ” ( 1986 ) (available on Amazon USA and on Amazon UK ) 1993 Andrews, George C “Ext..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Baxter, John and Aktins, Thomas “The Fire Came By”"
 description: "Brief review to be added of Baxter, John and Aktins, Thomas “ The Fire Came By ” ( 1976 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 097"
 description: "Koi UFO Video 097 : UFO on flatbed truck (X-47b) https://www.youtube.com/watch?v=406WQNYiZFI [DEBUNKED] Copies of Koi UFO Video 097 were posted online in 2011 with titles that suggested it showed a UFO being transported on a flatbed truck..."

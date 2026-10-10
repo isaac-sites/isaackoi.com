@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1979.0104 Mince pie Martians"
 description: "Mince pie Martians On 4 January 1979 , Jean Hingley claims to offer mince pies and water to entities from a floating sphere at her home in Rowley Regis, West Midlands, England. (Commonly referred to as “the mince pie incident” or “the minc..."

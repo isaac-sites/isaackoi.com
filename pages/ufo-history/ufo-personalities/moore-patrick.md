@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Moore, Patrick"
 description: "Patrick Moore Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1972 Moore, Patrick “ Can you speak Venusian? ” ( 1972 ) (available on Amazon USA and on Amazon UK ) 1976 Moore, Patrick “The Next Fifty Y..."

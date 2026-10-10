@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1962.0322 Lovell on SETI"
 description: "Lovell on SETI On 24 January 1878, Congressman Emilio Q Daddario asks Sir Bernard Lovell (of the Jodrell Bank observatory, England) and Harrison Brown about SETI. Sir Bernard Lovell commented, “I think that now one has to be sympathetic ab..."

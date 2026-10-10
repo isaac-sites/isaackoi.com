@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bartholomew, Robert E and Radford, Benjamin “Hoaxes, Myths and Manias: Why We Need Critical Thinking”"
 description: "Brief review to be added of Bartholomew, Robert E and Radford, Benjamin “ Hoaxes, Myths and Manias: Why We Need Critical Thinking ” ( 2003 ) (available on Amazon USA and on Amazon UK )"

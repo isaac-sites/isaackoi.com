@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.1230 USAF press release"
 description: "USAF press release On 30 December 1949 , the US Air Force reportedly issued a statement on UFOs."

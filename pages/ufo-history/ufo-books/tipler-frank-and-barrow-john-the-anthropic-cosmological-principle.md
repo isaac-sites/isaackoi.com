@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Tipler, Frank and Barrow, John “The Anthropic Cosmological Principle”"
 description: "Brief review to be added of “ The Anthropic Cosmological Principle ” ( 1986 ) (available on Amazon USA and on Amazon UK ) by Frank Tipler and John Barrow."

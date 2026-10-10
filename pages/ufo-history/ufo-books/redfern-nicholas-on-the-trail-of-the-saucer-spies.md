@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Redfern, Nicholas “On the Trail of the Saucer Spies”"
 description: "Brief review to be added of Nicholas Redfern 's book “ On the Trail of the Saucer Spies : UFOs and Government Surveillance ” ( 2006 ) (available on Amazon USA and on Amazon UK )."

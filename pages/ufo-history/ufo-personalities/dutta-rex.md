@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Dutta, Rex"
 description: "Image needed Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1972 Dutta, Rex “Flying Saucer Message” 1974 Dutta, Rex “ Reality of Occult/Yoga/Meditation/Flying Saucers ” ( 1974 ) (available on Amazon..."

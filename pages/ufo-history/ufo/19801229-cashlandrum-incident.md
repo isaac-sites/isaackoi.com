@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.1229 Cash/Landrum incident"
 description: "Image needed On 29 December 1980 , Betty Cash, Vickie Landrum, and Colby Landrum had a sighting near Huffman, Texas. (Commonly referred to as the “Cash/Landrum incident”.) This incident is Case 30 in Isaac Koi's \"Top 100\" article , since i..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Dennett, Preston E “UFO Healings”"
 description: "Brief review to be added of Preston Dennett 's book “ UFO Healings ” ( 1996 ) (available on Amazon USA and on Amazon UK )"

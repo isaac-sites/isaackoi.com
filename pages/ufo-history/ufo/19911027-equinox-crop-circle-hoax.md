@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1991.1027 Equinox crop circle hoax"
 description: "Image needed On 27 October 1991 , a British television channel (Channel 4) broadcasted an Equinox documentary showing, inter alia, a circle crop being created by the Wessex Skeptics on land owned by farmer Martin Pitt near Marlborough, Eng..."

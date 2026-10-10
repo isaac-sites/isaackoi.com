@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Emenegger, Robert"
 description: "Robert Emenegger Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1974 Emenegger, Robert “ UFOs Past, Present and Future ” ( 1974 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Stillings, Dennis (Editor) “Cyberbiological studies of the imaginal component in the UFO contact experience”"
 description: "Brief review to be added of “ Cyberbiological studies of the imaginal component in the UFO contact experience ” ( 1989 ) (available on Amazon USA and on Amazon UK ) edited by Dennis Stillings ."

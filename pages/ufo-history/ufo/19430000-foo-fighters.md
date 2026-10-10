@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1943.0000 Foo Fighters"
 description: "Image needed Foo fighters reported by Allied pilots during 1943 - 1945 in the European and Far Eastern theaters, with sporadic earlier reports."

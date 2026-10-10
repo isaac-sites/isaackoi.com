@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ortzen, Len “Strange Stories of UFOs”"
 description: "Brief review to be added of Len Ortzen's book “ Strange Stories of UFOs ” ( 1977 ) (available on Amazon USA and on Amazon UK )."

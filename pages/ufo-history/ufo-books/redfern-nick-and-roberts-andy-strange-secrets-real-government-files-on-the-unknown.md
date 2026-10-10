@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Redfern, Nick and Roberts, Andy “Strange Secrets: Real Government Files on the Unknown”"
 description: "Brief review to be added of “ Strange Secrets: Real Government Files on the Unknown ” ( 2003 ) (available on Amazon USA and on Amazon UK ) by Nicholas Redfern and Andy Roberts ."

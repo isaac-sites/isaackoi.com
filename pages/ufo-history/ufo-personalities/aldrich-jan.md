@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Aldrich, Jan"
 description: "Jan Aldrich Brief comments to be added on this individual. http://web.archive.org/web/20010920064811/www.aliensonearth.com/archve_/people/a/aldrich/"

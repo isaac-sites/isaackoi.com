@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.0211 Project Sign instructions"
 description: "Project Sign instructions On 11 February 1948 , Project Sign personnel receive instructions, referring to their task as the “Evaluation of Unidentified Flying Objects”. (Reference: HQ AMC Technical Instruction Number 2185)"

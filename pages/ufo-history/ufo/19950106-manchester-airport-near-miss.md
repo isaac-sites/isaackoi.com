@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1995.0106 Manchester airport near miss"
 description: "Manchester airport near miss On 6 January 1995 , the crew of British Airways Boeing 737 flight BA 5061 (Captain Roger Wills and First Officer Mark Stewart) report a wedge-shaped glow allegedly passing close by the aircraft whilst flying ov..."

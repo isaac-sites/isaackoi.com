@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "14. Top 10 cases within various categories"
 description: "“ Best UFO Cases ” by Isaac Koi PART 14: Top 10 cases within various categories In PART 13: The Top 100 UFO cases , I presented a “Top 100” list of UFO cases based on the frequency of discussion within a sample of 963 UFO and SETI books. T..."

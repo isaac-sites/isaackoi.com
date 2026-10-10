@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Tonnies, Mac “After the Martian Apocalypse”"
 description: "Brief review to be added of Mac Tonnies 's book “ After the Martian Apocalypse ” ( 2004 ) (available on Amazon USA and on Amazon UK )"

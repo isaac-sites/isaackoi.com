@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.0720 Apollo 11 landing"
 description: "Apollo 11 landing The Apollo 11 landing on the moon occurred on 20 July 1969 . Various alleged sightings whilst on the Moon and during the voyage. This incident is Case 55 in Isaac Koi's \"Top 100\" article , since it was referred to in 52 o..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rucker, Rudy “Saucer Wisdom”"
 description: "Brief review to be added of Rudy Rucker's book “ Saucer Wisdom ” ( 1999 ) (available on Amazon USA and on Amazon UK )."

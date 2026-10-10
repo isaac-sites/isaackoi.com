@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.0216 Green fireballs conference"
 description: "Image needed On 16 February 1949 , A conference involving Dr Lincoln La Paz (an astronomer from the University of New Mexico) was held on the subject of reports of “green fireballs” and a proceedings report was issued. The conference held..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1971.0302 McDonald at SST hearing"
 description: "Image needed On 2 March 1971 , James E McDonald gave evidence before a subcommittee of the House Appropriations Committee conducting hearings on the “Civil Supersonic Aircraft Development (SST)”. Following James E McDonald ’s evidence, Rep..."

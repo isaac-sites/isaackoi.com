@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.1103 Origins \"not discernible\""
 description: "Origins \"not discernible\" On 3 November 1948 , Major General C P Cabell, USAF HQ wrote to the Commanding General, AMC at Wright-Patterson Air Force Base stating that the origin of UFOs was “not discernible”."

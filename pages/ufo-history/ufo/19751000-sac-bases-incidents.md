@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.1000 SAC bases incidents"
 description: "Image needed Over a period of several weeks in October and November of 1975 , several Strategic Air Command bases (“SAC bases”) in northern tier states were placed on a high priority alert because of repeated reports of unidentified aircra..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Adamski, George “Inside the Flying Saucers”"
 description: "Brief review to be added of George Adamski's book “ Inside the Flying Saucers ” ( 1955 ) (available on Amazon USA and on Amazon UK ). This book was originally entitled “Inside the Space Ships”."

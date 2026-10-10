@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Keith, Jim “Black Helicopters over America”"
 description: "Brief review to be added of Jim Keith 's book “ Black Helicopters over America ” ( 1994 ) (available on Amazon USA and on Amazon UK )"

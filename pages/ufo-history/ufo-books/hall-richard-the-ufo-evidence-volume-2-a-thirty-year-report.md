@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hall, Richard “The UFO Evidence: Volume 2 – A Thirty Year Report”"
 description: "Brief review to be added of Richard Hall 's book “ The UFO Evidence: Volume 2 – A Thirty Year Report ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Menzel, Donald H and Taves, Ernest “The UFO Enigma”"
 description: "Brief review to be added of “ The UFO Enigma ” ( 1977 ) (available on Amazon USA and on Amazon UK ) by Donald H Menzel and Ernest Taves."

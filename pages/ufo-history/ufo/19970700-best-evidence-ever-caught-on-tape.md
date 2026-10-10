@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0700 “Best Evidence Ever Caught on Tape”"
 description: "Image needed During July 1997 , “The Best Evidence Ever Caught on Tape” was broadcast on the Fox TV network."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1991.0000 SETI funding criticisms"
 description: "SETI funding criticisms During 1991 , Representative Ronald Machtley of Rhode Island proposes elimination of SETI funding from NASA’s budget, asking “If, in fact, there is a superintelligent form of life out there, might it be easier just..."

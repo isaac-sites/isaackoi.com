@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Blevins, Dave “UFO Directory International”"
 description: "Brief review to be added of Dave Blevins' “ UFO Directory International ” ( 2003 ) (available on Amazon USA and on Amazon UK )"

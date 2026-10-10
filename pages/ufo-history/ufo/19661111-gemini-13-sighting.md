@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.1111 Gemini 13 sighting"
 description: "Gemini 13 sighting Allegedly, there was an alleged UFO sighting on Gemini 13 by astronauts Edwin “Buzz” Aldrin and James Lovell on 11 November 1966 . As with several other alleged astronaut sightings, a wide variety of contradictory dates..."

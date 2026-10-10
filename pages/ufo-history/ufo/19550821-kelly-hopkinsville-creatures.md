@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1955.0821 Kelly-Hopkinsville creatures"
 description: "Image needed In Kelly-Hopkinsville, Kentucky members of the Sutton family reported strange creatures allegedly besieging their farmhouse during the night of 21 / 22 August 1955 . This incident is Case 14 in Isaac Koi's \"Top 100\" article ,..."

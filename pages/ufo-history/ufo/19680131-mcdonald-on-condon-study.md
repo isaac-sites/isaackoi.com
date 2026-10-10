@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0131 McDonald on Condon study"
 description: "Image needed On 31 January 1968 , James E McDonald writes a 7 page letter to Robert Low, Project Administrator at the University of Colorado, to detail his concerns about the Condon study (including comments on Low’s “trick” memo of 9 Augu..."

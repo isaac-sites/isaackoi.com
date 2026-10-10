@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.0000 Movie “The Blob”"
 description: "“The Blob” The Movie “ The Blob ” was directed by Irwin S Yeaworth and starred Steve McQueen."

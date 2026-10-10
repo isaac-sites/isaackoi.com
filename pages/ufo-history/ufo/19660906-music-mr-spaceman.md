@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0906 Music “Mr Spaceman”"
 description: "Image needed On 6 September 1966 , “Mr Spaceman” by The Byrds was released."

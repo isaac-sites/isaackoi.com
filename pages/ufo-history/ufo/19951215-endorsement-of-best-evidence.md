@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1995.1215 Endorsement of best evidence"
 description: "Image needed On 15 December 1995 , Dr Mark Rodeghier (President of CUFOS ), Richard Hall (Chairman of FUFOR ) and Walter Andrus (President of MUFON ) sign a letter of endorsement stating that the “ UFO Briefing Document : The Best Availabl..."

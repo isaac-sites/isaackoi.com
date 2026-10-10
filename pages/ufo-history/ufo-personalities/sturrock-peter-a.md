@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sturrock, Peter A"
 description: "Peter A Sturrock Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1999 Sturrock, Peter A “ The UFO Enigma ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

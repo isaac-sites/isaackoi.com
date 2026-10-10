@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clarke, David and Roberts, Andy “Flying Saucerers”"
 description: "Brief review to be added of David Clarke and Andy Roberts ' book “ Flying Saucerers : A social history of UFOlogy ” ( 2007 ) (available on Amazon USA and on Amazon UK )"

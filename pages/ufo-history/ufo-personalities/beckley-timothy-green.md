@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Beckley, Timothy Green"
 description: "Tim Green Beckley Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1989 Beckley, Timothy Green “MJ-12 and the Riddle of Hangar 18” 1992 Beckley, Timothy Green “Strange Encounters: Bizarre and Eerie Con..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Michell, John"
 description: "John Michell Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1967 Michell, John “ The Flying Saucer Vision ” ( 1967 ) (available on Amazon USA and on Amazon UK ) 1979 Michell, John “ The House of Lord..."

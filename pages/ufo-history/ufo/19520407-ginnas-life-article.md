@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0407 Ginna's Life article"
 description: "Image needed An article entitled “Have We Visitors from Outer Space” by H B Darrach Jr and Robert Ginna was published in the 7 th April 1952 issue of Life mazagine."

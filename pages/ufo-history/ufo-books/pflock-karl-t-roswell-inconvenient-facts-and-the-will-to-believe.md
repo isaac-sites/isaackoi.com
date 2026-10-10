@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Pflock, Karl T “Roswell: Inconvenient Facts and the Will to Believe”"
 description: "Brief review to be added of Karl T Pflock 's book “ Roswell: Inconvenient Facts and the Will to Believe ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

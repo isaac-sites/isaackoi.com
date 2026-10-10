@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Keyhoe, Donald E “Flying Saucers from Outer Space”"
 description: "Brief review to be added of Donald E Keyhoe 's book “ Flying Saucers from Outer Space ” ( 1953 ) (available on Amazon USA and on Amazon UK )"

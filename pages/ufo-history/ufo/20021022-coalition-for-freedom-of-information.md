@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2002.1022 Coalition for Freedom of Information"
 description: "Image needed On 22 October 2002 , the US Sci Fi Channel sponsored a press conference to announce its support for a new public effort to gain release of secret government records on UFOs. Also announced was the formation of the Coalition fo..."

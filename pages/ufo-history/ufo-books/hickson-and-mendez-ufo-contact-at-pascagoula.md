@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hickson and Mendez “UFO Contact at Pascagoula”"
 description: "Brief review to be added of Charles Hickson and William Mendez “ UFO Contact at Pascagoula ” ( 1983 ) (available on Amazon USA and on Amazon UK )"

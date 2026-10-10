@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1979.0118 House of Lords debate"
 description: "House of Lords debate On 18 January 1979 , the United Kingdom’s House of Lords debates UFOs."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Gregory, George T"
 description: "Image needed Brief comments to be added on this individual. Captain George T Gregory became head of Project Blue Book during April 1956."

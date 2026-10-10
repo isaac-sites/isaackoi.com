@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1883.0812 Bonilla photos"
 description: "Bonilla photos \"Impact\" Rating = 11 \"Credibility\" Rating = 12 \"Expert\" Rating = 7 \"Strangeness\" Rating = 6 On 12 August 1883, photographs were taken by astronomer Jose A y Bonilla at the Zacatecas Observatory in Mexico of objects crossing..."

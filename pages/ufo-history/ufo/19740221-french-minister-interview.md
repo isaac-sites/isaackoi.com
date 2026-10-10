@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.0221 French Minister interview"
 description: "Image needed On 21 February 1974 , the French Minister of Defense, Monsieur Robert Galley, was interviewed on radio by Jean-Claude Bourret."

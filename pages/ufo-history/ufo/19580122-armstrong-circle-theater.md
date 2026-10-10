@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.0122 Armstrong Circle Theater"
 description: "Image needed On 22 January 1958 , Donald Keyhoe appears as a guest on CBS television program, “Armstrong Circle Theater” in a presentation entitled “UFO, The Enigma of the Skies”. Dr Menzel was also interviewed."

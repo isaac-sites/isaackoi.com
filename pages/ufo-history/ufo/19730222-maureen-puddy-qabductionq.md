@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.0222 Maureen Puddy \"abduction\""
 description: "Image needed On 22 February 1973 , Maureen Puddy reports having experienced an alleged abduction whilst sitting in a car on Mooraduc Road, Australia, in the presence of two UFO investigators. This incident is Case 78 in Isaac Koi's \"Top 10..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Keith, Jim “Casebook on Alternative 3”"
 description: "Brief review to be added of Jim Keith 's book “ Casebook on Alternative 3 ” ( 1994 ) (available on Amazon USA and on Amazon UK ) See also the entry in relation to the broadcast of \"Alternative 3\" on Anglia Television (England) on 20 June 1..."

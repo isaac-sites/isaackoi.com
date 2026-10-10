@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1974.1027 Day family abduction"
 description: "Day family abduction On 27 October 1974 , John and Susan Day (sometimes referred to by the pseudonym “Avis”), and their 3 children, are allegedly abducted whilst driving to their home in the village of Aveley (commonly referred to the as “..."

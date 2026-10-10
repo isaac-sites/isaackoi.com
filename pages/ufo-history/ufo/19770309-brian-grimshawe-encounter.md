@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0309 Brian Grimshawe encounter"
 description: "Brian Grimshawe encounter On 9 March 1977 , a close encounter allegedly occurred involving Brian Grimshawe and Jeff Farmer in Nelson, in Lancashire, England, involving reports of electromagnetic effects."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0600 National UFO Conference"
 description: "Image needed In June 1964 , the first “Congress of Scientific Ufologists” held, in Cleveland, Ohio. The annual “Congress” was later renamed the “National UFO Conference” (“NUFOC”)."

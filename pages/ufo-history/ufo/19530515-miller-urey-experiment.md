@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0515 Miller-Urey Experiment"
 description: "Miller-Urey Experiment On 15 May 1953 , the journal Science includes an article by Stanley Miller (a graduate student under the supervision of Harold Urey ) entitled “Production of Amino Acids Under Possible Primitive Earth Conditions”. (C..."

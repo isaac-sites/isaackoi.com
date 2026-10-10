@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1970.1100 AIAA on Condon Report"
 description: "Image needed In November 1970 , the UFO subcommittee of the American Institute of Aeronautics and Astronautics (“AIAA”) published a statement entitled “UFO, An Appraisal of the Problem” in its journal, Astronautics and Aeronautics, critici..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.1200 Project Magnet"
 description: "Image needed During December 1950 , Project Magnet was established in Canada, under the direction of Wilbert B Smith"

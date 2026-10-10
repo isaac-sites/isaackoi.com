@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1987.0500 MJ-12 documents"
 description: "MJ-12 documents During May 1987 , Stanton T Friedman , William Moore and Jaime H Shandera release copies of a document entitled “Briefing Document : Operation Majestic 12” (commonly referred to as “the MJ-12 briefing document”) which Jaime..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fuller, John “Aliens in the Skies”"
 description: "Brief review to be added of John Fuller 's book “ Aliens in the Skies ” ( 1969 ) (available on Amazon USA and on Amazon UK )"

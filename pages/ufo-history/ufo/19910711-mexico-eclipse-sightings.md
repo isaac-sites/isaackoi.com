@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1991.0711 Mexico eclipse sightings"
 description: "Image needed On 11 July 1991 , there were UFO sightings in Mexico during a total solar eclipse."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.1122 Willamette Pass photo"
 description: "Image needed On 22 November 1966 , a photograph was purportedly taken from the Diamond Peak viewing area near the Willamette Pass, Oregon."

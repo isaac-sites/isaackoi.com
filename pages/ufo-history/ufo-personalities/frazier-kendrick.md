@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Frazier, Kendrick"
 description: "Kendrick Frazier Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1986 Frazier, Kendrick (Editor) “ Science Confronts the Paranormal ” ( 1986 ) (available on Amazon USA and on Amazon UK ) 1997 Frazier,..."

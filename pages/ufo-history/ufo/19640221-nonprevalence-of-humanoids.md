@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1964.0221 Nonprevalence of humanoids"
 description: "Nonprevalence of humanoids On 21 February 1964 , the journal Science publishes an article entitled “The nonprevalence of humanoids” by George Gaylord Simpson."

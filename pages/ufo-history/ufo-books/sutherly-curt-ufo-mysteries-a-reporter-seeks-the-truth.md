@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sutherly, Curt “UFO Mysteries: A Reporter Seeks the Truth”"
 description: "Brief review to be added of Curt Sutherly's book “ UFO Mysteries: A Reporter Seeks the Truth ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

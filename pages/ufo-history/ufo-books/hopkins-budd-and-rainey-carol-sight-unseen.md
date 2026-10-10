@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hopkins, Budd and Rainey, Carol “Sight Unseen”"
 description: "Brief review to be added of “ Sight Unseen: Science, UFO Invisibility and Transgenic Beings ” ( 2003 ) (available on Amazon USA and on Amazon UK ) by Budd Hopkins and Carol Rainey ."

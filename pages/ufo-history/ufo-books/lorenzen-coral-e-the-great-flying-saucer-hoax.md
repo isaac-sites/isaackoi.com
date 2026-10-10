@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lorenzen, Coral E “The Great Flying Saucer Hoax”"
 description: "Brief review to be added of Lorenzen, Coral E's book “ The Great Flying Saucer Hoax ” ( 1962 ) (available on Amazon USA and on Amazon UK )"

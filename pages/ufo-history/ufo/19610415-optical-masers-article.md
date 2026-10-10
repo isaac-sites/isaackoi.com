@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1961.0415 Optical Masers article"
 description: "Optical Masers article On 15 April 1961 , an article entitled “Interstellar and Interplanetary Communication by Optical Masers” by Dr. Robert N Schwartz and Professor Charles H Townes was published in the journal Nature, proposing optical..."

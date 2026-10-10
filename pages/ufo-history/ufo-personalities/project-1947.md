@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Project 1947"
 description: "Project 1947 Brief comments to be added on this group. “ Project 1947 ” began in 1995 . It is co-ordinated by Jan Aldrich . The primary goal of the Project is to search out 1947 UFO reports, but as time allows it also seeks to locate recor..."

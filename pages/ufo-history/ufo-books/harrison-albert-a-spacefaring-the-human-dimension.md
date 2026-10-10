@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Harrison, Albert A “Spacefaring : The Human Dimension”"
 description: "Brief review to be added of Albert A Harrison 's book “ Spacefaring : The Human Dimension ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

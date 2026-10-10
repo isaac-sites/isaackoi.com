@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Stacy, Dennis"
 description: "Dennis Stacy Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1997 Evans, Hilary and Stacy, Dennis “ UFO: 1947 - 1997 ” ( 1997 ) (available on Amazon USA and on Amazon UK ) (edited by Hilary Evans and..."

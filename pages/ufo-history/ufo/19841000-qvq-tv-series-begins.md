@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1984.1000 \"V\" TV series begins"
 description: "Image needed During October 1984 , “V” (a television series) began broadcasting."

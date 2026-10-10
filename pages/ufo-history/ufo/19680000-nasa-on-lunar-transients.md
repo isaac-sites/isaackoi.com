@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0000 NASA on Lunar Transients"
 description: "NASA on Lunar Transients During 1968 , NASA publishes a report entitled “Chronological Catalogue of Reported Lunar Events” relating to Lunar Transient Phenomena (“LTP”) ( NASA Technical Report R-277 / NASA TR R-277)."

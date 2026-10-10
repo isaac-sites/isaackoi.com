@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.1105 Travis Walton abduction"
 description: "Image needed Travis Walton claims to have been abducted by a UFO near Snowflake, Arizona, USA on 5 November 1975 . This incident is Case 11 in Isaac Koi's \"Top 100\" article , since it was referred to in 114 of the books covered by that art..."

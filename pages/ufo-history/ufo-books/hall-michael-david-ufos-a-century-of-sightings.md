@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hall, Michael David “UFOs : A Century of Sightings”"
 description: "Brief review to be added of Hall, Michael David 's book “ UFOs : A Century of Sightings ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

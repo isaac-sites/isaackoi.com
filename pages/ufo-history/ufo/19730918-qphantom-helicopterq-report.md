@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.0918 \"Phantom helicopter\" report"
 description: "\"Phantom helicopter\" report On 18 September 1973 , there was a report of a phantom helicopter at Harpur Hill, south-east of Buxton in the High Peak of Derbyshire, England. One of a number of sightings of so-called “phantom helicopters” in..."

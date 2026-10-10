@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2003.0000 SciFi Roswell dig report"
 description: "Image needed During 2003, the final report on the Sci Fi Channel sponsored Roswell dig was submitted to the Sci Fi Channel by William Doleman of the University of New Mexico (“UNM”) Office of Contract Archeology (“OCA”)."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hyland, Gary “Blue Fires: The Lost Secrets of Nazi Technology”"
 description: "Brief review to be added of Gary Hyland's book “ Blue Fires: The Lost Secrets of Nazi Technology ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cohen, Daniel “The Great Airship Mystery: A UFO of the 1890s”"
 description: "Brief review to be added of Daniel Cohen 's book “ The Great Airship Mystery: A UFO of the 1890s ” ( 1981 ) (available on Amazon USA and on Amazon UK )"

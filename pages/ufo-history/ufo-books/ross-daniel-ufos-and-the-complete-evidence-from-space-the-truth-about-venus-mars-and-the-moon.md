@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ross, Daniel “UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon”"
 description: "Brief review to be added of “ UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon ” ( 1987 ) (available on Amazon USA and on Amazon UK ) by Daniel Ross."

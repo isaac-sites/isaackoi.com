@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0000 Movie “2001: A Space Odyssey”"
 description: "“2001: A Space Odyssey” The movie “ 2001 : A Space Odyssey ” ( 1968 ) was based on a short story, “The Sentinel”, by Arthur C Clarke . It was produced and directed by Stanley Kubrick."

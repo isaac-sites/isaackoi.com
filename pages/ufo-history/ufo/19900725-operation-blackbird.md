@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1990.0725 “Operation Blackbird”"
 description: "Image needed On 25 July 1990 , Colin Andrews claims in a BBC interview that the members of a cropcircle watch called “Operation Blackbird” had recorded “a major event” the previous night at Bratton, England. Several hours later he accepted..."

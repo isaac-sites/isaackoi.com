@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0000 Fermi Paradox"
 description: "Fermi Paradox During a lunch at Los Alamos in the summer of 1950 , Enrico Fermi reputedly asked colleagues “If there are extraterrestrials, where are they?”. (The precise quotation and date varies from source to source.) (Commonly referred..."

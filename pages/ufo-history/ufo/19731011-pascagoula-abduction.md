@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.1011 Pascagoula abduction"
 description: "Image needed On 11 October 1973 , Charles Hickson and Calvin Parker claim to have been abducted by alien robots and taken aboard a saucer in Pascagoula, Mississippi, USA. Commonly referred to as “the Pascagoula abduction”. This incident is..."

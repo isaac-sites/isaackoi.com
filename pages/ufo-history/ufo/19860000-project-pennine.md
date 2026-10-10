@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1986.0000 “Project Pennine”"
 description: "“Project Pennine” During 1986 , “Project Pennine” was set up by David Clarke and Andy Roberts to investigate alleged sightings of mysterious lights over the Pennine Hills."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Michell, John “The Flying Saucer Vision”"
 description: "Brief review to be added of John Michell 's book “ The Flying Saucer Vision ” ( 1967 ) (available on Amazon USA and on Amazon UK )"

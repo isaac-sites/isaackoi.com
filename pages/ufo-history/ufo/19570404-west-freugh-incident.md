@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.0404 West Freugh incident"
 description: "West Freugh incident On 4 April 1957 , the West Freugh(Scotland) radar incident occurred."

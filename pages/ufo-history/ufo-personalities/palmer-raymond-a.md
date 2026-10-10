@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Palmer, Raymond A"
 description: "Raymond A Palmer Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1952 Arnold, Kenneth and Palmer, Ray “ The Coming of the Saucers ” ( 1952 ) (available on Amazon USA and on Amazon UK ) 1967 Palmer, Ra..."

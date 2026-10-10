@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Jessup, Morris K “UFO : The Case for the UFO”"
 description: "Brief review to be added of Morris K Jessup 's book “ UFO : The Case for the UFO ” ( 1955 ) (available on Amazon USA and on Amazon UK )"

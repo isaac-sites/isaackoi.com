@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1956.0000 Movie “Invasion of the Body Snatchers”"
 description: "“Invasion of the Body Snatchers” The movie “ Invasion of the Body Snatchers ” ( 1956 ) was based on the novel “The Body Snatchers” ( 1955 ) by Jack Finney. Directed by Don Siegel. Produced by Walter Wanger. Remade in 1978 ."

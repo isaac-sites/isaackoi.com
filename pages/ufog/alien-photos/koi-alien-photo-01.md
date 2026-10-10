@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi Alien Photo 01"
 description: "Koi Alien Photo 1 The first photograph in APCAT is one of the most infamous “alien” photos, sometimes referred to as the \"Silverman\". This photo was been discussed in several books and publications since 1950 onwards. Most websites which f..."

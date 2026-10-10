@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Gardner, Martin “Fads and Fallacies in the Name of Science”"
 description: "Brief review to be added of Martin Gardner 's book “ Fads and Fallacies in the Name of Science ” ( 1957 ) (available on Amazon USA and on Amazon UK ). (Enlarged Revision of “In the Name of Science” ( 1952 .0000))"

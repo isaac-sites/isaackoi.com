@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0429 Air Force Letter 200-5"
 description: "Air Force Letter 200-5 On 29 April 1952 , the US Air Force Air Force Letter 200-5 (“AFL 200-5”) entitled “Unidentified Flying Objects Reporting” set forth UFO reporting procedures within the US Air Force, giving Project Blue Book authority..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Dione, R L “God Drives a Flying Saucer”"
 description: "Brief review to be added of R L Dione's book “ God Drives a Flying Saucer ” ( 1969 ) (available on Amazon USA and on Amazon UK )."

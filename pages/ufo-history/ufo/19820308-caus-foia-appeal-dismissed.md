@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1982.0308 CAUS FOIA appeal dismissed"
 description: "Image needed On 8 March 1982 , an appeal of a Freedom of Information Act (“FOIA”) lawsuit by Citizens Against UFO Security (“CAUS”) against the National Security Agency (“N.S.A.”, “NSA”) was dismissed by the US Supreme Court."

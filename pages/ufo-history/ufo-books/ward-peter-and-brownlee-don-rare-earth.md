@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ward, Peter and Brownlee, Don  “Rare Earth”"
 description: "Brief review to be added of “ Rare Earth ” ( 2000 ) (available on Amazon USA and on Amazon UK ) by Peter Ward and Don Brownlee."

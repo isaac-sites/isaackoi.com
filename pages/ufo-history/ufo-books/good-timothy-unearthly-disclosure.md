@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Good, Timothy “Unearthly Disclosure”"
 description: "Brief review to be added of Timothy Good 's book “ Unearthly Disclosure ” ( 2000 ) (available on Amazon USA and on Amazon UK )"

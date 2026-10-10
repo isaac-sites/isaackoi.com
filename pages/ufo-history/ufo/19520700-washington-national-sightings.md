@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0700 Washington National sightings"
 description: "Washington National sightings \"Impact\" Rating = 14 \"Credibility\" Rating = 14 \"Expert\" Rating = 13 \"Strangeness\" Rating = 10 Several radar/visual sightings occur near Washington DC during July 1952 and receive considerable publicity. (Commo..."

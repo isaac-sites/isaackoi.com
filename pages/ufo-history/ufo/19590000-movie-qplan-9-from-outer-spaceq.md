@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0000 Movie \"Plan 9 From Outer Space\""
 description: "\"Plan 9 From Outer Space\" The Movie “Plan 9 from Outer Space\" was written, directed and produced by Edward D Wood. It starred Bela Lugosi."

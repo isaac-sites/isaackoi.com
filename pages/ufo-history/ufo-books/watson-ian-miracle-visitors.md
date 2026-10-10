@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Watson, Ian “Miracle Visitors”"
 description: "Brief review to be added of Ian Watson's novel “ Miracle Visitors ” ( 1978 ) (available on Amazon USA and on Amazon UK )"

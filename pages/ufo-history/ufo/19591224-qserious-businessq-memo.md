@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.1224 \"Serious Business\" memo"
 description: "\"Serious Business\" memo On 24 December 1959 , the “UFOs – Serious Business” memo sent out by the US Air Force Inspector General."

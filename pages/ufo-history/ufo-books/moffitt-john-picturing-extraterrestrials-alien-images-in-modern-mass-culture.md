@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Moffitt, John “Picturing Extraterrestrials : Alien Images in Modern Mass Culture”"
 description: "Brief review to be added of John Moffitt 's book “ Picturing Extraterrestrials : Alien Images in Modern Mass Culture ” ( 2003 ) (available on Amazon USA and on Amazon UK )"

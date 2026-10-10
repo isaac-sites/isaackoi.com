@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.0403 Walter Winchell missiles"
 description: "Image needed On 3 April 1949 , radio commentator Walter Winchell claims that flying saucers were actually guided missiles from Russia"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "CUFON"
 description: "CUFON Brief comments to be added on this group. The Computer UFO Network (“ CUFON ”) was established in 1985 . CUFON has a website at: http://www.cufon.org/"

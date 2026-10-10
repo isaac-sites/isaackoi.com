@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.0000 Movie “Invasion of the Saucer Men”"
 description: "“Invasion of the Saucer Men” The movie “ Invasion of the Saucer Men ” ( 1957 ) was directed by Edward L Cahn."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1970.1117 McDonald on radar"
 description: "Image needed At the American Meteorological Society’s 14 th Radar Conference on 17 th -20 th November 1970 , James E McDonald gave a paper on “Meteorological Factors in Unidentified Radar Returns”."

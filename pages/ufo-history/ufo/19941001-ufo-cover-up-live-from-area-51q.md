@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.1001 “UFO Cover-Up: Live from Area 51\""
 description: "Image needed On 1 October 1994 , Larry King's UFO special, “UFO Cover-Up: Live from Area 51\", was broadcast"

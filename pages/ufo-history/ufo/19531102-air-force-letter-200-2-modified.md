@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.1102 Air Force Letter 200-2 modified"
 description: "Air Force Letter 200-2 modified Air Force Letter 200-2A (2 November 1953 ) modified Air Force Letter 200-2 entitled “Unidentified Flying Objects Reporting” (“FLYOBRPT”)."

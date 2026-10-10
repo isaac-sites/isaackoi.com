@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0126 Condon's early view"
 description: "Image needed On 26 January 1967 , Condon was reported in the Elmira, New York, Star-Gazette as stating at a American Chemical Society meeting the previous day that he was inclined to recommend that the government get out of the UFO “busine..."

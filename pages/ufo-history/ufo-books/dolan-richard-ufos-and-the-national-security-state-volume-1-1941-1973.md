@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Dolan, Richard “UFOs and the National Security State: Volume 1: 1941-1973”"
 description: "Brief review to be added of Richard Dolan 's book “ UFOs and the National Security State: Volume 1: 1941- 1973 : 1941- 1973 ” ( 2000 ) (available on Amazon USA and on Amazon UK )."

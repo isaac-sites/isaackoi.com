@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1962.0000 SETI \"top priority\""
 description: "SETI \"top priority\" During 1962 , in “A Review of Space Research”, the National Academy of Sciences and the National Research Council state that the goal of finding extraterrestrial life “should be acclaimed as the top-priority scientific..."

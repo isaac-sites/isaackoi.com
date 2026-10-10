@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0109 Pentacle Memo"
 description: "Pentacle Memo A memo (commonly referred to as “the Pentacle Memo”) by Howard C Cross of the Battelle Memorial Institute dated 9 January 1953 noted that at a meeting on 12 December 1952 “our representatives strongly recommended that [the pr..."

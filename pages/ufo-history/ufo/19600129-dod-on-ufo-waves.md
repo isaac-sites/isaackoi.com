@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0129 DoD on UFO waves"
 description: "DoD on UFO waves On 29 January 1960 , the US Department of Defense issued a news release stating that it appeared that “some specific incident is usually responsible for touching off a rash of reported sightings and this is particularly tr..."

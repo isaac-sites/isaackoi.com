@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cameron, A G W (Ed.) “Interstellar Communication”"
 description: "Brief review to be added of “Interstellar Communication : Scientific Perspectives” ( 1974 ), edited by Cyril Ponnamperuma and A G W Cameron (available on Amazon USA and on Amazon UK )"

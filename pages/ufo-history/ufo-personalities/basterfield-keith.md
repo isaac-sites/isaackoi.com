@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Basterfield, Keith"
 description: "Keith Basterfield Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1981 Basterfield, Keith “ Close Encounters of an Australian Kind – UFOs: The Image Hypothesis ” ( 1981 ) (available on Amazon USA and..."

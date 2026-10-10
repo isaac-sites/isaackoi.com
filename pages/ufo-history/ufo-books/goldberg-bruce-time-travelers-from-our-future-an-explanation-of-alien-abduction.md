@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Goldberg, Bruce “Time Travelers from our Future: An explanation of alien abduction”"
 description: "Brief review to be added of Bruce Goldberg's book “ Time Travelers from our Future: An explanation of alien abduction ” ( 1988 ) (available on Amazon USA and on Amazon UK )"

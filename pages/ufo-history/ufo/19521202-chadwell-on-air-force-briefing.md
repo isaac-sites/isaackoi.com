@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.1202 Chadwell on Air Force briefing"
 description: "Chadwell on Air Force briefing On 2 December 1952, a memo from H Marshall Chadwell, Assistant Director of OSI, for CIA’s DCI Walter Bedell Smith entitled “Unidentified Flying Objects” details a further Air Force briefing for CIA on 25 Nove..."

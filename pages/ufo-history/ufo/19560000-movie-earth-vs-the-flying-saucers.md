@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1956.0000 Movie “Earth vs. the Flying Saucers”"
 description: "“Earth vs. the Flying Saucers” The movie “ Earth vs. the Flying Saucers ” ( 1956 ) (also referred to as “Earth versus the Flying Saucers”) was directed by Fred F Sears, with special effects by Ray Harryhausen. It was produced by Charles H..."

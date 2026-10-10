@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sitchin, Zecharia “When Time Began: Earth Chronicles Book V”"
 description: "Brief review to be added of Zecharia Sitchin 's book “ When Time Began: Earth Chronicles Book V ” ( 1993 ) (available on Amazon USA and on Amazon UK )"

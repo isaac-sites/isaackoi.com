@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sauder, Richard"
 description: "Richard Sauder Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1995 Sauder, Richard “ Underground Bases and Tunnels ” ( 1995 ) (available on Amazon USA and on Amazon UK ) 2001 Sauder, Richard “Underwa..."

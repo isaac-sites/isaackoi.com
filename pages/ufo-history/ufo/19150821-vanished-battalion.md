@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1915.0821 Vanished Battalion"
 description: "Vanished Battalion Britain : Alleged abduction/disappearance at Gallipoli of the 1/5 Norfolks battalion of the British 163 rd Brigade on 21 August 1915. (Commonly referred to as “the Vanished Battallion incident” or “the Vanished Norfolks..."

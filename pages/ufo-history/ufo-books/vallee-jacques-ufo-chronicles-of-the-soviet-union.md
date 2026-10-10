@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Vallee, Jacques “UFO Chronicles of the Soviet Union”"
 description: "Brief review to be added of Jacques Vallee 's book “ UFO Chronicles of the Soviet Union ” ( 1992 ) (available on Amazon USA and on Amazon UK )"

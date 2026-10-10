@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0814 CIA briefing paper on UFOs"
 description: "CIA briefing paper on UFOs On 14 August 1952 , a CIA briefing paper entitled “Flying Saucers” details background of both Air Force and CIA investigations and considers major theories."

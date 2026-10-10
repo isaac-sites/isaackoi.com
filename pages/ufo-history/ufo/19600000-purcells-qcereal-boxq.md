@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0000 Purcell's \"cereal box\""
 description: "Image needed During 1960, Edward Purcell of Harvard gave a lecture at the Brookhaven National Laboratory in which he concluded that “all this stuff about travelling round the Universe in space suits, except for local exploration …, belongs..."

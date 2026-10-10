@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1976.0106 Kentucky multiple abduction"
 description: "Image needed On 6 January 1976 , there was an alleged abduction of Louise Smith, Mona Stafford and Elaine Thomas in Stanford, Kentucky whilst driving home from celebrating Mona Stafford’s birthday at a restaurant south of Lancaster, Kentuc..."

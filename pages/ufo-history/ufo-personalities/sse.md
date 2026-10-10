@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "SSE"
 description: "Image needed Brief comments to be added on this group. The Society for Scientific Exploration (“ SSE ”) was founded by Peter A Sturrock during 1982 ."

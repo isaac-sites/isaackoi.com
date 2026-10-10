@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0704 Press reports"
 description: "Image needed On 4 July 1947 , press reports included coverage of statement by the US Air Force on UFOs. That statement suggested causes of sightings may include “large hailstones which might have flattened out and glided a bit”."

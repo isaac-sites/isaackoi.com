@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hoggart, Simon and Hutchinson, Mike “Bizarre Beliefs”"
 description: "Brief review to be added of “ Bizarre Beliefs ” ( 1995 ) (available on Amazon USA and on Amazon UK ) by Simon Hoggart and Mike Hutchinson."

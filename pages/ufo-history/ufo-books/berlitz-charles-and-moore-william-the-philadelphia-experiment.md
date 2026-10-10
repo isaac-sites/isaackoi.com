@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Berlitz, Charles and Moore, William “The Philadelphia Experiment”"
 description: "Brief review to be added of Berlitz, Charles and Moore, Bill “ The Philadelphia Experiment ” ( 1979 ) (available on Amazon USA and on Amazon UK ). Focuses on The Philadelphia Experiment ."

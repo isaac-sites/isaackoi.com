@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0408 Project Ozma"
 description: "Project Ozma On 8 April 1960 , astronomer Frank Drake ’s “Project Ozma” begins listening at the National Radio Astronomy Oberservatory (“NRAO”) in West Virginia."

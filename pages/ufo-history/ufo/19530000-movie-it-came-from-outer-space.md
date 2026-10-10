@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0000 Movie “It Came From Outer Space”"
 description: "“It Came From Outer Space” The movie “ It Came From Outer Space ” ( 1953 ) was based on a story by Ray Bradbury."

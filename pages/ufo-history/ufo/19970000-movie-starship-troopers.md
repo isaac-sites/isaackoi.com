@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0000 Movie: “Starship Troopers”"
 description: "“Starship Troopers” The movie “ Starship Troopers ” ( 1997 ) was based on a novel by Robert A Heinlein."

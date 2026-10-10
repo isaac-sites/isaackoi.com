@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "White, Dale “Is Something Up There?”"
 description: "Brief review to be added of Dale White's book “ Is Something Up There? ” ( 1968 ) (available on Amazon USA and on Amazon UK )"

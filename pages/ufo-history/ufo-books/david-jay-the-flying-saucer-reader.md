@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "David, Jay “The Flying Saucer Reader”"
 description: "Brief review to be added of “ The Flying Saucer Reader ” ( 1967 ) (available on Amazon USA and on Amazon UK ) edited by Jay David ."

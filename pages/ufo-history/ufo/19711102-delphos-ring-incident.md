@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1971.1102 “Delphos Ring” incident"
 description: "Image needed On 2 November 1971 , the Delphos Ring incident occurred in Kansas. Physical trace evidence claims have been made in relation to a grey/white ring on the farm of Mr and Mrs Johnson and their son Ronald Johnson. (Commonly referr..."

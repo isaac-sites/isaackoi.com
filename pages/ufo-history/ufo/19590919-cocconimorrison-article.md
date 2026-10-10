@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0919 Cocconi/Morrison article"
 description: "Cocconi/Morrison article On 19 September 1959 , an article entitled “Searching for Interstellar Communication” by Giuseppe Cocconi and Philip Morrison published in the journal Nature , concluding that “the probability of success is difficu..."

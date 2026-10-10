@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 060"
 description: "Koi UFO Video 060: Alien on stretcher (Ballahack Airsoft) https://www.youtube.com/watch?v=KOqvI41MXyo [DEBUNKED] Koi UFO Video 060 is a video that zooms in and out of various parts of a still photograph which appears to show an alien on a..."

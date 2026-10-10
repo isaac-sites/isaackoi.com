@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Harold, Clive “The Uninvited”"
 description: "Brief review to be added of Clive Harold's book “ The Uninvited ” ( 1979 ) (available on Amazon USA and on Amazon UK )"

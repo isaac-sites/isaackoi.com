@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Baker, Robert M L"
 description: "Robert M L Baker Brief comments to be added on this individual. Gave oral evidence to the “Symposium on Unidentified Flying Objects” held by the U.S. House of Representatives Committee on Science and Astronautics in July 1968, chaired by C..."

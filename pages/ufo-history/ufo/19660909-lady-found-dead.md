@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0909 “Lady” found dead"
 description: "Image needed On 9 September 1966 , “Lady” (often, incorrectly, referred to by the name “Snippy”) a horse (a 3 year old Appaloosa) was found dead near Alamosa, Colorado. One of the most famous alleged animal mutilations (often referred to a..."

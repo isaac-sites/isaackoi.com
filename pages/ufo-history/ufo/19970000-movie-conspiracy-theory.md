@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0000 Movie: “Conspiracy Theory”"
 description: "“Conspiracy Theory” The movie “ Conspiracy Theory ” ( 1997 ) starred Mel Gibson."

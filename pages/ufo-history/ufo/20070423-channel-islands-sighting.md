@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2007.0423 Channel Islands sighting"
 description: "Channel Islands sighting On 23 April 2007 , Captain Ray Bowyer, captain of an aircraft flying from Southhampton to Alderney in the Channel Islands, reports seeing strange objects in the sky."

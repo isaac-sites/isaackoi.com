@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1992.1012 NASA SETI MOP search"
 description: "NASA SETI MOP search On 12 October 1992 , NASA’s SETI program (called “HRMS”, “High Resolution Microwave Survey”, or “MOP”, “Microwave Observing Project”) officially went online at Goldstone, California and Arecibo, Puerto Rico. Funds were..."

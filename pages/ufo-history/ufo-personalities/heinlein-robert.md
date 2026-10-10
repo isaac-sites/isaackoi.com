@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Heinlein, Robert"
 description: "Robert Heinlein Brief comments to be added on this individual. Heinlein was the author of numerous science-fiction novels, including “ Stranger in a Strange Land ” ( 1961 ) (available on Amazon USA and on Amazon UK )."

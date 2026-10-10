@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1997.0617 Time magazine poll"
 description: "Time magazine poll On 17 June 1997 , a cover article of Time magazine reports a poll of adult Americans."

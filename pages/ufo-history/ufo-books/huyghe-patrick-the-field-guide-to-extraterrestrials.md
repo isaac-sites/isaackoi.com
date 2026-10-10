@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Huyghe, Patrick “The Field Guide to Extraterrestrials”"
 description: "Brief review to be added of Patrick Huyghe 's book “ The Field Guide to Extraterrestrials ” ( 1996 ) (available on Amazon USA and on Amazon UK )"

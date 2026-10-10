@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 094"
 description: "Koi UFO Video 094 : Norway Spiral 2009 (Bulava) https://www.youtube.com/watch?v=KMUhS-S0rGk [DEBUNKED] Koi UFO Video 094 appears to show a glowing white spiral light in a night sky. Various videos and photographs were taken in Northern Nor..."

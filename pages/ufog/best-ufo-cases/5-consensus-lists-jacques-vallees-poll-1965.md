@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "5. Consensus lists : Jacques Vallee’s poll (1965)"
 description: "“ Best UFO Cases ” by Isaac Koi PART 5: Consensus lists : Jacques Vallee’s poll (1965) As discussed earlier in this series of articles (see PART 1: Top 100 UFO Cases: Introduction and PART 2: Challenges to produce lists of top cases ), var..."

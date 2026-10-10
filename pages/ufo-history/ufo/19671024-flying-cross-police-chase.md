@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.1024 Flying Cross police chase"
 description: "Flying Cross police chase On 24 October 1967 , Police Constables PC Clifford Waycott and PC Roger Willey chase an alleged UFO (commonly referred to as the “flying cross” or “flying Thing”) for almost an hour in rural England."

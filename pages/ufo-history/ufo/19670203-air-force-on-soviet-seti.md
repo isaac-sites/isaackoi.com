@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0203 Air Force on Soviet SETI"
 description: "Air Force on Soviet SETI On 3 February 1967 , the Foreign Technology Division of the US Air Force produces a 67 page report on the Soviet Effort to Contact Extraterrestrial Life."

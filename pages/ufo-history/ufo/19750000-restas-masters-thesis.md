@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1975.0000 Resta's masters thesis"
 description: "Image needed During 1975 , a masters thesis entitled “The Relationship of Anomie and Externality to Strength of Belief in Unidentified Flying Objects” was submitted by Stephen P Restaat Loyola College, Baltimore."

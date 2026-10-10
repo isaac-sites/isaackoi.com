@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0729 Congressman Roush hearing"
 description: "Image needed On 29 July 1968 , the U.S. House of Representatives Committee on Science and Astronautics holds a “Symposium on Unidentified Flying Objects”, chaired by Congressman J Edward Roush. Oral evidence was heard from six speakers: Dr..."

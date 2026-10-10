@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Harbinson, W A “Projekt Saucer : The Case for Man-Made Flying Saucers”"
 description: "Brief review to be added of W A Harbinson 's book “ Projekt Saucer : The Case for Man-Made Flying Saucers ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

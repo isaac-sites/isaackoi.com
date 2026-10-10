@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Budden, Albert “Electric UFOs”"
 description: "Brief review to be added of Albert Budden 's book “ Electric UFOs: Fireballs, Electromagnetics and Abnormal States ” ( 1998 ) (available on Amazon USA and on Amazon UK )"

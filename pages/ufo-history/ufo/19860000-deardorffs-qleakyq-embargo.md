@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1986.0000 Deardorff's \"leaky\" embargo"
 description: "Deardorff's \"leaky\" embargo During 1986 , Jim Deardorff publishes an article on a possible extraterrestrial strategy for Earth, involving a “leaky” embargo."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1986.0000 Klass on Condon"
 description: "Image needed During 1986 , an article entitled “The Condon UFO Study: “A Trick or a Conspiracy?” by Philip J Klass was published in “The Skeptical Inquirer” magazine."

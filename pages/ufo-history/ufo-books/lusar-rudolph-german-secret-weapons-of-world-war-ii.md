@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Lusar, Rudolph “German Secret Weapons of World War II”"
 description: "Brief review to be added of Rudolph Lusar's book “ German Secret Weapons of World War II ” ( 1959 ) (available on Amazon USA and on Amazon UK )"

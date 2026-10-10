@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1971.0904 US-USSR SETI Conference"
 description: "US-USSR SETI Conference On 4 September 1971 , a joint US-USSR conference relating to SETI was held in Byurakan, Soviet Armenia."

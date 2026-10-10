@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "McCampbell, James M “Ufology”"
 description: "Brief review to be added of James M McCampbell ' book “ Ufology ” ( 1973 ) (available on Amazon USA and on Amazon UK )."

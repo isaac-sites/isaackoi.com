@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1959.0700 1127th Field Activities Group"
 description: "Image needed During July 1959 , Project Blue Book investigation activities were transferred from the 1006 th AISS to the 1127 th Field Activities Group."

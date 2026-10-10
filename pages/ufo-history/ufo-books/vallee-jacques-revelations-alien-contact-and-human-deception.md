@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Vallee, Jacques “Revelations: Alien Contact and Human Deception”"
 description: "Brief review to be added of Jacques Vallee 's book “ Revelations: Alien Contact and Human Deception ” ( 1991 ) (available on Amazon USA and on Amazon UK )"

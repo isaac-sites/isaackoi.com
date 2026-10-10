@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1988.0000 \"Krill Report\""
 description: "Image needed During 1988 , the “Krill Report” (also referred to as the “O H Krill document” and the “Krlll Report”) is written and circulated by “Val Valerian” (pseudonym for John Grace) and John Lear."

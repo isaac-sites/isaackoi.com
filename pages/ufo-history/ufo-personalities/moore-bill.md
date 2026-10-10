@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Moore, Bill"
 description: "Bill Moore Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1980 Berlitz, Charles and Moore, Bill “ The Roswell Incident ” ( 1980 ) (available on Amazon USA and on Amazon UK ) 1979 Berlitz, Charles and..."

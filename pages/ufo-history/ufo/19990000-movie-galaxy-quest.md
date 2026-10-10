@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1999.0000 Movie: “Galaxy Quest”"
 description: "“Galaxy Quest” The movie “ Galaxy Quest ” ( 1999 ) was a parody of Star Trek."

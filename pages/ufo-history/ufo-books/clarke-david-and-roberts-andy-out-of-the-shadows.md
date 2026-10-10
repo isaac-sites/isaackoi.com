@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Clarke, David and Roberts, Andy “Out Of The Shadows”"
 description: "Brief review to be added of David Clarke and Andy Roberts ' book “ Out Of The Shadows ” ( 2002 ) (available on Amazon USA and on Amazon UK )"

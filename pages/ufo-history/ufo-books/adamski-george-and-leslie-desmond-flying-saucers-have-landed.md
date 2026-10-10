@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Adamski, George and Leslie, Desmond “Flying Saucers Have Landed”"
 description: "Brief review to be added of George Adamski and Desmond Leslie 's book “ Flying Saucers Have Landed ” ( 1953 ) (available on Amazon USA and on Amazon UK )"

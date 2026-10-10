@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Presley, Reg “Wild Things (They Don’t Tell Us)”"
 description: "Brief review to be added of Reg Presley 's book “ Wild Things (They Don’t Tell Us) ” ( 2002 ) (available on Amazon USA and on Amazon UK )"

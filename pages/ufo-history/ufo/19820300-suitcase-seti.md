@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1982.0300 “Suitcase SETI”"
 description: "“Suitcase SETI” During March 1982, “Suitcase SETI” connected to the radio telescope in Arecibo, Puerto Rico, having been developed by Harvard physicist Paul Horowitz in 1981 - 1982 ."

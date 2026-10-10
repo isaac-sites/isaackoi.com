@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.1008 English newspapers"
 description: "English newspapers On 8 October 1950 , several Sunday newspapers in England began to publish extracts of various UFO books. The Sunday Express began its serialisation of Gerald Heard’s “Is Another World Watching Us?”. The Sunday Dispatch p..."

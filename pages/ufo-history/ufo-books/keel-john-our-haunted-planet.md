@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Keel, John “Our Haunted Planet”"
 description: "Brief review to be added of John Keel 's book “ Our Haunted Planet ” ( 1971 ) (available on Amazon USA and on Amazon UK )"

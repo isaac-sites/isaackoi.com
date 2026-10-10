@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1988.1014 “UFO Cover-up? Live!”"
 description: "Image needed On 14 October 1988 , “ UFO Cover-up? Live!” was broadcast on television, featuring individuals claiming to be members of a group known as “the Aviary” and others."

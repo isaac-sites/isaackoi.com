@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0803 Rex Heflin photos"
 description: "Image needed On 3 August 1965 , highway investigator Rex Heflin of the Orange County (California) Highway Department claims to have taken 3 photographs of a UFO at Santa Ana, California. This incident is Case 62 in Isaac Koi's \"Top 100\" ar..."

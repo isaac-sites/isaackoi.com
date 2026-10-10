@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Chambers, Howard “UFOs for the millions”"
 description: "Brief review to be added of Howard Chambers' book “ UFOs for the millions ” ( 1967 ) (available on Amazon USA and on Amazon UK )"

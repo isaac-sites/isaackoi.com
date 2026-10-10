@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 103"
 description: "Koi UFO Video 103 : Pi in the Sky (skywriting) https://www.youtube.com/watch?v=ZDgJTnlL0Ug [DEBUNKED] Koi UFO Video 103 appears to show a list of numbers being written in the sky. Copies of this video appeared online in 2012 with titles su..."

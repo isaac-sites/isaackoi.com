@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 108"
 description: "Koi UFO Video 108 : Alien on Moon (\"Bean\", mock advert) https://www.youtube.com/watch?v=9WoM2bHfr48 [DEBUNKED] Koi UFO Video 108 shows astronauts planting the US flag on the moon when an alien monster emerges from a crater and attacks them..."

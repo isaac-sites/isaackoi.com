@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0509 Air Force contract announced"
 description: "Image needed On 9 May 1966 , the Air Force announced that it was seeking a contract with a leading university to undertake a program of intensive investigations of UFO sightings."

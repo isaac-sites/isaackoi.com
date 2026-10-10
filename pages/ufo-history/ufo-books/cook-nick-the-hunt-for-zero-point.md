@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Cook, Nick “The Hunt for Zero Point”"
 description: "Brief review to be added of Nick Cook 's book “ The Hunt for Zero Point ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

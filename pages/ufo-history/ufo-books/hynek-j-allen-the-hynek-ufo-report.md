@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hynek, J Allen “The Hynek UFO Report”"
 description: "Brief review to be added of J Allen Hynek 's book “ The Hynek UFO Report ” ( 1977 ) (available on Amazon USA and on Amazon UK )"

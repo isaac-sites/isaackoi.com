@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Mack, John E “Passport to the Cosmos”"
 description: "Brief review to be added of John E Mack 's book “ Passport to the Cosmos ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

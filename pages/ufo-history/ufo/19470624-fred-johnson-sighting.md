@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0624 Fred Johnson sighting"
 description: "Image needed On 24 June 1947 , Portland prospector Fred M Johnson reports several UFOs in the sky, in Cascade Mountains of Orgeon. Fred Johnson claimed the compass hand on his watch moved from side to side during the sighting. This inciden..."

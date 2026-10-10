@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1982.0000 Evolution of Troodon dinsosaur"
 description: "Image needed During 1982, paleontologist Dale Russell writes an article exploring the hypothetical evolution of the dinsosaur Troodon (also known as Stenonychosaurus Inequalis)."

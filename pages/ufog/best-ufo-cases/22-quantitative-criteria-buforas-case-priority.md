@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "22: Quantitative criteria : BUFORA’s case priority"
 description: "“ Best UFO Cases ” by Isaac Koi PART 22: Quantitative criteria : BUFORA’s case priority One of Britain’s most profilic and respected ufologists, Jenny Randles, wrote a book entitled “UFO Study” (1981) as a “handbook for enthusiasts”. A rev..."

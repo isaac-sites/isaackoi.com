@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fort, Charles “New Lands”"
 description: "Brief review to be added of Charles Fort 's book “ New Lands ” ( 1923 ) (available on Amazon USA and on Amazon UK ). Complete text of Charles Fort’s “ New Lands ” available online at: http://www.resologist.net/landsei.htm"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Planetary Society"
 description: "Planetary Society Brief comments to be added on this entity. Carl Sagan , Bruce Murray and Louis Friedman agreed to found the Planetary Society in 1979."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Landsburg, Alan"
 description: "Alan Landsburg Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1974 Landsburg, Alan and Landsburg, Sally “ In Search of Ancient Mysteries ” ( 1974 ) (available on Amazon USA and on Amazon UK ) 1975 La..."

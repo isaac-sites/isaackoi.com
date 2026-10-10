@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1984.0000 SETI Institute formed"
 description: "SETI Institute formed During 1984 , the SETI Institute was formed."

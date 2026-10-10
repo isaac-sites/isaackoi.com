@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Holroyd, Stuart"
 description: "Stuart Holroyd Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1977 Holroyd, Stuart “ Briefing for the landing on Planet Earth ” ( 1977 ) (available on Amazon USA and on Amazon UK ) 1979 Holroyd, Stua..."

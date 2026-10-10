@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Adamski, George"
 description: "George Adamski \"Impact\" Rating = 14 \"Reliability\" Rating = 2 George Adamski was a purported contactee during the 1950s. George Adamski's purported contact with aliens is Case 3 in Isaac Koi's \"Top 100\" article , since it was referred to in..."

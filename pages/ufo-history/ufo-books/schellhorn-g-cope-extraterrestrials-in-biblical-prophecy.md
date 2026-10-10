@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Schellhorn, G Cope “Extraterrestrials in Biblical Prophecy”"
 description: "Brief review to be added of G Cope Schellhorn's book “ Extraterrestrials in Biblical Prophecy ” ( 1989 ) (available on Amazon USA and on Amazon UK )."

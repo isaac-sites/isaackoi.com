@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1990.1008 SETI response policy"
 description: "SETI response policy An international policy on a response to the detection of extraterrestrial intelligence was proposed by Michael Michaud, John Billingham and Jill Tarter in a paper presented at the 41st Congress of the International As..."

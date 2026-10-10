@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.1004 Look article on Hill abduction"
 description: "Image needed On 24 January 1878, Look magazine contains first of a two-part article by John Fuller on the alleged abductions of Betty and Barney Hill."

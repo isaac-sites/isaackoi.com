@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0925 JANAP 146(A)"
 description: "JANAP 146(A) On 25 September 1950 , JANAP(Joint Army Navy Air Publication) 146(A) was officially issued, referring to UFOs. JANAP 146 was first issued on 1 October 1948 without any reference to UFOs. JANAP 146 was declassified on 12 Decemb..."

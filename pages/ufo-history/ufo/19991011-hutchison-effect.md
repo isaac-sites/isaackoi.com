@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1999.1011 Hutchison effect"
 description: "Image needed On 11 October 1999 , John Hutchison claimed to have succeeded in producing a levitation effect (which he refers to as “the Hutchison effect”)."

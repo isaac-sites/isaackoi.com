@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1948.1100 Estimate of Situation rejected"
 description: "Estimate of Situation rejected In or around November 1948 , Air Force Chief of Staff General Hoyt S Vandenburg allegedly rejects the “Estimate of the Situation” a few days after the Gorman sighting (which happened on 1 October 1948 ), stat..."

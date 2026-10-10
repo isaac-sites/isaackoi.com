@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Zubrin, Robert"
 description: "Robert Zubrin Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1996 Zubrin, Robert “ The Case for Mars ” ( 1996 )(available on Amazon USA and on Amazon UK ) 1999 Zubrin, Robert “Entering Space: Creatin..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Shklovskii, I S and Sagan, Carl “Intelligent Life in the Universe”"
 description: "Brief review to be added of “ Intelligent Life in the Universe ” ( 1966 ) (available on Amazon USA and on Amazon UK ) by I S Shklovskii and Carl Sagan ."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bruni, Georgina “You Can’t Tell the People”"
 description: "Brief review to be added of Georgina Bruni 's book “ You Can’t Tell the People ” ( 2000 ) (available on Amazon USA and on Amazon UK )"

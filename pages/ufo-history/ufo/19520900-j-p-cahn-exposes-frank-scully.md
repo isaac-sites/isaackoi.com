@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0900 J P Cahn exposes Frank Scully"
 description: "Image needed The September 1952 issue of True magazine includes an article by J P Cahn of the San Fransico Chronicle on his investigation into the story contained in Frank Scully’s book, “ Behind the Flying Saucers ” published in 1950 ."

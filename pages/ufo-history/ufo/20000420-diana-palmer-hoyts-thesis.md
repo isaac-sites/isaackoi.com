@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "2000.0420 Diana Palmer Hoyt's thesis"
 description: "Image needed Dissertation : Masters thesis submitted on 20 April 2000 by Diana Palmer Hoyt entitled “UFOcritique : UFOs, Social Intelligence, and the Condon Report”."

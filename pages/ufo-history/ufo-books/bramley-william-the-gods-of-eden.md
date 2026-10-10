@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bramley, William “The Gods of Eden”"
 description: "Brief review to be added of William Bramley 's book “ The Gods of Eden ” ( 1989 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0216 SETI \"Golden Fleece\""
 description: "SETI \"Golden Fleece\" On 16 February 1978 , Senator William Proxmire (D-Wis) awards NASA his “Golden Fleece” for proposing to use taxpayer money on SETI. Several months later, NASA SETI funds were stricken from the 1979 HUD appropropriation..."

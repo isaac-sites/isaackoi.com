@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Randi, James “The Supernatural A-Z: The Truth and the Lies”"
 description: "Brief review to be added of James Randi 's book “ The Supernatural A-Z: The Truth and the Lies ” (available on Amazon USA and on Amazon UK )"

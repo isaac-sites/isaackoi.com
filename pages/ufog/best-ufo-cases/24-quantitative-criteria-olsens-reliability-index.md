@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "24: Quantitative criteria : Olsen’s Reliability Index"
 description: "“ Best UFO Cases ” by Isaac Koi PART 24: Quantitative criteria : Olsen’s Reliability Index There have been various proposals for quantitative criteria to assess the reliability of UFO reports. Most are considerably less well-known than, sa..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Flem-Ath, Rand and Flem-Ath, Rose “When The Sky Fell: In Search of Atlantis”"
 description: "Brief review to be added of Rand Flem-Ath and Rose Flem-Ath's book “ When The Sky Fell: In Search of Atlantis ” ( 1995 ) (available on Amazon USA and on Amazon UK )"

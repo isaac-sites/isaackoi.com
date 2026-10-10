@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0000 Lagarde on UFO geology"
 description: "Image needed During 1968 , Ferdinand Lagarde writes an article in FSR connecting geological factors and UFO reports."

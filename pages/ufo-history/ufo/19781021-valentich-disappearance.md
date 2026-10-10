@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.1021 Valentich disappearance"
 description: "Image needed Pilot Frederick M Valentich disappears after reporting encountering a UFO while flying a Cessna 182 (call sign Delta Sierra Juliet) across the Bass Strait from Melbourne to Hobart, Tasmania on 21 st October 1978 . This inciden..."

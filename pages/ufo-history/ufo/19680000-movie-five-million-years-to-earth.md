@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1968.0000 Movie “Five Million Years to Earth”"
 description: "“Five Million Years to Earth” The Movie “ Five Million Years to Earth ” was directed by Roy Ward Baker. It was a remake of the 1958 English TV series “ Quatermass and the Pit ”."

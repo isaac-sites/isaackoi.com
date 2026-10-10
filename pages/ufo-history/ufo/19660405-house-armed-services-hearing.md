@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1966.0405 House Armed Services hearing"
 description: "Image needed On 5 April 1966 , there was a one day House Armed Services Committee hearing on Unidentified Flying Objects, chaired by H Mendel Rivers. Witnesses at the hearing were Harold Brown (Secretary of the Air Force), Major Hector Qui..."

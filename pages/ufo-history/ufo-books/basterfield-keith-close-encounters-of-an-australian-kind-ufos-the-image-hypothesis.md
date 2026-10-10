@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Basterfield, Keith “Close Encounters of an Australian Kind – UFOs: The Image Hypothesis”"
 description: "Brief review to be added of Keith Basterfield 's book “ Close Encounters of an Australian Kind – UFOs: The Image Hypothesis ” ( 1981 ) (available on Amazon USA and on Amazon UK )"

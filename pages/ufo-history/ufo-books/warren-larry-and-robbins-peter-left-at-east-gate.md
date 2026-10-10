@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Warren, Larry and Robbins, Peter “Left at East Gate”"
 description: "Brief review to be added of “ Left at East Gate ” ( 1997 ) (available on Amazon USA and on Amazon UK ) by Larry Warren and Peter Robbins ."

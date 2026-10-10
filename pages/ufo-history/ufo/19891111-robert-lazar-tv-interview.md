@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1989.1111 Robert Lazar TV interview"
 description: "Image needed On 11 November 1989 , Robert Lazar was identified and interviewed on KLAS-TV in Las Vegas, having appeared in broadcasts since May 1989 under the pseudonum “Dennis”. Lazar claims to have examined the propulsion system of a UFO..."

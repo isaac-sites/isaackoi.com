@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0520 Falcon Lake encounter"
 description: "Image needed On 20 May 1967 , Steven Michalak claims to see, and be injured by, a UFO near Falcon Lake, Canada. This incident is Case 50 in Isaac Koi's \"Top 100\" article , since it was referred to in 54 of the books covered by that article..."

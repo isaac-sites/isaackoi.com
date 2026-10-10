@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fort, Charles"
 description: "Charles Fort Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1919 Fort, Charles “ The Book of the Damned ” ( 1919 ) (available on Amazon USA and on Amazon UK ) 1923 Fort, Charles “ New Lands ” ( 1923..."

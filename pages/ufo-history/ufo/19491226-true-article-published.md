@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.1226 True article published"
 description: "Image needed On 26 December 1949 , the January 1950 edition of True magazine (containing the article entitled, The Flying Saucers are Real ” by Donald Keyhoe ) hit the newsstands."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0000 Movie “The Day the Earth Stood Still”"
 description: "“The Day the Earth Stood Still” The movie “ The Day the Earth Stood Still ”( 1951 ) was directed by Robert Wise. It was based on a story by Harry Bates (“Farewell to the Master”) and starred Michael Rennie as Klaatu/Carpenter."

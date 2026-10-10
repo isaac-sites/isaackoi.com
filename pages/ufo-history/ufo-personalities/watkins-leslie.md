@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Watkins, Leslie"
 description: "Image needed Leslie Watkins wrote a book entitled “ Alternative 3 ”( 1978 ) (available on Amazon USA and on Amazon UK ), which was based on the TV screenplay of the same name by David Ambrose and Christopher Miles. See the entry in relatio..."

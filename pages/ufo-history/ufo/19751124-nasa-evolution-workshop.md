@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1975.1124 NASA evolution workshop"
 description: "NASA evolution workshop On 24 November 1975 , NASA sponsors a workshop (“A Workshop on Cultural Evolution”) chaired by Joshua Lederberg on the evolution of intelligent life and technological civilizations."

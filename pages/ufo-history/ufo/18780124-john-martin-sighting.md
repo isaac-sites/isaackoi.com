@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1878.0124 John Martin sighting"
 description: "Image needed On 24 January 1878, John Martin reports a dark “object” high up in the northern sky. The “object” was reported as being about “ the size of a large saucer” and “evidently at a great height”. This incident is Case 58 in Isaac K..."

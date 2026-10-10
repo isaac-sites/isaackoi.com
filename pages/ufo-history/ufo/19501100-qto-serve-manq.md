@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.1100 \"To Serve Man\""
 description: "Image needed In November 1950 , Damon Knight's short story “To Serve Man\" was published in Galaxy Science Fiction ."

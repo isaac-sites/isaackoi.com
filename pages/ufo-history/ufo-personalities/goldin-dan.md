@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Goldin, Dan"
 description: "Dan Goldin Brief comments to be added on this individual. Dan Goldin assumed office as Administrator of the National Aeronautics and Space Administration (“NASA”) on 1 April 1992 . He continued in office until 17 th November 2001 ."

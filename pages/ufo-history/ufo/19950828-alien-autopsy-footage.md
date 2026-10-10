@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1995.0828 “Alien autopsy” footage"
 description: "Image needed On 28 August 1995 , the alleged “alien autopsy” footage was broadcast on the Fox network in the USA in a documentary entitled “Alien Autopsy : (Fact or Fiction?)”."

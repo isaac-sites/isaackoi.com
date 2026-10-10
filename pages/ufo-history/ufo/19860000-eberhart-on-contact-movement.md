@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1986.0000 Eberhart on Contact Movement"
 description: "Image needed During 1986 , George Eberhart writes “UFOs and the Extraterrestrial Contact Movement”"

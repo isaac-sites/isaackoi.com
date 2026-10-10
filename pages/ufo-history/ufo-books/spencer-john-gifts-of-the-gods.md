@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Spencer, John “Gifts of the Gods?”"
 description: "Brief review to be added of John Spencer 's book “ Gifts of the Gods? ” ( 1994 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0917 Chadwell memo"
 description: "Chadwell memo On 17 September 1952 , H. Marshall Chadwell, Assistant Director of OSI, prepares a memorandum for CIA’s DCI Walter Bedell Smith entitled “Flying Saucers”."

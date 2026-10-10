@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Hatch, Larry"
 description: "Image needed Larry Hatch developed the *U* Database."

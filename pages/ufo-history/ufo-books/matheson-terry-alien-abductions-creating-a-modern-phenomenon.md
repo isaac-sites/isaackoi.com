@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Matheson, Terry “Alien Abductions : Creating a Modern Phenomenon”"
 description: "Brief review to be added of Terry Matheson 's book “ Alien Abductions : Creating a Modern Phenomenon ” ( 1998 ) (available on Amazon USA and on Amazon UK )"

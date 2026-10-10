@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1965.0000 Hill abduction article"
 description: "Image needed During 1965 , the first article on the alleged abduction of Betty and Barney Hill was published, in a Boston newspaper."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Pflock, Karl T"
 description: "Karl T Pflock Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2001 Pflock, Karl T “ Roswell: Inconvenient Facts and the Will to Believe ” ( 2001 ) (available on Amazon USA and on Amazon UK ) 2002 Mose..."

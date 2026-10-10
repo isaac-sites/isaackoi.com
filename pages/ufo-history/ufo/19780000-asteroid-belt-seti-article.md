@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1978.0000 Asteroid belt SETI article"
 description: "Asteroid belt SETI article During 1978 , Michael Papagiannis (Boston University professor of astronomy) publishes an article suggesting that if there are any extraterrestrial probes, then the asteroid belt seems the most logical place to l..."

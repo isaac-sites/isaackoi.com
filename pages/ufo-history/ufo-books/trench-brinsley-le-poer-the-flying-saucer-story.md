@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Trench, Brinsley Le Poer “The Flying Saucer Story”"
 description: "Brief review to be added of Brinsley Le Poer Trench 's book “ The Flying Saucer Story ” ( 1966 ) (available on Amazon USA and on Amazon UK )"

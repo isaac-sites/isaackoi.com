@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1919.0120 Marconi and other worlds"
 description: "Marconi and other worlds SETI : On 20 January 1919 , the New York Times prints an article entitled “Radio to Stars, Marconi’s Hope” in which Guglielmo Marconi is reported to have stated that “… communication with intelligences on other sta..."

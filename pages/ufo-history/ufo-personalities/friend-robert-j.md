@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Friend, Robert J"
 description: "Robert Friend (on left) Brief comments to be added on this individual. Major Robert J Friend replaced Captain Gregory as head of Project Blue Book in October 1958 ."

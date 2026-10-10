@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1955.0505 Bluebook Special Report 14"
 description: "Bluebook Special Report 14 Project Blue Book Special Report Number 14 (dated 5 May 1955 ) was entitled “Analysis of Reports of Unidentified Aerial Objects”. It was based on studies by the Battelle Memorial Institute."

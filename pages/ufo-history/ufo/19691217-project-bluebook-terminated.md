@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1969.1217 Project Bluebook terminated"
 description: "Image needed On 17 December 1969 , the Secretary of the Air Force, Robert C Seamans Jr, announced the termination of Project Blue Book."

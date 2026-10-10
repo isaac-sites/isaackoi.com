@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1949.1227 Project Grudge press release"
 description: "Project Grudge press release On 24 January 1878, the Air Force issued press release (Numbered 629-49) announcing that Project Grudge had been close down. The press release stated that the final report on UFO’s would released to the press a..."

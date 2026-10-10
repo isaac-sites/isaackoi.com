@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.0914 Ubatuba fragments article"
 description: "Image needed On 14 September 1957 , the Rio de Janeiro newspaper O Globo published a letter which its columnist Ibrahim Sued claimed to have received a few days earlier. The letter referred to the sighting of a flying disk near Ubatuba, Sa..."

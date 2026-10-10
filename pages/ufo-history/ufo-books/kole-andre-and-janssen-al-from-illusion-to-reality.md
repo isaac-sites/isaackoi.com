@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Kole, Andre and Janssen, Al “From Illusion to Reality”"
 description: "Brief review to be added of “ From Illusion to Reality: A World Famous Illusionist Examines the Paranormal ” ( 1984 ) (available on Amazon USA and on Amazon UK ) by Andre Kole and Al Janssen."

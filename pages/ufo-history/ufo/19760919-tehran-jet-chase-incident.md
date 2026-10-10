@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1976.0919 Tehran jet chase incident"
 description: "Image needed A jet chase occurred near Tehran, Iran at about 12.30am on 19 September 1976 . This incident is Case 47 in Isaac Koi's \"Top 100\" article , since it was referred to in 55 of the books covered by that article. This incident feat..."

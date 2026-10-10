@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bova, Ben"
 description: "Ben Bova Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1977 Bova, Ben with Bell, Trudy (Ed) “Closeup: New Worlds” 1981 Bova, Ben “ The High Road ” ( 1981 ) (available on Amazon USA and on Amazon UK..."

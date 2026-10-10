@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1994.0000 “Cultural Aspects of SETI” report"
 description: "“Cultural Aspects of SETI” report During 1994 , a report was published on a series three workshops sponsored by NASA in 1991 - 1992 on Cultural Aspects of SETI (“CASETI”)."

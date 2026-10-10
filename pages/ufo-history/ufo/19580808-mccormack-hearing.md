@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1958.0808 McCormack hearing"
 description: "Image needed On 8 August 1958, an informal hearing on UFOs was held by the House of Representatives Subcommittee on Atmospheric Phenomena (a sub-committee of the House Select Committee on Astronautics and Space Exploration), chaired by Con..."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0000 Movie “Star Wars”"
 description: "“Star Wars” The movie “Star Wars” ( 1977 ) was written and directed by George Lucas. The full title of the first movie \"Star Wars\" movie is “Star Wars IV : A New Hope”."

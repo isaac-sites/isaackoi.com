@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1896.1100 Airship Wave"
 description: "Image needed There was a wave of Airship reports between mid-November 1896 to the end of April 1897 , with sporadic earlier sightings of airships."

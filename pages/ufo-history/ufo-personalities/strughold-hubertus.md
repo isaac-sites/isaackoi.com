@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Strughold, Hubertus"
 description: "Hubertus Strughold Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1954 Strughold, Hubertus “ The Green and Red Planet ” ( 1954 ) (available on Amazon USA and on Amazon UK ) ( SETI :)"

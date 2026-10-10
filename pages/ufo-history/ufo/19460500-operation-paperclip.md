@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1946.0500 Operation Paperclip"
 description: "Image needed During May 1946, Operation Overcast was renamed Operation Paperclip, continuing US attempts to obtain German technology and scientists."

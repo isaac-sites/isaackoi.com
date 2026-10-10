@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Freer, Neil “Breaking the Godspell: The Politics of Our Evolution”"
 description: "Brief review to be added of Neil Freer's book “ Breaking the Godspell: The Politics of Our Evolution ” ( 1987 ) (available on Amazon USA and on Amazon UK )."

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Plait, Philip"
 description: "Philip Plait Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2002 Plait, Philip “ Bad Astronomy ” ( 2002 ) (available on Amazon USA and on Amazon UK )"

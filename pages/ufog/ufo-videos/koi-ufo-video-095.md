@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi UFO Video 095"
 description: "Koi UFO Video 095 : Morristown UFOs 2009 (flare hoax) https://www.youtube.com/watch?v=IqcRpQ-WaQw [DEBUNKED] Koi UFO Video 095 appears to show a number of unidentified red lights in a night sky. They do not look very spectacular and resemb..."

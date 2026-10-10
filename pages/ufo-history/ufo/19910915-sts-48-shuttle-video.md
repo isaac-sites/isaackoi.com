@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1991.0915 STS-48 shuttle video"
 description: "Image needed On 15 September 1991 , the STS-48 \"UFO\" video tape was filmed during a mission of Space Shuttle Discovery."

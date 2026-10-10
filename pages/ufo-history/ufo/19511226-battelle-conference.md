@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.1226 Battelle conference"
 description: "Image needed On 26 December 1951 , Colonel S H Kirkland, of Colonel Dunn's staff, and Captain Edward Ruppelt left Dayton for a two-day conference to outline to Battelle Memorial Institute (referred to by Captain Ruppelt as “Project Bear”)..."

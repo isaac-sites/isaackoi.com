@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fort, Charles “Lo!”"
 description: "Brief review to be added of Charles Fort 's book “ Lo! ” ( 1931 ) (available on Amazon USA and on Amazon UK ). Complete text of Charles Fort’s “ Lo! ” available online at: http://www.resologist.net/loei.htm"

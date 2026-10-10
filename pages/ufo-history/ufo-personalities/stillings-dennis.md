@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Stillings, Dennis"
 description: "Dennis Stillings Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1989 Stillings, Dennis (Ed.) “ Cyberbiological studies of the imaginal component in the UFO contact experience ” ( 1989 ) (available on..."

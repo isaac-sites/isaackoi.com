@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Rogo, D Scott (Ed.) “UFO Abductions”"
 description: "Brief review to be added of “ UFO Abductions ” ( 1980 ) (available on Amazon USA and on Amazon UK ) edited by D Scott Rogo ."

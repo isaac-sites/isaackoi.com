@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.0823 Drury movie film"
 description: "Image needed On 23 August 1953 , an object was filmed emerging from a cloud over Port Moresby, Papua New Guinea (then an Australian territory) by Thomas C Drury, Deputy Director of the Department of Civil Aviation (commonly referred to as..."

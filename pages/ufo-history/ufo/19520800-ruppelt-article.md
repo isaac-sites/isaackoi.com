@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1952.0800 Ruppelt article"
 description: "Image needed An article by Captain Edward J Ruppelt appeared in the August 1952 edition of Air Intelligence Digest."

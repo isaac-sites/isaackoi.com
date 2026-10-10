@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Downing, Barry “The Bible and Flying Saucers”"
 description: "Brief review to be added of Barry Downing 's book “ The Bible and Flying Saucers ” ( 1968 ) (available on Amazon USA and on Amazon UK )"

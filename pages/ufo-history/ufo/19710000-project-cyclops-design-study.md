@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1971.0000 Project Cyclops design study"
 description: "Project Cyclops design study During 1971 , a design study for Project Cyclops was prepared, co-directed by Bernard Oliver and John Billingham . “Project Cyclops : A Design Study of a System for Detecting Extraterrestrial Intelligent Life :..."

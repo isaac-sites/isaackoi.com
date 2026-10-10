@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Buckle, Eileen and Oliver, Norman “The Scoriton Mystery: Did Adamski return?”"
 description: "Brief review to be added of Eileen Buckle and Norman Oliver 's book “ The Scoriton Mystery: Did Adamski return? ” ( 1967 ) (available on Amazon USA and on Amazon UK )"

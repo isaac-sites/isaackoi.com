@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Goldsmith, Donald and Owen, Tobias “The Search for Life in the Universe”"
 description: "Brief review to be added of Goldsmith, Donald and Owen, Tobias “ The Search for Life in the Universe ” ( 1980 ) (available on Amazon USA and on Amazon UK )"

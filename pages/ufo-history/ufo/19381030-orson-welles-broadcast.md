@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1938.1030 Orson Welles broadcast"
 description: "Image needed Radio broadcast: Dramatization of H G Wells’ 1898 novel “The War of the Worlds” broadcast by CBS on 30 October 1938 . Performed by Orson Welles and the Mercury Theater. Script written by Howard Koch."

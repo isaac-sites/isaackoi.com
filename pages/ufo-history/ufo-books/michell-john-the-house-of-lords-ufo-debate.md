@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Michell, John “The House of Lords UFO Debate”"
 description: "Brief review to be added of John Michell 's book “ The House of Lords UFO Debate ” ( 1979 ) (available on Amazon USA and on Amazon UK ) See also the references provided in relation to the relevant discussion in the House of Lords in 1979 ."

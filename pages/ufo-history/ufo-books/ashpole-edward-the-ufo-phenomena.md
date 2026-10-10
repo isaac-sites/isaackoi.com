@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ashpole, Edward “The UFO Phenomena”"
 description: "Brief review to be added of Edward Ashpole 's book “The UFO Phenomena” ( 1995 ) (available on Amazon USA and on Amazon UK )"

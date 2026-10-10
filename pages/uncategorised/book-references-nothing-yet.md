@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Book references - nothing yet"
 description: "Please use the comments section at the bottom of this page to share any relevant book references or other useful resources."

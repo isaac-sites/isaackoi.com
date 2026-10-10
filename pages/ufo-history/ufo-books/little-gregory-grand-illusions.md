@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Little, Gregory “Grand Illusions”"
 description: "Brief review to be added of Gregory Little's book “ Grand Illusions ” ( 1994 ) (available on Amazon USA and on Amazon UK )"

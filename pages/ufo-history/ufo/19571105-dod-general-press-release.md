@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1957.1105 DoD general press release"
 description: "DoD general press release On 5 November 1957 , the US Department of Defense issued a news release stating that no evidence had been discovered to confirm the existence of so-called “Flying Saucers” and details methods of investigation (Pre..."

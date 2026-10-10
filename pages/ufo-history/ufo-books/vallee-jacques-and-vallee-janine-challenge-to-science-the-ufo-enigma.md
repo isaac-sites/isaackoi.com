@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Vallee, Jacques and Vallee, Janine “Challenge to Science – The UFO Enigma”"
 description: "Brief review to be added of “ Challenge to Science – The UFO Enigma ” ( 1966 ) (available on Amazon USA and on Amazon UK ) by Jacques Vallee and Janine Vallee."

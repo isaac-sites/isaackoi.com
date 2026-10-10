@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0000 “Calling Occupants Of Interplanetary craft”"
 description: "Image needed During 1977 , Karen and Richard Carpenter (“The Carpenters”) released “Calling Occupants Of Interplanetary craft”."

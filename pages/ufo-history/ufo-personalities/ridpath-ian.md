@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Ridpath, Ian"
 description: "Ian Ridpath Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1975 Ridpath, Ian “ Worlds Beyond ” ( 1975 ) (available on Amazon USA and on Amazon UK ). Later revised edition published as “Signs of Life”..."

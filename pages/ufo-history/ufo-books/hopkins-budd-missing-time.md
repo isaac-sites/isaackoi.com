@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Hopkins, Budd “Missing Time”"
 description: "Brief review to be added of Budd Hopkins 's book “ Missing Time ” ( 1981 ) (available on Amazon USA and on Amazon UK )"

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2002.0900 Roper Poll for SciFi Channel"
 description: "Roper Poll for SciFi Channel During September 2002 , the results of a poll by the Roper organisation were published in a report, prepared for the Sci Fi Channel, entitled “UFOs and Extraterrestrial Life – American’s Beliefs and Personal Ex..."

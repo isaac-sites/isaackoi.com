@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Geller, Uri"
 description: "Uri Geller Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1987 Geller, Uri and Playfair, Guy Lyon “ The Geller Effect ” ( 1987 ) (available on Amazon USA and on Amazon UK )."

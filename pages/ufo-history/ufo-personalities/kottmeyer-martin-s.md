@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Kottmeyer, Martin S"
 description: "Martin S Kottmeyer Brief comments to be added on this individual. Martin Kottmeyer wrote an article entitled “Entirely unpredisposed” which appeared in Magonia in January 1990 ."

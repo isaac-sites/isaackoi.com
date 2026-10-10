@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1960.0800 NASA’s Committee 14"
 description: "NASA’s Committee 14 During August 1960, NASA ’s “Committee 14 on Exobiology” was formed."

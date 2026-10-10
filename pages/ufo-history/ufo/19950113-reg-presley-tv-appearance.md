@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1995.0113 Reg Presley TV appearance"
 description: "Reg Presley TV appearance On 13 January 1995 , During an interview on the TV show “Good Morning with Anne and Nick”, pop-singer Reg Presley claims that he has viewed footage of the apparent autopsy of an alien."

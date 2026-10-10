@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi Alien Photo 57"
 description: "Koi Alien Photo 57 Koi Alien Photo 57 has appeared on several UFO websites, generally with no accompanying text. In fact Koi Alien Photo 57 first appeared on the front cover of the satirical newspaper \"Weekly World News\" (in October 1993)...."

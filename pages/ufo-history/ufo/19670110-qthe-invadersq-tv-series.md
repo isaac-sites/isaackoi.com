@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0110 \"The Invaders\" TV series"
 description: "Image needed On 10 January 1967 , the American Broadcasting Company started showing “The Invaders” television series. It starred Roy Thinnes ."

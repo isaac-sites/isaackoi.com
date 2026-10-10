@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.1108 Colonel McCoy Memo"
 description: "Colonel McCoy Memo On 8 November 1948 , a letter from Colonel McCoy to General Cabell in response to further questions raised by General Cabell in the light of the memo from Colonel Brooke Allen dated 1948 .1011. (Commonly referred to as “..."

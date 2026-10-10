@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Corso, Philip J “The Day After Roswell”"
 description: "Brief review to be added of Philip J Corso with William Birnes 's book “ The Day After Roswell ” ( 1997 ) (available on Amazon USA and on Amazon UK )"

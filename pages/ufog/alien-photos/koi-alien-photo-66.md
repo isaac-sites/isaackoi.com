@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Koi Alien Photo 66"
 description: "Koi Alien Photo 66 Koi Alien Photo 66 is almost certainly the most disgusting hoax I have come across in the history of ufology. The only other real contender this this title is Koi Alien Photo 08 since that hoax involved killing a monkey..."

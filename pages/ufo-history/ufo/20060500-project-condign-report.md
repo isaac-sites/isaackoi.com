@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "2006.0500 Project Condign report"
 description: "Project Condign report During May 2006 , the Project Condign report was released to the public by the Ministry of Defence."

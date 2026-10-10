@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1950.0100 Keyhoe's \"True\" article"
 description: "Image needed The January 1950 issue of True magazine included the article entitled “ The Flying Saucers are Real ” written by Donald Keyhoe ."

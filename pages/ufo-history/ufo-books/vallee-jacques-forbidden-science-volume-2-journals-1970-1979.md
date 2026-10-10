@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Vallee, Jacques “Forbidden Science : Volume 2 (Journals 1970-1979)”"
 description: "Brief review to be added of Jacques Vallee 's book “ Forbidden Science : Volume 2 (Journals 1970 - 1979 ) ” ( 2008 ) (available on Amazon USA and on Amazon UK )"

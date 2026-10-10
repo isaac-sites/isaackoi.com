@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Nickell, Joe and Karr, Barry and Genoni, Tom (Ed.) “The Outer Edge : Classic Investigations of the Paranormal”"
 description: "Brief review to be added of “ The Outer Edge : Classic Investigations of the Paranormal ” ( 1996 ) (available on Amazon USA and on Amazon UK ) edited by Joe Nickell and Barry Karr and Tom Genoni."

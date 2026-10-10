@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1976.0622 Canary Islands sightings"
 description: "Image needed On 22 January 1976 , there were alleged UFO sightings in the Spanish Canary Islands involving various witnesses and photographs."

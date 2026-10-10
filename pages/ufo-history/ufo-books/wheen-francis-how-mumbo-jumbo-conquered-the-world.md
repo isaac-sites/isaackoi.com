@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Wheen, Francis “How Mumbo-Jumbo Conquered The World”"
 description: "Brief review to be added of Francis Wheen 's book “ How Mumbo-Jumbo Conquered The World ” ( 2004 ) (available on Amazon USA and on Amazon UK )"

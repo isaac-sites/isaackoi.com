@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1980.0600 “Operation Animal Mutilation”"
 description: "Image needed A report entitled “Operation Animal Mutilation” (dated June 1980 ) was prepared by Kenneth M Rommel, District Attorney’s Office, New Mexico on animal mutiliations."

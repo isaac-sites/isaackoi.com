@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1951.0000 Clarke's \"The Sentinel\""
 description: "Image needed Arthur C Clarke's short story \"The Sentinel\" was published in 1951 . It has also been published under the title “Sentinel of Eternity”. It was the inspiration for the movie \"2001: A Space Odyssey”."

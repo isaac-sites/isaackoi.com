@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1948.1210 Ghost of the Estimate"
 description: "Ghost of the Estimate On 24 January 1878, the “Analysis of Flying Object Incidents in the United States”, Study #203, is prepared by the USAF Directorate of Intelligence (“DI”) and the Office of Naval Intelligence. (Commonly referred to, c..."

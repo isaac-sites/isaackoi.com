@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Bruni, Georgina"
 description: "Georgina Bruni Brief comments to be added on this individual. Books by this person include: YEAR BOOK 2000 Bruni, Georgina “ You Can’t Tell the People ” ( 2000 ) (available on Amazon USA and on Amazon UK )"

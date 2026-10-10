@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Chatelain, Maurice “Our Cosmic Ancestors”"
 description: "Brief review to be added of Maurice Chatelain 's book “ Our Cosmic Ancestors ” ( 1987 ) (available on Amazon USA and on Amazon UK )"

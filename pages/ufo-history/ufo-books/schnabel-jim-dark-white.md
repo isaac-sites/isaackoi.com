@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Schnabel, Jim “Dark White”"
 description: "Brief review to be added of Jim Schnabel 's book “ Dark White ” ( 1994 ) (available on Amazon USA and on Amazon UK )"

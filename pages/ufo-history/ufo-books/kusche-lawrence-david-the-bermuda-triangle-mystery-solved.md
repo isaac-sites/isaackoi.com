@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Kusche, Lawrence David “The Bermuda Triangle Mystery – Solved”"
 description: "Brief review to be added of Lawrence David Kusche 's book “ The Bermuda Triangle Mystery – Solved ” ( 1975 ) (available on Amazon USA and on Amazon UK )"

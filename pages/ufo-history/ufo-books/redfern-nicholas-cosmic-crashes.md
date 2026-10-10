@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Redfern, Nicholas “Cosmic Crashes”"
 description: "Brief review to be added of Nicholas Redfern 's book “ Cosmic Crashes ” ( 1999 ) (available on Amazon USA and on Amazon UK )"

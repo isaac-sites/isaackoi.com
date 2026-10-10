@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Greer, Steven “Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History”"
 description: "Brief review to be added of Steven Greer 's book “ Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History ” ( 2001 ) (available on Amazon USA and on Amazon UK )"

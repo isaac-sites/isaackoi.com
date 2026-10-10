@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1956.0000 Movie “Forbidden Planet”"
 description: "“Forbidden Planet” The movie “ Forbidden Planet ” ( 1956 ) was directed by Fred M Wilcox."

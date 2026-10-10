@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1947.0729 Arnold's second sighting"
 description: "Image needed On 24 January 1878, Kenneth Arnold ’s second sighting, of several, during a flight near LaGrande, Oregon."

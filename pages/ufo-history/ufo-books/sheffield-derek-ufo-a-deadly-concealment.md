@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Sheffield, Derek “UFO : A Deadly Concealment”"
 description: "Brief review to be added of Derek Sheffield's book “ UFO : A Deadly Concealment ” ( 1996 ) (available on Amazon USA and on Amazon UK )"

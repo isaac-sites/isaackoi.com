@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Keel, John A “The Mothman Prophecies”"
 description: "Brief review to be added of John A Keel 's book “ The Mothman Prophecies ” ( 1975 ) (available on Amazon USA and on Amazon UK ). Later published under the title “Visitors from Space”."

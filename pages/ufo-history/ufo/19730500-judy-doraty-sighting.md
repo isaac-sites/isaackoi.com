@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1973.0500 Judy Doraty sighting"
 description: "Image needed During May 1973 , Judy Doraty claims to see a calf taken into a UFO, near Houston."

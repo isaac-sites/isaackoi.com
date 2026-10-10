@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1977.0000 SERENDIP SETI search"
 description: "SERENDIP SETI search During 1977 , the “SERENDIP” (“Search for Extraterrestrial Radio Emission from Nearby Developed Intelligent Populations”) piggybacking SETI program began operation. It was developed by Professor Stuart Bowyer and colle..."

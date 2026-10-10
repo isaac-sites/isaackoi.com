@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "Walters, Ed"
 description: "Ed Walters Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1990 Walters, Ed and Walters, Francis “The Gulf Breeze Sightings” 1997 Walters, Ed and Maccabee, Bruce “UFOs are Real – Here’s the proof”"

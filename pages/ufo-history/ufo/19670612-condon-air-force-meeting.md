@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1967.0612 Condon / Air Force meeting"
 description: "Image needed A meeting on 12-13th June 1967 at the University of Colorado was attended by USAF Captain C H Van Diver, Dr E Condon and project staff."

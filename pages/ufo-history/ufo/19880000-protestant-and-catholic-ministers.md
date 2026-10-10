@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1988.0000 Protestant and Catholic Ministers"
 description: "Image needed During 1988 , a survey of 100 Protestant and Roman Catholic Ministers conducted by Barry Downing as to how they believed religions would be affected by the news that aliens did exist and were coming to earth."

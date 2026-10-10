@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-05-22 11:32:39'
 layout: "default"
 title: "1984.0000 Rojcewicz's thesis"
 description: "Image needed Ph.D Thesis by Rojcewicz, Dr. Peter Michael “The Boundaries of Orthodoxy: A Folkloric Look at the ‘UFO Phenomenon’”, University of Pennsylvania, 1984 , 738 pages."

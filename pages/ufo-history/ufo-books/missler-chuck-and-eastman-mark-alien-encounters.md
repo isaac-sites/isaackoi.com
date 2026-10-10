@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Missler, Chuck and Eastman, Mark “Alien Encounters”"
 description: "Brief review to be added of “ Alien Encounters: The Secret behind the UFO Phenomenon ” ( 1997 ) (available on Amazon USA and on Amazon UK ) by Chuck Missler and Eastman Mark."

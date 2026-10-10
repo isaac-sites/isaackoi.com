@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Yin, Amorah Quan “Pleiadian Perspectives on Human Evolution”"
 description: "Brief review to be added of Amorah Quan Yin's book “ Pleiadian Perspectives on Human Evolution ” ( 1996 ) (available on Amazon USA and on Amazon UK )"

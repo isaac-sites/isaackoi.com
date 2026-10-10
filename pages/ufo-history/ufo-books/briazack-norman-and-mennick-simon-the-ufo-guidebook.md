@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Briazack, Norman and Mennick, Simon “The UFO Guidebook”"
 description: "Brief review to be added of Norman Briazack and Simon Mennick's book “ The UFO Guidebook ” (available on Amazon USA and on Amazon UK )"

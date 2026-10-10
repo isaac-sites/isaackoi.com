@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1953.1123 Felix Moncla \"disappearance\""
 description: "Image needed On 23 November 1953 , the Kinross Air Force Base, Michigan F-89 jet chase / alleged \"disappearance\" occurred over Soo Locks, Michigan. This incident involved pilot Lt. Felix Moncla Jr and radar observer Lt R R Wilson. This inc..."

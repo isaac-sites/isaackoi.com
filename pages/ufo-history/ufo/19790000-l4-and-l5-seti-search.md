@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "1979.0000 L4 and L5 SETI search"
 description: "L4 and L5 SETI search During 1979 , an attempt to discover evidence of discrete objects (such as interstellar probes) in stable orbits about L4 and L5 was made by Robert A Freitas Junior and Francisco Valdes by studying 90 astronomical pho..."

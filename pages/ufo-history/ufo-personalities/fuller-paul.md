@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-09-27 21:05:50'
 layout: "default"
 title: "Fuller, Paul"
 description: "Paul Fuller Brief comments to be added on this individual. Books by this person include: YEAR BOOK 1990 Randles, Jenny and Fuller, Paul “ Crop Circles : A Mystery Solved ” ( 1990 ) (available on Amazon USA and on Amazon UK ) (Crop Circles)..."
