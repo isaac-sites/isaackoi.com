@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0440614058", "1564149609", "0312875150", "0615249744"], "cover_image": "/book-covers/0440614058.jpg", "cover_source": "local-cache", "primary_isbn": "0440614058"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Jim Schnabel]({{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }})'s book “[Remote Viewers: The Secret History of America’s Psychic Spies]({{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0440614058/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0440614058/?&tag=ufot-21))

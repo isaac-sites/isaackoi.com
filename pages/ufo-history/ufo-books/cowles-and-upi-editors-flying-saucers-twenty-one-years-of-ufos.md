@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": [], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-07-31 16:15:06 +0000
 ---
 
 Brief review to be added of “[Flying Saucers: Twenty-One Years of UFOs]({{ '/ufo-history/ufo-books/cowles-and-upi-editors-flying-saucers-twenty-one-years-of-ufos' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})), published by the editors of Cowles and UPI

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1852831448", "1860197949"], "cover_image": "/book-covers/1860197949.jpg", "cover_source": "local-cache", "primary_isbn": "1852831448"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [James Randi]({{ '/ufo-history/ufo-personalities/randi-james' | relative_url }})'s book “[Psychic Investigator]({{ '/ufo-history/ufo-books/randi-james-psychic-investigator' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1852831448/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1852831448/?&tag=ufot-21))

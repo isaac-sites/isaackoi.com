@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0007DOAAG", "1931044325", "0505513048", "0789207087", "1575440660"], "cover_image": "/book-covers/1931044325.jpg", "cover_source": "local-cache", "primary_isbn": "1931044325"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Flying Saucer Pilgrimmage]({{ '/ufo-history/ufo-books/reeve-bryant-and-reeve-helen-flying-saucer-pilgrimmage' | relative_url }})” ([1957]({{ '/tags/1957' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0007DOAAG/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0007DOAAG/?&tag=ufot-21)) by Bryant Reeve and Helen Reeve.

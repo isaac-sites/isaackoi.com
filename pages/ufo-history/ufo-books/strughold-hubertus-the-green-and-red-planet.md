@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000IOHL3C", "0521620120", "0521343267", "075241450X", "0446766429"], "cover_image": "/book-covers/0521620120.jpg", "cover_source": "local-cache", "primary_isbn": "0521620120"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Hubertus Strughold]({{ '/ufo-history/ufo-personalities/strughold-hubertus' | relative_url }})'s book “[The Green and Red Planet]({{ '/ufo-history/ufo-books/strughold-hubertus-the-green-and-red-planet' | relative_url }})” ([1954]({{ '/tags/1954' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000IOHL3C/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000IOHL3C/?&tag=ufot-21))

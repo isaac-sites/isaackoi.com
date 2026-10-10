@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000EYS2RU"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Official Guide to UFOs]({{ '/ufo-history/ufo-books/science-a-mechanics-editors-the-official-guide-to-ufos' | relative_url }})”, edited by the editors of Science & Mechanics ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000EYS2RU/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000EYS2RU/?&tag=ufot-21)).

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1933665114", "1852277343", "0760707642", "1578590299", "1558883010", "0780800974", "0451204247", "1841196134", "0963916122", "0943358329", "0760704406", "0631135634", "0709188641", "0850303621", "0451094727", "0879753382", "1573922137", "015136415X", "0345345258"], "cover_image": "/book-covers/1933665114.jpg", "cover_source": "local-cache", "primary_isbn": "1933665114"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Unidentified]({{ '/ufo-history/ufo-books/clark-jerome-and-coleman-loren-the-unidentified' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1933665114/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1933665114/?&tag=ufot-21)) by [Jerome Clark]({{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}) and Loren Coleman.

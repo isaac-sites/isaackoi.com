@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0709052677", "095080245X", "0946551669", "0879757655", "1860194095", "0806981326", "0938294083", "0749914114", "1591021103"], "cover_image": "/book-covers/0709052677.jpg", "cover_source": "local-cache", "primary_isbn": "0709052677"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Crop Circles: A Mystery Solved]({{ '/ufo-history/ufo-books/randles-jenny-and-fuller-paul-crop-circles-a-mystery-solved' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0709052677/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0709052677/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Paul Fuller]({{ '/ufo-history/ufo-personalities/fuller-paul' | relative_url }}).

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000OVBWKC", "087542001X", "0753704250", "0600572293", "1576072495", "075251217X", "0760704406", "0631135634", "0881621684", "070901080X", "1933665335"], "cover_image": "/book-covers/087542001X.jpg", "cover_source": "local-cache", "primary_isbn": "087542001X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Alien Contact: Window on Another World]({{ '/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000OVBWKC/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000OVBWKC/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Paul Whetnall]({{ '/ufo-history/ufo-personalities/whetnall-paul' | relative_url }}).

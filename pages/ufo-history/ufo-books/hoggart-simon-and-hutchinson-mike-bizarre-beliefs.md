@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1860660223"], "cover_image": "/book-covers/1860660223.jpg", "cover_source": "local-cache", "primary_isbn": "1860660223"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Bizarre Beliefs]({{ '/ufo-history/ufo-books/hoggart-simon-and-hutchinson-mike-bizarre-beliefs' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1860660223/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1860660223/?&tag=ufot-21)) by Simon Hoggart and Mike Hutchinson.

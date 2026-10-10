@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0006CL3G2", "087542001X", "013117424X", "0850304148"], "cover_image": "/book-covers/087542001X.jpg", "cover_source": "local-cache", "primary_isbn": "087542001X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [David Webb]({{ '/ufo-history/ufo-personalities/webb-david' | relative_url }})'s book “[1973 – The Year of the Humanoid]({{ '/ufo-history/ufo-books/webb-david-1973-the-year-of-the-humanoid' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0006CL3G2/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0006CL3G2/?&tag=ufot-21))

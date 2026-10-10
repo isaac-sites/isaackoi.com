@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["031213620X", "0880642262"], "cover_image": "/book-covers/031213620X.jpg", "cover_source": "local-cache", "primary_isbn": "031213620X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Rand Flem-Ath and Rose Flem-Ath's book “[When The Sky Fell: In Search of Atlantis]({{ '/ufo-history/ufo-books/flem-ath-rand-and-flem-ath-rose-when-the-sky-fell-in-search-of-atlantis' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/031213620X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/031213620X/?&tag=ufot-21))

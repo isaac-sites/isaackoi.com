@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["078670800X"], "cover_image": "/book-covers/078670800X.jpg", "cover_source": "local-cache", "primary_isbn": "078670800X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Lynn Picknett's book “[The Mammoth Book of UFOs]({{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/078670800X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/078670800X/?&tag=ufot-21))

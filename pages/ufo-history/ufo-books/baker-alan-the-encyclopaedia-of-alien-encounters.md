@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1852277343"], "cover_image": "/book-covers/1852277343.jpg", "cover_source": "local-cache", "primary_isbn": "1852277343"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Alan Baker]({{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }})'s book “[The Encyclopaedia of Alien Encounters]({{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1852277343/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1852277343/?&tag=ufot-21))

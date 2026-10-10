@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1902636201"], "cover_image": "/book-covers/1902636201.jpg", "cover_source": "local-cache", "primary_isbn": "1902636201"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [David Morehouse]({{ '/ufo-history/ufo-personalities/morehouse-david' | relative_url }})'s book “[Psychic Warrior]({{ '/ufo-history/ufo-books/morehouse-david-psychic-warrior' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1902636201/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1902636201/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["006137928X", "0963916122"], "cover_image": "/book-covers/006137928X.jpg", "cover_source": "local-cache", "primary_isbn": "006137928X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Zecharia Sitchin]({{ '/ufo-history/ufo-personalities/sitchin-zecharia' | relative_url }})'s book “[When Time Began: Earth Chronicles Book V]({{ '/ufo-history/ufo-books/sitchin-zecharia-when-time-began-earth-chronicles-book-v' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/006137928X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/006137928X/?&tag=ufot-21))

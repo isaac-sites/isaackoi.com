@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0374133247", "0890092486"], "cover_image": "/book-covers/0374133247.jpg", "cover_source": "local-cache", "primary_isbn": "0374133247"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Christopher Evans]({{ '/ufo-history/ufo-personalities/evans-christopher' | relative_url }})'s book “[Cults of Unreason]({{ '/ufo-history/ufo-books/evans-christopher-cults-of-unreason' | relative_url }})” ([1973]({{ '/tags/1973' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0374133247/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0374133247/?&tag=ufot-21))

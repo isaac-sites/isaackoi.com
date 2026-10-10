@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1578983940", "0929398947", "B000BCJB98", "B00071GWAY", "0393007391", "0962653462", "0815970005", "051757165X", "0810812282", "1930749023"], "cover_image": "/book-covers/0929398947.jpg", "cover_source": "local-cache", "primary_isbn": "1578983940"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Lynn E Catoe's “[UFOs and Related Subjects: An Annotated Bibliography]({{ '/ufo-history/ufo-books/catoe-lynn-e-ufos-and-related-subjects-an-annotated-bibliography' | relative_url }})” ([1969]({{ '/tags/1969' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1578983940/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1578983940/?&tag=ufot-21))

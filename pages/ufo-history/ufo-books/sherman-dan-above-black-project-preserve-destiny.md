@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0966097807"], "cover_image": "/book-covers/0966097807.jpg", "cover_source": "local-cache", "primary_isbn": "0966097807"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Dan Sherman's book “[Above Black: Project Preserve Destiny]({{ '/ufo-history/ufo-books/sherman-dan-above-black-project-preserve-destiny' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0966097807/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0966097807/?&tag=ufot-21))

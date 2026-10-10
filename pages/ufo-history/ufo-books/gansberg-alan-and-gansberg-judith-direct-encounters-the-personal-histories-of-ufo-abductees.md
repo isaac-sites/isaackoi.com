@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0802706398", "0964491702", "0631135634"], "cover_image": "/book-covers/0802706398.jpg", "cover_source": "local-cache", "primary_isbn": "0802706398"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Direct Encounters: The Personal Histories of UFO Abductees]({{ '/ufo-history/ufo-books/gansberg-alan-and-gansberg-judith-direct-encounters-the-personal-histories-of-ufo-abductees' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0802706398/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0802706398/?&tag=ufot-21)) by Alan Gansberg and Judith Gansberg.

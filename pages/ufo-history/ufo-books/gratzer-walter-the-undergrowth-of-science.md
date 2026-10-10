@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0198507070"], "cover_image": "/book-covers/0198507070.jpg", "cover_source": "local-cache", "primary_isbn": "0198507070"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Walter Gratzer's book “[The Undergrowth of Science: Delusion, Self-deception and human frailty]({{ '/ufo-history/ufo-books/gratzer-walter-the-undergrowth-of-science' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0198507070/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0198507070/?&tag=ufot-21)

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0006CM7F8", "1870021029", "0850303508", "0963010409", "0810812282", "0385143486", "0806918918", "0709188641", "044821461X", "0446525650", "0963530941"], "cover_image": "/book-covers/1870021029.jpg", "cover_source": "local-cache", "primary_isbn": "1870021029"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Physical Traces associated with UFO Sightings]({{ '/ufo-history/ufo-books/phillips-ted-physical-traces-associated-with-ufo-sightings' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0006CM7F8/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0006CM7F8/?&tag=ufot-21)) by [Ted Phillips]({{ '/ufo-history/ufo-personalities/phillips-ted' | relative_url }})

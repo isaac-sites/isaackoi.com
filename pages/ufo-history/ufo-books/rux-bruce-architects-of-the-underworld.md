@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1883319463", "074348293X"], "cover_image": "/book-covers/1883319463.jpg", "cover_source": "local-cache", "primary_isbn": "1883319463"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Bruce Rux]({{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }})'s book “[Architects of the Underworld]({{ '/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1883319463/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1883319463/?&tag=ufot-21))

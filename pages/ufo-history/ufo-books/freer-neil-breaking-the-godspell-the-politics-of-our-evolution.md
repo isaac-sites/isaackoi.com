@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1885395361"], "primary_isbn": "1885395361", "cover_image": "https://covers.openlibrary.org/b/isbn/1885395361-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Neil Freer's book “[Breaking the Godspell: The Politics of Our Evolution]({{ '/ufo-history/ufo-books/freer-neil-breaking-the-godspell-the-politics-of-our-evolution' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1885395361/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1885395361/?&tag=ufot-21)).

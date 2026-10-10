@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0586074309"], "cover_image": "/book-covers/0586074309.jpg", "cover_source": "local-cache", "primary_isbn": "0586074309"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Geller Effect]({{ '/ufo-history/ufo-books/geller-uri-and-playfair-guy-lyon-the-geller-effect' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0586074309/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0586074309/?&tag=ufot-21)) by [Uri Geller]({{ '/ufo-history/ufo-personalities/geller-uri' | relative_url }}) and Guy Lyon Playfair.

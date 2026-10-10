@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0552990140", "0922915679"], "cover_image": "/book-covers/0922915679.jpg", "cover_source": "local-cache", "primary_isbn": "0552990140"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of T B Pawlicki's book “[How to Build a Flying Saucer]({{ '/ufo-history/ufo-books/pawlicki-t-b-how-to-build-a-flying-saucer' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0552990140/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0552990140/?&tag=ufot-21))

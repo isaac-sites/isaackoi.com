@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0752517856"], "primary_isbn": "0752517856", "cover_image": "https://covers.openlibrary.org/b/isbn/0752517856-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Colin Wilson]({{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }})'s book “[World Famous UFOs]({{ '/ufo-history/ufo-books/wilson-colin-world-famous-ufos' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0752517856/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0752517856/?&tag=ufot-21))

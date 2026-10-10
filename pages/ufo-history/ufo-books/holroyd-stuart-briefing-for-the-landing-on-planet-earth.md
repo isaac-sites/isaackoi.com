@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0552109975", "0971394237"], "cover_image": "/book-covers/0552109975.jpg", "cover_source": "local-cache", "primary_isbn": "0552109975"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Stuart Holroyd]({{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }})'s book “[Briefing for the landing on Planet Earth]({{ '/ufo-history/ufo-books/holroyd-stuart-briefing-for-the-landing-on-planet-earth' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0552109975/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0552109975/?&tag=ufot-21))

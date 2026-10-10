@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0704324865", "0283060697", "0631135634", "0938294083", "0749921005", "159605753X", "0880642262"], "cover_image": "/book-covers/0704324865.jpg", "cover_source": "local-cache", "primary_isbn": "0704324865"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[A Secret Property]({{ '/ufo-history/ufo-books/noyes-ralph-a-secret-property' | relative_url }})” ([1985]({{ '/tags/1985' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0704324865/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0704324865/?&tag=ufot-21)) by [Ralph Noyes]({{ '/ufo-history/ufo-personalities/noyes-ralph' | relative_url }}).

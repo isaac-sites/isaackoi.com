@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1565078497"], "cover_image": "/book-covers/1565078497.jpg", "cover_source": "local-cache", "primary_isbn": "1565078497"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Alien Obsession: What Lies Behind Abductions, Sightings and the Attraction to the Paranormal]({{ '/ufo-history/ufo-books/rhodes-ron-alien-obsession' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1565078497/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1565078497/?&tag=ufot-21)) by Ron Rhodes.

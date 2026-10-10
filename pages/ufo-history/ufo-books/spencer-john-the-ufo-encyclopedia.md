@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0380768879", "0743497538"], "cover_image": "/book-covers/0380768879.jpg", "cover_source": "local-cache", "primary_isbn": "0380768879"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [John Spencer]({{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }})'s book “[The UFO Encyclopedia]({{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0380768879/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0380768879/?&tag=ufot-21)).

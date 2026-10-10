@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0552105406", "0963916122", "0451204247", "1841196134", "0801002265"], "cover_image": "/book-covers/0552105406.jpg", "cover_source": "local-cache", "primary_isbn": "0552105406"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Mark Dem's book “[The Lost Tribes From Outer Space]({{ '/ufo-history/ufo-books/dem-mark-the-lost-tribes-from-outer-space' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0552105406/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0552105406/?&tag=ufot-21))

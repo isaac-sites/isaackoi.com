@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["070901080X", "0780800974", "1576072495", "0631135634"], "cover_image": "/book-covers/0780800974.jpg", "cover_source": "local-cache", "primary_isbn": "070901080X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFO Reality]({{ '/ufo-history/ufo-books/randles-jenny-ufo-reality' | relative_url }})” ([1983]({{ '/tags/1983' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/070901080X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/070901080X/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).

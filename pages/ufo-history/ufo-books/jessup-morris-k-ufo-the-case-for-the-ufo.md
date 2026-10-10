@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1892062410", "087542001X", "0713727195", "1852277343", "0380004658", "0385111398", "0505513048", "0743466748", "0743470923", "0425025470", "1558887415", "0780800974", "0397317808", "0767906284", "0879517247", "1883729025", "0747236038", "1567183611", "051757165X", "1880090163", "B000IW5ULY", "0451204247", "0385136773", "1841196134", "0446357154", "1567312004", "0815970005", "B000HZF026", "0812817125", "B000EH5018", "B000AV48KC", "0854351345", "0426134508", "0615249744", "B000K5Q2AW", "0352306823", "0752517856", "1576072495", "0963916122", "B000BD1A2I"], "cover_image": "/book-covers/1892062410.jpg", "cover_source": "local-cache", "primary_isbn": "1892062410"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Morris K Jessup]({{ '/ufo-history/ufo-personalities/jessup-morris-k' | relative_url }})'s book “[UFO: The Case for the UFO]({{ '/ufo-history/ufo-books/jessup-morris-k-ufo-the-case-for-the-ufo' | relative_url }})” ([1955]({{ '/tags/1955' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1892062410/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1892062410/?&tag=ufot-21))

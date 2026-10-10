@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0000CODS3", "1560983434", "0253190061"], "cover_image": "/book-covers/1560983434.jpg", "cover_source": "local-cache", "primary_isbn": "1560983434"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Frank Edwards]({{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }})'s book “[Flying Saucers – Here and Now!]({{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-here-and-now' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CODS3/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CODS3/?&tag=ufot-21))

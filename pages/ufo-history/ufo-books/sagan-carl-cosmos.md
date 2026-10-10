@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0345331354", "0471395366", "0805057668", "0345379187"], "cover_image": "/book-covers/0345331354.jpg", "cover_source": "local-cache", "primary_isbn": "0345331354"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[Cosmos]({{ '/ufo-history/ufo-books/sagan-carl-cosmos' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345331354/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345331354/?&tag=ufot-21)).

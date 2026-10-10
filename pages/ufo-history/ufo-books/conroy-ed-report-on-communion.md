@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0688088643", "1558883010", "0926524429", "0451204247", "1841196134", "0963916122", "0060186429", "078670800X", "0312867085", "0060176539"], "cover_image": "/book-covers/0688088643.jpg", "cover_source": "local-cache", "primary_isbn": "0688088643"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Ed Conroy]({{ '/ufo-history/ufo-personalities/conroy-ed' | relative_url }})'s book “[Report on Communion]({{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0688088643/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0688088643/?&tag=ufot-21))

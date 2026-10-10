@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1591021103", "0816038007", "1858600170", "1860660223", "0749914114", "0345409469"], "cover_image": "/book-covers/1591021103.jpg", "cover_source": "local-cache", "primary_isbn": "1591021103"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Jim Schnabel]({{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }})'s book “[Round in Circles]({{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1591021103/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1591021103/?&tag=ufot-21))

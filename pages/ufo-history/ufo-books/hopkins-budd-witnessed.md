@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0747533229", "0312262256", "1852277343", "0743466748", "0760707642", "0713725184", "0760702187", "0964491702", "0753704250", "0753700875", "0801484685", "0520224329", "0926524429", "0762101083", "0963916122", "0967323800", "0967323827", "0810838818", "1401000827", "0743412192", "1870870999", "0415243424", "0967773709", "0684195399", "0060186429", "1578210615", "1573929913", "1903047889", "078670800X", "0879518782", "184358073X", "0312867085", "B000NLQNZC", "1860194095", "0806981326", "0806904763", "0709050259", "0806918918", "0749914114", "0140179534", "0809231379", "1573922137", "1571742018", "1852839244", "1575000237", "0863698212", "1862041350", "0880642262"], "cover_image": "/book-covers/0747533229.jpg", "cover_source": "local-cache", "primary_isbn": "0747533229"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Budd Hopkins]({{ '/ufo-history/ufo-personalities/hopkins-budd' | relative_url }})'s book “[Witnessed]({{ '/ufo-history/ufo-books/hopkins-budd-witnessed' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0747533229/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0747533229/?&tag=ufot-21))

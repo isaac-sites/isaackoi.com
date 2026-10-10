@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0007DK7U8", "0505513048", "1576072495", "1578590299", "1558887423", "1905646003", "0880294426", "0688088643", "0962653462", "1881532119", "1573929913", "0312965214", "0743497538", "0879753382", "1573922137", "1852839244", "0451157060", "0451064240"], "cover_image": "/book-covers/1576072495.jpg", "cover_source": "local-cache", "primary_isbn": "0505513048"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Bender, Albert K]({{ '/ufo-history/ufo-personalities/bender-albert-k' | relative_url }}) “[Flying Saucers and the Three Men]({{ '/ufo-history/ufo-books/bender-albert-k-flying-saucers-and-the-three-men' | relative_url }})” ([1962]({{ '/tags/1962' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0007DK7U8/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0007DK7U8/?&tag=ufot-21))

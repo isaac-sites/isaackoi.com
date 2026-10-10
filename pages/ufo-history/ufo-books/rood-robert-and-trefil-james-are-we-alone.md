@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000GR9HP6", "0684848562", "0874514223", "038530532X", "0451204247", "1841196134", "0963916122"], "cover_image": "/book-covers/0684848562.jpg", "cover_source": "local-cache", "primary_isbn": "0684848562"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Are We Alone?]({{ '/ufo-history/ufo-books/rood-robert-and-trefil-james-are-we-alone' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000GR9HP6/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000GR9HP6/?&tag=ufot-21)) by Robert Rood and James Trefil.

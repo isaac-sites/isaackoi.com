@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["078641510X"], "cover_image": "/book-covers/078641510X.jpg", "cover_source": "local-cache", "primary_isbn": "078641510X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Dave Blevins' “[UFO Directory International]({{ '/ufo-history/ufo-books/blevins-dave-ufo-directory-international' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/078641510X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/078641510X/?&tag=ufot-21))

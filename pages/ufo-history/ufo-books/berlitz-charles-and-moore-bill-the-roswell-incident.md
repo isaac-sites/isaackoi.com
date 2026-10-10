@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0586051821", "0671662600", "0760702187", "0780800974", "0789207087", "0816038007", "0963916122", "1569247331", "1601630115", "0283060697", "0879753226", "1573921319", "1573921645", "0440236134", "1573929905", "1573929913", "1560983434", "0380814730", "070901080X", "0713724935", "1573922137"], "cover_image": "/book-covers/0671662600.jpg", "cover_source": "local-cache", "primary_isbn": "0586051821"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Berlitz, Charles]({{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}) and [Moore, Bill]({{ '/ufo-history/ufo-personalities/moore-bill' | relative_url }}) “[The Roswell Incident]({{ '/ufo-history/ufo-books/berlitz-charles-and-moore-bill-the-roswell-incident' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0586051821/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0586051821/?&tag=ufot-21))

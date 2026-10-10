@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0131366491", "087542001X", "1575000229", "0586066780", "0451204247", "1841196134", "0963916122", "1569243425", "1401000827", "0879753145", "B000NLQNZC", "0631135634", "0749914114", "1881852024", "B000JQ5DW0"], "cover_image": "/book-covers/0131366491.jpg", "cover_source": "local-cache", "primary_isbn": "0131366491"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [George Fawcett]({{ '/ufo-history/ufo-personalities/fawcett-george' | relative_url }}) and [Barry Greenwood]({{ '/ufo-history/ufo-personalities/greenwood-barry' | relative_url }})'s book “[Clear Intent]({{ '/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0131366491/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0131366491/?&tag=ufot-21)).

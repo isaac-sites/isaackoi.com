@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1858600235", "1852277343", "0552109975", "0415243424", "0713726008", "0880642262"], "cover_image": "/book-covers/1858600235.jpg", "cover_source": "local-cache", "primary_isbn": "1858600235"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Only Planet Of Choice]({{ '/ufo-history/ufo-books/schlemer-phyllis-and-jenkins-palden-the-only-planet-of-choice' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1858600235/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1858600235/?&tag=ufot-21)) by Phyllis Schlemer and Palden Jenkins.

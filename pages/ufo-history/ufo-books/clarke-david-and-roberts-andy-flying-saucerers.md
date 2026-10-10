@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1905646003"], "primary_isbn": "1905646003", "cover_image": "https://covers.openlibrary.org/b/isbn/1905646003-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [David Clarke]({{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}) and [Andy Roberts]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }})' book “[Flying Saucerers: A social history of UFOlogy]({{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }})” ([2007]({{ '/tags/2007' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1905646003/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1905646003/?&tag=ufot-21))
