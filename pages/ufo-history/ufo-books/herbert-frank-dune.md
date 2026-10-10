@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0450011844", "0805204504", "0801002265", "0091879272", "1901018008", "1416516778", "0345336895"], "cover_image": "/book-covers/0450011844.jpg", "cover_source": "local-cache", "primary_isbn": "0450011844"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Frank Herbert]({{ '/ufo-history/ufo-personalities/herbert-frank' | relative_url }})'s book “[Dune]({{ '/ufo-history/ufo-books/herbert-frank-dune' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0450011844/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0450011844/?&tag=ufot-21))

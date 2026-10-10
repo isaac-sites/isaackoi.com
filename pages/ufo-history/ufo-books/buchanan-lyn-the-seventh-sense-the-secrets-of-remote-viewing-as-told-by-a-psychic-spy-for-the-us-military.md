@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0743462688"], "cover_image": "/book-covers/0743462688.jpg", "cover_source": "local-cache", "primary_isbn": "0743462688"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Buchanan, Lyn]({{ '/ufo-history/ufo-personalities/buchanan-lyn' | relative_url }})'s book “[The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military]({{ '/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0743462688/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0743462688/?&tag=ufot-21))

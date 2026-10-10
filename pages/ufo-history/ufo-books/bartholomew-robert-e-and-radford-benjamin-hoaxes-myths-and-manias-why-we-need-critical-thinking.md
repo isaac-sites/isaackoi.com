@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1591020484"], "cover_image": "/book-covers/1591020484.jpg", "cover_source": "local-cache", "primary_isbn": "1591020484"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Bartholomew, Robert E]({{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}) and Radford, Benjamin “[Hoaxes, Myths and Manias: Why We Need Critical Thinking]({{ '/ufo-history/ufo-books/bartholomew-robert-e-and-radford-benjamin-hoaxes-myths-and-manias-why-we-need-critical-thinking' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1591020484/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1591020484/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["189652267X", "0684848562", "0816022763", "071371963X", "1850585768", "0874514223", "0743233433", "0451616014", "0395312884", "0393950220", "0060804998", "0671038923", "0747235082", "081293248X", "0471395366", "038530532X", "0385112572", "0688036422", "0201569493", "0520224531", "0521448034", "0935702083", "0471619124", "0688033369", "0195147103", "0306457954", "0446512311", "0246119330", "0060135891", "0060135689", "B000GR9HP6", "0965377431", "B000PRMOWK", "0521262275", "0380446774", "0387955011", "0802711057", "1585420360"], "cover_image": "/book-covers/189652267X.jpg", "cover_source": "local-cache", "primary_isbn": "189652267X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The High Frontier]({{ '/ufo-history/ufo-books/oneill-gerard-the-high-frontier' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/189652267X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/189652267X/?&tag=ufot-21)) Gerard O’Neill.

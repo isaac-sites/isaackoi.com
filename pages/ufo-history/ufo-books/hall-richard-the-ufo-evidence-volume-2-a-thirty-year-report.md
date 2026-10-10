@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0810838818", "1601630115"], "cover_image": "/book-covers/0810838818.jpg", "cover_source": "local-cache", "primary_isbn": "0810838818"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Richard Hall]({{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }})'s book “[The UFO Evidence: Volume 2 – A Thirty Year Report]({{ '/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0810838818/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0810838818/?&tag=ufot-21))

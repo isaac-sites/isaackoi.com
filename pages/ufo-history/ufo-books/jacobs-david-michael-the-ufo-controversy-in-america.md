@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0253190061", "0575055960", "0801484685", "0926524429", "1880090627", "0671748572", "0684814846", "1870021029", "0879755091", "0815608586", "0312867085", "0631135634", "0140179534", "051757165X", "0615249744"], "cover_image": "/book-covers/0253190061.jpg", "cover_source": "local-cache", "primary_isbn": "0253190061"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [David Michael Jacobs]({{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }})'s book “[The UFO Controversy in America]({{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0253190061/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0253190061/?&tag=ufot-21))

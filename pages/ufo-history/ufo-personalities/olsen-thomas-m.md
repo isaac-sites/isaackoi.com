@@ -14,6 +14,7 @@ header: {"preview_image": "/images/stories/no_avatar.jpg"}
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 ![]({{ '/images/stories/no_avatar.jpg' | relative_url }})

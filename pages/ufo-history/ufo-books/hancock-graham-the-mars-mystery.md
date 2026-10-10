@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0609600869", "074348293X", "0002570300"], "cover_image": "/book-covers/0609600869.jpg", "cover_source": "local-cache", "primary_isbn": "0609600869"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Graham Hancock]({{ '/ufo-history/ufo-personalities/hancock-graham' | relative_url }})'s book “[The Mars Mystery]({{ '/ufo-history/ufo-books/hancock-graham-the-mars-mystery' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0609600869/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0609600869/?&tag=ufot-21))

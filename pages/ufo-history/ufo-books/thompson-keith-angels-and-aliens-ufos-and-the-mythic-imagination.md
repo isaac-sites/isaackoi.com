@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0449908372", "0684848562", "0760707642", "0964491702", "0801484685", "0451204247", "1841196134", "0963916122", "1573922447", "0791423301"], "cover_image": "/book-covers/0449908372.jpg", "cover_source": "local-cache", "primary_isbn": "0449908372"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Keith Thompson]({{ '/ufo-history/ufo-personalities/thompson-keith' | relative_url }})'s book “[Angels and Aliens: UFOs and the Mythic Imagination]({{ '/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0449908372/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0449908372/?&tag=ufot-21))

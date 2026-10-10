@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0713726202"], "cover_image": "/book-covers/0713726202.jpg", "cover_source": "local-cache", "primary_isbn": "0713726202"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Derek Sheffield's book “[UFO: A Deadly Concealment]({{ '/ufo-history/ufo-books/sheffield-derek-ufo-a-deadly-concealment' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0713726202/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0713726202/?&tag=ufot-21))

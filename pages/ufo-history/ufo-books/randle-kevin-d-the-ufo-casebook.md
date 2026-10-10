@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0446357154"], "cover_image": "/book-covers/0446357154.jpg", "cover_source": "local-cache", "primary_isbn": "0446357154"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }})'s book “[The UFO Casebook]({{ '/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0446357154/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0446357154/?&tag=ufot-21))

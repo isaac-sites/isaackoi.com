@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": [], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-05-22 10:33:50 +0000
 ---
 
 Brief review to be added of Major [Hector Quintanilla]({{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }})'s book “[UFOs: An Air Force Dilemma]({{ '/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma' | relative_url }})”

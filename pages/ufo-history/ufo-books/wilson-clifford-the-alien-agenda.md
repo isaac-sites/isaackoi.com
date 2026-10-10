@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0451157060"], "primary_isbn": "0451157060", "cover_image": "https://covers.openlibrary.org/b/isbn/0451157060-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Clifford Wilson]({{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }})'s “[The Alien Agenda]({{ '/ufo-history/ufo-books/wilson-clifford-the-alien-agenda' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0451157060/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0451157060/?&tag=ufot-21)).

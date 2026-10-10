@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1883319617", "0871318563"], "cover_image": "/book-covers/1883319617.jpg", "cover_source": "local-cache", "primary_isbn": "1883319617"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Bruce Rux]({{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }})'s book “[Hollywood Vs. the Aliens]({{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1883319617/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1883319617/?&tag=ufot-21))

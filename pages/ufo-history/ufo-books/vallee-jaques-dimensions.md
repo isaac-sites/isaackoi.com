@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1933665289", "1578590299", "1558883010", "1558887423", "0688088643", "0283060697", "0963010409", "0880642262"], "cover_image": "/book-covers/1933665289.jpg", "cover_source": "local-cache", "primary_isbn": "1933665289"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Dimensions]({{ '/ufo-history/ufo-books/vallee-jaques-dimensions' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1933665289/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1933665289/?&tag=ufot-21))

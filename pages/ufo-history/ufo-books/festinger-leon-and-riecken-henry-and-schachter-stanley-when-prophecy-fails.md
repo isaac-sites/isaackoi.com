@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1905177194", "0684848562", "041592331X", "0520248120", "0743470923", "0753704250", "0753700875", "0815608586", "0780800974", "1905646003", "0892601299", "0801484685", "0520224329", "0926524585", "0451204247", "1841196134", "0345241894", "0926524429", "0850305977", "0253190061", "0553107224", "075251217X", "0850308097", "0340758333", "078670800X", "0440056888", "0791423301", "051757165X", "0708847781", "0380768879", "1933665289", "0525134700", "0880642262"], "cover_image": "/book-covers/1905177194.jpg", "cover_source": "local-cache", "primary_isbn": "1905177194"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[When Prophecy Fails]({{ '/ufo-history/ufo-books/festinger-leon-and-riecken-henry-and-schachter-stanley-when-prophecy-fails' | relative_url }})” ([1956]({{ '/tags/1956' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1905177194/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1905177194/?&tag=ufot-21)) by [Leon Festinger]({{ '/ufo-history/ufo-personalities/festinger-leon' | relative_url }}) and Henry Riecken and Stanley Schachter.

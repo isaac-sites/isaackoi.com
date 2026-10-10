@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1573929913"], "cover_image": "/book-covers/1573929913.jpg", "cover_source": "local-cache", "primary_isbn": "1573929913"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Shockingly Close to the Truth!]({{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1573929913/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1573929913/?&tag=ufot-21)) by [James Moseley]({{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}) and [Karl T Pflock]({{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }})

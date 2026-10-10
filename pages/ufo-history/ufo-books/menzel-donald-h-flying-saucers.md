@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000J0PM1S", "1578590299", "B0000CJKDC", "0929398947", "B0007EWCY6", "0451204247", "1841196134", "0963916122", "B0007DXIH2", "0385136773", "B0000CJCUL", "0970505507", "1880090627", "0253190061", "B0000CIN6B", "B00117X9ZO", "B000OZY8EA", "1560983434", "0399124217", "B000ILEK2A", "0345270754", "1870021029"], "cover_image": "/book-covers/1578590299.jpg", "cover_source": "local-cache", "primary_isbn": "1578590299"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Donald H Menzel]({{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }})'s book “[Flying Saucers]({{ '/ufo-history/ufo-books/menzel-donald-h-flying-saucers' | relative_url }})” ([1953]({{ '/tags/1953' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000J0PM1S/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000J0PM1S/?&tag=ufot-21))

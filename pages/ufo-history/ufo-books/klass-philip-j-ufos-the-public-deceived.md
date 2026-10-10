@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0879753226", "051757165X", "0140179534", "0631135634"], "cover_image": "/book-covers/0879753226.jpg", "cover_source": "local-cache", "primary_isbn": "0879753226"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Philip J Klass]({{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }})' book “[UFOs – The Public Deceived]({{ '/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived' | relative_url }})” ([1983]({{ '/tags/1983' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0879753226/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0879753226/?&tag=ufot-21))

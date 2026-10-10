@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0713722096"], "cover_image": "/book-covers/0713722096.jpg", "cover_source": "local-cache", "primary_isbn": "0713722096"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Paul Devereux]({{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }})'s book “[Earth Lights Revelation]({{ '/ufo-history/ufo-books/devereux-paul-earth-lights-revelation' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0713722096/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0713722096/?&tag=ufot-21))

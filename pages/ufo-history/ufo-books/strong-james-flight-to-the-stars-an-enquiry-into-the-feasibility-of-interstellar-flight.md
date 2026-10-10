@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0000CMM17", "0312877854"], "cover_image": "/book-covers/0312877854.jpg", "cover_source": "local-cache", "primary_isbn": "0312877854"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of James Strong's book “[Flight to the Stars: An Enquiry into the Feasibility of Interstellar Flight]({{ '/ufo-history/ufo-books/strong-james-flight-to-the-stars-an-enquiry-into-the-feasibility-of-interstellar-flight' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CMM17/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CMM17/?&tag=ufot-21))

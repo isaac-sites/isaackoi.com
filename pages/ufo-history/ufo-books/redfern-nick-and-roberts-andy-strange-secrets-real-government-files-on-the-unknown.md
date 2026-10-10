@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0743469763", "0743482549"], "cover_image": "/book-covers/0743469763.jpg", "cover_source": "local-cache", "primary_isbn": "0743469763"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Strange Secrets: Real Government Files on the Unknown]({{ '/ufo-history/ufo-books/redfern-nick-and-roberts-andy-strange-secrets-real-government-files-on-the-unknown' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0743469763/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0743469763/?&tag=ufot-21)) by [Nicholas Redfern]({{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}) and [Andy Roberts]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}).

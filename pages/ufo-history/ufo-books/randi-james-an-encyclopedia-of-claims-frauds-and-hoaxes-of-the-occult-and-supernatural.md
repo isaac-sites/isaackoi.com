@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["031213066X"], "cover_image": "/book-covers/031213066X.jpg", "cover_source": "local-cache", "primary_isbn": "031213066X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [James Randi]({{ '/ufo-history/ufo-personalities/randi-james' | relative_url }})'s book “[An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural]({{ '/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/031213066X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/031213066X/?&tag=ufot-21))

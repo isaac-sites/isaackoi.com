@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0871318563", "0520248120"], "cover_image": "/book-covers/0871318563.jpg", "cover_source": "local-cache", "primary_isbn": "0871318563"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Michael Mannion's book “[Project Mindshift]({{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0871318563/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0871318563/?&tag=ufot-21))

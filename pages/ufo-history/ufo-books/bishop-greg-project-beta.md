@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0743470923", "0976642638", "0743497538"], "cover_image": "/book-covers/0743470923.jpg", "cover_source": "local-cache", "primary_isbn": "0743470923"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Bishop, Greg]({{ '/ufo-history/ufo-personalities/bishop-greg' | relative_url }}) “[Project BETA: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth]({{ '/ufo-history/ufo-books/bishop-greg-project-beta' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0743470923/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0743470923/?&tag=ufot-21))

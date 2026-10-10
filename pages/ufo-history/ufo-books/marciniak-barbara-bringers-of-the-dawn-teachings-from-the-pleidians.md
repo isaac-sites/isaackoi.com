@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["093968098X", "1852427728", "0926524429", "1578210615", "1893302563"], "cover_image": "/book-covers/093968098X.jpg", "cover_source": "local-cache", "primary_isbn": "093968098X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Barbara Marciniak]({{ '/ufo-history/ufo-personalities/marciniak-barbara' | relative_url }})'s book “[Bringers of the Dawn: Teachings from the Pleidians]({{ '/ufo-history/ufo-books/marciniak-barbara-bringers-of-the-dawn-teachings-from-the-pleidians' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/093968098X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/093968098X/?&tag=ufot-21))

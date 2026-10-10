@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0394450035", "0671820796", "1578590299", "1558887423", "B000EZY1RO", "B000I9JDLK", "0850303508", "0451204247", "1841196134", "0963916122", "0963010409", "0200716778", "0253190061", "0394492153", "B000EYS2RU", "B000GRISSS", "0934523355", "1567312004", "1870021029", "0137307136", "0815970005", "0140179534", "0879753382", "1573922137", "B000ILEK2A", "0345345258", "044821461X", "0809463245", "0523008406"], "cover_image": "/book-covers/1578590299.jpg", "cover_source": "local-cache", "primary_isbn": "0394450035"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFOs – Identified]({{ '/ufo-history/ufo-books/klass-philip-j-ufos-identified' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0394450035/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0394450035/?&tag=ufot-21)) by: [Philip J Klass]({{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}).

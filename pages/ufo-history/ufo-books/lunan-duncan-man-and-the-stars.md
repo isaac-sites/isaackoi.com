@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0285621297", "087542001X", "0671820796", "0385111398", "0393950220", "0385125356", "0929686004", "0583124992", "081293248X", "0809282836", "0385112572", "0900727322", "0963916122", "031282775X", "1583940545", "0896960404", "0449135691", "085435073X", "1881532062", "0553083767", "0553107224", "0890092486", "0919654703", "0352397764", "0586049118", "0760704406", "0060135891", "0060135689", "0425033198", "1883319463", "0879753382", "1573922137", "0441015719", "B000PRMOWK", "0352300604", "B000K5Q2AW"], "cover_image": "/book-covers/0285621297.jpg", "cover_source": "local-cache", "primary_isbn": "0285621297"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Duncan Lunan]({{ '/ufo-history/ufo-personalities/lunan-duncan' | relative_url }})'s book “[Man and the Stars]({{ '/ufo-history/ufo-books/lunan-duncan-man-and-the-stars' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0285621297/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0285621297/?&tag=ufot-21))

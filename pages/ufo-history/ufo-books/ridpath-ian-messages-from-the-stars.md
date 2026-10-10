@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0060135891", "0963916122", "1841196134", "0451204247"], "cover_image": "/book-covers/0060135891.jpg", "cover_source": "local-cache", "primary_isbn": "0060135891"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Ian Ridpath]({{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }})'s book “[Messages from the Stars]({{ '/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars' | relative_url }})” ([1978]({{ '/tags/1978' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0060135891/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0060135891/?&tag=ufot-21))

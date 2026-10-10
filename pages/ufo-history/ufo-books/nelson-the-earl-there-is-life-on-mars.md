@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0000CJAG0", "075241450X"], "cover_image": "/book-covers/075241450X.jpg", "cover_source": "local-cache", "primary_isbn": "075241450X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[There is Life on Mars]({{ '/ufo-history/ufo-books/nelson-the-earl-there-is-life-on-mars' | relative_url }})” ([1955]({{ '/tags/1955' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CJAG0/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CJAG0/?&tag=ufot-21)) by Nelson (The Earl).

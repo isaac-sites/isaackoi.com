@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1575440660"], "cover_image": "/book-covers/1575440660.jpg", "cover_source": "local-cache", "primary_isbn": "1575440660"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Saucer Attack!: Pop Culture in the Golden Age of Flying Saucers]({{ '/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1575440660/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1575440660/?&tag=ufot-21)) by Eric Nesheim and Leif Nesheim.

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0521343267", "0451204247", "048640675X", "1841196134"], "cover_image": "/book-covers/0521343267.jpg", "cover_source": "local-cache", "primary_isbn": "0521343267"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Steven J Dick]({{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }})'s book “[The Biological Universe]({{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0521343267/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0521343267/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0870739409"], "primary_isbn": "0870739409", "cover_image": "https://covers.openlibrary.org/b/isbn/0870739409-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Billig, Otto “[Flying Saucers: Magic in the Skies]({{ '/ufo-history/ufo-books/billig-otto-flying-saucers-magic-in-the-skies' | relative_url }})” ([1982]({{ '/tags/1982' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0870739409/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0870739409/?&tag=ufot-21))

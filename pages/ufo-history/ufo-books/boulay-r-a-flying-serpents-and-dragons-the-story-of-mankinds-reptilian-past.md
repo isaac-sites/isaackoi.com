@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1885395388", "156718779X", "3931652319", "1893302563"], "cover_image": "/book-covers/1885395388.jpg", "cover_source": "local-cache", "primary_isbn": "1885395388"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of R A Boulay's book “[Flying Serpents and Dragons: The Story of Mankind’s Reptilian Past]({{ '/ufo-history/ufo-books/boulay-r-a-flying-serpents-and-dragons-the-story-of-mankinds-reptilian-past' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1885395388/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1885395388/?&tag=ufot-21))

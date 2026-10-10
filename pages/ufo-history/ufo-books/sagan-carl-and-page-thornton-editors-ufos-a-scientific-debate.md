@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0393007391", "0963916122", "0345339517", "0871318563", "0806981326", "0631135634", "0749914114", "0815970005", "051757165X", "0809463245", "0399119353"], "cover_image": "/book-covers/0393007391.jpg", "cover_source": "local-cache", "primary_isbn": "0393007391"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFO's: A Scientific Debate]({{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0393007391/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0393007391/?&tag=ufot-21)) edited by [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}) and [Thornton Page]({{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}).

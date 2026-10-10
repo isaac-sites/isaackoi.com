@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B00005X52F", "0963916122", "075241450X", "0815970005", "B0006VZSJ6"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0963916122"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Walter Sullivan]({{ '/ufo-history/ufo-personalities/sullivan-walter' | relative_url }})'s book “[We Are Not Alone]({{ '/ufo-history/ufo-books/sullivan-walter-we-are-not-alone' | relative_url }})” ([1964]({{ '/tags/1964' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B00005X52F/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B00005X52F/?&tag=ufot-21))

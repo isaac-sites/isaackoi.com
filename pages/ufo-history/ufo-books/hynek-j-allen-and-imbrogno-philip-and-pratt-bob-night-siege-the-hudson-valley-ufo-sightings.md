@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1567183611", "0449218252", "0743466748", "0671662600", "0713725184", "0780800974", "1558883010", "0713722096", "0738836125", "0451204247", "1841196134", "0312959354", "0340708220", "0713727330", "B000NLQNZC", "0709059744", "0806918918", "1567312004", "0786883960", "0738701068"], "cover_image": "/book-covers/1567183611.jpg", "cover_source": "local-cache", "primary_isbn": "1567183611"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Night Siege: The Hudson Valley UFO Sightings]({{ '/ufo-history/ufo-books/hynek-j-allen-and-imbrogno-philip-and-pratt-bob-night-siege-the-hudson-valley-ufo-sightings' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1567183611/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1567183611/?&tag=ufot-21)) by [J Allen Hynek]({{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}) and [Philip Imbrogno]({{ '/ufo-history/ufo-personalities/imbrogno-philip' | relative_url }}) and Bob Pratt.

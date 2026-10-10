@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0440236134", "1571743170", "0963916122", "1573929913", "0380798530"], "cover_image": "/book-covers/0440236134.jpg", "cover_source": "local-cache", "primary_isbn": "0440236134"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Kal K Korff]({{ '/ufo-history/ufo-personalities/korff-kal-k' | relative_url }})'s book “[The Roswell UFO Crash: What They Don’t Want You to Know]({{ '/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0440236134/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0440236134/?&tag=ufot-21))

@@ -12,6 +12,7 @@ header: {"preview_image": null}
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-05-22 10:33:50 +0000
 ---
 
 I am a barrister in England with an interest in various issues relating to "UFOs". I write under a pseudonym because some clients and colleagues would probably roll on the floor with laughter at the thought of my spending time on these topics, even though my focus of my interest is actually on various sociological and psychological issues relating to UFOs and ufology.

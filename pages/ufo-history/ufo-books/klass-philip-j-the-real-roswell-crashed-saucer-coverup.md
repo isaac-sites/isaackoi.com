@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1573921645", "0380798530"], "cover_image": "/book-covers/1573921645.jpg", "cover_source": "local-cache", "primary_isbn": "1573921645"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of "[The Real Roswell Crashed-Saucer Coverup]({{ '/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1573921645/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1573921645/?&tag=ufot-21)) by [Philip J Klass]({{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}).

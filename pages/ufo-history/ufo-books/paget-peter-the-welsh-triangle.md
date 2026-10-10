@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0586049118", "1905646003", "B000S2L0EK", "0856136689", "074810142X", "0312965214"], "cover_image": "/book-covers/0856136689.jpg", "cover_source": "local-cache", "primary_isbn": "0586049118"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Paget, Peter]({{ '/ufo-history/ufo-personalities/paget-peter' | relative_url }})'s book “[The Welsh Triangle]({{ '/ufo-history/ufo-books/paget-peter-the-welsh-triangle' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0586049118/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0586049118/?&tag=ufot-21))

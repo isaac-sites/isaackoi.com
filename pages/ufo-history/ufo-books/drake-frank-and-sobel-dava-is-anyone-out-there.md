@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["038530532X", "0963916122", "1841196134", "0451204247", "1601630115"], "cover_image": "/book-covers/038530532X.jpg", "cover_source": "local-cache", "primary_isbn": "038530532X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Frank Drake]({{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}) and Dava Sobel's book “[Is Anyone Out There?]({{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/038530532X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/038530532X/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000OO1DYY"], "cover_image": "/assets/images/book-cover-placeholder.svg", "cover_source": "placeholder"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Flying Saucer Reader]({{ '/ufo-history/ufo-books/david-jay-the-flying-saucer-reader' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000OO1DYY/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000OO1DYY/?&tag=ufot-21)) edited by [Jay David]({{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}).

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B00005VXTC", "0815970005"], "cover_image": "/book-covers/0815970005.jpg", "cover_source": "local-cache", "primary_isbn": "0815970005"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Brinsley Le Poer Trench]({{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }})'s book “[The Flying Saucer Story]({{ '/ufo-history/ufo-books/trench-brinsley-le-poer-the-flying-saucer-story' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B00005VXTC/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B00005VXTC/?&tag=ufot-21))
