@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1570714274"], "cover_image": "/book-covers/1570714274.jpg", "cover_source": "local-cache", "primary_isbn": "1570714274"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Richard Haines]({{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }})'s book “[CE-5: Close Encounters of the Fifth Kind]({{ '/ufo-history/ufo-books/haines-richard-ce-5-close-encounters-of-the-fifth-kind' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1570714274/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1570714274/?&tag=ufot-21))

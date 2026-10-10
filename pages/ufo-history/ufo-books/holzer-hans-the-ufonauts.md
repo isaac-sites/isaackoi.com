@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0449135691", "0963916122"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0449135691"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Hans Holzer's book “[The UFOnauts]({{ '/ufo-history/ufo-books/holzer-hans-the-ufonauts' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0449135691/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0449135691/?&tag=ufot-21))

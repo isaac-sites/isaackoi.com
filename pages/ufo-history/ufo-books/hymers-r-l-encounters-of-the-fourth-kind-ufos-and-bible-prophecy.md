@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B00071GWAY", "075251217X"], "cover_image": "/book-covers/075251217X.jpg", "cover_source": "local-cache", "primary_isbn": "075251217X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Encounters of the Fourth Kind: UFOs and Bible Prophecy]({{ '/ufo-history/ufo-books/hymers-r-l-encounters-of-the-fourth-kind-ufos-and-bible-prophecy' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B00071GWAY/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B00071GWAY/?&tag=ufot-21)) by R L Hymers.

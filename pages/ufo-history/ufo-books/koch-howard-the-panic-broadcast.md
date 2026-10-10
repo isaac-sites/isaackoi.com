@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0316500607"], "primary_isbn": "0316500607", "cover_image": "https://covers.openlibrary.org/b/isbn/0316500607-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Howard Koch's “[The Panic Broadcast]({{ '/ufo-history/ufo-books/koch-howard-the-panic-broadcast' | relative_url }})” ([1940]({{ '/tags/1940' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0316500607/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0316500607/?&tag=ufot-21))

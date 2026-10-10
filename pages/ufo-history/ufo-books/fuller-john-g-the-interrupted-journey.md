@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0285624504", "0963916122", "0671748572", "0253190061", "0879755091", "1573922447", "1560983434", "0631135634", "0709032765", "1852839244", "B000ILEK2A", "0345345258"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0285624504"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Fuller, John G]({{ '/ufo-history/ufo-personalities/fuller-john-g' | relative_url }})'s book “[The Interrupted Journey]({{ '/ufo-history/ufo-books/fuller-john-g-the-interrupted-journey' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0285624504/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0285624504/?&tag=ufot-21))

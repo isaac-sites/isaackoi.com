@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000NVY6YW", "0963916122"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0963916122"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Cultures beyond the Earth: The Role of Anthropology in Outer Space]({{ '/ufo-history/ufo-books/maruyama-magoroh-and-harkins-arthur-editors-cultures-beyond-the-earth-the-role-of-anthropology-in-outer-space' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000NVY6YW/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000NVY6YW/?&tag=ufot-21)) edited by Magoroh Maruyama and Arthur Harkins.

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0486203948", "0471395366", "0520224329", "0451204247", "1841196134", "0963916122", "0813322006", "0345409469", "0805077081", "0195143264"], "cover_image": "/book-covers/0486203948.jpg", "cover_source": "local-cache", "primary_isbn": "0486203948"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Martin Gardner]({{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }})'s book “[Fads and Fallacies in the Name of Science]({{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }})” ([1957]({{ '/tags/1957' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0486203948/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0486203948/?&tag=ufot-21)). (Enlarged Revision of “In the Name of Science” ([1952]({{ '/tags/1952' | relative_url }}).0000))

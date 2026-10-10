@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0806522992"], "cover_image": "/book-covers/0806522992.jpg", "cover_source": "local-cache", "primary_isbn": "0806522992"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Jerome Clark]({{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}) 's book “[Strange Skies: Pilot Encounters with UFOs]({{ '/ufo-history/ufo-books/clark-jerome-strange-skies-pilot-encounters-with-ufos' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0806522992/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0806522992/?&tag=ufot-21))

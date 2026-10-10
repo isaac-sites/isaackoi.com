@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["033039021X"], "cover_image": "/book-covers/033039021X.jpg", "cover_source": "local-cache", "primary_isbn": "033039021X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Georgina Bruni]({{ '/ufo-history/ufo-personalities/bruni-georgina' | relative_url }})'s book “[You Can’t Tell the People]({{ '/ufo-history/ufo-books/bruni-georgina-you-cant-tell-the-people' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/033039021X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/033039021X/?&tag=ufot-21))

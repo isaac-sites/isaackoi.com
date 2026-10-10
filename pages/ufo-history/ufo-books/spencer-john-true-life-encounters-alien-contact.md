@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1575000237"], "cover_image": "/book-covers/1575000237.jpg", "cover_source": "local-cache", "primary_isbn": "1575000237"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[True Life Encounters – Alien Contact]({{ '/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1575000237/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1575000237/?&tag=ufot-21)) by [John Spencer]({{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}) and Anne Spencer.

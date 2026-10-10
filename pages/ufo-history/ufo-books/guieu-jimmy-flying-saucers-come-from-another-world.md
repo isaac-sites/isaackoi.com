@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0000CJCUL", "0815608586"], "cover_image": "/book-covers/0815608586.jpg", "cover_source": "local-cache", "primary_isbn": "0815608586"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Jimmy Guieu]({{ '/ufo-history/ufo-personalities/guieu-jimmy' | relative_url }})'s book “[Flying Saucers Come From Another World]({{ '/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world' | relative_url }})” ([1956]({{ '/tags/1956' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CJCUL/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CJCUL/?&tag=ufot-21))

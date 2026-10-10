@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000BPJJGA", "1558887423", "0963916122", "1881532119", "0684836300", "1573929913", "1575440660", "0679456511", "1560983434", "0312965214", "0743497538", "0743469763", "0879753382", "1573922137", "B0007DK7US"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "1558887423"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Gray Barker]({{ '/ufo-history/ufo-personalities/barker-gray' | relative_url }})'s book “[They Knew Too Much About Flying Saucers]({{ '/ufo-history/ufo-books/barker-gray-they-knew-too-much-about-flying-saucers' | relative_url }})” ([1956]({{ '/tags/1956' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000BPJJGA/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000BPJJGA/?&tag=ufot-21)).

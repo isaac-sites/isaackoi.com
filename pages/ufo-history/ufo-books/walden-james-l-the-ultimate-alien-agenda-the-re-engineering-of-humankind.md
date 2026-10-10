@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["156718779X", "0967773709"], "cover_image": "/book-covers/156718779X.jpg", "cover_source": "local-cache", "primary_isbn": "156718779X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of James L Walden's book “[The Ultimate Alien Agenda: The Re-Engineering of Humankind]({{ '/ufo-history/ufo-books/walden-james-l-the-ultimate-alien-agenda-the-re-engineering-of-humankind' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/156718779X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/156718779X/?&tag=ufot-21))

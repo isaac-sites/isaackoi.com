@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0394410459", "0471395366", "0805057668"], "cover_image": "/book-covers/0394410459.jpg", "cover_source": "local-cache", "primary_isbn": "0394410459"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[The Dragons of Eden]({{ '/ufo-history/ufo-books/sagan-carl-the-dragons-of-eden' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0394410459/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0394410459/?&tag=ufot-21))

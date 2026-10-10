@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0882293346", "1575000229", "0713725184", "1558887423", "0709040865", "0816038007", "0380706547", "B000S2L0EK", "0713722096", "0855001232", "0713723629", "0451204247", "1841196134", "0963916122", "0943358329", "0780800974", "0312193475"], "cover_image": "/book-covers/0882293346.jpg", "cover_source": "local-cache", "primary_isbn": "0882293346"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Space-Time Transients and Unusual Events]({{ '/ufo-history/ufo-books/persinger-michael-and-lafreniere-gyslaine-space-time-transients-and-unusual-events' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0882293346/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0882293346/?&tag=ufot-21)) by [Michael Persinger]({{ '/ufo-history/ufo-personalities/persinger-michael' | relative_url }}) and Lafreniere, Gyslaine

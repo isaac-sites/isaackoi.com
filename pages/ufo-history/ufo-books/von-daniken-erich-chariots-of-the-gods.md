@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0425166805", "0963916122"], "cover_image": "/book-covers/0425166805.jpg", "cover_source": "local-cache", "primary_isbn": "0425166805"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Erich Von Daniken]({{ '/ufo-history/ufo-personalities/von-daniken-erich' | relative_url }})'s book “[Chariots of the Gods?]({{ '/ufo-history/ufo-books/von-daniken-erich-chariots-of-the-gods' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0425166805/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0425166805/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0285621262", "B000OVBWKC", "B000S52VNG"], "primary_isbn": "0285621262", "cover_image": "https://covers.openlibrary.org/b/isbn/0285621262-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[UFO's from behind the iron curtain]({{ '/ufo-history/ufo-books/hobana-ion-and-weverbergh-julien-ufos-from-behind-the-iron-curtain' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0285621262/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0285621262/?&tag=ufot-21)) by Ion Hobana and Julien Weverbergh.

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0960855866", "1558887423"], "primary_isbn": "0960855866", "cover_image": "https://covers.openlibrary.org/b/isbn/0960855866-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Charles Hickson]({{ '/ufo-history/ufo-personalities/hickson-charles' | relative_url }}) and William Mendez “[UFO Contact at Pascagoula]({{ '/ufo-history/ufo-books/hickson-and-mendez-ufo-contact-at-pascagoula' | relative_url }})” ([1983]({{ '/tags/1983' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0960855866/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0960855866/?&tag=ufot-21))

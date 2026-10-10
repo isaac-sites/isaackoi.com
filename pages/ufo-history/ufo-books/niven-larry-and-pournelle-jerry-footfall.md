@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0345323440", "0688144861", "0760704406"], "cover_image": "/book-covers/0345323440.jpg", "cover_source": "local-cache", "primary_isbn": "0345323440"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of the novel “[Footfall]({{ '/ufo-history/ufo-books/niven-larry-and-pournelle-jerry-footfall' | relative_url }})” ([1985]({{ '/tags/1985' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345323440/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345323440/?&tag=ufot-21)) by Larry Niven and Jerry Pournelle.

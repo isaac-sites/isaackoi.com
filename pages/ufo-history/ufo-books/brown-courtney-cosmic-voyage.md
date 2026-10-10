@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0451190262", "1576072495", "0963916122", "1564149609", "0330375482", "1893302563", "0440614058", "0312875150", "0929915216"], "cover_image": "/book-covers/0451190262.jpg", "cover_source": "local-cache", "primary_isbn": "0451190262"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Courtney Brown]({{ '/ufo-history/ufo-personalities/brown-courtney' | relative_url }})'s book “[Cosmic Voyage]({{ '/ufo-history/ufo-books/brown-courtney-cosmic-voyage' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0451190262/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0451190262/?&tag=ufot-21))

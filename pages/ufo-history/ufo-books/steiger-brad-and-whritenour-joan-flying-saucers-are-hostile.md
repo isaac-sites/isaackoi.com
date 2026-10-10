@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0000CO47Z", "0896960404", "0762101083", "074810142X"], "cover_image": "/book-covers/0762101083.jpg", "cover_source": "local-cache", "primary_isbn": "0896960404"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Flying Saucers are Hostile]({{ '/ufo-history/ufo-books/steiger-brad-and-whritenour-joan-flying-saucers-are-hostile' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0000CO47Z/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0000CO47Z/?&tag=ufot-21)) by [Brad Steiger]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) and Joan Whritenour.

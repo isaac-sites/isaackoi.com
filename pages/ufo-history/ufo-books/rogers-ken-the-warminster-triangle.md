@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0953175332"], "primary_isbn": "0953175332", "cover_image": "https://covers.openlibrary.org/b/isbn/0953175332-L.jpg?default=false", "cover_source": "openlibrary"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Warminster Triangle]({{ '/ufo-history/ufo-books/rogers-ken-the-warminster-triangle' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0953175332/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0953175332/?&tag=ufot-21)) by Ken Rogers.

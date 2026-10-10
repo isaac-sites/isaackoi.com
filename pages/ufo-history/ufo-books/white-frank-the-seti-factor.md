@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0802711057", "0963916122"], "cover_image": "/book-covers/0802711057.jpg", "cover_source": "local-cache", "primary_isbn": "0802711057"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Frank White's book “[The SETI Factor]({{ '/ufo-history/ufo-books/white-frank-the-seti-factor' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0802711057/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0802711057/?&tag=ufot-21))

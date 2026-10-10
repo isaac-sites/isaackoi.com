@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0875990770", "0859780295", "B000NPYTFO", "0722122780", "0929686004", "0964491702", "1558887415", "0780800974", "095080245X", "B000EZY1RO", "0929398947", "1883729025", "0855001232", "0345241894", "0374133247", "0451204247", "1841196134", "0963916122", "1880090627", "0393063364", "0896960404", "085435073X", "0962653462", "B000JC0BXA", "0815608586", "B0007EF5K4", "B000BD1A2I", "B00117X9ZO", "1870021029", "0393007391", "0815970005", "0722176945", "0345345258", "B0000CMVM6", "0426134508", "034527086X", "0451157060", "0451064240"], "cover_image": "/book-covers/0859780295.jpg", "cover_source": "local-cache", "primary_isbn": "0875990770"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Aime Michel]({{ '/ufo-history/ufo-personalities/michel-aime' | relative_url }})'s book “[Flying Saucers and the Straight Line Mystery]({{ '/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery' | relative_url }})” ([1958]({{ '/tags/1958' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0875990770/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0875990770/?&tag=ufot-21)). Discusses “orthoteny”.

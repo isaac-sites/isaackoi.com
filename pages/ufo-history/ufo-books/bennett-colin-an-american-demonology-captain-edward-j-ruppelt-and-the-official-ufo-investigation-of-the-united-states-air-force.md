@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1900486466"], "cover_image": "/book-covers/1900486466.jpg", "cover_source": "local-cache", "primary_isbn": "1900486466"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Colin Bennett]({{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }})'s book “[An American Demonology: Captain Edward J Ruppelt and the official UFO investigation of the United States Air Force]({{ '/ufo-history/ufo-books/bennett-colin-an-american-demonology-captain-edward-j-ruppelt-and-the-official-ufo-investigation-of-the-united-states-air-force' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1900486466/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1900486466/?&tag=ufot-21))

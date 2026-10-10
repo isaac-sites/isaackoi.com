@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1569247455", "0780800974", "0451204247", "1841196134", "0963916122", "0815970005"], "cover_image": "/book-covers/1569247455.jpg", "cover_source": "local-cache", "primary_isbn": "1569247455"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Barry Downing]({{ '/ufo-history/ufo-personalities/downing-barry' | relative_url }})'s book “[The Bible and Flying Saucers]({{ '/ufo-history/ufo-books/downing-barry-the-bible-and-flying-saucers' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1569247455/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1569247455/?&tag=ufot-21))

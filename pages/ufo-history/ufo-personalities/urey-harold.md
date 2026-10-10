@@ -14,6 +14,7 @@ header: {"preview_image": "/images/stories/ufo_personalities/urey_harold_3.GIF"}
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 ![urey_harold_3]({{ '/images/stories/ufo_personalities/urey_harold_3.GIF' | relative_url }})

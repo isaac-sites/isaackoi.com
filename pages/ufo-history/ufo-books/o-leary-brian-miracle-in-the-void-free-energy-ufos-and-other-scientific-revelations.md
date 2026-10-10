@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1893157199", "1583940545", "0060186429", "1578210615", "0880642262"], "cover_image": "/book-covers/1583940545.jpg", "cover_source": "local-cache", "primary_isbn": "1893157199"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations]({{ '/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1893157199/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1893157199/?&tag=ufot-21)) by [O’ Brian Leary]({{ '/ufo-history/ufo-personalities/o-leary-brian' | relative_url }}).

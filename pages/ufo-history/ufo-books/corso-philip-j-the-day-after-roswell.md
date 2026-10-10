@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["067101756X", "0312262256", "1852277343", "1931044325", "0743466748", "0773759735", "1858600391", "0789207087", "0801484685", "0762101083", "0963916122", "0451204247", "1841196134", "0762406194", "0712678123", "0099406020", "028307034X", "0967323819", "1880090627", "0738836125", "1425994024", "0340708220", "0440236134", "0871318563", "1573929913", "B000N6K1SW", "1573928941", "184358073X", "0684857391", "0380798530", "0743497538", "1565078497", "1893302563", "1891824376", "0965377431", "074348293X", "0880642262", "0312193475"], "cover_image": "/book-covers/067101756X.jpg", "cover_source": "local-cache", "primary_isbn": "067101756X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Philip J Corso]({{ '/ufo-history/ufo-personalities/corso-philip-j' | relative_url }}) with [William Birnes]({{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }})'s book “[The Day After Roswell]({{ '/ufo-history/ufo-books/corso-philip-j-the-day-after-roswell' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/067101756X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/067101756X/?&tag=ufot-21))

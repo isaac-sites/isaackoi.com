@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0393950220", "071371963X", "0747212465", "1850585768", "0449900207", "0874514223", "0505513048", "0890092486", "B000Q9VTPU", "0395178096", "0816511195", "081293248X", "0465004180", "0099257610", "0521620120", "0521343267", "038530532X", "B00005VSKC", "0385112572", "0900727322", "0963916122", "0201569493", "0306456214", "1583940545", "0195128524", "0415243424", "0553107224", "0285621297", "0596000375", "0385035969", "B000NS7YOY", "0760704406", "0060135891", "0060135689", "1567312004", "0425033198", "0935702083", "189280302X", "1852839244", "0352300604", "0451204247", "1841196134", "B00005X52F", "0521262275", "074348293X", "0387955011"], "cover_image": "/book-covers/071371963X.jpg", "cover_source": "local-cache", "primary_isbn": "0393950220"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Bracewell, Ronald]({{ '/ufo-history/ufo-personalities/bracewell-ronald' | relative_url }})'s book “[The Galactic Club]({{ '/ufo-history/ufo-books/bracewell-ronald-the-galactic-club' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0393950220/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0393950220/?&tag=ufot-21))

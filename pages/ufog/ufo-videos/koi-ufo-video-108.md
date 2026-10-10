@@ -14,6 +14,7 @@ header: {"preview_image": "/images/stories/ufo_videos/video108_1.JPG"}
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-05-22 10:33:50 +0000
 ---
 
 # Koi UFO Video 108: Alien on Moon ("Bean", mock advert)

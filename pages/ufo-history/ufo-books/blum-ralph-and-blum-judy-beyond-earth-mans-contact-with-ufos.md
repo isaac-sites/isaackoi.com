@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B000H3RDQY", "0963916122", "0960855866"], "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache", "primary_isbn": "0963916122"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Blum, Ralph and Blum, Judy “[Beyond Earth: Man’s Contact with UFOs]({{ '/ufo-history/ufo-books/blum-ralph-and-blum-judy-beyond-earth-mans-contact-with-ufos' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B000H3RDQY/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B000H3RDQY/?&tag=ufot-21))

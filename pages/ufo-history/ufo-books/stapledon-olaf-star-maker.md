@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1604595809", "0805204504", "0575055960", "081293248X", "0521620120", "0521343267", "075241450X", "0896960404", "0471846848", "0760704406", "1585420360"], "cover_image": "/book-covers/081293248X.jpg", "cover_source": "local-cache", "primary_isbn": "1604595809"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Olaf Stapledon]({{ '/ufo-history/ufo-personalities/stapledon-olaf' | relative_url }})'s novel “[Star Maker]({{ '/ufo-history/ufo-books/stapledon-olaf-star-maker' | relative_url }})” ([1937]({{ '/tags/1937' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1604595809/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1604595809/?&tag=ufot-21))

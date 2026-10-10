@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0859780295", "0631135634"], "cover_image": "/book-covers/0859780295.jpg", "cover_source": "local-cache", "primary_isbn": "0859780295"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Jean-Claude Bourret's book “[The Crack in the Universe]({{ '/ufo-history/ufo-books/bourret-jean-claude-the-crack-in-the-universe' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0859780295/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0859780295/?&tag=ufot-21))

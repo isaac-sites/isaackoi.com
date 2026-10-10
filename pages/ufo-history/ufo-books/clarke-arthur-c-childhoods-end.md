@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0345347951", "0805204504", "0801002265", "0874514223", "0894805002", "0743233433", "0091879272", "0688088643", "0312962878", "0521620120", "0521343267", "0926524283", "0801497272", "0738208906", "1880090163", "B000K03IOA", "0451204247", "1841196134", "0760704406", "1883319617", "0854351345"], "cover_image": "/book-covers/0345347951.jpg", "cover_source": "local-cache", "primary_isbn": "0345347951"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Arthur C Clarke]({{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }})'s book “[Childhood’s End]({{ '/ufo-history/ufo-books/clarke-arthur-c-childhoods-end' | relative_url }})” ([1953]({{ '/tags/1953' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0345347951/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0345347951/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0722153317", "1852277343", "1573922005", "0571220819", "0713725184", "1558887423", "0780800974", "B000GGZYWC", "0816038007", "0791423301", "0762101083", "0850305977", "0449135691", "0962653462", "1880090163", "0971394237", "0340758333", "0722176945", "0451157060", "0451064240", "0880642262"], "cover_image": "/book-covers/1852277343.jpg", "cover_source": "local-cache", "primary_isbn": "0722153317"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[My Contact With UFOs]({{ '/ufo-history/ufo-books/kraspedon-dino-whose-real-name-was-aladino-felix-my-contact-with-ufos-formerly-my-contact-with-flying-saucers' | relative_url }})” ([1959]({{ '/tags/1959' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0722153317/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0722153317/?&tag=ufot-21)) by [Dino Kraspedon]({{ '/ufo-history/ufo-personalities/kraspedon-dino' | relative_url }}) (whose real name was Aladino Felix).

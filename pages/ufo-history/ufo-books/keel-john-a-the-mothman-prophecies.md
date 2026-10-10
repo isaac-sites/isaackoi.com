@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0765341972", "1852277343", "0451204247", "1841196134", "1576072495", "1558887423", "0880294426", "0397317808", "0312962878", "B0006BS25S", "1881532119", "0940829029", "0340758333", "0709050259", "0312965214", "1883319463", "1883319617", "B000HZF026", "0140179534", "0879753382", "1573922137", "0786883960", "0380768879", "0738701068", "0806905719"], "cover_image": "/book-covers/0765341972.jpg", "cover_source": "local-cache", "primary_isbn": "0765341972"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [John A Keel]({{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }})'s book “[The Mothman Prophecies]({{ '/ufo-history/ufo-books/keel-john-a-the-mothman-prophecies' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0765341972/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0765341972/?&tag=ufot-21)).

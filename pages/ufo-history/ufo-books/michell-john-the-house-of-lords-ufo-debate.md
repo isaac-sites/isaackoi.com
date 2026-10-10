@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0950677205", "1575000237", "0631135634"], "cover_image": "/book-covers/0950677205.jpg", "cover_source": "local-cache", "primary_isbn": "0950677205"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [John Michell]({{ '/ufo-history/ufo-personalities/michell-john' | relative_url }})'s book “[The House of Lords UFO Debate]({{ '/ufo-history/ufo-books/michell-john-the-house-of-lords-ufo-debate' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0950677205/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0950677205/?&tag=ufot-21))

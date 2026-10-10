@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1891824775", "1852277343", "0571220819", "0713725184", "0753704250", "0753700875", "1563841487", "1576072495", "0780800974", "0816038007", "0762101083", "0850305977", "0850303508", "079740533X", "0340758333", "0879518782", "0806918918", "0399124217", "1891824376", "B0006WT710", "1575000237", "0863698212", "0380768879", "B000S52VNG", "0934269009"], "cover_image": "/book-covers/1852277343.jpg", "cover_source": "local-cache", "primary_isbn": "1891824775"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Elizabeth Klarer]({{ '/ufo-history/ufo-personalities/klarer-elizabeth' | relative_url }})'s book “[Beyond the Light Barrier]({{ '/ufo-history/ufo-books/klarer-elizabeth-beyond-the-light-barrier' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1891824775/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1891824775/?&tag=ufot-21))

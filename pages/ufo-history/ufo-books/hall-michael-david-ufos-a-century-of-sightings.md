@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1880090627"], "cover_image": "/book-covers/1880090627.jpg", "cover_source": "local-cache", "primary_isbn": "1880090627"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Hall, Michael David]({{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }})'s book “[UFOs: A Century of Sightings]({{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1880090627/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1880090627/?&tag=ufot-21))

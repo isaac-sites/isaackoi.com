@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["051757165X"], "cover_image": "/book-covers/051757165X.jpg", "cover_source": "local-cache", "primary_isbn": "051757165X"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Fringes of Reason]({{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/051757165X/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/051757165X/?&tag=ufot-21)) edited by Ted Schultz.

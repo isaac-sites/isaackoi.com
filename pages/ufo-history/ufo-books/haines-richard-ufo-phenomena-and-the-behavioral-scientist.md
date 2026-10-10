@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0810812282", "0631135634", "0850303508"], "cover_image": "/book-covers/0810812282.jpg", "cover_source": "local-cache", "primary_isbn": "0810812282"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Richard Haines]({{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }})' book “[UFO Phenomena and the Behavioral Scientist]({{ '/ufo-history/ufo-books/haines-richard-ufo-phenomena-and-the-behavioral-scientist' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0810812282/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0810812282/?&tag=ufot-21))

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0060176539", "0963916122", "1841196134", "0451204247"], "cover_image": "/book-covers/0060176539.jpg", "cover_source": "local-cache", "primary_isbn": "0060176539"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Whitley Strieber]({{ '/ufo-history/ufo-personalities/strieber-whitley' | relative_url }})'s book “[Breakthrough]({{ '/ufo-history/ufo-books/strieber-whitley-breakthrough' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0060176539/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0060176539/?&tag=ufot-21))

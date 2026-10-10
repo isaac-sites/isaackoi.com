@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0285635832", "0451204247", "1841196134", "0963916122", "1880090163", "0971394237", "1575000237"], "cover_image": "/book-covers/0285635832.jpg", "cover_source": "local-cache", "primary_isbn": "0285635832"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[The Morning of the Magicians]({{ '/ufo-history/ufo-books/pauwels-louis-and-bergier-jacques-the-morning-of-the-magicians' | relative_url }})” ([1960]({{ '/tags/1960' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0285635832/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0285635832/?&tag=ufot-21)) by [Louis Pauwels]({{ '/ufo-history/ufo-personalities/pauwels-louis' | relative_url }}) and [Jacques Bergier]({{ '/ufo-history/ufo-personalities/bergier-jacques' | relative_url }})

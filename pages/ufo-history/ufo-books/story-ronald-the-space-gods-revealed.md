@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0060141417", "0874514223", "0890092486", "0451204247", "1841196134", "0963916122", "075241450X", "0449135691", "0440236134", "0760704406", "1575000237", "0312352166"], "cover_image": "/book-covers/0060141417.jpg", "cover_source": "local-cache", "primary_isbn": "0060141417"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Ronald Story]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }})'s book “[The Space Gods Revealed]({{ '/ufo-history/ufo-books/story-ronald-the-space-gods-revealed' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0060141417/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0060141417/?&tag=ufot-21))

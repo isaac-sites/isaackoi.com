@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["B0006BQ02U", "1558887423", "0451204247", "1841196134", "0963916122", "0253190061", "0879753226", "0713719729", "044821461X"], "cover_image": "/book-covers/0451204247.jpg", "cover_source": "local-cache", "primary_isbn": "1558887423"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of “[Flying Saucer Occupants]({{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-flying-saucer-occupants' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/B0006BQ02U/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/B0006BQ02U/?&tag=ufot-21)) by [Coral Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}) and [Jim Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}).

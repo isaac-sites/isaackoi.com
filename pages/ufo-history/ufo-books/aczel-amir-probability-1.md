@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0151003769", "074348293X", "0387955011"], "cover_image": "/book-covers/0151003769.jpg", "cover_source": "local-cache", "primary_isbn": "0151003769"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Amir Aczel's book “[Probability 1]({{ '/ufo-history/ufo-books/aczel-amir-probability-1' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0151003769/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0151003769/?&tag=ufot-21)) about [SETI]({{ '/tags/seti' | relative_url }}).

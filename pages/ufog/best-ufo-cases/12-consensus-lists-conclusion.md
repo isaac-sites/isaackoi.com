@@ -14,6 +14,7 @@ header: {"preview_image": null}
 status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
+last_modified_at: 2026-05-22 10:33:50 +0000
 ---
 
 In short,“consensus lists” of the best cases are a highly desirable commodity. It is therefore extremely disappointing (and perhaps surprising) to note that despite numerous challenges by skeptics to produce lists of the “best” cases:

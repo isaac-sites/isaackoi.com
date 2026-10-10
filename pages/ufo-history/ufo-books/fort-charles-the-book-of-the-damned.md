@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["1604591072", "0815608586", "1576072495", "1578590299", "1558887415", "0780800974", "0451204247", "1841196134", "0963916122", "1881532062"], "cover_image": "/book-covers/1604591072.jpg", "cover_source": "local-cache", "primary_isbn": "1604591072"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Charles Fort]({{ '/ufo-history/ufo-personalities/fort-charles' | relative_url }})'s book “[The Book of the Damned]({{ '/ufo-history/ufo-books/fort-charles-the-book-of-the-damned' | relative_url }})” ([1919]({{ '/tags/1919' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/1604591072/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/1604591072/?&tag=ufot-21)).

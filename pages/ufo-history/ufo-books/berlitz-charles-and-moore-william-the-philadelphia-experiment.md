@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0285629999", "0385111398", "0767906284", "1425994024", "0312533187"], "cover_image": "/book-covers/0285629999.jpg", "cover_source": "local-cache", "primary_isbn": "0285629999"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Berlitz, Charles]({{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}) and [Moore, Bill]({{ '/ufo-history/ufo-personalities/moore-bill' | relative_url }}) “[The Philadelphia Experiment]({{ '/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0285629999/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0285629999/?&tag=ufot-21)). Focuses on [The Philadelphia Experiment]({{ '/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment' | relative_url }}).

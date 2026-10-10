@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0967323827"], "cover_image": "/book-covers/0967323827.jpg", "cover_source": "local-cache", "primary_isbn": "0967323827"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Steven Greer]({{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }})'s book “[Hidden Truth – Forbidden Knowledge]({{ '/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge' | relative_url }})” ([2006]({{ '/tags/2006' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0967323827/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0967323827/?&tag=ufot-21)).

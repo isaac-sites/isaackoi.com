@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0679734465", "0312962878", "1855859491", "0850305977", "0747236038", "1425994024", "0451204247", "1841196134", "1416516778", "1883319617"], "cover_image": "/book-covers/0679734465.jpg", "cover_source": "local-cache", "primary_isbn": "0679734465"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of Philip K Dick's [novel]({{ '/tags/novel' | relative_url }}) "[VALIS]({{ '/ufo-history/ufo-books/dick-philip-k-valis' | relative_url }})" ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0679734465/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0679734465/?&tag=ufot-21)).

@@ -15,6 +15,7 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 book: {"identifiers": ["0879756446"], "cover_image": "/book-covers/0879756446.jpg", "cover_source": "local-cache", "primary_isbn": "0879756446"}
+last_modified_at: 2026-09-27 20:05:50 +0000
 ---
 
 Brief review to be added of [Martin Gardner]({{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }})'s book “[The New Age - Notes of a Fringe Watcher]({{ '/ufo-history/ufo-books/gardner-martin-the-new-age-notes-of-a-fringe-watcher' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](https://www.amazon.com/dp/0879756446/?&tag=ufot-20) and [on Amazon UK](https://www.amazon.co.uk/dp/0879756446/?&tag=ufot-21))
