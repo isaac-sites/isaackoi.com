@@ -63,6 +63,31 @@ exclude:
 defaults:
   -
     scope:
+      path: "mapview/openlayers-test.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "mapview/raw-tile-test.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "mapview/tile-test.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "search-archive/case/index.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "search-archive/document/index.html"
+    values:
+      sitemap: false
+  -
+    scope:
       path: ""
     values:
       layout: "default"
