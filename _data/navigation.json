@@ -13158,6 +13158,14 @@
     {
       "title": "Sitemap",
       "url": "/sitemap"
+    },
+    {
+      "title": "Research map",
+      "url": "/map-viewer"
+    },
+    {
+      "title": "Archive search",
+      "url": "/archive-search"
     }
   ],
   "top_sections": [

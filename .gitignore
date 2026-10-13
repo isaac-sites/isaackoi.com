@@ -6,3 +6,5 @@ _site/
 .bundle/
 vendor/bundle/
 tmp/
+*.pyc
+__pycache__/

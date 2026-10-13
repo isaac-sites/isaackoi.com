@@ -13,6 +13,8 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 last_modified_at: 2026-07-31 16:15:06 +0000
+sitemap: false
+noindex: true
 ---
 
 Please use the comments section at the bottom of this page to share any relevant book references or other useful resources.
