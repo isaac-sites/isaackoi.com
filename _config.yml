@@ -60,6 +60,13 @@ exclude:
   - "README.md"
   - "tmp"
   - "node_modules"
+  # Dev/test mapview artifacts: raw static files with no front matter, so
+  # jekyll-sitemap cannot reach them through front-matter values — the only
+  # cure that takes them out of the sitemap is keeping them out of the
+  # emitted tree entirely (isaackoi.com artifact-hygiene pin, 2026-10-13).
+  - "mapview/openlayers-test.html"
+  - "mapview/raw-tile-test.html"
+  - "mapview/tile-test.html"
 defaults:
   -
     scope:
