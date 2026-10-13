@@ -13,6 +13,11 @@ status: "published"
 source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
 confidence: 0.6
 last_modified_at: 2026-07-31 16:15:06 +0000
+# Dev/test artifact / Joomla-import thin stub: noindex and
+# de-sitemap (acf538c precedent; hub artifact-hygiene pin 2026-10-13).
+robots: "noindex, nofollow"
+sitemap: false
 ---
+
 
 Please use the comments section at the bottom of this page to share any relevant book references or other useful resources.

@@ -9,6 +9,7 @@
     "Isaac Koi Archive | Isaac Koi Archive").
   {% endcomment %}
   {% seo %}
+{% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
 {% unless page.image or page.header.og_image %}
 <meta property="og:image" content="{{ site.og_image_default | absolute_url }}">
 {% endunless %}
